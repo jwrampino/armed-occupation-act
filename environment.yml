@@ -1,0 +1,18 @@
+# environment.yml
+name: aoa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - numpy
+  - pillow
+  - pymupdf
+  - tesseract
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - pytesseract
+      - paddlepaddle
+      - paddleocr
+      - surya-ocr
