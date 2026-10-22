@@ -39,10 +39,16 @@
 ```
 armed-occupation-act/
 ├── data/                                           # Primary sources and extracted features
+│   ├── labins-detections/                           # Extracted features of GLO LABINS data
+│   ├── 004D07-2.pdf                                 # 1826 Plat for GLO LABINS CV pilot
+│   ├── SERIALSET-00507_00_00-009-0039-0000.pdf      # 1848 Abstract PDF
 │   ├── SERIALSET-00507_00_00-009-0039-0000.pdf      # 1848 Abstract PDF
 │   ├── SERIALSET-00507_00_00-009-0039-0000.txt      # 1848 Abstract TXT
 │   └── SERIALSET-00507_00_00-009-0039-0000.json     # 1848 Abstract JSON (~structured tables)
-├── ocr.ipynb                                       # OCR pipeline (HTR pipeline forthcoming)
+├── ocr.ipynb                                       # OCR pipeline pilot
+├── htr-letters.ipynb                               # HTR pipeline (forthcoming)
+├── htr-permits.ipynb                               # HTR pipeline (forthcoming)
+├── cv-labins.ipynb                                 # GLO LABINS CV pipeline pilot
 ├── environment.yml                                 # Conda stuff
 └── README.md                                       # You are here
 ```
