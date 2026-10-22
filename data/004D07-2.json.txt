@@ -1,0 +1,26 @@
+{
+  "doc_type": "survey plat",
+  "form_fields": {},
+  "description_text": "7 1/2\n\nT. 2 N. R. 7 E.\n\nH. B. Drake, 1826.\nNo variation given.",
+  "diagram": {
+    "units": null,
+    "edges": [],
+    "features": [
+      {"type": "township_grid", "description": "Township grid outline showing sections 1 through 12 indexed with notebook page reference numbers along exterior and interior section lines"},
+      {"type": "section", "number": 1},
+      {"type": "section", "number": 2},
+      {"type": "section", "number": 3},
+      {"type": "section", "number": 4},
+      {"type": "section", "number": 5},
+      {"type": "section", "number": 6},
+      {"type": "section", "number": 7},
+      {"type": "section", "number": 8},
+      {"type": "section", "number": 9},
+      {"type": "section", "number": 10},
+      {"type": "section", "number": 11},
+      {"type": "section", "number": 12}
+    ],
+    "north_arrow": false
+  },
+  "uncertain_fields": []
+}

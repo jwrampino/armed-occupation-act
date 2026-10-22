@@ -99,6 +99,7 @@ armed-occupation-act/
 | General Order 28 | 1842 | |
 | Amendment to the Armed Occupation Act | 1844 | |
 | Florida Statehood | 1845 | |
+| Mexican-American War | 1846-1848 | |
 | 1849 Seminole Raids ('Indian Scare of 1849') | 1849 | |
 | Census of 1850 | 1850 | |
 | Swamp Land Act | 1850 | |
