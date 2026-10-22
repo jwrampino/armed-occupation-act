@@ -1,0 +1,129 @@
+{
+  "data": {
+    "doc_type": "survey plat",
+    "header": [
+      {
+        "key": "Township",
+        "value": "2 N.",
+        "uncertain": false
+      },
+      {
+        "key": "Range",
+        "value": "7 E.",
+        "uncertain": true
+      },
+      {
+        "key": "Surveyor",
+        "value": "H. B. Drake",
+        "uncertain": false
+      },
+      {
+        "key": "Year",
+        "value": "1826",
+        "uncertain": false
+      },
+      {
+        "key": "Notes",
+        "value": "No variation given.",
+        "uncertain": false
+      },
+      {
+        "key": "Page number",
+        "value": "7 1/2",
+        "uncertain": false
+      }
+    ],
+    "points": [
+      {"id": "p_0_0", "x": 0.230, "y": 0.175},
+      {"id": "p_0_1", "x": 0.323, "y": 0.177},
+      {"id": "p_0_2", "x": 0.414, "y": 0.179},
+      {"id": "p_0_3", "x": 0.506, "y": 0.181},
+      {"id": "p_0_4", "x": 0.598, "y": 0.183},
+      {"id": "p_0_5", "x": 0.690, "y": 0.185},
+      {"id": "p_0_6", "x": 0.784, "y": 0.187},
+
+      {"id": "p_1_0", "x": 0.229, "y": 0.233},
+      {"id": "p_1_1", "x": 0.321, "y": 0.234},
+      {"id": "p_1_2", "x": 0.413, "y": 0.236},
+      {"id": "p_1_3", "x": 0.505, "y": 0.238},
+      {"id": "p_1_4", "x": 0.597, "y": 0.240},
+      {"id": "p_1_5", "x": 0.689, "y": 0.242},
+      {"id": "p_1_6", "x": 0.782, "y": 0.244},
+
+      {"id": "p_2_0", "x": 0.228, "y": 0.292},
+      {"id": "p_2_1", "x": 0.320, "y": 0.293},
+      {"id": "p_2_2", "x": 0.412, "y": 0.295},
+      {"id": "p_2_3", "x": 0.504, "y": 0.297},
+      {"id": "p_2_4", "x": 0.596, "y": 0.299},
+      {"id": "p_2_5", "x": 0.688, "y": 0.300},
+      {"id": "p_2_6", "x": 0.780, "y": 0.302},
+
+      {"id": "p_3_0", "x": 0.220, "y": 0.514},
+      {"id": "p_3_6", "x": 0.770, "y": 0.524}
+    ],
+    "segments": [
+      {"id": "s_n_6", "from": "p_0_0", "to": "p_0_1", "label": "60", "value": 60, "unit": "chains", "uncertain": false},
+      {"id": "s_n_5", "from": "p_0_1", "to": "p_0_2", "label": "61", "value": 61, "unit": "chains", "uncertain": false},
+      {"id": "s_n_4", "from": "p_0_2", "to": "p_0_3", "label": "61", "value": 61, "unit": "chains", "uncertain": false},
+      {"id": "s_n_3", "from": "p_0_3", "to": "p_0_4", "label": "61", "value": 61, "unit": "chains", "uncertain": false},
+      {"id": "s_n_2", "from": "p_0_4", "to": "p_0_5", "label": "61", "value": 61, "unit": "chains", "uncertain": false},
+      {"id": "s_n_1", "from": "p_0_5", "to": "p_0_6", "label": "62", "value": 62, "unit": "chains", "uncertain": false},
+
+      {"id": "s_w_6", "from": "p_0_0", "to": "p_1_0", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_v_6_5", "from": "p_0_1", "to": "p_1_1", "label": "63", "value": 63, "unit": "chains", "uncertain": false},
+      {"id": "s_v_5_4", "from": "p_0_2", "to": "p_1_2", "label": "63", "value": 63, "unit": "chains", "uncertain": false},
+      {"id": "s_v_4_3", "from": "p_0_3", "to": "p_1_3", "label": "64", "value": 64, "unit": "chains", "uncertain": false},
+      {"id": "s_v_3_2", "from": "p_0_4", "to": "p_1_4", "label": "64", "value": 64, "unit": "chains", "uncertain": false},
+      {"id": "s_v_2_1", "from": "p_0_5", "to": "p_1_5", "label": "64", "value": 64, "unit": "chains", "uncertain": false},
+      {"id": "s_e_1", "from": "p_0_6", "to": "p_1_6", "label": "60", "value": 60, "unit": "chains", "uncertain": false},
+
+      {"id": "s_m_6_7", "from": "p_1_0", "to": "p_1_1", "label": "65", "value": 65, "unit": "chains", "uncertain": false},
+      {"id": "s_m_5_8", "from": "p_1_1", "to": "p_1_2", "label": "65", "value": 65, "unit": "chains", "uncertain": false},
+      {"id": "s_m_4_9", "from": "p_1_2", "to": "p_1_3", "label": "65", "value": 65, "unit": "chains", "uncertain": false},
+      {"id": "s_m_3_10", "from": "p_1_3", "to": "p_1_4", "label": "65", "value": 65, "unit": "chains", "uncertain": false},
+      {"id": "s_m_2_11", "from": "p_1_4", "to": "p_1_5", "label": "65", "value": 65, "unit": "chains", "uncertain": false},
+      {"id": "s_m_1_12", "from": "p_1_5", "to": "p_1_6", "label": "66", "value": 66, "unit": "chains", "uncertain": false},
+
+      {"id": "s_w_7", "from": "p_1_0", "to": "p_2_0", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_v_7_8", "from": "p_1_1", "to": "p_2_1", "label": "63", "value": 63, "unit": "chains", "uncertain": false},
+      {"id": "s_v_8_9", "from": "p_1_2", "to": "p_2_2", "label": "62", "value": 62, "unit": "chains", "uncertain": false},
+      {"id": "s_v_9_10", "from": "p_1_3", "to": "p_2_3", "label": "63-4", "value": 63.4, "unit": "chains", "uncertain": true},
+      {"id": "s_v_10_11", "from": "p_1_4", "to": "p_2_4", "label": "64", "value": 64, "unit": "chains", "uncertain": false},
+      {"id": "s_v_11_12", "from": "p_1_5", "to": "p_2_5", "label": "64", "value": 64, "unit": "chains", "uncertain": false},
+      {"id": "s_e_12", "from": "p_1_6", "to": "p_2_6", "label": "60", "value": 60, "unit": "chains", "uncertain": false},
+
+      {"id": "s_s_7", "from": "p_2_0", "to": "p_2_1", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_s_8", "from": "p_2_1", "to": "p_2_2", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_s_9", "from": "p_2_2", "to": "p_2_3", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_s_10", "from": "p_2_3", "to": "p_2_4", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_s_11", "from": "p_2_4", "to": "p_2_5", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_s_12", "from": "p_2_5", "to": "p_2_6", "label": null, "value": null, "unit": null, "uncertain": false},
+
+      {"id": "s_w_township", "from": "p_2_0", "to": "p_3_0", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_e_township", "from": "p_2_6", "to": "p_3_6", "label": null, "value": null, "unit": null, "uncertain": false},
+      {"id": "s_s_township", "from": "p_3_0", "to": "p_3_6", "label": null, "value": null, "unit": null, "uncertain": false}
+    ],
+    "regions": [
+      {"label": "6", "bounded_by": ["s_n_6", "s_v_6_5", "s_m_6_7", "s_w_6"]},
+      {"label": "5", "bounded_by": ["s_n_5", "s_v_5_4", "s_m_5_8", "s_v_6_5"]},
+      {"label": "4", "bounded_by": ["s_n_4", "s_v_4_3", "s_m_4_9", "s_v_5_4"]},
+      {"label": "3", "bounded_by": ["s_n_3", "s_v_3_2", "s_m_3_10", "s_v_4_3"]},
+      {"label": "2", "bounded_by": ["s_n_2", "s_v_2_1", "s_m_2_11", "s_v_3_2"]},
+      {"label": "1", "bounded_by": ["s_n_1", "s_e_1", "s_m_1_12", "s_v_2_1"]},
+      {"label": "7", "bounded_by": ["s_m_6_7", "s_v_7_8", "s_s_7", "s_w_7"]},
+      {"label": "8", "bounded_by": ["s_m_5_8", "s_v_8_9", "s_s_8", "s_v_7_8"]},
+      {"label": "9", "bounded_by": ["s_m_4_9", "s_v_9_10", "s_s_9", "s_v_8_9"]},
+      {"label": "10", "bounded_by": ["s_m_3_10", "s_v_10_11", "s_s_10", "s_v_9_10"]},
+      {"label": "11", "bounded_by": ["s_m_2_11", "s_v_11_12", "s_s_11", "s_v_10_11"]},
+      {"label": "12", "bounded_by": ["s_m_1_12", "s_e_12", "s_s_12", "s_v_11_12"]}
+    ],
+    "annotations": [
+      {"text": "T. 2 N. R. 7 E.", "x": 0.485, "y": 0.119, "uncertain": true},
+      {"text": "H. B. Drake, 1826.", "x": 0.170, "y": 0.334, "uncertain": false},
+      {"text": "No variation given.", "x": 0.198, "y": 0.245, "uncertain": false},
+      {"text": "7 1/2", "x": 0.106, "y": 0.052, "uncertain": false}
+    ],
+    "uncertain": ["s_v_9_10"]
+  },
+  "diagram": "scale: ?\n                 T. 2 N.  R. 7 E.\n\n+---60---+---61---+---61---+---61---+---61---+---62---+\n|        |        |        |        |        |        |\n|   6   63   5   63   4   64   3   64   2   64   1   60\n|        |        |        |        |        |        |\n+---65---+---65---+---65---+---65---+---65---+---66---+\n|        |        |        |        |        |        |\n|   7   63   8   62   9  63-4 10   64  11   64  12   60\n|        |        |        |        |        |        |\n+--------+--------+--------+--------+--------+--------+\n|        |        |        |        |        |        |\n|                                                     |\n|                                                     |\n|                                                     |\n|                                                     |\n|                                                     |\n|                                                     |\n|                                                     |\n|                                                     |\n|                                                     |\n|                                                     |\n+-----------------------------------------------------+"
+}
