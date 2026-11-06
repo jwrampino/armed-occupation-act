@@ -17,10 +17,10 @@
 ### Research Questions
 
 **Among Armed Occupation Act claimants, 1840–1860:**
-- Where did claimants settle?
+- Why did claimants choose the plots they settled?
 - How did conflict influence abandonment, both during and after the five-year commitment?
 
-#### Where did claimants settle?
+#### Why did claimants choose the plots they settled?
 - **H1a:** Claims concentrate along interior travel routes and near water, relative to eligible unclaimed land.
 - **H1b:** Claims over-select agriculturally productive land (hammock, old fields, good soil) relative to its availability, net of access.
 - **H1c (competing):** Access to routes and water explains claim location better than land quality, as the "Actual Settler" letter alleges.
@@ -76,45 +76,4 @@ armed-occupation-act/
 | Environmental layers (soils, hydrography, vegetation reconstruction) | Site-selection covariates | Not Found |
 | 1840, 1850 and 1860 census ([here](https://www.nhgis.org/) or [here](https://www.archives.gov/research/census/1850)) | Demographics, name linkage | Not Reviewed |
 
-### **Contextual Timeline**
-
-<details>
-<summary>Expand timeline</summary>
-
-| Event | Year | Era |
-|---|---|---|
-| Tecumseh's War | 1811-1813 | Background |
-| War of 1812 | 1812-1815 | |
-| Creek War (Red Stick War) | 1813-1814 | |
-| Negro Fort Massacre | 1816 | |
-| First Seminole War | 1816-1818 | |
-| Adams-Onís Treaty | 1819-1821 | |
-| Treaty of Moultrie Creek | 1823 | |
-| Indian Removal Act | 1830 | |
-| Nat Turner's Rebellion | 1831 | |
-| Worcester v. Georgia | 1832 | |
-| Black Hawk War | 1832 | |
-| Treaty of Payne's Landing | 1832 | |
-| Treaty of Fort Gibson | 1833 | |
-| Dade Battle | 1835 | |
-| Second Seminole War | 1835-1842 | |
-| Forced Cherokee Removal | 1838 | |
-| **Census of 1840** | 1840 | *Start of Inquiry* |
-| Preemption Act | 1841 | |
-| Armed Occupation Act | 1842 | |
-| General Order 28 | 1842 | |
-| Amendment to the Armed Occupation Act | 1844 | |
-| Florida Statehood | 1845 | |
-| Mexican-American War | 1846-1848 | |
-| 1849 Seminole Raids ('Indian Scare of 1849') | 1849 | |
-| Census of 1850 | 1850 | |
-| Swamp Land Act | 1850 | |
-| Graduation Act | 1854 | |
-| Third Seminole War | 1855-1858 | |
-| **Census of 1860** | 1860 | *End of Inquiry* |
-| U.S. Civil War | 1861-1865 | |
-
-</details>
-  
-  
 ##### [Back to Top](#armed-occupation-act)
