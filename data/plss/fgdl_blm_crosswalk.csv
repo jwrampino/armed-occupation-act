@@ -1,0 +1,1893 @@
+fgdl_fid,fgdl_label,fgdl_label_count,blm_plssid,blm_label,method,status
+0,53S 36E,1,FL290520S0340E0,52S 34E,nearest,label differs; no BLM overlap (nearest 9.5 km)
+1,53S 37E,1,FL290550S0390E0,55S 39E,nearest,label differs; no BLM overlap (nearest 14.9 km)
+2,53S 38E,1,FL290550S0390E0,55S 39E,nearest,label differs; no BLM overlap (nearest 11.0 km)
+3,53S 39E,1,FL290540S0400E0,54S 40E,nearest,label differs; no BLM overlap (nearest 6.5 km)
+4,53S 40E,1,FL290530S0410E0,53S 41E,overlap,label differs
+5,53S 41E,1,FL290530S0410E0,53S 41E,overlap,agree
+6,53S 42E,2,FL290530S0420E0,53S 42E,overlap,agree; duplicate FGDL label
+7,54S 35E,1,FL290520S0340E0,52S 34E,nearest,label differs; no BLM overlap (nearest 9.4 km)
+8,54S 36E,1,FL290520S0340E0,52S 34E,nearest,label differs; no BLM overlap (nearest 13.4 km)
+9,54S 37E,1,FL290550S0390E0,55S 39E,nearest,label differs; no BLM overlap (nearest 9.4 km)
+10,54S 38E,1,FL290550S0390E0,55S 39E,nearest,label differs; no BLM overlap (nearest 0.6 km)
+11,54S 39E,1,FL290550S0390E0,55S 39E,overlap,label differs
+12,54S 40E,1,FL290540S0400E0,54S 40E,overlap,agree
+13,54S 41E,1,FL290540S0410E0,54S 41E,overlap,agree
+14,54S 42E,2,FL290540S0420E0,54S 42E,overlap,agree; duplicate FGDL label
+15,55S 35E,1,FL290520S0340E0,52S 34E,nearest,label differs; no BLM overlap (nearest 19.1 km)
+16,55S 36E,1,FL290560S0380E0,56S 38E,nearest,label differs; no BLM overlap (nearest 13.0 km)
+17,55S 37E,1,FL290560S0380E0,56S 38E,nearest,label differs; no BLM overlap (nearest 1.6 km)
+18,55S 38E,1,FL290550S0390E0,55S 39E,overlap,label differs
+19,55S 39E,1,FL290550S0390E0,55S 39E,overlap,agree
+20,55S 40E,1,FL290550S0400E0,55S 40E,overlap,agree
+21,55S 41E,2,FL290550S0410E0,55S 41E,overlap,agree; duplicate FGDL label
+22,56S 35E,1,FL290570S0380E0,57S 38E,nearest,label differs; no BLM overlap (nearest 20.8 km)
+23,56S 36E,1,FL290560S0380E0,56S 38E,nearest,label differs; no BLM overlap (nearest 12.3 km)
+24,56S 37E,1,FL290560S0380E0,56S 38E,nearest,label differs; no BLM overlap (nearest 1.6 km)
+25,56S 38E,1,FL290560S0380E0,56S 38E,overlap,agree
+26,56S 39E,1,FL290560S0390E0,56S 39E,overlap,agree
+27,56S 40E,1,FL290560S0400E0,56S 40E,overlap,agree
+28,57S 35E,1,FL290570S0380E0,57S 38E,nearest,label differs; no BLM overlap (nearest 20.4 km)
+29,57S 36E,1,FL290570S0380E0,57S 38E,nearest,label differs; no BLM overlap (nearest 10.9 km)
+30,57S 37E,1,FL290570S0380E0,57S 38E,overlap,label differs
+31,57S 38E,1,FL290570S0380E0,57S 38E,overlap,agree
+32,57S 39E,1,FL290570S0390E0,57S 39E,overlap,agree
+33,57S 40E,1,FL290570S0400E0,57S 40E,overlap,agree
+34,58S 35E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 17.4 km)
+35,58S 36E,1,FL290570S0380E0,57S 38E,nearest,label differs; no BLM overlap (nearest 11.0 km)
+36,58S 37E,1,FL290580S0380E0,58S 38E,overlap,label differs
+37,58S 38E,1,FL290580S0380E0,58S 38E,overlap,agree
+38,58S 39E,1,FL290580S0390E0,58S 39E,overlap,agree
+39,58S 40E,2,FL290580S0400E0,58S 40E,overlap,agree; duplicate FGDL label
+40,59S 35E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 10.6 km)
+41,59S 36E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 3.8 km)
+42,59S 37E,1,FL290600S0370E0,60S 37E,overlap,label differs
+43,59S 38E,1,FL290590S0380E0,59S 38E,overlap,agree
+44,59S 39E,1,FL290590S0390E0,59S 39E,overlap,agree
+45,59S 40E,2,FL290590S0400E0,59S 40E,overlap,agree; duplicate FGDL label
+46,60S 35E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 9.9 km)
+47,60S 36E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 0.5 km)
+48,60S 37E,1,FL290600S0370E0,60S 37E,overlap,agree
+49,60S 38E,2,FL290600S0380E0,60S 38E,overlap,agree; duplicate FGDL label
+50,60S 39E,2,FL290600S0390E0,60S 39E,overlap,agree; duplicate FGDL label
+51,61S 36E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 2.0 km)
+52,2S 19W,1,FL290020S0190W0,2S 19W,overlap,agree
+53,1N 27W,1,FL290010N0270W0,1N 27W,overlap,agree
+54,6N 30W,1,FL290060N0300W0,6N 30W,overlap,agree
+55,1N 12E,2,FL290010N0120E0,1N 12E,overlap,agree; duplicate FGDL label
+56,1N 11E,2,FL290010N0110E0,1N 11E,overlap,agree; duplicate FGDL label
+57,2N 11E,2,FL290020N0110E0,2N 11E,overlap,agree; duplicate FGDL label
+58,1N 13E,2,FL290010N0130E0,1N 13E,overlap,agree; duplicate FGDL label
+59,1N 10E,3,FL290010N0100E0,1N 10E,overlap,agree; duplicate FGDL label
+60,2N 10E,2,FL290020N0100E0,2N 10E,overlap,agree; duplicate FGDL label
+61,2N 9E,2,FL290020N0090E0,2N 9E,overlap,agree; duplicate FGDL label
+62,1N 9E,3,FL290010N0090E0,1N 9E,overlap,agree; duplicate FGDL label
+63,1N 8E,3,FL290010N0080E0,1N 8E,overlap,agree; duplicate FGDL label
+64,3N 5E,2,FL290030N0050E0,3N 5E,overlap,agree; duplicate FGDL label
+65,3N 1W,1,FL290030N0010W0,3N 1W,overlap,agree
+66,3N 1E,2,FL290030N0010E0,3N 1E,overlap,agree; duplicate FGDL label
+67,4N 4W,2,FL290040N0040W0,4N 4W,overlap,agree; duplicate FGDL label
+68,4N 5W,2,FL290040N0050W0,4N 5W,overlap,agree; duplicate FGDL label
+69,3S 31W,1,FL290030S0310W0,3S 31W,overlap,agree
+70,2S 8W,1,FL290020S0080W0,2S 8W,overlap,agree
+71,3S 8W,1,FL290030S0080W0,3S 8W,overlap,agree
+72,5S 9W,1,FL290050S0090W0,5S 9W,overlap,agree
+73,5S 8W,1,FL290050S0080W0,5S 8W,overlap,agree
+74,42S 30E,1,FL290420S0300E0,42S 30E,overlap,agree
+75,43S 31E,1,FL290430S0310E0,43S 31E,overlap,agree
+76,44S 25E,1,FL290440S0250E0,44S 25E,overlap,agree
+77,44S 42E,1,FL290440S0420E0,44S 42E,overlap,agree
+78,45S 37E,1,FL290430S0400E0,43S 40E,nearest,label differs; no BLM overlap (nearest 22.2 km)
+79,46S 33E,1,FL290460S0330E0,46S 33E,overlap,agree
+80,47S 29E,1,FL290470S0290E0,47S 29E,overlap,agree
+81,48S 27E,1,FL290480S0270E0,48S 27E,overlap,agree
+82,48S 43E,1,FL290480S0430E0,48S 43E,overlap,agree
+83,49S 41E,1,FL290490S0420E0,49S 42E,overlap,label differs
+84,50S 38E,1,FL290500S0410E0,50S 41E,nearest,label differs; no BLM overlap (nearest 19.2 km)
+85,51S 37E,1,FL290510S0350E0,51S 35E,nearest,label differs; no BLM overlap (nearest 10.0 km)
+86,52S 36E,1,FL290510S0350E0,51S 35E,nearest,label differs; no BLM overlap (nearest 2.1 km)
+87,1N 12E,2,FL290020N0120E0,2N 12E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 1.0 km)
+88,1N 23W,1,FL290010N0230W0,1N 23W,overlap,agree
+89,2N 13W,1,FL290020N0130W0,2N 13W,overlap,agree
+90,2S 27W,2,FL290030S0050E0,3S 5E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 72.7 km)
+91,3N 11W,1,FL290030N0110W0,3N 11W,overlap,agree
+92,3N 24W,1,FL290030N0240W0,3N 24W,overlap,agree
+93,4N 10W,1,FL290040N0100W0,4N 10W,overlap,agree
+94,4N 20W,1,FL290040N0200W0,4N 20W,overlap,agree
+95,5N 11W,1,FL290050N0110W0,5N 11W,overlap,agree
+96,5N 19W,1,FL290050N0190W0,5N 19W,overlap,agree
+97,6N 10W,1,FL290060N0100W0,6N 10W,overlap,agree
+98,9S 5W,1,FL290080S0060W0,8S 6W,nearest,label differs; no BLM overlap (nearest 6.8 km)
+99,15S 99E,1,FL290150S0132E0,15S 13E,overlap,label differs
+100,30S 17E,2,FL290300S0170E0,30S 17E,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 1.8 km)
+101,44S 21E,1,FL290440S0210E0,44S 21E,overlap,agree
+102,56S 30E,1,FL290530S0300E0,53S 30E,nearest,label differs; no BLM overlap (nearest 19.3 km)
+103,59S 33E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 29.1 km)
+104,61S 39E,1,FL290610S0390E0,61S 39E,overlap,agree
+105,65S 33E,1,FL290650S0330E0,65S 33E,overlap,agree
+106,66S 33E,1,FL290660S0330E0,66S 33E,overlap,agree
+107,54S 34E,1,FL290520S0340E0,52S 34E,nearest,label differs; no BLM overlap (nearest 9.6 km)
+108,1S 1E,1,FL290010S0010E0,1S 1E,overlap,agree
+109,4S 7W,1,FL290040S0070W0,4S 7W,overlap,agree
+110,3S 4W,1,FL290030S0040W0,3S 4W,overlap,agree
+111,2N 19E,1,FL290020N0190E0,2N 19E,overlap,agree
+112,4S 7E,2,FL290020N0320W0,2N 32W,overlap,label differs; duplicate FGDL label
+113,1N 2E,1,FL290010N0020E0,1N 2E,overlap,agree
+114,1S 7E,1,FL290010S0070E0,1S 7E,overlap,agree
+115,1S 14W,1,FL290010S0140W0,1S 14W,overlap,agree
+116,1N 23E,1,FL290010N0230E0,1N 23E,overlap,agree
+117,1N 28E,1,FL290010N0280E0,1N 28E,overlap,agree
+118,2N 3E,1,FL290020N0030E0,2N 3E,overlap,agree
+119,2N 8W,1,FL290020N0080W0,2N 8W,overlap,agree
+120,2S 13E,1,FL290020S0130E0,2S 13E,overlap,agree
+121,2S 21E,1,FL290020S0210E0,2S 21E,overlap,agree
+122,2N 26E,1,FL290020N0260E0,2N 26E,overlap,agree
+123,2S 31W,1,FL290020S0310W0,2S 31W,overlap,agree
+124,3N 6E,2,FL290030N0060E0,3N 6E,overlap,agree; duplicate FGDL label
+125,3S 11W,1,FL290030S0110W0,3S 11W,overlap,agree
+126,3S 21E,1,FL290030S0210E0,3S 21E,overlap,agree
+127,3S 29E,1,FL290030S0290E0,3S 29E,overlap,agree
+128,4N 8W,1,FL290040N0080W0,4N 8W,overlap,agree
+129,4S 19E,1,FL290040S0190E0,4S 19E,overlap,agree
+130,4S 29E,1,FL290040S0290E0,4S 29E,overlap,agree
+131,5S 10E,1,FL290050S0100E0,5S 10E,overlap,agree
+132,5N 24E,2,FL290050N0240E0,5N 24E,overlap,agree; duplicate FGDL label
+133,6S 4W,1,FL290060S0040W0,6S 4W,overlap,agree
+134,11S 12E,1,FL290110S0120E0,11S 12E,overlap,agree
+135,11S 28E,1,FL290110S0280E0,11S 28E,overlap,agree
+136,12S 23E,1,FL290120S0230E0,12S 23E,overlap,agree
+137,13S 17E,1,FL290130S0170E0,13S 17E,overlap,agree
+138,14S 13E,1,FL290140S0130E0,14S 13E,overlap,agree
+139,14S 27E,1,FL290140S0270E0,14S 27E,overlap,agree
+140,15S 25E,1,FL290150S0250E0,15S 25E,overlap,agree
+141,16S 23E,1,FL290160S0230E0,16S 23E,overlap,agree
+142,17S 19E,1,FL290170S0190E0,17S 19E,overlap,agree
+143,18S 16E,1,FL290180S0160E0,18S 16E,overlap,agree
+144,18S 32E,1,FL290180S0320E0,18S 32E,overlap,agree
+145,19S 29E,1,FL290190S0290E0,19S 29E,overlap,agree
+146,20S 25E,1,FL290200S0250E0,20S 25E,overlap,agree
+147,21S 21E,1,FL290210S0210E0,21S 21E,overlap,agree
+148,6S 9E,1,FL290060S0090E0,6S 9E,overlap,agree
+149,8S 18E,1,FL290080S0180E0,8S 18E,overlap,agree
+150,9S 9W,2,FL290090S0090W0,9S 9W,overlap,agree; duplicate FGDL label
+151,9S 23E,1,FL290090S0230E0,9S 23E,overlap,agree
+152,32S 25E,1,FL290320S0250E0,32S 25E,overlap,agree
+153,33S 39E,1,FL290330S0390E0,33S 39E,overlap,agree
+154,34S 31E,1,FL290340S0310E0,34S 31E,overlap,agree
+155,6S 21E,1,FL290060S0210E0,6S 21E,overlap,agree
+156,6S 30E,1,FL290060S0300E0,6S 30E,overlap,agree
+157,7S 9W,1,FL290070S0090W0,7S 9W,overlap,agree
+158,7S 16E,1,FL290070S0160E0,7S 16E,overlap,agree
+159,8S 6W,1,FL290080S0060W0,8S 6W,overlap,agree
+160,10S 11E,1,FL290100S0110E0,10S 11E,overlap,agree
+161,10S 28E,1,FL290100S0280E0,10S 28E,overlap,agree
+162,21S 29E,1,FL290210S0290E0,21S 29E,overlap,agree
+163,22S 23E,1,FL290220S0230E0,22S 23E,overlap,agree
+164,23S 17E,1,FL290230S0170E0,23S 17E,overlap,agree
+165,23S 33E,1,FL290230S0330E0,23S 33E,overlap,agree
+166,24S 27E,1,FL290240S0270E0,24S 27E,overlap,agree
+167,25S 20E,1,FL290250S0200E0,25S 20E,overlap,agree
+168,25S 37E,1,FL290250S0370E0,25S 37E,overlap,agree
+169,26S 30E,1,FL290260S0300E0,26S 30E,overlap,agree
+170,27S 24E,1,FL290270S0240E0,27S 24E,overlap,agree
+171,28S 18E,1,FL290280S0180E0,28S 18E,overlap,agree
+172,28S 34E,1,FL290280S0340E0,28S 34E,overlap,agree
+173,29S 27E,1,FL290290S0270E0,29S 27E,overlap,agree
+174,30S 19E,1,FL290300S0190E0,30S 19E,overlap,agree
+175,42S 26E,1,FL290420S0260E0,42S 26E,overlap,agree
+176,42S 27E,1,FL290420S0270E0,42S 27E,overlap,agree
+177,42S 28E,1,FL290420S0280E0,42S 28E,overlap,agree
+178,42S 29E,1,FL290420S0290E0,42S 29E,overlap,agree
+179,42S 31E,1,FL290420S0310E0,42S 31E,overlap,agree
+180,42S 32E,1,FL290420S0320E0,42S 32E,overlap,agree
+181,42S 33E,1,FL290440S0320E0,44S 32E,nearest,label differs; no BLM overlap (nearest 8.1 km)
+182,42S 34E,1,FL290440S0320E0,44S 32E,nearest,label differs; no BLM overlap (nearest 13.1 km)
+183,42S 36E,1,FL290410S0380E0,41S 38E,nearest,label differs; no BLM overlap (nearest 17.6 km)
+184,42S 37E,1,FL290410S0380E0,41S 38E,nearest,label differs; no BLM overlap (nearest 8.0 km)
+185,42S 38E,1,FL290420S0390E0,42S 39E,overlap,label differs
+186,42S 39E,1,FL290420S0390E0,42S 39E,overlap,agree
+187,42S 40E,1,FL290420S0400E0,42S 40E,overlap,agree
+188,42S 41E,1,FL290420S0410E0,42S 41E,overlap,agree
+189,42S 42E,1,FL290420S0420E0,42S 42E,overlap,agree
+190,42S 43E,1,FL290420S0430E0,42S 43E,overlap,agree
+191,43S 22E,1,FL290430S0220E0,43S 22E,overlap,agree
+192,43S 23E,1,FL290430S0230E0,43S 23E,overlap,agree
+193,43S 24E,1,FL290430S0240E0,43S 24E,overlap,agree
+194,43S 25E,1,FL290430S0250E0,43S 25E,overlap,agree
+195,43S 26E,1,FL290430S0260E0,43S 26E,overlap,agree
+196,43S 27E,1,FL290430S0270E0,43S 27E,overlap,agree
+197,43S 28E,1,FL290430S0280E0,43S 28E,overlap,agree
+198,43S 29E,1,FL290430S0290E0,43S 29E,overlap,agree
+199,43S 30E,1,FL290430S0300E0,43S 30E,overlap,agree
+200,43S 32E,1,FL290440S0320E0,44S 32E,overlap,label differs
+201,43S 33E,1,FL290440S0320E0,44S 32E,overlap,label differs
+202,43S 34E,1,FL290450S0330E0,45S 33E,nearest,label differs; no BLM overlap (nearest 9.7 km)
+203,43S 35E,1,FL290450S0330E0,45S 33E,nearest,label differs; no BLM overlap (nearest 13.7 km)
+204,43S 36E,1,FL290420S0390E0,42S 39E,nearest,label differs; no BLM overlap (nearest 20.0 km)
+205,43S 37E,1,FL290420S0390E0,42S 39E,nearest,label differs; no BLM overlap (nearest 10.3 km)
+206,43S 38E,1,FL290420S0390E0,42S 39E,nearest,label differs; no BLM overlap (nearest 0.7 km)
+207,43S 39E,1,FL290420S0390E0,42S 39E,overlap,label differs
+208,43S 40E,1,FL290430S0400E0,43S 40E,overlap,agree
+209,43S 41E,1,FL290430S0410E0,43S 41E,overlap,agree
+210,43S 42E,1,FL290430S0420E0,43S 42E,overlap,agree
+211,43S 43E,1,FL290430S0430E0,43S 43E,overlap,agree
+212,44S 22E,1,FL290440S0220E0,44S 22E,overlap,agree
+213,44S 23E,1,FL290440S0230E0,44S 23E,overlap,agree
+214,44S 24E,1,FL290440S0240E0,44S 24E,overlap,agree
+215,44S 26E,1,FL290440S0260E0,44S 26E,overlap,agree
+216,44S 27E,1,FL290440S0270E0,44S 27E,overlap,agree
+217,44S 28E,1,FL290440S0280E0,44S 28E,overlap,agree
+218,44S 29E,1,FL290440S0290E0,44S 29E,overlap,agree
+219,44S 30E,1,FL290440S0300E0,44S 30E,overlap,agree
+220,44S 31E,1,FL290440S0310E0,44S 31E,overlap,agree
+221,44S 32E,1,FL290440S0320E0,44S 32E,overlap,agree
+222,44S 33E,1,FL290450S0330E0,45S 33E,overlap,label differs
+223,44S 34E,1,FL290450S0330E0,45S 33E,overlap,label differs
+224,44S 35E,1,FL290450S0330E0,45S 33E,nearest,label differs; no BLM overlap (nearest 9.7 km)
+225,44S 36E,1,FL290450S0330E0,45S 33E,nearest,label differs; no BLM overlap (nearest 19.3 km)
+226,44S 37E,1,FL290420S0390E0,42S 39E,nearest,label differs; no BLM overlap (nearest 14.1 km)
+227,44S 38E,1,FL290430S0400E0,43S 40E,nearest,label differs; no BLM overlap (nearest 9.7 km)
+228,44S 39E,1,FL290430S0400E0,43S 40E,overlap,label differs
+229,44S 40E,1,FL290430S0400E0,43S 40E,overlap,label differs
+230,44S 41E,1,FL290440S0410E0,44S 41E,overlap,agree
+231,44S 43E,1,FL290440S0430E0,44S 43E,overlap,agree
+232,45S 23E,1,FL290450S0230E0,45S 23E,overlap,agree
+233,45S 24E,1,FL290450S0240E0,45S 24E,overlap,agree
+234,45S 25E,1,FL290450S0250E0,45S 25E,overlap,agree
+235,45S 26E,1,FL290450S0260E0,45S 26E,overlap,agree
+236,45S 27E,1,FL290450S0270E0,45S 27E,overlap,agree
+237,45S 28E,1,FL290450S0280E0,45S 28E,overlap,agree
+238,45S 29E,1,FL290450S0290E0,45S 29E,overlap,agree
+239,45S 30E,1,FL290450S0300E0,45S 30E,overlap,agree
+240,45S 31E,1,FL290450S0310E0,45S 31E,overlap,agree
+241,45S 32E,1,FL290450S0320E0,45S 32E,overlap,agree
+242,45S 33E,1,FL290450S0330E0,45S 33E,overlap,agree
+243,45S 34E,1,FL290450S0330E0,45S 33E,overlap,label differs
+244,45S 35E,1,FL290450S0330E0,45S 33E,nearest,label differs; no BLM overlap (nearest 9.7 km)
+245,45S 36E,1,FL290450S0330E0,45S 33E,nearest,label differs; no BLM overlap (nearest 19.3 km)
+246,45S 38E,1,FL290430S0400E0,43S 40E,nearest,label differs; no BLM overlap (nearest 14.4 km)
+247,45S 39E,1,FL290440S0410E0,44S 41E,nearest,label differs; no BLM overlap (nearest 9.7 km)
+248,45S 40E,1,FL290440S0410E0,44S 41E,nearest,label differs; no BLM overlap (nearest 0.2 km)
+249,45S 41E,1,FL290450S0410E0,45S 41E,overlap,agree
+250,45S 42E,1,FL290450S0420E0,45S 42E,overlap,agree
+251,45S 43E,1,FL290450S0430E0,45S 43E,overlap,agree
+252,46S 23E,1,FL290460S0230E0,46S 23E,overlap,agree
+253,46S 24E,1,FL290460S0240E0,46S 24E,overlap,agree
+254,46S 25E,1,FL290460S0250E0,46S 25E,overlap,agree
+255,46S 26E,1,FL290460S0260E0,46S 26E,overlap,agree
+256,46S 27E,1,FL290460S0270E0,46S 27E,overlap,agree
+257,46S 28E,1,FL290460S0280E0,46S 28E,overlap,agree
+258,46S 29E,1,FL290460S0290E0,46S 29E,overlap,agree
+259,46S 30E,1,FL290460S0300E0,46S 30E,overlap,agree
+260,46S 31E,1,FL290460S0310E0,46S 31E,overlap,agree
+261,46S 32E,1,FL290460S0320E0,46S 32E,overlap,agree
+262,46S 34E,1,FL290460S0330E0,46S 33E,overlap,label differs
+263,46S 35E,1,FL290470S0340E0,47S 34E,nearest,label differs; no BLM overlap (nearest 6.5 km)
+264,46S 36E,1,FL290470S0340E0,47S 34E,nearest,label differs; no BLM overlap (nearest 16.2 km)
+265,46S 37E,1,FL290480S0340E0,48S 34E,nearest,label differs; no BLM overlap (nearest 19.9 km)
+266,46S 38E,1,FL290440S0410E0,44S 41E,nearest,label differs; no BLM overlap (nearest 21.9 km)
+267,46S 39E,1,FL290460S0410E0,46S 41E,nearest,label differs; no BLM overlap (nearest 15.9 km)
+268,46S 40E,1,FL290460S0410E0,46S 41E,nearest,label differs; no BLM overlap (nearest 6.3 km)
+269,46S 41E,1,FL290460S0410E0,46S 41E,overlap,agree
+270,46S 42E,1,FL290460S0420E0,46S 42E,overlap,agree
+271,46S 43E,1,FL290460S0430E0,46S 43E,overlap,agree
+272,47S 24E,1,FL290470S0240E0,47S 24E,overlap,agree
+273,47S 25E,1,FL290470S0250E0,47S 25E,overlap,agree
+274,47S 26E,1,FL290470S0260E0,47S 26E,overlap,agree
+275,47S 27E,1,FL290470S0270E0,47S 27E,overlap,agree
+276,47S 28E,1,FL290470S0280E0,47S 28E,overlap,agree
+277,47S 30E,1,FL290470S0300E0,47S 30E,overlap,agree
+278,47S 31E,1,FL290470S0310E0,47S 31E,overlap,agree
+279,47S 32E,1,FL290470S0320E0,47S 32E,overlap,agree
+280,47S 33E,1,FL290470S0330E0,47S 33E,overlap,agree
+281,47S 34E,1,FL290470S0340E0,47S 34E,overlap,agree
+282,47S 35E,1,FL290480S0340E0,48S 34E,nearest,label differs; no BLM overlap (nearest 0.1 km)
+283,47S 36E,1,FL290480S0340E0,48S 34E,nearest,label differs; no BLM overlap (nearest 9.8 km)
+284,47S 37E,1,FL290480S0340E0,48S 34E,nearest,label differs; no BLM overlap (nearest 19.5 km)
+285,47S 38E,1,FL290460S0410E0,46S 41E,nearest,label differs; no BLM overlap (nearest 25.5 km)
+286,47S 39E,1,FL290460S0410E0,46S 41E,nearest,label differs; no BLM overlap (nearest 16.0 km)
+287,47S 40E,1,FL290460S0410E0,46S 41E,nearest,label differs; no BLM overlap (nearest 6.6 km)
+288,47S 41E,1,FL290470S0420E0,47S 42E,overlap,label differs
+289,47S 42E,1,FL290470S0420E0,47S 42E,overlap,agree
+290,47S 43E,1,FL290470S0430E0,47S 43E,overlap,agree
+291,48S 25E,1,FL290480S0250E0,48S 25E,overlap,agree
+292,48S 26E,1,FL290480S0260E0,48S 26E,overlap,agree
+293,48S 28E,1,FL290480S0280E0,48S 28E,overlap,agree
+294,48S 29E,1,FL290480S0290E0,48S 29E,overlap,agree
+295,48S 30E,1,FL290480S0300E0,48S 30E,overlap,agree
+296,48S 31E,1,FL290480S0310E0,48S 31E,overlap,agree
+297,48S 32E,1,FL290480S0320E0,48S 32E,overlap,agree
+298,48S 33E,1,FL290480S0330E0,48S 33E,overlap,agree
+299,48S 34E,1,FL290480S0340E0,48S 34E,overlap,agree
+300,48S 35E,1,FL290480S0340E0,48S 34E,overlap,label differs
+301,48S 36E,1,FL290480S0340E0,48S 34E,nearest,label differs; no BLM overlap (nearest 9.6 km)
+302,48S 37E,1,FL290490S0340E0,49S 34E,nearest,label differs; no BLM overlap (nearest 19.5 km)
+303,48S 38E,1,FL290500S0410E0,50S 41E,nearest,label differs; no BLM overlap (nearest 21.4 km)
+304,48S 39E,1,FL290500S0410E0,50S 41E,nearest,label differs; no BLM overlap (nearest 13.3 km)
+305,48S 40E,1,FL290480S0420E0,48S 42E,nearest,label differs; no BLM overlap (nearest 9.4 km)
+306,48S 41E,1,FL290480S0420E0,48S 42E,overlap,label differs
+307,48S 42E,1,FL290480S0420E0,48S 42E,overlap,agree
+308,49S 25E,1,FL290490S0250E0,49S 25E,overlap,agree
+309,49S 26E,1,FL290490S0260E0,49S 26E,overlap,agree
+310,49S 27E,1,FL290490S0270E0,49S 27E,overlap,agree
+311,49S 28E,1,FL290480S0280E0,48S 28E,overlap,label differs
+312,49S 29E,1,FL290480S0290E0,48S 29E,overlap,label differs
+313,49S 30E,1,FL290490S0300E0,49S 30E,overlap,agree
+314,49S 31E,1,FL290490S0310E0,49S 31E,overlap,agree
+315,49S 32E,1,FL290490S0320E0,49S 32E,overlap,agree
+316,49S 33E,1,FL290490S0330E0,49S 33E,overlap,agree
+317,49S 34E,1,FL290490S0340E0,49S 34E,overlap,agree
+318,49S 35E,1,FL290490S0340E0,49S 34E,overlap,label differs
+319,49S 36E,1,FL290490S0340E0,49S 34E,nearest,label differs; no BLM overlap (nearest 9.6 km)
+320,49S 37E,1,FL290510S0350E0,51S 35E,nearest,label differs; no BLM overlap (nearest 11.2 km)
+321,49S 38E,1,FL290500S0410E0,50S 41E,nearest,label differs; no BLM overlap (nearest 19.2 km)
+322,49S 39E,1,FL290500S0410E0,50S 41E,nearest,label differs; no BLM overlap (nearest 9.6 km)
+323,49S 40E,1,FL290500S0410E0,50S 41E,overlap,label differs
+324,49S 42E,1,FL290490S0420E0,49S 42E,overlap,agree
+325,49S 43E,1,FL290490S0430E0,49S 43E,overlap,agree
+326,50S 25E,1,FL290500S0250E0,50S 25E,overlap,agree
+327,50S 26E,1,FL290500S0260E0,50S 26E,overlap,agree
+328,50S 27E,1,FL290500S0270E0,50S 27E,overlap,agree
+329,50S 28E,1,FL290510S0280E0,51S 28E,overlap,label differs
+330,50S 29E,1,FL290500S0300E0,50S 30E,overlap,label differs
+331,50S 30E,1,FL290500S0300E0,50S 30E,overlap,agree
+332,50S 31E,1,FL290500S0310E0,50S 31E,overlap,agree
+333,50S 32E,1,FL290500S0320E0,50S 32E,overlap,agree
+334,50S 33E,1,FL290500S0330E0,50S 33E,overlap,agree
+335,50S 34E,1,FL290510S0340E0,51S 34E,overlap,label differs
+336,50S 35E,1,FL290510S0350E0,51S 35E,overlap,label differs
+337,50S 36E,1,FL290510S0350E0,51S 35E,nearest,label differs; no BLM overlap (nearest 0.3 km)
+338,50S 37E,1,FL290510S0350E0,51S 35E,nearest,label differs; no BLM overlap (nearest 10.0 km)
+339,50S 39E,1,FL290500S0410E0,50S 41E,nearest,label differs; no BLM overlap (nearest 9.6 km)
+340,50S 40E,1,FL290500S0410E0,50S 41E,overlap,label differs
+341,50S 41E,1,FL290500S0410E0,50S 41E,overlap,agree
+342,50S 42E,1,FL290500S0420E0,50S 42E,overlap,agree
+343,51S 25E,1,FL290510S0250E0,51S 25E,overlap,agree
+344,51S 26E,1,FL290510S0260E0,51S 26E,overlap,agree
+345,51S 27E,1,FL290510S0270E0,51S 27E,overlap,agree
+346,51S 28E,1,FL290510S0280E0,51S 28E,overlap,agree
+347,51S 29E,1,FL290510S0290E0,51S 29E,overlap,agree
+348,51S 30E,1,FL290510S0300E0,51S 30E,overlap,agree
+349,51S 31E,1,FL290510S0310E0,51S 31E,overlap,agree
+350,51S 32E,1,FL290510S0320E0,51S 32E,overlap,agree
+351,51S 33E,1,FL290510S0330E0,51S 33E,overlap,agree
+352,51S 34E,1,FL290510S0340E0,51S 34E,overlap,agree
+353,51S 35E,1,FL290510S0350E0,51S 35E,overlap,agree
+354,51S 36E,1,FL290510S0350E0,51S 35E,nearest,label differs; no BLM overlap (nearest 0.3 km)
+355,51S 38E,1,FL290510S0410E0,51S 41E,nearest,label differs; no BLM overlap (nearest 19.2 km)
+356,51S 39E,1,FL290510S0410E0,51S 41E,nearest,label differs; no BLM overlap (nearest 9.6 km)
+357,51S 40E,1,FL290510S0410E0,51S 41E,overlap,label differs
+358,51S 41E,1,FL290510S0410E0,51S 41E,overlap,agree
+359,51S 42E,1,FL290510S0420E0,51S 42E,overlap,agree
+360,52S 26E,1,FL290520S0260E0,52S 26E,overlap,agree
+361,52S 27E,1,FL290520S0270E0,52S 27E,overlap,agree
+362,52S 28E,1,FL290520S0280E0,52S 28E,overlap,agree
+363,52S 29E,1,FL290520S0290E0,52S 29E,overlap,agree
+364,52S 30E,1,FL290520S0300E0,52S 30E,overlap,agree
+365,52S 31E,1,FL290520S0310E0,52S 31E,overlap,agree
+366,52S 32E,1,FL290520S0320E0,52S 32E,overlap,agree
+367,52S 33E,1,FL290520S0330E0,52S 33E,overlap,agree
+368,52S 34E,1,FL290520S0340E0,52S 34E,overlap,agree
+369,52S 35E,1,FL290520S0340E0,52S 34E,overlap,label differs
+370,52S 37E,1,FL290510S0350E0,51S 35E,nearest,label differs; no BLM overlap (nearest 11.1 km)
+371,52S 38E,1,FL290520S0410E0,52S 41E,nearest,label differs; no BLM overlap (nearest 19.2 km)
+372,52S 39E,1,FL290520S0410E0,52S 41E,nearest,label differs; no BLM overlap (nearest 9.6 km)
+373,52S 40E,1,FL290520S0410E0,52S 41E,overlap,label differs
+374,52S 41E,1,FL290520S0410E0,52S 41E,overlap,agree
+375,52S 42E,1,FL290520S0420E0,52S 42E,overlap,agree
+376,53S 28E,2,FL290520S0290E0,52S 29E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 3.5 km)
+377,53S 29E,2,FL290530S0290E0,53S 29E,overlap,agree; duplicate FGDL label
+378,53S 30E,1,FL290530S0300E0,53S 30E,overlap,agree
+379,53S 31E,1,FL290530S0310E0,53S 31E,overlap,agree
+380,53S 32E,1,FL290530S0320E0,53S 32E,overlap,agree
+381,53S 33E,1,FL290530S0320E0,53S 32E,overlap,label differs
+382,53S 34E,1,FL290520S0340E0,52S 34E,nearest,label differs; no BLM overlap (nearest 0.0 km)
+383,53S 35E,1,FL290520S0340E0,52S 34E,nearest,label differs; no BLM overlap (nearest 0.0 km)
+384,30S 36E,1,FL290290S0360E0,29S 36E,overlap,label differs
+385,0S 0E,1,FL290390S0420E0,39S 42E,overlap,label differs
+386,1N 7E,3,FL290010N0070E0,1N 7E,overlap,agree; duplicate FGDL label
+387,1N 8E,3,FL290030N0070E0,3N 7E,overlap,label differs; duplicate FGDL label
+388,1N 9E,3,FL290030N0090E0,3N 9E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+389,1N 9W,1,FL290010N0090W0,1N 9W,overlap,agree
+390,1N 10E,3,FL290030N0100E0,3N 10E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 1.0 km)
+391,1N 10W,1,FL290010N0100W0,1N 10W,overlap,agree
+392,1N 11E,2,FL290030N0110E0,3N 11E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 0.3 km)
+393,1N 11W,1,FL290010N0110W0,1N 11W,overlap,agree
+394,1N 12W,1,FL290010N0120W0,1N 12W,overlap,agree
+395,1N 13E,2,FL290020N0120E0,2N 12E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 1.3 km)
+396,1N 13W,1,FL290010N0130W0,1N 13W,overlap,agree
+397,1N 14W,1,FL290010N0140W0,1N 14W,overlap,agree
+398,1N 15W,1,FL290010N0150W0,1N 15W,overlap,agree
+399,1N 18W,1,FL290010N0180W0,1N 18W,overlap,agree
+400,1N 19W,1,FL290010N0190W0,1N 19W,overlap,agree
+401,1S 19E,1,FL290010S0190E0,1S 19E,overlap,agree
+402,1N 20W,1,FL290010N0200W0,1N 20W,overlap,agree
+403,1S 20E,1,FL290010S0200E0,1S 20E,overlap,agree
+404,1N 21W,1,FL290010N0210W0,1N 21W,overlap,agree
+405,1N 22W,1,FL290010N0220W0,1N 22W,overlap,agree
+406,1N 24W,1,FL290010N0240W0,1N 24W,overlap,agree
+407,1N 25W,1,FL290010N0250W0,1N 25W,overlap,agree
+408,1N 29E,1,FL290010N0290E0,1N 29E,overlap,agree
+409,1S 29E,1,FL290020S0290E0,2S 29E,overlap,label differs
+410,2N 9E,2,FL290030N0090E0,3N 9E,overlap,label differs; duplicate FGDL label
+411,2N 9W,1,FL290020N0090W0,2N 9W,overlap,agree
+412,2N 10E,2,FL290030N0100E0,3N 10E,overlap,label differs; duplicate FGDL label
+413,2N 10W,1,FL290020N0100W0,2N 10W,overlap,agree
+414,2N 11E,2,FL290030N0110E0,3N 11E,overlap,label differs; duplicate FGDL label
+415,2N 11W,1,FL290020N0110W0,2N 11W,overlap,agree
+416,2N 12E,2,FL290020N0120E0,2N 12E,overlap,agree; duplicate FGDL label
+417,2N 12W,1,FL290020N0120W0,2N 12W,overlap,agree
+418,2N 13E,2,FL290020N0120E0,2N 12E,overlap,label differs; duplicate FGDL label
+419,2N 14W,1,FL290020N0140W0,2N 14W,overlap,agree
+420,2N 15W,1,FL290020N0150W0,2N 15W,overlap,agree
+421,2S 17E,1,FL290020S0170E0,2S 17E,overlap,agree
+422,2N 18W,1,FL290020N0180W0,2N 18W,overlap,agree
+423,2S 18E,1,FL290020S0180E0,2S 18E,overlap,agree
+424,2N 19W,1,FL290020N0190W0,2N 19W,overlap,agree
+425,2S 19E,1,FL290020S0190E0,2S 19E,overlap,agree
+426,2N 20W,1,FL290020N0200W0,2N 20W,overlap,agree
+427,2N 21W,1,FL290020N0210W0,2N 21W,overlap,agree
+428,2N 22W,1,FL290020N0220W0,2N 22W,overlap,agree
+429,2S 23W,2,FL290020S0130W0,2S 13W,overlap,label differs; duplicate FGDL label
+430,2N 27W,1,FL290020N0270W0,2N 27W,overlap,agree
+431,2N 28E,2,FL290020N0280E0,2N 28E,overlap,agree; duplicate FGDL label
+432,2S 28W,2,FL290020S0280W0,2S 28W,overlap,agree; duplicate FGDL label
+433,2N 29E,1,FL290020N0290E0,2N 29E,overlap,agree
+434,3N 1E,2,FL290030N0010E0,3N 1E,overlap,agree; duplicate FGDL label
+435,3N 2E,2,FL290030N0020E0,3N 2E,overlap,agree; duplicate FGDL label
+436,3N 2W,2,FL290030N0020W0,3N 2W,overlap,agree; duplicate FGDL label
+437,3N 3E,2,FL290030N0030E0,3N 3E,overlap,agree; duplicate FGDL label
+438,3N 4E,2,FL290030S0050E0,3S 5E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 43.8 km)
+439,3N 5E,2,FL290030N0050E0,3N 5E,overlap,agree; duplicate FGDL label
+440,3N 6E,2,FL290030N0060E0,3N 6E,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+441,3N 7E,2,FL290030N0070E0,3N 7E,overlap,agree; duplicate FGDL label
+442,3N 9W,1,FL290030N0090W0,3N 9W,overlap,agree
+443,3N 10W,1,FL290030N0100W0,3N 10W,overlap,agree
+444,3N 12W,1,FL290030N0120W0,3N 12W,overlap,agree
+445,3N 13W,1,FL290030N0130W0,3N 13W,overlap,agree
+446,3N 14W,1,FL290030N0140W0,3N 14W,overlap,agree
+447,3N 15W,1,FL290030N0150W0,3N 15W,overlap,agree
+448,3S 15E,1,FL290030S0150E0,3S 15E,overlap,agree
+449,3S 16E,1,FL290030S0160E0,3S 16E,overlap,agree
+450,3N 18W,1,FL290030N0180W0,3N 18W,overlap,agree
+451,3N 19W,1,FL290030N0190W0,3N 19W,overlap,agree
+452,3N 20W,1,FL290030N0200W0,3N 20W,overlap,agree
+453,3N 21W,1,FL290030N0210W0,3N 21W,overlap,agree
+454,3N 22W,1,FL290030N0220W0,3N 22W,overlap,agree
+455,3N 23W,1,FL290030N0230W0,3N 23W,overlap,agree
+456,3N 25W,1,FL290030N0250W0,3N 25W,overlap,agree
+457,3N 26W,1,FL290030N0260W0,3N 26W,overlap,agree
+458,3N 27W,1,FL290030N0270W0,3N 27W,overlap,agree
+459,3N 28E,2,FL290030N0280E0,3N 28E,overlap,agree; duplicate FGDL label
+460,3N 28W,1,FL290030N0280W0,3N 28W,overlap,agree
+461,3S 28W,2,FL290030S0050E0,3S 5E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 67.0 km)
+462,3N 29E,1,FL290030N0290E0,3N 29E,overlap,agree
+463,3S 30W,2,FL290030S0050E0,3S 5E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 55.3 km)
+464,3S 32W,2,FL290030S0320W0,3S 32W,overlap,agree; duplicate FGDL label
+465,4N 3W,1,FL290040N0030W0,4N 3W,overlap,agree
+466,4N 4W,2,FL290040N0040W0,4N 4W,overlap,agree; duplicate FGDL label
+467,4N 5W,2,FL290040N0050W0,4N 5W,overlap,agree; duplicate FGDL label
+468,4N 9W,1,FL290040N0090W0,4N 9W,overlap,agree
+469,4N 11W,1,FL290040N0110W0,4N 11W,overlap,agree
+470,4N 12W,1,FL290040N0120W0,4N 12W,overlap,agree
+471,4N 13W,1,FL290040N0130W0,4N 13W,overlap,agree
+472,4N 14W,1,FL290040N0140W0,4N 14W,overlap,agree
+473,4N 15W,1,FL290040N0150W0,4N 15W,overlap,agree
+474,4S 15E,1,FL290040S0150E0,4S 15E,overlap,agree
+475,4S 15W,2,FL290040S0150W0,4S 15W,overlap,agree; duplicate FGDL label
+476,4S 16E,1,FL290040S0160E0,4S 16E,overlap,agree
+477,4N 17W,1,FL290040N0170W0,4N 17W,overlap,agree
+478,4S 17E,1,FL290040S0170E0,4S 17E,overlap,agree
+479,4N 18W,1,FL290040N0180W0,4N 18W,overlap,agree
+480,4S 18E,1,FL290040S0180E0,4S 18E,overlap,agree
+481,4N 19W,1,FL290040N0190W0,4N 19W,overlap,agree
+482,4N 21W,1,FL290040N0210W0,4N 21W,overlap,agree
+483,4N 22W,1,FL290040N0220W0,4N 22W,overlap,agree
+484,4N 23W,1,FL290040N0230W0,4N 23W,overlap,agree
+485,4N 24W,1,FL290040N0240W0,4N 24W,overlap,agree
+486,4N 25W,1,FL290040N0250W0,4N 25W,overlap,agree
+487,4N 26W,1,FL290040N0260W0,4N 26W,overlap,agree
+488,4S 26E,2,FL290040S0260E0,4S 26E,overlap,agree; duplicate FGDL label
+489,4N 27W,1,FL290040N0270W0,4N 27W,overlap,agree
+490,4N 30W,1,FL290040N0300W0,4N 30W,overlap,agree
+491,4S 32W,1,FL290040S0320W0,4S 32W,overlap,agree
+492,4S 33W,1,FL290040S0330W0,4S 33W,overlap,agree
+493,5N 9W,1,FL290050N0090W0,5N 9W,overlap,agree
+494,5N 10W,1,FL290050N0100W0,5N 10W,overlap,agree
+495,5N 12W,1,FL290050N0120W0,5N 12W,overlap,agree
+496,5N 13W,1,FL290050N0130W0,5N 13W,overlap,agree
+497,5N 14E,1,FL290020N0140E0,2N 14E,overlap,label differs
+498,5N 14W,1,FL290050N0140W0,5N 14W,overlap,agree
+499,5N 15E,1,FL290020N0150E0,2N 15E,overlap,label differs
+500,5N 15W,1,FL290050N0150W0,5N 15W,overlap,agree
+501,5S 15E,1,FL290050S0150E0,5S 15E,overlap,agree
+502,5N 16E,1,FL290020N0160E0,2N 16E,overlap,label differs
+503,5S 16E,1,FL290050S0160E0,5S 16E,overlap,agree
+504,5N 17W,1,FL290050N0170W0,5N 17W,overlap,agree
+505,5S 17E,1,FL290050S0170E0,5S 17E,overlap,agree
+506,5N 18W,1,FL290050N0180W0,5N 18W,overlap,agree
+507,5S 18E,1,FL290050S0180E0,5S 18E,overlap,agree
+508,5N 20W,1,FL290050N0200W0,5N 20W,overlap,agree
+509,5N 21W,1,FL290050N0210W0,5N 21W,overlap,agree
+510,5N 22W,1,FL290050N0220W0,5N 22W,overlap,agree
+511,5N 23W,1,FL290050N0230W0,5N 23W,overlap,agree
+512,5N 24E,2,FL290050N0240E0,5N 24E,overlap,agree; duplicate FGDL label
+513,5N 24W,1,FL290050N0240W0,5N 24W,overlap,agree
+514,5N 25W,1,FL290050N0250W0,5N 25W,overlap,agree
+515,5N 26W,1,FL290050N0260W0,5N 26W,overlap,agree
+516,5N 27W,1,FL290050N0270W0,5N 27W,overlap,agree
+517,5N 28W,1,FL290050N0280W0,5N 28W,overlap,agree
+518,5S 30E,1,FL290050S0300E0,5S 30E,overlap,agree
+519,6S 5E,2,FL290050S0050E0,5S 5E,overlap,label differs; duplicate FGDL label
+520,6N 9W,1,FL290060N0090W0,6N 9W,overlap,agree
+521,6N 11W,1,FL290060N0110W0,6N 11W,overlap,agree
+522,6N 12W,1,FL290060N0120W0,6N 12W,overlap,agree
+523,6N 13W,1,FL290060N0130W0,6N 13W,overlap,agree
+524,6S 13W,2,FL290060S0130W0,6S 13W,overlap,agree; duplicate FGDL label
+525,6N 14W,1,FL290060N0140W0,6N 14W,overlap,agree
+526,6N 15W,1,FL290060N0150W0,6N 15W,overlap,agree
+527,6N 17W,1,FL290060N0170W0,6N 17W,overlap,agree
+528,6S 27E,2,FL290060S0270E0,6S 27E,overlap,agree; duplicate FGDL label
+529,7S 1W,1,FL290070S0010W0,7S 1W,overlap,agree
+530,7S 2W,1,FL290060S0020W0,6S 2W,overlap,label differs
+531,8S 3W,1,FL290070S0040W0,7S 4W,nearest,label differs; no BLM overlap (nearest 5.3 km)
+532,8S 4W,1,FL290070S0050W0,7S 5W,nearest,label differs; no BLM overlap (nearest 5.1 km)
+533,8S 7W,2,FL290080S0060W0,8S 6W,overlap,label differs; duplicate FGDL label
+534,9S 6W,1,FL290080S0060W0,8S 6W,nearest,label differs; no BLM overlap (nearest 6.3 km)
+535,9S 7W,2,FL290090S0070W0,9S 7W,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 9.1 km)
+536,9S 9W,2,FL290090S0090W0,9S 9W,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 2.5 km)
+537,9S 12W,1,FL290090S0120W0,9S 12W,overlap,agree
+538,9S 31E,1,FL290100S0300E0,10S 30E,nearest,label differs; no BLM overlap (nearest 2.5 km)
+539,10S 7W,1,FL290090S0080W0,9S 8W,nearest,label differs; no BLM overlap (nearest 10.2 km)
+540,10S 8W,1,FL290090S0080W0,9S 8W,nearest,label differs; no BLM overlap (nearest 10.6 km)
+541,10S 9W,1,FL290090S0090W0,9S 9W,nearest,label differs; no BLM overlap (nearest 6.6 km)
+542,11S 9E,2,FL290110S0090E0,11S 9E,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 1.5 km)
+543,12S 21E,2,FL290120S0210E0,12S 21E,overlap,agree; duplicate FGDL label
+544,13S 28E,2,FL290130S0280E0,13S 28E,overlap,agree; duplicate FGDL label
+545,15S 12E,1,FL290150S0120E0,15S 12E,overlap,agree
+546,15S 13E,2,FL290150S0130E0,15S 13E,overlap,agree; duplicate FGDL label
+547,16S 12E,1,FL290160S0120E0,16S 12E,overlap,agree
+548,16S 33E,2,FL290160S0330E0,16S 33E,overlap,agree; duplicate FGDL label
+549,20S 36E,2,FL290200S0360E0,20S 36E,overlap,agree; duplicate FGDL label
+550,21S 16E,1,FL290210S0160E0,21S 16E,overlap,agree
+551,22S 27E,2,FL290220S0270E0,22S 27E,overlap,agree; duplicate FGDL label
+552,24S 16E,2,FL290240S0160E0,24S 16E,overlap,agree; duplicate FGDL label
+553,24S 36E,2,FL290240S0360E0,24S 36E,overlap,agree; duplicate FGDL label
+554,24S 37E,2,FL290240S0370E0,24S 37E,overlap,agree; duplicate FGDL label
+555,25S 16E,2,FL290250S0160E0,25S 16E,overlap,agree; duplicate FGDL label
+556,27S 15E,2,FL290270S0150E0,27S 15E,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 0.6 km)
+557,29S 15E,2,FL290290S0150E0,29S 15E,overlap,agree; duplicate FGDL label
+558,29S 29E,2,FL290290S0290E0,29S 29E,overlap,agree; duplicate FGDL label
+559,30S 14E,1,FL290300S0140E0,30S 14E,overlap,agree
+560,31S 38E,2,FL290310S0380E0,31S 38E,overlap,agree; duplicate FGDL label
+561,32S 16E,2,FL290320S0160E0,32S 16E,overlap,agree; duplicate FGDL label
+562,32S 40E,1,FL290320S0400E0,32S 40E,overlap,agree
+563,33S 15E,1,FL290330S0160E0,33S 16E,overlap,label differs
+564,33S 16E,1,FL290330S0160E0,33S 16E,overlap,agree
+565,34S 40E,2,FL290340S0400E0,34S 40E,overlap,agree; duplicate FGDL label
+566,35S 41E,1,FL290350S0410E0,35S 41E,overlap,agree
+567,37S 42E,1,FL290370S0420E0,37S 42E,overlap,agree
+568,38S 42E,2,FL290380S0420E0,38S 42E,overlap,agree; duplicate FGDL label
+569,39S 18E,2,FL290390S0190E0,39S 19E,overlap,label differs; duplicate FGDL label
+570,42S 21E,2,FL290420S0210E0,42S 21E,overlap,agree; duplicate FGDL label
+571,43S 20E,1,FL290430S0200E0,43S 20E,overlap,agree
+572,43S 21E,1,FL290430S0210E0,43S 21E,overlap,agree
+573,45S 21E,1,FL290450S0210E0,45S 21E,overlap,agree
+574,46S 21E,1,FL290460S0210E0,46S 21E,overlap,agree
+575,46S 22E,1,FL290460S0210E0,46S 21E,overlap,label differs
+576,53S 28E,2,FL290520S0290E0,52S 29E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 6.9 km)
+577,53S 29E,2,FL290530S0300E0,53S 30E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 11.6 km)
+578,53S 42E,2,FL290530S0420E0,53S 42E,overlap,agree; duplicate FGDL label
+579,54S 42E,2,FL290540S0420E0,54S 42E,overlap,agree; duplicate FGDL label
+580,55S 30E,1,FL290530S0300E0,53S 30E,nearest,label differs; no BLM overlap (nearest 9.5 km)
+581,55S 31E,1,FL290530S0310E0,53S 31E,nearest,label differs; no BLM overlap (nearest 9.5 km)
+582,55S 32E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 9.4 km)
+583,55S 33E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 9.4 km)
+584,55S 41E,2,FL290550S0410E0,55S 41E,overlap,agree; duplicate FGDL label
+585,55S 42E,1,FL290550S0420E0,55S 42E,overlap,agree
+586,56S 31E,1,FL290530S0310E0,53S 31E,nearest,label differs; no BLM overlap (nearest 19.3 km)
+587,56S 32E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 19.2 km)
+588,56S 33E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 19.2 km)
+589,57S 31E,1,FL290530S0310E0,53S 31E,nearest,label differs; no BLM overlap (nearest 29.0 km)
+590,57S 32E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 28.9 km)
+591,57S 33E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 28.9 km)
+592,58S 31E,1,FL290530S0310E0,53S 31E,nearest,label differs; no BLM overlap (nearest 38.5 km)
+593,58S 32E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 38.5 km)
+594,58S 33E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 33.8 km)
+595,58S 40E,2,FL290580S0400E0,58S 40E,overlap,agree; duplicate FGDL label
+596,58S 41E,1,FL290580S0410E0,58S 41E,overlap,agree
+597,59S 31E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 48.1 km)
+598,59S 32E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 38.6 km)
+599,59S 40E,2,FL290590S0400E0,59S 40E,overlap,agree; duplicate FGDL label
+600,59S 41E,1,FL290590S0410E0,59S 41E,overlap,agree
+601,60S 31E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 48.1 km)
+602,60S 32E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 38.6 km)
+603,60S 33E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 29.0 km)
+604,60S 38E,2,FL290600S0380E0,60S 38E,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 0.1 km)
+605,60S 39E,2,FL290600S0390E0,60S 39E,overlap,agree; duplicate FGDL label
+606,60S 40E,1,FL290600S0400E0,60S 40E,overlap,agree
+607,60N 60E,1,FL290040S0010E0,4S 1E,overlap,label differs
+608,61S 32E,1,FL290650S0340E0,65S 34E,nearest,label differs; no BLM overlap (nearest 39.4 km)
+609,61S 33E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 29.1 km)
+610,61S 34E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 23.5 km)
+611,61S 38E,1,FL290610S0380E0,61S 38E,overlap,agree
+612,61S 40E,1,FL290610S0400E0,61S 40E,overlap,agree
+613,61N 61E,1,FL290010N0040W0,1N 4W,overlap,label differs
+614,62S 38E,1,FL290620S0380E0,62S 38E,overlap,agree
+615,62S 39E,1,FL290620S0390E0,62S 39E,overlap,agree
+616,63S 36E,1,FL290630S0370E0,63S 37E,nearest,label differs; no BLM overlap (nearest 0.0 km)
+617,63S 37E,1,FL290630S0370E0,63S 37E,overlap,agree
+618,63S 38E,1,FL290630S0380E0,63S 38E,overlap,agree
+619,64S 35E,1,FL290640S0350E0,64S 35E,overlap,agree
+620,64S 36E,1,FL290640S0360E0,64S 36E,overlap,agree
+621,64S 37E,1,FL290640S0370E0,64S 37E,overlap,agree
+622,65S 28E,1,FL290650S0280E0,65S 28E,overlap,agree
+623,65S 29E,1,FL290650S0290E0,65S 29E,overlap,agree
+624,65S 30E,1,FL290650S0300E0,65S 30E,overlap,agree
+625,65S 34E,1,FL290650S0340E0,65S 34E,overlap,agree
+626,31S 18E,1,FL290310S0180E0,31S 18E,overlap,agree
+627,31S 34E,1,FL290310S0340E0,31S 34E,overlap,agree
+628,33S 28E,1,FL290330S0280E0,33S 28E,overlap,agree
+629,35S 18E,1,FL290350S0180E0,35S 18E,overlap,agree
+630,35S 35E,1,FL290350S0350E0,35S 35E,overlap,agree
+631,36S 27E,1,FL290360S0270E0,36S 27E,overlap,agree
+632,37S 19E,1,FL290370S0190E0,37S 19E,overlap,agree
+633,37S 35E,1,FL290370S0350E0,37S 35E,overlap,agree
+634,38S 28E,1,FL290380S0280E0,38S 28E,overlap,agree
+635,39S 20E,1,FL290390S0200E0,39S 20E,overlap,agree
+636,39S 38E,1,FL290390S0380E0,39S 38E,overlap,agree
+637,40S 31E,1,FL290400S0310E0,40S 31E,overlap,agree
+638,41S 25E,1,FL290410S0250E0,41S 25E,overlap,agree
+639,42S 22E,1,FL290420S0220E0,42S 22E,overlap,agree
+640,65S 35E,1,FL290650S0350E0,65S 35E,overlap,agree
+641,66S 26E,1,FL290660S0260E0,66S 26E,overlap,agree
+642,66S 27E,1,FL290660S0270E0,66S 27E,overlap,agree
+643,66S 28E,1,FL290660S0280E0,66S 28E,overlap,agree
+644,66S 29E,1,FL290660S0290E0,66S 29E,overlap,agree
+645,66S 30E,1,FL290660S0300E0,66S 30E,overlap,agree
+646,66S 32E,1,FL290660S0320E0,66S 32E,overlap,agree
+647,67S 25E,1,FL290670S0250E0,67S 25E,overlap,agree
+648,67S 26E,1,FL290670S0260E0,67S 26E,overlap,agree
+649,67S 27E,1,FL290670S0270E0,67S 27E,overlap,agree
+650,67S 28E,1,FL290670S0280E0,67S 28E,overlap,agree
+651,67S 29E,1,FL290670S0290E0,67S 29E,overlap,agree
+652,67S 30E,1,FL290670S0300E0,67S 30E,overlap,agree
+653,68S 25E,1,FL290680S0250E0,68S 25E,overlap,agree
+654,68S 26E,1,FL290680S0260E0,68S 26E,overlap,agree
+655,99S 99E,1,FL290420S0230E0,42S 23E,nearest,label differs; no BLM overlap (nearest 0.1 km)
+656,54S 30E,1,FL290530S0300E0,53S 30E,overlap,label differs
+657,54S 31E,1,FL290530S0310E0,53S 31E,overlap,label differs
+658,54S 32E,1,FL290530S0320E0,53S 32E,overlap,label differs
+659,54S 33E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 0.1 km)
+660,55S 34E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 13.5 km)
+661,56S 34E,1,FL290530S0320E0,53S 32E,nearest,label differs; no BLM overlap (nearest 21.4 km)
+662,57S 34E,1,FL290570S0380E0,57S 38E,nearest,label differs; no BLM overlap (nearest 30.0 km)
+663,,0,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 21.8 km)
+664,58S 34E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 24.7 km)
+665,59S 34E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 19.3 km)
+666,60S 34E,1,FL290600S0370E0,60S 37E,nearest,label differs; no BLM overlap (nearest 19.2 km)
+667,1N 2W,1,FL290010N0020W0,1N 2W,overlap,agree
+668,1S 5W,1,FL290010S0050W0,1S 5W,overlap,agree
+669,1S 4W,1,FL290010S0040W0,1S 4W,overlap,agree
+670,1S 3W,1,FL290010S0030W0,1S 3W,overlap,agree
+671,1S 2W,1,FL290010S0020W0,1S 2W,overlap,agree
+672,1S 1W,1,FL290010S0010W0,1S 1W,overlap,agree
+673,2S 7W,1,FL290020S0070W0,2S 7W,overlap,agree
+674,2S 6W,1,FL290020S0060W0,2S 6W,overlap,agree
+675,2S 5W,2,FL290020S0050W0,2S 5W,overlap,agree; duplicate FGDL label
+676,2S 5W,2,FL290010S0050W0,1S 5W,overlap,label differs; duplicate FGDL label
+677,2S 4W,1,FL290020S0040W0,2S 4W,overlap,agree
+678,2S 3W,1,FL290020S0030W0,2S 3W,overlap,agree
+679,2S 2W,1,FL290020S0020W0,2S 2W,overlap,agree
+680,2S 1W,1,FL290020S0010W0,2S 1W,overlap,agree
+681,2S 1E,1,FL290020S0010E0,2S 1E,overlap,agree
+682,3S 7W,1,FL290030S0070W0,3S 7W,overlap,agree
+683,3S 6W,1,FL290030S0060W0,3S 6W,overlap,agree
+684,3S 3W,1,FL290030S0030W0,3S 3W,overlap,agree
+685,3S 2W,1,FL290030S0020W0,3S 2W,overlap,agree
+686,3S 1W,1,FL290030S0010W0,3S 1W,overlap,agree
+687,4S 9W,1,FL290040S0090W0,4S 9W,overlap,agree
+688,4S 8W,1,FL290040S0080W0,4S 8W,overlap,agree
+689,4S 6W,1,FL290040S0060W0,4S 6W,overlap,agree
+690,4S 5W,1,FL290040S0050W0,4S 5W,overlap,agree
+691,4S 4W,1,FL290040S0040W0,4S 4W,overlap,agree
+692,4S 3W,1,FL290040S0030W0,4S 3W,overlap,agree
+693,4S 2W,1,FL290040S0020W0,4S 2W,overlap,agree
+694,4S 1W,1,FL290890N0300E0,89N 30E,overlap,label differs
+695,5S 7W,1,FL290050S0070W0,5S 7W,overlap,agree
+696,5S 6W,1,FL290050S0060W0,5S 6W,overlap,agree
+697,5S 5W,1,FL290050S0050W0,5S 5W,overlap,agree
+698,5S 4W,1,FL290050S0040W0,5S 4W,overlap,agree
+699,5S 3W,1,FL290050S0030W0,5S 3W,overlap,agree
+700,5S 2W,1,FL290050S0020W0,5S 2W,overlap,agree
+701,6S 7W,1,FL290060S0070W0,6S 7W,overlap,agree
+702,6S 6W,1,FL290060S0060W0,6S 6W,overlap,agree
+703,6S 5W,1,FL290060S0050W0,6S 5W,overlap,agree
+704,3S 5W,1,FL290030S0050W0,3S 5W,overlap,agree
+705,6S 8W,1,FL290060S0080W0,6S 8W,overlap,agree
+706,1N 3W,2,FL290010N0030W0,1N 3W,overlap,agree; duplicate FGDL label
+707,1N 3W,2,FL290010N0030W0,1N 3W,overlap,agree; duplicate FGDL label
+708,6N 23W,2,FL290060N0230W0,6N 23W,overlap,agree; duplicate FGDL label
+709,6N 24W,2,FL290060N0240W0,6N 24W,overlap,agree; duplicate FGDL label
+710,6N 25W,2,FL290060N0250W0,6N 25W,overlap,agree; duplicate FGDL label
+711,6N 26W,2,FL290060N0260W0,6N 26W,overlap,agree; duplicate FGDL label
+712,1N 20E,1,FL290010N0200E0,1N 20E,overlap,agree
+713,1S 17E,1,FL290010S0170E0,1S 17E,overlap,agree
+714,2S 20E,1,FL290020S0200E0,2S 20E,overlap,agree
+715,3S 18E,1,FL290030S0180E0,3S 18E,overlap,agree
+716,3S 17E,1,FL290030S0170E0,3S 17E,overlap,agree
+717,3S 20E,1,FL290030S0200E0,3S 20E,overlap,agree
+718,3S 19E,1,FL290030S0190E0,3S 19E,overlap,agree
+719,1N 19E,1,FL290010N0190E0,1N 19E,overlap,agree
+720,1S 21E,1,FL290010S0210E0,1S 21E,overlap,agree
+721,1S 18E,1,FL290010S0180E0,1S 18E,overlap,agree
+722,1N 18E,1,FL290010N0180E0,1N 18E,overlap,agree
+723,2N 18E,1,FL290020N0180E0,2N 18E,overlap,agree
+724,1N 17E,1,FL290010N0170E0,1N 17E,overlap,agree
+725,2N 17E,1,FL290020N0170E0,2N 17E,overlap,agree
+726,2N 20E,1,FL290020N0200E0,2N 20E,overlap,agree
+727,1N 5E,2,FL290060N0330W0,6N 33W,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+728,1S 5E,2,FL290050N0340W0,5N 34W,overlap,label differs; duplicate FGDL label
+729,1N 6E,2,FL290060N0320W0,6N 32W,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+730,1N 7E,3,FL290060N0310W0,6N 31W,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+731,1N 8E,3,FL290060N0300W0,6N 30W,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+732,1N 9E,3,FL290060N0290W0,6N 29W,overlap,label differs; duplicate FGDL label
+733,1N 10E,3,FL290060N0280W0,6N 28W,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+734,2S 4E,2,FL290040N0340W0,4N 34W,overlap,label differs; duplicate FGDL label
+735,5S 6E,2,FL290010N0320W0,1N 32W,overlap,label differs; duplicate FGDL label
+736,5S 7E,2,FL290010N0320W0,1N 32W,overlap,label differs; duplicate FGDL label
+737,6S 6E,2,FL290010S0320W0,1S 32W,overlap,label differs; duplicate FGDL label
+738,6N 28W,2,FL290060N0280W0,6N 28W,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 0.1 km)
+739,7N 8W,3,FL290070N0080W0,7N 8W,overlap,agree; duplicate FGDL label
+740,7N 8W,3,FL290070N0080W0,7N 8W,overlap,agree; duplicate FGDL label
+741,7N 9W,2,FL290070N0090W0,7N 9W,overlap,agree; duplicate FGDL label
+742,7N 10W,2,FL290070N0100W0,7N 10W,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+743,7N 11W,2,FL290070N0110W0,7N 11W,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 0.0 km)
+744,7N 12W,2,FL290070N0120W0,7N 12W,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 0.1 km)
+745,7N 13W,2,FL290070N0130W0,7N 13W,nearest,agree; duplicate FGDL label; no BLM overlap (nearest 0.3 km)
+746,7N 14W,2,FL290070N0140W0,7N 14W,overlap,agree; duplicate FGDL label
+747,7N 15W,2,FL290070N0150W0,7N 15W,overlap,agree; duplicate FGDL label
+748,7N 16W,2,FL290070N0160W0,7N 16W,overlap,agree; duplicate FGDL label
+749,1N 1E,1,FL290010N0010E0,1N 1E,overlap,agree
+750,1N 1W,1,FL290010N0010W0,1N 1W,overlap,agree
+751,1S 2E,1,FL290010S0020E0,1S 2E,overlap,agree
+752,1N 3E,1,FL290010N0030E0,1N 3E,overlap,agree
+753,1S 3E,1,FL290010S0030E0,1S 3E,overlap,agree
+754,1N 4E,1,FL290010N0040E0,1N 4E,overlap,agree
+755,1N 4W,1,FL290010N0040W0,1N 4W,overlap,agree
+756,1S 4E,1,FL290010S0040E0,1S 4E,overlap,agree
+757,1N 5E,2,FL290010N0050E0,1N 5E,overlap,agree; duplicate FGDL label
+758,1N 5W,1,FL290010N0050W0,1N 5W,overlap,agree
+759,1S 5E,2,FL290010S0050E0,1S 5E,overlap,agree; duplicate FGDL label
+760,1N 6E,2,FL290010N0060E0,1N 6E,overlap,agree; duplicate FGDL label
+761,1N 6W,1,FL290010N0060W0,1N 6W,overlap,agree
+762,1S 6E,1,FL290010S0060E0,1S 6E,overlap,agree
+763,1S 6W,1,FL290010S0060W0,1S 6W,overlap,agree
+764,1N 7E,3,FL290010N0070E0,1N 7E,overlap,agree; duplicate FGDL label
+765,1N 7W,1,FL290010N0070W0,1N 7W,overlap,agree
+766,1S 7W,1,FL290010S0070W0,1S 7W,overlap,agree
+767,1N 8W,1,FL290010N0080W0,1N 8W,overlap,agree
+768,1S 8E,1,FL290010S0080E0,1S 8E,overlap,agree
+769,1S 8W,1,FL290010S0080W0,1S 8W,overlap,agree
+770,1S 9E,1,FL290010S0090E0,1S 9E,overlap,agree
+771,1S 9W,1,FL290010S0090W0,1S 9W,overlap,agree
+772,1S 10E,1,FL290010S0100E0,1S 10E,overlap,agree
+773,1S 10W,1,FL290010S0100W0,1S 10W,overlap,agree
+774,1S 11E,1,FL290010S0110E0,1S 11E,overlap,agree
+775,1S 11W,1,FL290010S0110W0,1S 11W,overlap,agree
+776,1S 12E,1,FL290010S0120E0,1S 12E,overlap,agree
+777,1S 12W,1,FL290010S0120W0,1S 12W,overlap,agree
+778,1S 13E,1,FL290010S0130E0,1S 13E,overlap,agree
+779,1S 13W,1,FL290010S0130W0,1S 13W,overlap,agree
+780,1N 14E,1,FL290010N0140E0,1N 14E,overlap,agree
+781,1S 14E,1,FL290010S0140E0,1S 14E,overlap,agree
+782,1N 15E,1,FL290010N0150E0,1N 15E,overlap,agree
+783,1S 15E,1,FL290010S0150E0,1S 15E,overlap,agree
+784,1S 15W,1,FL290010S0150W0,1S 15W,overlap,agree
+785,1N 16E,1,FL290010N0160E0,1N 16E,overlap,agree
+786,1N 16W,1,FL290010N0160W0,1N 16W,overlap,agree
+787,1S 16E,1,FL290010S0160E0,1S 16E,overlap,agree
+788,1S 16W,1,FL290010S0160W0,1S 16W,overlap,agree
+789,1N 17W,1,FL290010N0170W0,1N 17W,overlap,agree
+790,1S 17W,1,FL290010S0170W0,1S 17W,overlap,agree
+791,1S 18W,1,FL290010S0180W0,1S 18W,overlap,agree
+792,1S 19W,1,FL290010S0190W0,1S 19W,overlap,agree
+793,1S 20W,1,FL290010S0200W0,1S 20W,overlap,agree
+794,1N 21E,1,FL290010N0210E0,1N 21E,overlap,agree
+795,1S 21W,1,FL290010S0210W0,1S 21W,overlap,agree
+796,1S 22E,1,FL290010S0220E0,1S 22E,overlap,agree
+797,1S 22W,1,FL290010S0220W0,1S 22W,overlap,agree
+798,1S 23E,1,FL290010S0230E0,1S 23E,overlap,agree
+799,1S 23W,1,FL290010S0230W0,1S 23W,overlap,agree
+800,1N 24E,1,FL290010N0240E0,1N 24E,overlap,agree
+801,1S 24E,1,FL290010S0240E0,1S 24E,overlap,agree
+802,1S 24W,1,FL290010S0240W0,1S 24W,overlap,agree
+803,1N 25E,1,FL290010N0250E0,1N 25E,overlap,agree
+804,1S 25E,1,FL290010S0250E0,1S 25E,overlap,agree
+805,1S 25W,1,FL290010S0250W0,1S 25W,overlap,agree
+806,1N 26E,1,FL290010N0260E0,1N 26E,overlap,agree
+807,1N 26W,1,FL290010N0260W0,1N 26W,overlap,agree
+808,1S 26E,1,FL290010S0260E0,1S 26E,overlap,agree
+809,1S 26W,1,FL290010S0260W0,1S 26W,overlap,agree
+810,1N 27E,1,FL290010N0270E0,1N 27E,overlap,agree
+811,1S 27E,1,FL290010S0270E0,1S 27E,overlap,agree
+812,1S 27W,1,FL290010S0270W0,1S 27W,overlap,agree
+813,1N 28W,1,FL290010N0280W0,1N 28W,overlap,agree
+814,1S 28E,1,FL290010S0280E0,1S 28E,overlap,agree
+815,1S 28W,1,FL290010S0280W0,1S 28W,overlap,agree
+816,1N 29W,1,FL290010N0290W0,1N 29W,overlap,agree
+817,1S 29W,1,FL290010S0290W0,1S 29W,overlap,agree
+818,1N 30W,1,FL290010N0300W0,1N 30W,overlap,agree
+819,1S 30W,1,FL290010S0300W0,1S 30W,overlap,agree
+820,1N 31W,1,FL290010N0310W0,1N 31W,overlap,agree
+821,1S 31W,1,FL290010S0310W0,1S 31W,overlap,agree
+822,1N 32W,1,FL290010N0320W0,1N 32W,overlap,agree
+823,1S 32W,1,FL290010S0320W0,1S 32W,overlap,agree
+824,2N 1E,1,FL290020N0010E0,2N 1E,overlap,agree
+825,2N 1W,1,FL290020N0010W0,2N 1W,overlap,agree
+826,2N 2E,1,FL290020N0020E0,2N 2E,overlap,agree
+827,2N 2W,1,FL290020N0020W0,2N 2W,overlap,agree
+828,2S 2E,1,FL290020S0020E0,2S 2E,overlap,agree
+829,2N 3W,1,FL290020N0030W0,2N 3W,overlap,agree
+830,2S 3E,1,FL290020S0030E0,2S 3E,overlap,agree
+831,2N 4E,1,FL290020N0040E0,2N 4E,overlap,agree
+832,2N 4W,1,FL290020N0040W0,2N 4W,overlap,agree
+833,2S 4E,2,FL290020S0040E0,2S 4E,overlap,agree; duplicate FGDL label
+834,2N 5E,1,FL290020N0050E0,2N 5E,overlap,agree
+835,2N 5W,1,FL290020N0050W0,2N 5W,overlap,agree
+836,2S 5E,1,FL290020S0050E0,2S 5E,overlap,agree
+837,2N 6E,1,FL290020N0060E0,2N 6E,overlap,agree
+838,2N 6W,1,FL290020N0060W0,2N 6W,overlap,agree
+839,2S 6E,1,FL290020S0060E0,2S 6E,overlap,agree
+840,2N 7E,1,FL290020N0070E0,2N 7E,overlap,agree
+841,2N 7W,1,FL290020N0070W0,2N 7W,overlap,agree
+842,2S 7E,1,FL290020S0070E0,2S 7E,overlap,agree
+843,2N 8E,1,FL290020N0080E0,2N 8E,overlap,agree
+844,2S 8E,1,FL290020S0080E0,2S 8E,overlap,agree
+845,2S 9E,1,FL290020S0090E0,2S 9E,overlap,agree
+846,2S 9W,1,FL290020S0090W0,2S 9W,overlap,agree
+847,2S 10E,1,FL290020S0100E0,2S 10E,overlap,agree
+848,2S 10W,1,FL290020S0100W0,2S 10W,overlap,agree
+849,2S 11E,1,FL290020S0110E0,2S 11E,overlap,agree
+850,2S 11W,1,FL290020S0110W0,2S 11W,overlap,agree
+851,2N 12E,2,FL290020N0120E0,2N 12E,overlap,agree; duplicate FGDL label
+852,2S 12E,1,FL290020S0120E0,2S 12E,overlap,agree
+853,2S 12W,1,FL290020S0120W0,2S 12W,overlap,agree
+854,2N 13E,2,FL290020N0130E0,2N 13E,overlap,agree; duplicate FGDL label
+855,2S 13W,1,FL290020S0130W0,2S 13W,overlap,agree
+856,2N 14E,1,FL290020N0140E0,2N 14E,overlap,agree
+857,2S 14E,1,FL290020S0140E0,2S 14E,overlap,agree
+858,2S 14W,1,FL290020S0140W0,2S 14W,overlap,agree
+859,2N 15E,1,FL290020N0150E0,2N 15E,overlap,agree
+860,2S 15E,1,FL290020S0150E0,2S 15E,overlap,agree
+861,2S 15W,1,FL290020S0150W0,2S 15W,overlap,agree
+862,2N 16E,1,FL290020N0160E0,2N 16E,overlap,agree
+863,2N 16W,1,FL290020N0160W0,2N 16W,overlap,agree
+864,2S 16E,1,FL290020S0160E0,2S 16E,overlap,agree
+865,2S 16W,1,FL290020S0160W0,2S 16W,overlap,agree
+866,2N 17W,1,FL290020N0170W0,2N 17W,overlap,agree
+867,2S 17W,1,FL290020S0170W0,2S 17W,overlap,agree
+868,2S 18W,1,FL290020S0180W0,2S 18W,overlap,agree
+869,2S 20W,1,FL290020S0200W0,2S 20W,overlap,agree
+870,2N 21E,1,FL290020N0210E0,2N 21E,overlap,agree
+871,2S 21W,1,FL290020S0210W0,2S 21W,overlap,agree
+872,2S 22E,1,FL290020S0220E0,2S 22E,overlap,agree
+873,2S 22W,1,FL290020S0130W0,2S 13W,overlap,label differs
+874,2N 23E,1,FL290020N0230E0,2N 23E,overlap,agree
+875,2N 23W,1,FL290020N0230W0,2N 23W,overlap,agree
+876,2S 23E,1,FL290020S0230E0,2S 23E,overlap,agree
+877,2S 23W,2,FL290020S0230W0,2S 23W,overlap,agree; duplicate FGDL label
+878,2N 24E,1,FL290020N0240E0,2N 24E,overlap,agree
+879,2N 24W,1,FL290020N0240W0,2N 24W,overlap,agree
+880,2S 24E,1,FL290020S0240E0,2S 24E,overlap,agree
+881,2S 24W,1,FL290020S0240W0,2S 24W,overlap,agree
+882,2N 25E,1,FL290020N0250E0,2N 25E,overlap,agree
+883,2N 25W,1,FL290020N0250W0,2N 25W,overlap,agree
+884,2S 25E,1,FL290020S0250E0,2S 25E,overlap,agree
+885,2S 25W,1,FL290020S0250W0,2S 25W,overlap,agree
+886,2N 26W,1,FL290020N0260W0,2N 26W,overlap,agree
+887,2S 26E,1,FL290020S0260E0,2S 26E,overlap,agree
+888,2S 26W,1,FL290020S0260W0,2S 26W,overlap,agree
+889,2N 27E,1,FL290020N0270E0,2N 27E,overlap,agree
+890,2S 27E,1,FL290020S0270E0,2S 27E,overlap,agree
+891,2S 27W,2,FL290020S0270W0,2S 27W,overlap,agree; duplicate FGDL label
+892,2N 28E,2,FL290020N0280E0,2N 28E,overlap,agree; duplicate FGDL label
+893,2N 28W,1,FL290020N0280W0,2N 28W,overlap,agree
+894,2S 28E,1,FL290020S0280E0,2S 28E,overlap,agree
+895,2S 28W,2,FL290020S0280W0,2S 28W,overlap,agree; duplicate FGDL label
+896,2N 29W,1,FL290020N0290W0,2N 29W,overlap,agree
+897,2S 29E,1,FL290020S0290E0,2S 29E,overlap,agree
+898,2S 29W,1,FL290020S0290W0,2S 29W,overlap,agree
+899,2S 30W,1,FL290020S0300W0,2S 30W,overlap,agree
+900,2N 31W,1,FL290020N0310W0,2N 31W,overlap,agree
+901,2N 30W,1,FL290020N0300W0,2N 30W,overlap,agree
+902,2N 32W,1,FL290020N0320W0,2N 32W,overlap,agree
+903,2S 32W,1,FL290020S0320W0,2S 32W,overlap,agree
+904,2N 33W,1,FL290020N0330W0,2N 33W,overlap,agree
+905,3S 1E,1,FL290030S0010E0,3S 1E,overlap,agree
+906,3N 2E,2,FL290030N0020E0,3N 2E,overlap,agree; duplicate FGDL label
+907,3N 2W,2,FL290030N0020W0,3N 2W,overlap,agree; duplicate FGDL label
+908,3S 2E,1,FL290030S0020E0,3S 2E,overlap,agree
+909,3N 3E,2,FL290030N0030E0,3N 3E,overlap,agree; duplicate FGDL label
+910,3N 3W,1,FL290030N0030W0,3N 3W,overlap,agree
+911,3S 3E,1,FL290030S0030E0,3S 3E,overlap,agree
+912,3N 4E,2,FL290030N0040E0,3N 4E,overlap,agree; duplicate FGDL label
+913,3N 4W,1,FL290030N0040W0,3N 4W,overlap,agree
+914,3S 4E,1,FL290030S0040E0,3S 4E,overlap,agree
+915,3N 5W,1,FL290030N0050W0,3N 5W,overlap,agree
+916,3S 5E,1,FL290030S0050E0,3S 5E,overlap,agree
+917,3N 6W,1,FL290030N0060W0,3N 6W,overlap,agree
+918,3S 6E,1,FL290030S0060E0,3S 6E,overlap,agree
+919,3N 7E,2,FL290030N0070E0,3N 7E,overlap,agree; duplicate FGDL label
+920,3N 7W,1,FL290030N0070W0,3N 7W,overlap,agree
+921,3S 7E,1,FL290030S0070E0,3S 7E,overlap,agree
+922,3N 8E,1,FL290030N0080E0,3N 8E,overlap,agree
+923,3N 8W,1,FL290030N0080W0,3N 8W,overlap,agree
+924,3S 8E,1,FL290030S0080E0,3S 8E,overlap,agree
+925,3N 9E,1,FL290030N0090E0,3N 9E,overlap,agree
+926,3S 9E,1,FL290020S0090E0,2S 9E,overlap,label differs
+927,3S 9W,1,FL290030S0090W0,3S 9W,overlap,agree
+928,3N 10E,1,FL290030N0100E0,3N 10E,overlap,agree
+929,3S 10E,1,FL290030S0100E0,3S 10E,overlap,agree
+930,3S 10W,1,FL290030S0100W0,3S 10W,overlap,agree
+931,3N 11E,1,FL290030N0110E0,3N 11E,overlap,agree
+932,3S 11E,1,FL290030S0110E0,3S 11E,overlap,agree
+933,3N 12E,1,FL290030N0120E0,3N 12E,overlap,agree
+934,3S 12E,1,FL290030S0120E0,3S 12E,overlap,agree
+935,3S 12W,1,FL290030S0120W0,3S 12W,overlap,agree
+936,3S 13E,1,FL290030S0130E0,3S 13E,overlap,agree
+937,3S 13W,1,FL290030S0130W0,3S 13W,overlap,agree
+938,3S 14E,1,FL290030S0140E0,3S 14E,overlap,agree
+939,3S 14W,1,FL290030S0140W0,3S 14W,overlap,agree
+940,3S 15W,1,FL290030S0150W0,3S 15W,overlap,agree
+941,3N 16W,1,FL290030N0160W0,3N 16W,overlap,agree
+942,3S 16W,1,FL290030S0160W0,3S 16W,overlap,agree
+943,3N 17W,1,FL290030N0170W0,3N 17W,overlap,agree
+944,3S 17W,1,FL290030S0170W0,3S 17W,overlap,agree
+945,3S 18W,1,FL290030S0180W0,3S 18W,overlap,agree
+946,3S 19W,1,FL290030S0190W0,3S 19W,overlap,agree
+947,3S 20W,1,FL290030S0200W0,3S 20W,overlap,agree
+948,3S 22E,1,FL290030S0220E0,3S 22E,overlap,agree
+949,3N 23E,1,FL290030N0230E0,3N 23E,overlap,agree
+950,3S 23E,1,FL290030S0230E0,3S 23E,overlap,agree
+951,3N 24E,1,FL290030N0240E0,3N 24E,overlap,agree
+952,3S 24E,1,FL290030S0240E0,3S 24E,overlap,agree
+953,3N 25E,1,FL290030N0250E0,3N 25E,overlap,agree
+954,3S 25E,1,FL290030S0250E0,3S 25E,overlap,agree
+955,3N 26E,1,FL290030N0260E0,3N 26E,overlap,agree
+956,3S 26E,1,FL290030S0260E0,3S 26E,overlap,agree
+957,3N 27E,1,FL290030N0270E0,3N 27E,overlap,agree
+958,3S 27E,1,FL290030S0270E0,3S 27E,overlap,agree
+959,3S 27W,1,FL290030S0050E0,3S 5E,nearest,label differs; no BLM overlap (nearest 69.9 km)
+960,3N 28E,2,FL290030N0280E0,3N 28E,overlap,agree; duplicate FGDL label
+961,3S 28E,1,FL290030S0280E0,3S 28E,overlap,agree
+962,3S 28W,2,FL290030S0050E0,3S 5E,nearest,label differs; duplicate FGDL label; no BLM overlap (nearest 64.6 km)
+963,3N 29W,1,FL290030N0290W0,3N 29W,overlap,agree
+964,3S 29W,1,FL290030S0290W0,3S 29W,overlap,agree
+965,3N 30W,1,FL290030N0300W0,3N 30W,overlap,agree
+966,3S 30W,2,FL290030S0300W0,3S 30W,overlap,agree; duplicate FGDL label
+967,3N 31W,1,FL290030N0310W0,3N 31W,overlap,agree
+968,3N 32W,1,FL290030N0320W0,3N 32W,overlap,agree
+969,3S 32W,2,FL290030S0320W0,3S 32W,overlap,agree; duplicate FGDL label
+970,3N 33W,1,FL290030N0330W0,3N 33W,overlap,agree
+971,4S 1E,1,FL290040S0010E0,4S 1E,overlap,agree
+972,4S 2E,1,FL290040S0020E0,4S 2E,overlap,agree
+973,4S 3E,1,FL290040S0030E0,4S 3E,overlap,agree
+974,4S 4E,1,FL290040S0040E0,4S 4E,overlap,agree
+975,4S 5E,1,FL290040S0050E0,4S 5E,overlap,agree
+976,4N 6W,1,FL290040N0060W0,4N 6W,overlap,agree
+977,4S 6E,1,FL290040S0060E0,4S 6E,overlap,agree
+978,4N 7W,1,FL290040N0070W0,4N 7W,overlap,agree
+979,4S 7E,2,FL290040S0070E0,4S 7E,overlap,agree; duplicate FGDL label
+980,4S 8E,1,FL290040S0080E0,4S 8E,overlap,agree
+981,4S 9E,1,FL290040S0090E0,4S 9E,overlap,agree
+982,4S 10E,1,FL290040S0100E0,4S 10E,overlap,agree
+983,4S 10W,1,FL290040S0100W0,4S 10W,overlap,agree
+984,4S 11E,1,FL290040S0110E0,4S 11E,overlap,agree
+985,4S 11W,1,FL290040S0110W0,4S 11W,overlap,agree
+986,4S 12E,1,FL290040S0120E0,4S 12E,overlap,agree
+987,4S 12W,1,FL290040S0120W0,4S 12W,overlap,agree
+988,4S 13E,1,FL290040S0130E0,4S 13E,overlap,agree
+989,4S 13W,1,FL290040S0130W0,4S 13W,overlap,agree
+990,4S 14E,1,FL290040S0140E0,4S 14E,overlap,agree
+991,4S 14W,1,FL290040S0140W0,4S 14W,overlap,agree
+992,4S 15W,2,FL290040S0150W0,4S 15W,overlap,agree; duplicate FGDL label
+993,4N 16W,1,FL290040N0160W0,4N 16W,overlap,agree
+994,4S 16W,1,FL290040S0160W0,4S 16W,overlap,agree
+995,4S 20E,1,FL290040S0200E0,4S 20E,overlap,agree
+996,4S 21E,1,FL290040S0210E0,4S 21E,overlap,agree
+997,4S 22E,1,FL290040S0220E0,4S 22E,overlap,agree
+998,4N 23E,1,FL290040N0230E0,4N 23E,overlap,agree
+999,4S 23E,1,FL290040S0230E0,4S 23E,overlap,agree
+1000,4N 24E,1,FL290040N0240E0,4N 24E,overlap,agree
+1001,4S 24E,1,FL290040S0240E0,4S 24E,overlap,agree
+1002,4N 25E,1,FL290040N0250E0,4N 25E,overlap,agree
+1003,4S 25E,1,FL290040S0250E0,4S 25E,overlap,agree
+1004,4N 26E,1,FL290040N0260E0,4N 26E,overlap,agree
+1005,4S 26E,2,FL290040S0260E0,4S 26E,overlap,agree; duplicate FGDL label
+1006,4N 27E,1,FL290040N0270E0,4N 27E,overlap,agree
+1007,4S 27E,1,FL290040S0270E0,4S 27E,overlap,agree
+1008,4N 28W,1,FL290040N0280W0,4N 28W,overlap,agree
+1009,4S 28E,1,FL290040S0280E0,4S 28E,overlap,agree
+1010,4N 29W,1,FL290040N0290W0,4N 29W,overlap,agree
+1011,4N 31W,1,FL290040N0310W0,4N 31W,overlap,agree
+1012,4N 32W,1,FL290040N0320W0,4N 32W,overlap,agree
+1013,4N 33W,1,FL290040N0330W0,4N 33W,overlap,agree
+1014,4N 34W,1,FL290040N0340W0,4N 34W,overlap,agree
+1015,5S 1W,1,FL290050S0010W0,5S 1W,overlap,agree
+1016,5S 2E,1,FL290050S0020E0,5S 2E,overlap,agree
+1017,5S 3E,1,FL290040S0030E0,4S 3E,overlap,label differs
+1018,5S 4E,1,FL290050S0040E0,5S 4E,overlap,agree
+1019,5S 5E,1,FL290050S0050E0,5S 5E,overlap,agree
+1020,5S 6E,2,FL290050S0060E0,5S 6E,overlap,agree; duplicate FGDL label
+1021,5N 7W,1,FL290050N0070W0,5N 7W,overlap,agree
+1022,5S 7E,2,FL290050S0070E0,5S 7E,overlap,agree; duplicate FGDL label
+1023,5N 8W,1,FL290050N0080W0,5N 8W,overlap,agree
+1024,5S 8E,1,FL290050S0080E0,5S 8E,overlap,agree
+1025,5S 9E,1,FL290050S0090E0,5S 9E,overlap,agree
+1026,5S 10W,1,FL290050S0100W0,5S 10W,overlap,agree
+1027,5S 11E,1,FL290050S0110E0,5S 11E,overlap,agree
+1028,5S 11W,1,FL290050S0110W0,5S 11W,overlap,agree
+1029,5S 12E,1,FL290050S0120E0,5S 12E,overlap,agree
+1030,5S 12W,1,FL290050S0120W0,5S 12W,overlap,agree
+1031,5S 13E,1,FL290050S0130E0,5S 13E,overlap,agree
+1032,5S 13W,1,FL290050S0130W0,5S 13W,overlap,agree
+1033,5S 14E,1,FL290050S0140E0,5S 14E,overlap,agree
+1034,5S 14W,1,FL290050S0140W0,5S 14W,overlap,agree
+1035,5N 16W,1,FL290050N0160W0,5N 16W,overlap,agree
+1036,5S 19E,1,FL290050S0190E0,5S 19E,overlap,agree
+1037,5S 20E,1,FL290050S0200E0,5S 20E,overlap,agree
+1038,5S 21E,1,FL290050S0210E0,5S 21E,overlap,agree
+1039,5S 22E,1,FL290050S0220E0,5S 22E,overlap,agree
+1040,5N 23E,1,FL290050N0230E0,5N 23E,overlap,agree
+1041,5S 23E,1,FL290050S0230E0,5S 23E,overlap,agree
+1042,5S 24E,1,FL290050S0240E0,5S 24E,overlap,agree
+1043,5S 25E,1,FL290050S0250E0,5S 25E,overlap,agree
+1044,5S 26E,1,FL290050S0260E0,5S 26E,overlap,agree
+1045,5S 27E,1,FL290050S0270E0,5S 27E,overlap,agree
+1046,5S 28E,1,FL290050S0280E0,5S 28E,overlap,agree
+1047,5N 29W,1,FL290050N0290W0,5N 29W,overlap,agree
+1048,5S 29E,1,FL290050S0290E0,5S 29E,overlap,agree
+1049,5N 30W,1,FL290050N0300W0,5N 30W,overlap,agree
+1050,5N 31W,1,FL290050N0310W0,5N 31W,overlap,agree
+1051,5N 32W,1,FL290050N0320W0,5N 32W,overlap,agree
+1052,5N 33W,1,FL290050N0330W0,5N 33W,overlap,agree
+1053,5N 34W,1,FL290050N0340W0,5N 34W,overlap,agree
+1054,6S 1W,1,FL290060S0010W0,6S 1W,overlap,agree
+1055,6S 2W,1,FL290060S0020W0,6S 2W,overlap,agree
+1056,6S 3W,1,FL290060S0030W0,6S 3W,overlap,agree
+1057,6S 5E,2,FL290050S0050E0,5S 5E,overlap,label differs; duplicate FGDL label
+1058,6S 6E,2,FL290060S0060E0,6S 6E,overlap,agree; duplicate FGDL label
+1059,6N 7W,1,FL290060N0070W0,6N 7W,overlap,agree
+1060,11S 9E,2,FL290110S0090E0,11S 9E,overlap,agree; duplicate FGDL label
+1061,11S 10E,1,FL290110S0100E0,11S 10E,overlap,agree
+1062,11S 11E,1,FL290110S0110E0,11S 11E,overlap,agree
+1063,11S 13E,1,FL290110S0130E0,11S 13E,overlap,agree
+1064,11S 14E,1,FL290110S0140E0,11S 14E,overlap,agree
+1065,11S 15E,1,FL290110S0150E0,11S 15E,overlap,agree
+1066,11S 16E,1,FL290110S0160E0,11S 16E,overlap,agree
+1067,11S 17E,1,FL290110S0170E0,11S 17E,overlap,agree
+1068,11S 18E,1,FL290110S0180E0,11S 18E,overlap,agree
+1069,11S 19E,1,FL290110S0190E0,11S 19E,overlap,agree
+1070,11S 20E,1,FL290110S0200E0,11S 20E,overlap,agree
+1071,11S 21E,1,FL290110S0210E0,11S 21E,overlap,agree
+1072,11S 22E,1,FL290110S0220E0,11S 22E,overlap,agree
+1073,11S 23E,1,FL290110S0230E0,11S 23E,overlap,agree
+1074,11S 24E,1,FL290110S0240E0,11S 24E,overlap,agree
+1075,11S 25E,1,FL290110S0250E0,11S 25E,overlap,agree
+1076,11S 26E,1,FL290110S0260E0,11S 26E,overlap,agree
+1077,11S 27E,1,FL290110S0270E0,11S 27E,overlap,agree
+1078,11S 29E,1,FL290110S0290E0,11S 29E,overlap,agree
+1079,11S 30E,1,FL290110S0300E0,11S 30E,overlap,agree
+1080,11S 31E,1,FL290110S0310E0,11S 31E,overlap,agree
+1081,12S 10E,1,FL290120S0100E0,12S 10E,overlap,agree
+1082,12S 11E,1,FL290120S0110E0,12S 11E,overlap,agree
+1083,12S 12E,1,FL290120S0120E0,12S 12E,overlap,agree
+1084,12S 13E,1,FL290120S0130E0,12S 13E,overlap,agree
+1085,12S 14E,1,FL290120S0140E0,12S 14E,overlap,agree
+1086,12S 15E,1,FL290120S0150E0,12S 15E,overlap,agree
+1087,12S 16E,1,FL290120S0160E0,12S 16E,overlap,agree
+1088,12S 17E,1,FL290120S0170E0,12S 17E,overlap,agree
+1089,12S 18E,1,FL290120S0180E0,12S 18E,overlap,agree
+1090,12S 19E,1,FL290120S0190E0,12S 19E,overlap,agree
+1091,12S 20E,1,FL290120S0200E0,12S 20E,overlap,agree
+1092,12S 21E,2,FL290120S0210E0,12S 21E,overlap,agree; duplicate FGDL label
+1093,12S 22E,1,FL290120S0220E0,12S 22E,overlap,agree
+1094,12S 24E,1,FL290120S0240E0,12S 24E,overlap,agree
+1095,12S 25E,1,FL290120S0250E0,12S 25E,overlap,agree
+1096,12S 26E,1,FL290120S0260E0,12S 26E,overlap,agree
+1097,12S 27E,1,FL290120S0270E0,12S 27E,overlap,agree
+1098,12S 28E,1,FL290120S0280E0,12S 28E,overlap,agree
+1099,12S 29E,1,FL290120S0290E0,12S 29E,overlap,agree
+1100,12S 30E,1,FL290120S0300E0,12S 30E,overlap,agree
+1101,12S 31E,1,FL290120S0310E0,12S 31E,overlap,agree
+1102,12S 32E,1,FL290120S0320E0,12S 32E,overlap,agree
+1103,13S 11E,1,FL290130S0110E0,13S 11E,overlap,agree
+1104,13S 12E,1,FL290130S0120E0,13S 12E,overlap,agree
+1105,13S 13E,1,FL290130S0130E0,13S 13E,overlap,agree
+1106,13S 14E,1,FL290130S0140E0,13S 14E,overlap,agree
+1107,13S 15E,1,FL290130S0150E0,13S 15E,overlap,agree
+1108,13S 16E,1,FL290130S0160E0,13S 16E,overlap,agree
+1109,13S 18E,1,FL290130S0180E0,13S 18E,overlap,agree
+1110,13S 19E,1,FL290130S0190E0,13S 19E,overlap,agree
+1111,13S 20E,1,FL290130S0200E0,13S 20E,overlap,agree
+1112,13S 21E,1,FL290130S0210E0,13S 21E,overlap,agree
+1113,13S 22E,1,FL290130S0220E0,13S 22E,overlap,agree
+1114,13S 23E,1,FL290130S0230E0,13S 23E,overlap,agree
+1115,13S 24E,1,FL290130S0240E0,13S 24E,overlap,agree
+1116,13S 25E,1,FL290130S0250E0,13S 25E,overlap,agree
+1117,13S 26E,1,FL290130S0260E0,13S 26E,overlap,agree
+1118,13S 27E,1,FL290130S0270E0,13S 27E,overlap,agree
+1119,13S 28E,2,FL290130S0280E0,13S 28E,overlap,agree; duplicate FGDL label
+1120,13S 29E,1,FL290130S0290E0,13S 29E,overlap,agree
+1121,13S 30E,1,FL290130S0300E0,13S 30E,overlap,agree
+1122,13S 31E,1,FL290130S0310E0,13S 31E,overlap,agree
+1123,13S 32E,1,FL290130S0320E0,13S 32E,overlap,agree
+1124,14S 12E,1,FL290140S0120E0,14S 12E,overlap,agree
+1125,14S 14E,1,FL290140S0140E0,14S 14E,overlap,agree
+1126,14S 15E,1,FL290140S0150E0,14S 15E,overlap,agree
+1127,14S 16E,1,FL290140S0160E0,14S 16E,overlap,agree
+1128,14S 17E,1,FL290140S0170E0,14S 17E,overlap,agree
+1129,14S 18E,1,FL290140S0180E0,14S 18E,overlap,agree
+1130,14S 19E,1,FL290140S0190E0,14S 19E,overlap,agree
+1131,14S 20E,1,FL290140S0200E0,14S 20E,overlap,agree
+1132,14S 21E,1,FL290140S0210E0,14S 21E,overlap,agree
+1133,14S 22E,1,FL290140S0220E0,14S 22E,overlap,agree
+1134,14S 23E,1,FL290140S0230E0,14S 23E,overlap,agree
+1135,14S 24E,1,FL290140S0240E0,14S 24E,overlap,agree
+1136,14S 25E,1,FL290140S0250E0,14S 25E,overlap,agree
+1137,14S 26E,1,FL290140S0260E0,14S 26E,overlap,agree
+1138,14S 28E,1,FL290140S0280E0,14S 28E,overlap,agree
+1139,14S 29E,1,FL290140S0290E0,14S 29E,overlap,agree
+1140,14S 30E,1,FL290140S0300E0,14S 30E,overlap,agree
+1141,14S 31E,1,FL290140S0310E0,14S 31E,overlap,agree
+1142,14S 32E,1,FL290140S0320E0,14S 32E,overlap,agree
+1143,15S 13E,2,FL290150S0130E0,15S 13E,overlap,agree; duplicate FGDL label
+1144,15S 14E,1,FL290150S0140E0,15S 14E,overlap,agree
+1145,15S 15E,1,FL290150S0150E0,15S 15E,overlap,agree
+1146,15S 16E,1,FL290150S0160E0,15S 16E,overlap,agree
+1147,15S 17E,1,FL290150S0170E0,15S 17E,overlap,agree
+1148,15S 18E,1,FL290150S0180E0,15S 18E,overlap,agree
+1149,15S 19E,1,FL290150S0190E0,15S 19E,overlap,agree
+1150,15S 20E,1,FL290150S0200E0,15S 20E,overlap,agree
+1151,15S 21E,1,FL290150S0210E0,15S 21E,overlap,agree
+1152,15S 22E,1,FL290150S0220E0,15S 22E,overlap,agree
+1153,15S 23E,1,FL290150S0230E0,15S 23E,overlap,agree
+1154,15S 24E,1,FL290150S0240E0,15S 24E,overlap,agree
+1155,15S 26E,1,FL290150S0260E0,15S 26E,overlap,agree
+1156,15S 27E,1,FL290150S0270E0,15S 27E,overlap,agree
+1157,15S 29E,1,FL290150S0290E0,15S 29E,overlap,agree
+1158,15S 30E,1,FL290150S0300E0,15S 30E,overlap,agree
+1159,15S 31E,1,FL290150S0310E0,15S 31E,overlap,agree
+1160,15S 28E,1,FL290150S0280E0,15S 28E,overlap,agree
+1161,15S 32E,1,FL290150S0320E0,15S 32E,overlap,agree
+1162,15S 33E,1,FL290150S0330E0,15S 33E,overlap,agree
+1163,16S 15E,1,FL290160S0150E0,16S 15E,overlap,agree
+1164,16S 16E,1,FL290160S0160E0,16S 16E,overlap,agree
+1165,16S 17E,1,FL290160S0170E0,16S 17E,overlap,agree
+1166,16S 18E,1,FL290160S0180E0,16S 18E,overlap,agree
+1167,16S 19E,1,FL290160S0190E0,16S 19E,overlap,agree
+1168,16S 20E,1,FL290160S0200E0,16S 20E,overlap,agree
+1169,16S 21E,1,FL290160S0210E0,16S 21E,overlap,agree
+1170,16S 22E,1,FL290160S0220E0,16S 22E,overlap,agree
+1171,16S 24E,1,FL290160S0240E0,16S 24E,overlap,agree
+1172,16S 25E,1,FL290160S0250E0,16S 25E,overlap,agree
+1173,16S 26E,1,FL290160S0260E0,16S 26E,overlap,agree
+1174,16S 27E,1,FL290160S0270E0,16S 27E,overlap,agree
+1175,16S 28E,1,FL290160S0280E0,16S 28E,overlap,agree
+1176,16S 29E,1,FL290160S0290E0,16S 29E,overlap,agree
+1177,16S 30E,1,FL290160S0300E0,16S 30E,overlap,agree
+1178,16S 31E,1,FL290160S0310E0,16S 31E,overlap,agree
+1179,16S 32E,1,FL290160S0320E0,16S 32E,overlap,agree
+1180,16S 33E,2,FL290160S0330E0,16S 33E,overlap,agree; duplicate FGDL label
+1181,16S 34E,1,FL290160S0340E0,16S 34E,overlap,agree
+1182,17S 15E,1,FL290170S0150E0,17S 15E,overlap,agree
+1183,17S 16E,1,FL290170S0160E0,17S 16E,overlap,agree
+1184,17S 17E,1,FL290170S0170E0,17S 17E,overlap,agree
+1185,17S 18E,1,FL290170S0180E0,17S 18E,overlap,agree
+1186,17S 20E,1,FL290170S0200E0,17S 20E,overlap,agree
+1187,17S 21E,1,FL290170S0210E0,17S 21E,overlap,agree
+1188,17S 22E,1,FL290170S0220E0,17S 22E,overlap,agree
+1189,17S 23E,1,FL290170S0230E0,17S 23E,overlap,agree
+1190,17S 24E,1,FL290170S0240E0,17S 24E,overlap,agree
+1191,17S 25E,1,FL290170S0250E0,17S 25E,overlap,agree
+1192,17S 26E,1,FL290170S0260E0,17S 26E,overlap,agree
+1193,17S 27E,1,FL290170S0270E0,17S 27E,overlap,agree
+1194,17S 28E,1,FL290170S0280E0,17S 28E,overlap,agree
+1195,17S 29E,1,FL290170S0290E0,17S 29E,overlap,agree
+1196,17S 30E,1,FL290170S0300E0,17S 30E,overlap,agree
+1197,17S 31E,1,FL290170S0310E0,17S 31E,overlap,agree
+1198,17S 32E,1,FL290170S0320E0,17S 32E,overlap,agree
+1199,17S 33E,1,FL290170S0330E0,17S 33E,overlap,agree
+1200,17S 34E,1,FL290170S0340E0,17S 34E,overlap,agree
+1201,17S 35E,1,FL290170S0350E0,17S 35E,overlap,agree
+1202,18S 17E,1,FL290180S0170E0,18S 17E,overlap,agree
+1203,18S 18E,1,FL290180S0180E0,18S 18E,overlap,agree
+1204,18S 19E,1,FL290180S0190E0,18S 19E,overlap,agree
+1205,18S 20E,1,FL290180S0200E0,18S 20E,overlap,agree
+1206,18S 21E,1,FL290180S0210E0,18S 21E,overlap,agree
+1207,18S 22E,1,FL290180S0220E0,18S 22E,overlap,agree
+1208,18S 23E,1,FL290180S0230E0,18S 23E,overlap,agree
+1209,18S 24E,1,FL290180S0240E0,18S 24E,overlap,agree
+1210,18S 25E,1,FL290180S0250E0,18S 25E,overlap,agree
+1211,18S 26E,1,FL290180S0260E0,18S 26E,overlap,agree
+1212,18S 27E,1,FL290180S0270E0,18S 27E,overlap,agree
+1213,18S 28E,1,FL290180S0280E0,18S 28E,overlap,agree
+1214,18S 29E,1,FL290180S0290E0,18S 29E,overlap,agree
+1215,18S 30E,1,FL290180S0300E0,18S 30E,overlap,agree
+1216,18S 31E,1,FL290180S0310E0,18S 31E,overlap,agree
+1217,18S 33E,1,FL290180S0330E0,18S 33E,overlap,agree
+1218,18S 34E,1,FL290180S0340E0,18S 34E,overlap,agree
+1219,18S 35E,1,FL290180S0350E0,18S 35E,overlap,agree
+1220,19S 16E,1,FL290190S0160E0,19S 16E,overlap,agree
+1221,19S 17E,1,FL290190S0170E0,19S 17E,overlap,agree
+1222,19S 18E,1,FL290190S0180E0,19S 18E,overlap,agree
+1223,19S 19E,1,FL290190S0190E0,19S 19E,overlap,agree
+1224,19S 20E,1,FL290190S0200E0,19S 20E,overlap,agree
+1225,19S 21E,1,FL290190S0210E0,19S 21E,overlap,agree
+1226,19S 22E,1,FL290190S0220E0,19S 22E,overlap,agree
+1227,19S 23E,1,FL290190S0230E0,19S 23E,overlap,agree
+1228,19S 24E,1,FL290190S0240E0,19S 24E,overlap,agree
+1229,19S 25E,1,FL290190S0250E0,19S 25E,overlap,agree
+1230,19S 26E,1,FL290190S0260E0,19S 26E,overlap,agree
+1231,19S 27E,1,FL290190S0270E0,19S 27E,overlap,agree
+1232,19S 28E,1,FL290190S0280E0,19S 28E,overlap,agree
+1233,19S 30E,1,FL290190S0300E0,19S 30E,overlap,agree
+1234,19S 31E,1,FL290190S0310E0,19S 31E,overlap,agree
+1235,19S 32E,1,FL290190S0320E0,19S 32E,overlap,agree
+1236,19S 33E,1,FL290190S0330E0,19S 33E,overlap,agree
+1237,19S 34E,1,FL290190S0340E0,19S 34E,overlap,agree
+1238,19S 35E,1,FL290190S0350E0,19S 35E,overlap,agree
+1239,19S 36E,1,FL290190S0360E0,19S 36E,overlap,agree
+1240,20S 16E,1,FL290200S0160E0,20S 16E,overlap,agree
+1241,20S 17E,1,FL290200S0170E0,20S 17E,overlap,agree
+1242,20S 18E,1,FL290200S0180E0,20S 18E,overlap,agree
+1243,20S 19E,1,FL290200S0190E0,20S 19E,overlap,agree
+1244,20S 20E,1,FL290200S0200E0,20S 20E,overlap,agree
+1245,20S 21E,1,FL290200S0210E0,20S 21E,overlap,agree
+1246,20S 22E,1,FL290200S0220E0,20S 22E,overlap,agree
+1247,20S 23E,1,FL290200S0230E0,20S 23E,overlap,agree
+1248,20S 24E,1,FL290200S0240E0,20S 24E,overlap,agree
+1249,20S 26E,1,FL290200S0260E0,20S 26E,overlap,agree
+1250,20S 27E,1,FL290200S0270E0,20S 27E,overlap,agree
+1251,20S 28E,1,FL290200S0280E0,20S 28E,overlap,agree
+1252,20S 29E,1,FL290200S0290E0,20S 29E,overlap,agree
+1253,20S 30E,1,FL290200S0300E0,20S 30E,overlap,agree
+1254,20S 31E,1,FL290200S0310E0,20S 31E,overlap,agree
+1255,20S 32E,1,FL290200S0320E0,20S 32E,overlap,agree
+1256,20S 33E,1,FL290200S0330E0,20S 33E,overlap,agree
+1257,20S 34E,1,FL290200S0340E0,20S 34E,overlap,agree
+1258,20S 35E,1,FL290200S0350E0,20S 35E,overlap,agree
+1259,20S 36E,2,FL290200S0360E0,20S 36E,overlap,agree; duplicate FGDL label
+1260,21S 17E,1,FL290210S0170E0,21S 17E,overlap,agree
+1261,21S 18E,1,FL290210S0180E0,21S 18E,overlap,agree
+1262,21S 19E,1,FL290210S0190E0,21S 19E,overlap,agree
+1263,21S 20E,1,FL290210S0200E0,21S 20E,overlap,agree
+1264,21S 22E,1,FL290210S0220E0,21S 22E,overlap,agree
+1265,21S 23E,1,FL290210S0230E0,21S 23E,overlap,agree
+1266,21S 24E,1,FL290210S0240E0,21S 24E,overlap,agree
+1267,21S 25E,1,FL290210S0250E0,21S 25E,overlap,agree
+1268,6S 7E,1,FL290060S0070E0,6S 7E,overlap,agree
+1269,6N 8W,1,FL290060N0080W0,6N 8W,overlap,agree
+1270,6S 8E,1,FL290060S0080E0,6S 8E,overlap,agree
+1271,6S 9W,1,FL290060S0090W0,6S 9W,overlap,agree
+1272,6S 10E,1,FL290060S0100E0,6S 10E,overlap,agree
+1273,6S 10W,1,FL290060S0100W0,6S 10W,overlap,agree
+1274,6S 11E,1,FL290060S0110E0,6S 11E,overlap,agree
+1275,6S 11W,1,FL290060S0110W0,6S 11W,overlap,agree
+1276,6S 12E,1,FL290060S0120E0,6S 12E,overlap,agree
+1277,6S 12W,1,FL290060S0120W0,6S 12W,overlap,agree
+1278,6S 13E,1,FL290060S0130E0,6S 13E,overlap,agree
+1279,6S 13W,2,FL290060S0130W0,6S 13W,overlap,agree; duplicate FGDL label
+1280,6S 14E,1,FL290060S0140E0,6S 14E,overlap,agree
+1281,6S 15E,1,FL290060S0150E0,6S 15E,overlap,agree
+1282,8S 14E,1,FL290080S0140E0,8S 14E,overlap,agree
+1283,8S 15E,1,FL290080S0150E0,8S 15E,overlap,agree
+1284,8S 16E,1,FL290080S0160E0,8S 16E,overlap,agree
+1285,8S 17E,1,FL290080S0170E0,8S 17E,overlap,agree
+1286,8S 19E,1,FL290080S0190E0,8S 19E,overlap,agree
+1287,8S 20E,1,FL290080S0200E0,8S 20E,overlap,agree
+1288,8S 21E,1,FL290080S0210E0,8S 21E,overlap,agree
+1289,8S 22E,1,FL290080S0220E0,8S 22E,overlap,agree
+1290,8S 23E,1,FL290080S0230E0,8S 23E,overlap,agree
+1291,8S 24E,1,FL290080S0240E0,8S 24E,overlap,agree
+1292,8S 25E,1,FL290080S0250E0,8S 25E,overlap,agree
+1293,8S 26E,1,FL290080S0260E0,8S 26E,overlap,agree
+1294,8S 27E,1,FL290080S0270E0,8S 27E,overlap,agree
+1295,8S 28E,1,FL290080S0280E0,8S 28E,overlap,agree
+1296,8S 29E,1,FL290080S0290E0,8S 29E,overlap,agree
+1297,8S 30E,1,FL290080S0300E0,8S 30E,overlap,agree
+1298,9S 7W,2,FL290090S0070W0,9S 7W,overlap,agree; duplicate FGDL label
+1299,9S 8E,1,FL290090S0080E0,9S 8E,overlap,agree
+1300,9S 8W,1,FL290090S0080W0,9S 8W,overlap,agree
+1301,9S 9E,1,FL290090S0090E0,9S 9E,overlap,agree
+1302,9S 10E,1,FL290090S0100E0,9S 10E,overlap,agree
+1303,9S 10W,1,FL290090S0100W0,9S 10W,overlap,agree
+1304,9S 11E,1,FL290090S0110E0,9S 11E,overlap,agree
+1305,9S 11W,1,FL290090S0110W0,9S 11W,overlap,agree
+1306,9S 12E,1,FL290090S0120E0,9S 12E,overlap,agree
+1307,9S 13E,1,FL290090S0130E0,9S 13E,overlap,agree
+1308,9S 14E,1,FL290090S0140E0,9S 14E,overlap,agree
+1309,9S 15E,1,FL290090S0150E0,9S 15E,overlap,agree
+1310,9S 16E,1,FL290090S0160E0,9S 16E,overlap,agree
+1311,9S 17E,1,FL290090S0170E0,9S 17E,overlap,agree
+1312,9S 18E,1,FL290090S0180E0,9S 18E,overlap,agree
+1313,9S 19E,1,FL290090S0190E0,9S 19E,overlap,agree
+1314,9S 20E,1,FL290090S0200E0,9S 20E,overlap,agree
+1315,9S 21E,1,FL290090S0210E0,9S 21E,overlap,agree
+1316,9S 22E,1,FL290090S0220E0,9S 22E,overlap,agree
+1317,9S 24E,1,FL290090S0240E0,9S 24E,overlap,agree
+1318,9S 25E,1,FL290090S0250E0,9S 25E,overlap,agree
+1319,9S 26E,1,FL290090S0260E0,9S 26E,overlap,agree
+1320,9S 27E,1,FL290090S0270E0,9S 27E,overlap,agree
+1321,9S 28E,1,FL290090S0280E0,9S 28E,overlap,agree
+1322,9S 29E,1,FL290090S0290E0,9S 29E,overlap,agree
+1323,9S 30E,1,FL290090S0300E0,9S 30E,overlap,agree
+1324,32S 16E,2,FL290320S0160E0,32S 16E,overlap,agree; duplicate FGDL label
+1325,32S 17E,1,FL290320S0170E0,32S 17E,overlap,agree
+1326,32S 18E,1,FL290320S0180E0,32S 18E,overlap,agree
+1327,32S 19E,1,FL290320S0190E0,32S 19E,overlap,agree
+1328,32S 20E,1,FL290320S0200E0,32S 20E,overlap,agree
+1329,32S 21E,1,FL290320S0210E0,32S 21E,overlap,agree
+1330,32S 22E,1,FL290320S0220E0,32S 22E,overlap,agree
+1331,32S 23E,1,FL290320S0230E0,32S 23E,overlap,agree
+1332,32S 24E,1,FL290320S0240E0,32S 24E,overlap,agree
+1333,32S 26E,1,FL290320S0260E0,32S 26E,overlap,agree
+1334,32S 27E,1,FL290320S0270E0,32S 27E,overlap,agree
+1335,32S 28E,1,FL290320S0280E0,32S 28E,overlap,agree
+1336,32S 29E,1,FL290320S0290E0,32S 29E,overlap,agree
+1337,32S 30E,1,FL290320S0300E0,32S 30E,overlap,agree
+1338,32S 31E,1,FL290320S0310E0,32S 31E,overlap,agree
+1339,32S 32E,1,FL290320S0320E0,32S 32E,overlap,agree
+1340,32S 33E,1,FL290320S0330E0,32S 33E,overlap,agree
+1341,32S 34E,1,FL290320S0340E0,32S 34E,overlap,agree
+1342,32S 35E,1,FL290320S0350E0,32S 35E,overlap,agree
+1343,32S 36E,1,FL290330S0360E0,33S 36E,overlap,label differs
+1344,32S 37E,1,FL290330S0370E0,33S 37E,nearest,label differs; no BLM overlap (nearest 0.0 km)
+1345,32S 38E,1,FL290320S0380E0,32S 38E,overlap,agree
+1346,32S 39E,1,FL290320S0390E0,32S 39E,overlap,agree
+1347,33S 38E,1,FL290330S0380E0,33S 38E,overlap,agree
+1348,33S 40E,1,FL290330S0400E0,33S 40E,overlap,agree
+1349,34S 16E,1,FL290340S0160E0,34S 16E,overlap,agree
+1350,34S 17E,1,FL290340S0170E0,34S 17E,overlap,agree
+1351,34S 18E,1,FL290340S0180E0,34S 18E,overlap,agree
+1352,34S 19E,1,FL290340S0190E0,34S 19E,overlap,agree
+1353,34S 20E,1,FL290340S0200E0,34S 20E,overlap,agree
+1354,34S 21E,1,FL290340S0210E0,34S 21E,overlap,agree
+1355,34S 22E,1,FL290340S0220E0,34S 22E,overlap,agree
+1356,34S 23E,1,FL290340S0230E0,34S 23E,overlap,agree
+1357,34S 24E,1,FL290340S0240E0,34S 24E,overlap,agree
+1358,34S 25E,1,FL290340S0250E0,34S 25E,overlap,agree
+1359,34S 26E,1,FL290340S0260E0,34S 26E,overlap,agree
+1360,34S 27E,1,FL290340S0270E0,34S 27E,overlap,agree
+1361,34S 28E,1,FL290340S0280E0,34S 28E,overlap,agree
+1362,34S 29E,1,FL290340S0290E0,34S 29E,overlap,agree
+1363,34S 30E,1,FL290340S0300E0,34S 30E,overlap,agree
+1364,34S 32E,1,FL290340S0320E0,34S 32E,overlap,agree
+1365,34S 33E,1,FL290340S0330E0,34S 33E,overlap,agree
+1366,34S 34E,1,FL290340S0340E0,34S 34E,overlap,agree
+1367,34S 35E,1,FL290340S0350E0,34S 35E,overlap,agree
+1368,34S 36E,1,FL290340S0360E0,34S 36E,overlap,agree
+1369,6N 16W,1,FL290060N0160W0,6N 16W,overlap,agree
+1370,6S 16E,1,FL290060S0160E0,6S 16E,overlap,agree
+1371,6S 17E,1,FL290060S0170E0,6S 17E,overlap,agree
+1372,6N 18W,1,FL290060N0180W0,6N 18W,overlap,agree
+1373,6S 18E,1,FL290060S0180E0,6S 18E,overlap,agree
+1374,6N 19W,1,FL290060N0190W0,6N 19W,overlap,agree
+1375,6S 19E,1,FL290060S0190E0,6S 19E,overlap,agree
+1376,6N 20W,1,FL290060N0200W0,6N 20W,overlap,agree
+1377,6S 20E,1,FL290060S0200E0,6S 20E,overlap,agree
+1378,6N 21W,1,FL290060N0210W0,6N 21W,overlap,agree
+1379,6N 22W,1,FL290060N0220W0,6N 22W,overlap,agree
+1380,6S 22E,1,FL290060S0220E0,6S 22E,overlap,agree
+1381,6N 23W,2,FL290060N0230W0,6N 23W,overlap,agree; duplicate FGDL label
+1382,6S 23E,1,FL290060S0230E0,6S 23E,overlap,agree
+1383,6N 24W,2,FL290060N0240W0,6N 24W,overlap,agree; duplicate FGDL label
+1384,6S 24E,1,FL290060S0240E0,6S 24E,overlap,agree
+1385,6N 25W,2,FL290060N0250W0,6N 25W,overlap,agree; duplicate FGDL label
+1386,6S 25E,1,FL290060S0250E0,6S 25E,overlap,agree
+1387,6N 26W,2,FL290060N0260W0,6N 26W,overlap,agree; duplicate FGDL label
+1388,6S 26E,1,FL290060S0260E0,6S 26E,overlap,agree
+1389,6N 27W,1,FL290060N0270W0,6N 27W,overlap,agree
+1390,6S 27E,2,FL290060S0270E0,6S 27E,overlap,agree; duplicate FGDL label
+1391,6N 28W,2,FL290060N0280W0,6N 28W,overlap,agree; duplicate FGDL label
+1392,6S 28E,1,FL290060S0280E0,6S 28E,overlap,agree
+1393,6N 29W,1,FL290060N0290W0,6N 29W,overlap,agree
+1394,6S 29E,1,FL290060S0290E0,6S 29E,overlap,agree
+1395,6N 31W,1,FL290060N0310W0,6N 31W,overlap,agree
+1396,6N 32W,1,FL290060N0320W0,6N 32W,overlap,agree
+1397,6N 33W,1,FL290060N0330W0,6N 33W,overlap,agree
+1398,6N 34W,1,FL290060N0340W0,6N 34W,overlap,agree
+1399,7S 3W,1,FL290070S0030W0,7S 3W,overlap,agree
+1400,7S 4W,1,FL290070S0040W0,7S 4W,overlap,agree
+1401,7S 5W,1,FL290070S0050W0,7S 5W,overlap,agree
+1402,7S 6W,1,FL290070S0060W0,7S 6W,overlap,agree
+1403,7S 7E,1,FL290070S0070E0,7S 7E,overlap,agree
+1404,7S 7W,1,FL290070S0070W0,7S 7W,overlap,agree
+1405,7N 8W,3,FL290070N0080W0,7N 8W,overlap,agree; duplicate FGDL label
+1406,7S 8E,1,FL290070S0080E0,7S 8E,overlap,agree
+1407,7S 8W,1,FL290070S0080W0,7S 8W,overlap,agree
+1408,7N 9W,2,FL290070N0090W0,7N 9W,overlap,agree; duplicate FGDL label
+1409,7S 9E,1,FL290070S0090E0,7S 9E,overlap,agree
+1410,7N 10W,2,FL290070N0100W0,7N 10W,overlap,agree; duplicate FGDL label
+1411,7S 10E,1,FL290070S0100E0,7S 10E,overlap,agree
+1412,7S 10W,1,FL290070S0100W0,7S 10W,overlap,agree
+1413,7N 11W,2,FL290070N0110W0,7N 11W,overlap,agree; duplicate FGDL label
+1414,7S 11E,1,FL290070S0110E0,7S 11E,overlap,agree
+1415,7S 11W,1,FL290070S0110W0,7S 11W,overlap,agree
+1416,7N 12W,2,FL290070N0120W0,7N 12W,overlap,agree; duplicate FGDL label
+1417,7S 12E,1,FL290070S0120E0,7S 12E,overlap,agree
+1418,7S 12W,1,FL290070S0120W0,7S 12W,overlap,agree
+1419,7N 13W,2,FL290070N0130W0,7N 13W,overlap,agree; duplicate FGDL label
+1420,7S 13E,1,FL290070S0130E0,7S 13E,overlap,agree
+1421,7N 14W,2,FL290070N0140W0,7N 14W,overlap,agree; duplicate FGDL label
+1422,7S 14E,1,FL290070S0140E0,7S 14E,overlap,agree
+1423,7N 15W,2,FL290070N0150W0,7N 15W,overlap,agree; duplicate FGDL label
+1424,7S 15E,1,FL290070S0150E0,7S 15E,overlap,agree
+1425,7N 16W,2,FL290070N0160W0,7N 16W,overlap,agree; duplicate FGDL label
+1426,7N 17W,1,FL290070N0170W0,7N 17W,overlap,agree
+1427,7S 17E,1,FL290070S0170E0,7S 17E,overlap,agree
+1428,7S 18E,1,FL290070S0180E0,7S 18E,overlap,agree
+1429,7S 19E,1,FL290070S0190E0,7S 19E,overlap,agree
+1430,7S 20E,1,FL290070S0200E0,7S 20E,overlap,agree
+1431,7S 21E,1,FL290070S0210E0,7S 21E,overlap,agree
+1432,7S 22E,1,FL290070S0220E0,7S 22E,overlap,agree
+1433,7S 23E,1,FL290070S0230E0,7S 23E,overlap,agree
+1434,7S 24E,1,FL290070S0240E0,7S 24E,overlap,agree
+1435,7S 25E,1,FL290070S0250E0,7S 25E,overlap,agree
+1436,7S 26E,1,FL290070S0260E0,7S 26E,overlap,agree
+1437,7S 27E,1,FL290070S0270E0,7S 27E,overlap,agree
+1438,7S 28E,1,FL290070S0280E0,7S 28E,overlap,agree
+1439,7S 29E,1,FL290070S0290E0,7S 29E,overlap,agree
+1440,7S 30E,1,FL290070S0300E0,7S 30E,overlap,agree
+1441,8S 5W,1,FL290080S0050W0,8S 5W,overlap,agree
+1442,8S 7E,1,FL290080S0070E0,8S 7E,overlap,agree
+1443,8S 7W,2,FL290080S0070W0,8S 7W,overlap,agree; duplicate FGDL label
+1444,8S 8E,1,FL290080S0080E0,8S 8E,overlap,agree
+1445,8S 8W,1,FL290080S0080W0,8S 8W,overlap,agree
+1446,8S 9E,1,FL290080S0090E0,8S 9E,overlap,agree
+1447,8S 9W,1,FL290080S0090W0,8S 9W,overlap,agree
+1448,8S 10E,1,FL290080S0100E0,8S 10E,overlap,agree
+1449,8S 10W,1,FL290080S0100W0,8S 10W,overlap,agree
+1450,8S 11E,1,FL290080S0110E0,8S 11E,overlap,agree
+1451,8S 11W,1,FL290080S0110W0,8S 11W,overlap,agree
+1452,8S 12E,1,FL290080S0120E0,8S 12E,overlap,agree
+1453,8S 12W,1,FL290080S0120W0,8S 12W,overlap,agree
+1454,8S 13E,1,FL290080S0130E0,8S 13E,overlap,agree
+1455,10S 9E,1,FL290100S0090E0,10S 9E,overlap,agree
+1456,10S 10E,1,FL290100S0100E0,10S 10E,overlap,agree
+1457,10S 13E,1,FL290100S0130E0,10S 13E,overlap,agree
+1458,10S 14E,1,FL290100S0140E0,10S 14E,overlap,agree
+1459,10S 12E,1,FL290100S0120E0,10S 12E,overlap,agree
+1460,10S 15E,1,FL290100S0150E0,10S 15E,overlap,agree
+1461,10S 16E,1,FL290100S0160E0,10S 16E,overlap,agree
+1462,10S 17E,1,FL290100S0170E0,10S 17E,overlap,agree
+1463,10S 18E,1,FL290100S0180E0,10S 18E,overlap,agree
+1464,10S 19E,1,FL290100S0190E0,10S 19E,overlap,agree
+1465,10S 20E,1,FL290100S0200E0,10S 20E,overlap,agree
+1466,10S 21E,1,FL290100S0210E0,10S 21E,overlap,agree
+1467,10S 22E,1,FL290100S0220E0,10S 22E,overlap,agree
+1468,10S 23E,1,FL290100S0230E0,10S 23E,overlap,agree
+1469,10S 24E,1,FL290100S0240E0,10S 24E,overlap,agree
+1470,10S 25E,1,FL290100S0250E0,10S 25E,overlap,agree
+1471,10S 26E,1,FL290100S0260E0,10S 26E,overlap,agree
+1472,10S 27E,1,FL290100S0270E0,10S 27E,overlap,agree
+1473,10S 29E,1,FL290100S0290E0,10S 29E,overlap,agree
+1474,10S 30E,1,FL290100S0300E0,10S 30E,overlap,agree
+1475,10S 31E,1,FL290100S0310E0,10S 31E,overlap,agree
+1476,21S 27E,1,FL290210S0270E0,21S 27E,overlap,agree
+1477,21S 26E,1,FL290210S0260E0,21S 26E,overlap,agree
+1478,21S 28E,1,FL290210S0280E0,21S 28E,overlap,agree
+1479,21S 30E,1,FL290210S0300E0,21S 30E,overlap,agree
+1480,21S 31E,1,FL290210S0310E0,21S 31E,overlap,agree
+1481,21S 32E,1,FL290210S0320E0,21S 32E,overlap,agree
+1482,21S 34E,1,FL290210S0340E0,21S 34E,overlap,agree
+1483,21S 33E,1,FL290210S0330E0,21S 33E,overlap,agree
+1484,21S 35E,1,FL290210S0350E0,21S 35E,overlap,agree
+1485,21S 36E,1,FL290210S0360E0,21S 36E,overlap,agree
+1486,21S 37E,1,FL290210S0370E0,21S 37E,overlap,agree
+1487,22S 16E,1,FL290220S0160E0,22S 16E,overlap,agree
+1488,22S 17E,1,FL290220S0170E0,22S 17E,overlap,agree
+1489,22S 19E,1,FL290220S0190E0,22S 19E,overlap,agree
+1490,22S 18E,1,FL290220S0180E0,22S 18E,overlap,agree
+1491,22S 20E,1,FL290220S0200E0,22S 20E,overlap,agree
+1492,22S 21E,1,FL290220S0210E0,22S 21E,overlap,agree
+1493,22S 22E,1,FL290220S0220E0,22S 22E,overlap,agree
+1494,22S 24E,1,FL290220S0240E0,22S 24E,overlap,agree
+1495,22S 25E,1,FL290220S0250E0,22S 25E,overlap,agree
+1496,22S 26E,1,FL290220S0260E0,22S 26E,overlap,agree
+1497,22S 27E,2,FL290220S0270E0,22S 27E,overlap,agree; duplicate FGDL label
+1498,22S 28E,1,FL290220S0280E0,22S 28E,overlap,agree
+1499,22S 29E,1,FL290220S0290E0,22S 29E,overlap,agree
+1500,22S 30E,1,FL290220S0300E0,22S 30E,overlap,agree
+1501,22S 31E,1,FL290220S0310E0,22S 31E,overlap,agree
+1502,22S 32E,1,FL290220S0320E0,22S 32E,overlap,agree
+1503,22S 33E,1,FL290220S0330E0,22S 33E,overlap,agree
+1504,22S 34E,1,FL290220S0340E0,22S 34E,overlap,agree
+1505,22S 35E,1,FL290220S0350E0,22S 35E,overlap,agree
+1506,22S 36E,1,FL290220S0360E0,22S 36E,overlap,agree
+1507,22S 37E,1,FL290220S0370E0,22S 37E,overlap,agree
+1508,22S 38E,1,FL290220S0370E0,22S 37E,overlap,label differs
+1509,23S 16E,1,FL290230S0160E0,23S 16E,overlap,agree
+1510,23S 18E,1,FL290230S0180E0,23S 18E,overlap,agree
+1511,23S 20E,1,FL290230S0200E0,23S 20E,overlap,agree
+1512,23S 19E,1,FL290230S0190E0,23S 19E,overlap,agree
+1513,23S 21E,1,FL290230S0210E0,23S 21E,overlap,agree
+1514,23S 22E,1,FL290230S0220E0,23S 22E,overlap,agree
+1515,23S 23E,1,FL290230S0230E0,23S 23E,overlap,agree
+1516,23S 24E,1,FL290230S0240E0,23S 24E,overlap,agree
+1517,23S 25E,1,FL290230S0250E0,23S 25E,overlap,agree
+1518,23S 26E,1,FL290230S0260E0,23S 26E,overlap,agree
+1519,23S 27E,1,FL290230S0270E0,23S 27E,overlap,agree
+1520,23S 28E,1,FL290230S0280E0,23S 28E,overlap,agree
+1521,23S 29E,1,FL290230S0290E0,23S 29E,overlap,agree
+1522,23S 30E,1,FL290230S0300E0,23S 30E,overlap,agree
+1523,23S 31E,1,FL290230S0310E0,23S 31E,overlap,agree
+1524,23S 32E,1,FL290230S0320E0,23S 32E,overlap,agree
+1525,23S 34E,1,FL290230S0340E0,23S 34E,overlap,agree
+1526,23S 35E,1,FL290230S0350E0,23S 35E,overlap,agree
+1527,23S 36E,1,FL290230S0360E0,23S 36E,overlap,agree
+1528,23S 37E,1,FL290230S0370E0,23S 37E,overlap,agree
+1529,23S 38E,1,FL290230S0380E0,23S 38E,overlap,agree
+1530,24S 16E,2,FL290240S0160E0,24S 16E,overlap,agree; duplicate FGDL label
+1531,24S 17E,1,FL290240S0170E0,24S 17E,overlap,agree
+1532,24S 18E,1,FL290240S0180E0,24S 18E,overlap,agree
+1533,24S 19E,1,FL290240S0190E0,24S 19E,overlap,agree
+1534,24S 20E,1,FL290240S0200E0,24S 20E,overlap,agree
+1535,24S 21E,1,FL290240S0210E0,24S 21E,overlap,agree
+1536,24S 22E,1,FL290240S0220E0,24S 22E,overlap,agree
+1537,24S 23E,1,FL290240S0230E0,24S 23E,overlap,agree
+1538,24S 24E,1,FL290240S0240E0,24S 24E,overlap,agree
+1539,24S 25E,1,FL290240S0250E0,24S 25E,overlap,agree
+1540,24S 26E,1,FL290240S0260E0,24S 26E,overlap,agree
+1541,24S 28E,1,FL290240S0280E0,24S 28E,overlap,agree
+1542,24S 29E,1,FL290240S0290E0,24S 29E,overlap,agree
+1543,24S 30E,1,FL290240S0300E0,24S 30E,overlap,agree
+1544,24S 31E,1,FL290240S0310E0,24S 31E,overlap,agree
+1545,24S 32E,1,FL290240S0320E0,24S 32E,overlap,agree
+1546,24S 33E,1,FL290240S0330E0,24S 33E,overlap,agree
+1547,24S 34E,1,FL290240S0340E0,24S 34E,overlap,agree
+1548,24S 35E,1,FL290240S0350E0,24S 35E,overlap,agree
+1549,24S 36E,2,FL290240S0360E0,24S 36E,overlap,agree; duplicate FGDL label
+1550,24S 37E,2,FL290240S0370E0,24S 37E,overlap,agree; duplicate FGDL label
+1551,24S 38E,1,FL290240S0380E0,24S 38E,overlap,agree
+1552,25S 16E,2,FL290250S0160E0,25S 16E,overlap,agree; duplicate FGDL label
+1553,25S 17E,1,FL290250S0170E0,25S 17E,overlap,agree
+1554,25S 18E,1,FL290250S0180E0,25S 18E,overlap,agree
+1555,25S 19E,1,FL290250S0190E0,25S 19E,overlap,agree
+1556,25S 21E,1,FL290250S0210E0,25S 21E,overlap,agree
+1557,25S 22E,1,FL290250S0220E0,25S 22E,overlap,agree
+1558,25S 23E,1,FL290250S0230E0,25S 23E,overlap,agree
+1559,25S 24E,1,FL290250S0240E0,25S 24E,overlap,agree
+1560,25S 25E,1,FL290250S0250E0,25S 25E,overlap,agree
+1561,25S 26E,1,FL290250S0260E0,25S 26E,overlap,agree
+1562,25S 27E,1,FL290250S0270E0,25S 27E,overlap,agree
+1563,25S 28E,1,FL290250S0280E0,25S 28E,overlap,agree
+1564,25S 29E,1,FL290250S0290E0,25S 29E,overlap,agree
+1565,25S 30E,1,FL290250S0300E0,25S 30E,overlap,agree
+1566,25S 31E,1,FL290250S0310E0,25S 31E,overlap,agree
+1567,25S 32E,1,FL290250S0320E0,25S 32E,overlap,agree
+1568,25S 33E,1,FL290250S0330E0,25S 33E,overlap,agree
+1569,25S 34E,1,FL290250S0340E0,25S 34E,overlap,agree
+1570,25S 35E,1,FL290250S0350E0,25S 35E,overlap,agree
+1571,25S 36E,1,FL290250S0360E0,25S 36E,overlap,agree
+1572,26S 15E,1,FL290260S0150E0,26S 15E,overlap,agree
+1573,26S 16E,1,FL290260S0160E0,26S 16E,overlap,agree
+1574,26S 17E,1,FL290260S0170E0,26S 17E,overlap,agree
+1575,26S 18E,1,FL290260S0180E0,26S 18E,overlap,agree
+1576,26S 19E,1,FL290260S0190E0,26S 19E,overlap,agree
+1577,26S 20E,1,FL290260S0200E0,26S 20E,overlap,agree
+1578,26S 21E,1,FL290260S0210E0,26S 21E,overlap,agree
+1579,26S 22E,1,FL290260S0220E0,26S 22E,overlap,agree
+1580,26S 23E,1,FL290260S0230E0,26S 23E,overlap,agree
+1581,26S 24E,1,FL290260S0240E0,26S 24E,overlap,agree
+1582,26S 25E,1,FL290260S0250E0,26S 25E,overlap,agree
+1583,26S 26E,1,FL290260S0260E0,26S 26E,overlap,agree
+1584,26S 27E,1,FL290260S0270E0,26S 27E,overlap,agree
+1585,26S 28E,1,FL290260S0280E0,26S 28E,overlap,agree
+1586,26S 29E,1,FL290260S0290E0,26S 29E,overlap,agree
+1587,26S 31E,1,FL290260S0310E0,26S 31E,overlap,agree
+1588,26S 32E,1,FL290260S0320E0,26S 32E,overlap,agree
+1589,26S 33E,1,FL290260S0330E0,26S 33E,overlap,agree
+1590,26S 34E,1,FL290260S0340E0,26S 34E,overlap,agree
+1591,26S 35E,1,FL290260S0350E0,26S 35E,overlap,agree
+1592,26S 36E,1,FL290260S0360E0,26S 36E,overlap,agree
+1593,26S 37E,1,FL290260S0370E0,26S 37E,overlap,agree
+1594,27S 15E,2,FL290270S0150E0,27S 15E,overlap,agree; duplicate FGDL label
+1595,27S 16E,1,FL290270S0160E0,27S 16E,overlap,agree
+1596,27S 17E,1,FL290270S0170E0,27S 17E,overlap,agree
+1597,27S 18E,1,FL290270S0180E0,27S 18E,overlap,agree
+1598,27S 19E,1,FL290270S0190E0,27S 19E,overlap,agree
+1599,27S 20E,1,FL290270S0200E0,27S 20E,overlap,agree
+1600,27S 21E,1,FL290270S0210E0,27S 21E,overlap,agree
+1601,27S 22E,1,FL290270S0220E0,27S 22E,overlap,agree
+1602,27S 23E,1,FL290270S0230E0,27S 23E,overlap,agree
+1603,27S 25E,1,FL290270S0250E0,27S 25E,overlap,agree
+1604,27S 26E,1,FL290270S0260E0,27S 26E,overlap,agree
+1605,27S 28E,1,FL290270S0280E0,27S 28E,overlap,agree
+1606,27S 27E,1,FL290270S0270E0,27S 27E,overlap,agree
+1607,27S 29E,1,FL290270S0290E0,27S 29E,overlap,agree
+1608,27S 30E,1,FL290270S0300E0,27S 30E,overlap,agree
+1609,27S 31E,1,FL290270S0310E0,27S 31E,overlap,agree
+1610,27S 32E,1,FL290270S0320E0,27S 32E,overlap,agree
+1611,27S 33E,1,FL290270S0330E0,27S 33E,overlap,agree
+1612,27S 34E,1,FL290270S0340E0,27S 34E,overlap,agree
+1613,27S 35E,1,FL290270S0350E0,27S 35E,overlap,agree
+1614,27S 36E,1,FL290270S0360E0,27S 36E,overlap,agree
+1615,27S 37E,1,FL290270S0370E0,27S 37E,overlap,agree
+1616,28S 15E,1,FL290280S0150E0,28S 15E,overlap,agree
+1617,28S 16E,1,FL290280S0160E0,28S 16E,overlap,agree
+1618,28S 17E,1,FL290280S0170E0,28S 17E,overlap,agree
+1619,28S 19E,1,FL290280S0190E0,28S 19E,overlap,agree
+1620,28S 20E,1,FL290280S0200E0,28S 20E,overlap,agree
+1621,28S 21E,1,FL290280S0210E0,28S 21E,overlap,agree
+1622,28S 22E,1,FL290280S0220E0,28S 22E,overlap,agree
+1623,28S 23E,1,FL290280S0230E0,28S 23E,overlap,agree
+1624,28S 24E,1,FL290280S0240E0,28S 24E,overlap,agree
+1625,28S 25E,1,FL290280S0250E0,28S 25E,overlap,agree
+1626,28S 26E,1,FL290280S0260E0,28S 26E,overlap,agree
+1627,28S 27E,1,FL290280S0270E0,28S 27E,overlap,agree
+1628,28S 28E,1,FL290280S0280E0,28S 28E,overlap,agree
+1629,28S 29E,1,FL290280S0290E0,28S 29E,overlap,agree
+1630,28S 30E,1,FL290280S0300E0,28S 30E,overlap,agree
+1631,28S 31E,1,FL290280S0310E0,28S 31E,overlap,agree
+1632,28S 32E,1,FL290280S0320E0,28S 32E,overlap,agree
+1633,28S 33E,1,FL290280S0330E0,28S 33E,overlap,agree
+1634,28S 35E,1,FL290280S0350E0,28S 35E,overlap,agree
+1635,28S 36E,1,FL290280S0360E0,28S 36E,overlap,agree
+1636,28S 37E,1,FL290280S0370E0,28S 37E,overlap,agree
+1637,28S 38E,1,FL290280S0380E0,28S 38E,overlap,agree
+1638,29S 15E,2,FL290290S0150E0,29S 15E,overlap,agree; duplicate FGDL label
+1639,29S 16E,1,FL290290S0160E0,29S 16E,overlap,agree
+1640,29S 17E,1,FL290290S0170E0,29S 17E,overlap,agree
+1641,29S 18E,1,FL290290S0180E0,29S 18E,overlap,agree
+1642,29S 19E,1,FL290290S0190E0,29S 19E,overlap,agree
+1643,29S 20E,1,FL290290S0200E0,29S 20E,overlap,agree
+1644,29S 21E,1,FL290290S0210E0,29S 21E,overlap,agree
+1645,29S 22E,1,FL290290S0220E0,29S 22E,overlap,agree
+1646,29S 23E,1,FL290290S0230E0,29S 23E,overlap,agree
+1647,29S 24E,1,FL290290S0240E0,29S 24E,overlap,agree
+1648,29S 25E,1,FL290290S0250E0,29S 25E,overlap,agree
+1649,29S 26E,1,FL290290S0260E0,29S 26E,overlap,agree
+1650,29S 28E,1,FL290290S0280E0,29S 28E,overlap,agree
+1651,29S 30E,1,FL290290S0300E0,29S 30E,overlap,agree
+1652,29S 29E,2,FL290290S0290E0,29S 29E,overlap,agree; duplicate FGDL label
+1653,29S 31E,1,FL290290S0310E0,29S 31E,overlap,agree
+1654,29S 32E,1,FL290290S0320E0,29S 32E,overlap,agree
+1655,29S 33E,1,FL290290S0330E0,29S 33E,overlap,agree
+1656,29S 34E,1,FL290290S0340E0,29S 34E,overlap,agree
+1657,29S 35E,1,FL290290S0350E0,29S 35E,overlap,agree
+1658,29S 36E,1,FL290290S0360E0,29S 36E,overlap,agree
+1659,29S 37E,1,FL290290S0370E0,29S 37E,overlap,agree
+1660,29S 38E,1,FL290290S0380E0,29S 38E,overlap,agree
+1661,30S 15E,1,FL290300S0150E0,30S 15E,overlap,agree
+1662,30S 16E,1,FL290300S0160E0,30S 16E,overlap,agree
+1663,30S 17E,2,FL290300S0170E0,30S 17E,overlap,agree; duplicate FGDL label
+1664,30S 18E,1,FL290300S0180E0,30S 18E,overlap,agree
+1665,30S 20E,1,FL290300S0200E0,30S 20E,overlap,agree
+1666,30S 21E,1,FL290300S0210E0,30S 21E,overlap,agree
+1667,30S 22E,1,FL290300S0220E0,30S 22E,overlap,agree
+1668,30S 23E,1,FL290300S0230E0,30S 23E,overlap,agree
+1669,30S 24E,1,FL290300S0240E0,30S 24E,overlap,agree
+1670,30S 25E,1,FL290300S0250E0,30S 25E,overlap,agree
+1671,30S 26E,1,FL290300S0260E0,30S 26E,overlap,agree
+1672,30S 27E,1,FL290300S0270E0,30S 27E,overlap,agree
+1673,30S 28E,1,FL290300S0280E0,30S 28E,overlap,agree
+1674,30S 29E,1,FL290300S0290E0,30S 29E,overlap,agree
+1675,30S 30E,1,FL290300S0300E0,30S 30E,overlap,agree
+1676,30S 31E,1,FL290300S0310E0,30S 31E,overlap,agree
+1677,30S 32E,1,FL290300S0320E0,30S 32E,overlap,agree
+1678,30S 33E,1,FL290300S0330E0,30S 33E,overlap,agree
+1679,30S 34E,1,FL290300S0340E0,30S 34E,overlap,agree
+1680,30S 35E,1,FL290300S0350E0,30S 35E,overlap,agree
+1681,30S 37E,1,FL290300S0370E0,30S 37E,overlap,agree
+1682,30S 38E,1,FL290300S0380E0,30S 38E,overlap,agree
+1683,30S 39E,1,FL290300S0390E0,30S 39E,overlap,agree
+1684,31S 15E,1,FL290310S0150E0,31S 15E,overlap,agree
+1685,31S 16E,1,FL290310S0160E0,31S 16E,overlap,agree
+1686,31S 17E,1,FL290310S0170E0,31S 17E,overlap,agree
+1687,31S 19E,1,FL290310S0190E0,31S 19E,overlap,agree
+1688,31S 20E,1,FL290310S0200E0,31S 20E,overlap,agree
+1689,31S 21E,1,FL290310S0210E0,31S 21E,overlap,agree
+1690,31S 22E,1,FL290310S0220E0,31S 22E,overlap,agree
+1691,31S 23E,1,FL290310S0230E0,31S 23E,overlap,agree
+1692,31S 24E,1,FL290310S0240E0,31S 24E,overlap,agree
+1693,31S 25E,1,FL290310S0250E0,31S 25E,overlap,agree
+1694,31S 26E,1,FL290310S0260E0,31S 26E,overlap,agree
+1695,31S 27E,1,FL290310S0270E0,31S 27E,overlap,agree
+1696,31S 28E,1,FL290310S0280E0,31S 28E,overlap,agree
+1697,31S 29E,1,FL290310S0290E0,31S 29E,overlap,agree
+1698,31S 30E,1,FL290310S0300E0,31S 30E,overlap,agree
+1699,31S 31E,1,FL290310S0310E0,31S 31E,overlap,agree
+1700,31S 32E,1,FL290310S0320E0,31S 32E,overlap,agree
+1701,31S 33E,1,FL290310S0330E0,31S 33E,overlap,agree
+1702,31S 35E,1,FL290310S0350E0,31S 35E,overlap,agree
+1703,31S 37E,1,FL290310S0380E0,31S 38E,overlap,label differs
+1704,31S 38E,2,FL290310S0380E0,31S 38E,overlap,agree; duplicate FGDL label
+1705,31S 39E,1,FL290310S0390E0,31S 39E,overlap,agree
+1706,32S 15E,1,FL290320S0150E0,32S 15E,overlap,agree
+1707,33S 17E,1,FL290330S0170E0,33S 17E,overlap,agree
+1708,33S 18E,1,FL290330S0180E0,33S 18E,overlap,agree
+1709,33S 19E,1,FL290330S0190E0,33S 19E,overlap,agree
+1710,33S 20E,1,FL290330S0200E0,33S 20E,overlap,agree
+1711,33S 21E,1,FL290330S0210E0,33S 21E,overlap,agree
+1712,33S 22E,1,FL290330S0220E0,33S 22E,overlap,agree
+1713,33S 23E,1,FL290330S0230E0,33S 23E,overlap,agree
+1714,33S 24E,1,FL290330S0240E0,33S 24E,overlap,agree
+1715,33S 25E,1,FL290330S0250E0,33S 25E,overlap,agree
+1716,33S 26E,1,FL290330S0260E0,33S 26E,overlap,agree
+1717,33S 27E,1,FL290330S0270E0,33S 27E,overlap,agree
+1718,33S 29E,1,FL290330S0290E0,33S 29E,overlap,agree
+1719,33S 30E,1,FL290330S0300E0,33S 30E,overlap,agree
+1720,33S 31E,1,FL290330S0310E0,33S 31E,overlap,agree
+1721,33S 32E,1,FL290330S0320E0,33S 32E,overlap,agree
+1722,33S 33E,1,FL290330S0330E0,33S 33E,overlap,agree
+1723,33S 34E,1,FL290330S0340E0,33S 34E,overlap,agree
+1724,33S 35E,1,FL290330S0350E0,33S 35E,overlap,agree
+1725,33S 36E,1,FL290330S0360E0,33S 36E,overlap,agree
+1726,33S 37E,1,FL290330S0370E0,33S 37E,overlap,agree
+1727,34S 37E,1,FL290340S0370E0,34S 37E,overlap,agree
+1728,34S 38E,1,FL290340S0380E0,34S 38E,overlap,agree
+1729,34S 39E,1,FL290340S0390E0,34S 39E,overlap,agree
+1730,34S 40E,2,FL290340S0400E0,34S 40E,overlap,agree; duplicate FGDL label
+1731,35S 16E,1,FL290350S0160E0,35S 16E,overlap,agree
+1732,35S 17E,1,FL290350S0170E0,35S 17E,overlap,agree
+1733,35S 20E,1,FL290350S0200E0,35S 20E,overlap,agree
+1734,35S 19E,1,FL290350S0190E0,35S 19E,overlap,agree
+1735,35S 21E,1,FL290350S0210E0,35S 21E,overlap,agree
+1736,35S 22E,1,FL290350S0220E0,35S 22E,overlap,agree
+1737,35S 23E,1,FL290350S0230E0,35S 23E,overlap,agree
+1738,35S 24E,1,FL290350S0240E0,35S 24E,overlap,agree
+1739,35S 25E,1,FL290350S0250E0,35S 25E,overlap,agree
+1740,35S 26E,1,FL290350S0260E0,35S 26E,overlap,agree
+1741,35S 27E,1,FL290350S0270E0,35S 27E,overlap,agree
+1742,35S 28E,1,FL290350S0280E0,35S 28E,overlap,agree
+1743,35S 29E,1,FL290350S0290E0,35S 29E,overlap,agree
+1744,35S 30E,1,FL290350S0300E0,35S 30E,overlap,agree
+1745,35S 31E,1,FL290350S0310E0,35S 31E,overlap,agree
+1746,35S 32E,1,FL290350S0320E0,35S 32E,overlap,agree
+1747,35S 33E,1,FL290350S0330E0,35S 33E,overlap,agree
+1748,35S 34E,1,FL290350S0340E0,35S 34E,overlap,agree
+1749,35S 36E,1,FL290350S0360E0,35S 36E,overlap,agree
+1750,35S 37E,1,FL290350S0370E0,35S 37E,overlap,agree
+1751,35S 38E,1,FL290350S0380E0,35S 38E,overlap,agree
+1752,35S 39E,1,FL290350S0390E0,35S 39E,overlap,agree
+1753,35S 40E,1,FL290350S0400E0,35S 40E,overlap,agree
+1754,36S 17E,1,FL290360S0170E0,36S 17E,overlap,agree
+1755,36S 18E,1,FL290360S0180E0,36S 18E,overlap,agree
+1756,36S 19E,1,FL290360S0190E0,36S 19E,overlap,agree
+1757,36S 20E,1,FL290360S0200E0,36S 20E,overlap,agree
+1758,36S 21E,1,FL290360S0210E0,36S 21E,overlap,agree
+1759,36S 22E,1,FL290360S0220E0,36S 22E,overlap,agree
+1760,36S 23E,1,FL290360S0230E0,36S 23E,overlap,agree
+1761,36S 24E,1,FL290360S0240E0,36S 24E,overlap,agree
+1762,36S 25E,1,FL290360S0250E0,36S 25E,overlap,agree
+1763,36S 26E,1,FL290360S0260E0,36S 26E,overlap,agree
+1764,36S 28E,1,FL290360S0280E0,36S 28E,overlap,agree
+1765,36S 29E,1,FL290360S0290E0,36S 29E,overlap,agree
+1766,36S 30E,1,FL290360S0300E0,36S 30E,overlap,agree
+1767,36S 31E,1,FL290360S0310E0,36S 31E,overlap,agree
+1768,36S 32E,1,FL290360S0320E0,36S 32E,overlap,agree
+1769,36S 33E,1,FL290360S0330E0,36S 33E,overlap,agree
+1770,36S 34E,1,FL290360S0340E0,36S 34E,overlap,agree
+1771,36S 35E,1,FL290360S0350E0,36S 35E,overlap,agree
+1772,36S 36E,1,FL290360S0360E0,36S 36E,overlap,agree
+1773,36S 37E,1,FL290360S0370E0,36S 37E,overlap,agree
+1774,36S 38E,1,FL290360S0380E0,36S 38E,overlap,agree
+1775,36S 39E,1,FL290360S0390E0,36S 39E,overlap,agree
+1776,36S 40E,1,FL290360S0400E0,36S 40E,overlap,agree
+1777,36S 41E,1,FL290360S0410E0,36S 41E,overlap,agree
+1778,37S 17E,1,FL290370S0170E0,37S 17E,overlap,agree
+1779,37S 18E,1,FL290370S0180E0,37S 18E,overlap,agree
+1780,37S 20E,1,FL290370S0200E0,37S 20E,overlap,agree
+1781,37S 21E,1,FL290370S0210E0,37S 21E,overlap,agree
+1782,37S 22E,1,FL290370S0220E0,37S 22E,overlap,agree
+1783,37S 23E,1,FL290370S0230E0,37S 23E,overlap,agree
+1784,37S 24E,1,FL290370S0240E0,37S 24E,overlap,agree
+1785,37S 25E,1,FL290370S0250E0,37S 25E,overlap,agree
+1786,37S 26E,1,FL290370S0260E0,37S 26E,overlap,agree
+1787,37S 27E,1,FL290370S0270E0,37S 27E,overlap,agree
+1788,37S 28E,1,FL290370S0280E0,37S 28E,overlap,agree
+1789,37S 29E,1,FL290370S0290E0,37S 29E,overlap,agree
+1790,37S 30E,1,FL290370S0300E0,37S 30E,overlap,agree
+1791,37S 31E,1,FL290370S0310E0,37S 31E,overlap,agree
+1792,37S 32E,1,FL290370S0320E0,37S 32E,overlap,agree
+1793,37S 33E,1,FL290370S0330E0,37S 33E,overlap,agree
+1794,37S 34E,1,FL290370S0340E0,37S 34E,overlap,agree
+1795,37S 36E,1,FL290370S0360E0,37S 36E,overlap,agree
+1796,37S 37E,1,FL290370S0370E0,37S 37E,overlap,agree
+1797,37S 38E,1,FL290370S0380E0,37S 38E,overlap,agree
+1798,37S 39E,1,FL290370S0390E0,37S 39E,overlap,agree
+1799,37S 40E,1,FL290370S0400E0,37S 40E,overlap,agree
+1800,37S 41E,1,FL290370S0410E0,37S 41E,overlap,agree
+1801,38S 18E,1,FL290380S0180E0,38S 18E,overlap,agree
+1802,38S 19E,1,FL290380S0190E0,38S 19E,overlap,agree
+1803,38S 20E,1,FL290380S0200E0,38S 20E,overlap,agree
+1804,38S 21E,1,FL290380S0210E0,38S 21E,overlap,agree
+1805,38S 22E,1,FL290380S0220E0,38S 22E,overlap,agree
+1806,38S 23E,1,FL290380S0230E0,38S 23E,overlap,agree
+1807,38S 24E,1,FL290380S0240E0,38S 24E,overlap,agree
+1808,38S 25E,1,FL290380S0250E0,38S 25E,overlap,agree
+1809,38S 26E,1,FL290380S0260E0,38S 26E,overlap,agree
+1810,38S 27E,1,FL290380S0270E0,38S 27E,overlap,agree
+1811,38S 29E,1,FL290380S0290E0,38S 29E,overlap,agree
+1812,38S 30E,1,FL290380S0300E0,38S 30E,overlap,agree
+1813,38S 31E,1,FL290380S0310E0,38S 31E,overlap,agree
+1814,38S 32E,1,FL290380S0320E0,38S 32E,overlap,agree
+1815,38S 33E,1,FL290380S0330E0,38S 33E,overlap,agree
+1816,38S 34E,1,FL290380S0340E0,38S 34E,overlap,agree
+1817,38S 35E,1,FL290380S0350E0,38S 35E,overlap,agree
+1818,38S 36E,1,FL290380S0360E0,38S 36E,overlap,agree
+1819,38S 37E,1,FL290380S0370E0,38S 37E,overlap,agree
+1820,38S 38E,1,FL290380S0380E0,38S 38E,overlap,agree
+1821,38S 39E,1,FL290380S0390E0,38S 39E,overlap,agree
+1822,38S 40E,1,FL290380S0400E0,38S 40E,overlap,agree
+1823,38S 41E,1,FL290380S0410E0,38S 41E,overlap,agree
+1824,38S 42E,2,FL290380S0420E0,38S 42E,overlap,agree; duplicate FGDL label
+1825,39S 18E,2,FL290390S0180E0,39S 18E,overlap,agree; duplicate FGDL label
+1826,39S 19E,1,FL290390S0190E0,39S 19E,overlap,agree
+1827,39S 21E,1,FL290390S0210E0,39S 21E,overlap,agree
+1828,39S 22E,1,FL290390S0220E0,39S 22E,overlap,agree
+1829,39S 23E,1,FL290390S0230E0,39S 23E,overlap,agree
+1830,39S 24E,1,FL290390S0240E0,39S 24E,overlap,agree
+1831,39S 25E,1,FL290390S0250E0,39S 25E,overlap,agree
+1832,39S 26E,1,FL290390S0260E0,39S 26E,overlap,agree
+1833,39S 27E,1,FL290390S0270E0,39S 27E,overlap,agree
+1834,39S 28E,1,FL290390S0280E0,39S 28E,overlap,agree
+1835,39S 29E,1,FL290390S0290E0,39S 29E,overlap,agree
+1836,39S 30E,1,FL290390S0300E0,39S 30E,overlap,agree
+1837,39S 31E,1,FL290390S0310E0,39S 31E,overlap,agree
+1838,39S 32E,1,FL290390S0320E0,39S 32E,overlap,agree
+1839,39S 33E,1,FL290390S0330E0,39S 33E,overlap,agree
+1840,39S 34E,1,FL290390S0340E0,39S 34E,overlap,agree
+1841,39S 37E,1,FL290390S0370E0,39S 37E,overlap,agree
+1842,39S 39E,1,FL290390S0390E0,39S 39E,overlap,agree
+1843,39S 40E,1,FL290390S0400E0,39S 40E,overlap,agree
+1844,39S 41E,1,FL290390S0410E0,39S 41E,overlap,agree
+1845,39S 42E,1,FL290390S0420E0,39S 42E,overlap,agree
+1846,40S 19E,1,FL290400S0190E0,40S 19E,overlap,agree
+1847,40S 20E,1,FL290400S0200E0,40S 20E,overlap,agree
+1848,40S 21E,1,FL290400S0210E0,40S 21E,overlap,agree
+1849,40S 22E,1,FL290400S0220E0,40S 22E,overlap,agree
+1850,40S 23E,1,FL290400S0230E0,40S 23E,overlap,agree
+1851,40S 24E,1,FL290400S0240E0,40S 24E,overlap,agree
+1852,40S 25E,1,FL290400S0250E0,40S 25E,overlap,agree
+1853,40S 26E,1,FL290400S0260E0,40S 26E,overlap,agree
+1854,40S 27E,1,FL290400S0270E0,40S 27E,overlap,agree
+1855,40S 28E,1,FL290400S0280E0,40S 28E,overlap,agree
+1856,40S 29E,1,FL290400S0290E0,40S 29E,overlap,agree
+1857,40S 30E,1,FL290400S0300E0,40S 30E,overlap,agree
+1858,40S 32E,1,FL290400S0320E0,40S 32E,overlap,agree
+1859,40S 33E,1,FL290400S0330E0,40S 33E,overlap,agree
+1860,40S 37E,1,FL290400S0370E0,40S 37E,overlap,agree
+1861,40S 38E,1,FL290400S0380E0,40S 38E,overlap,agree
+1862,40S 39E,1,FL290400S0390E0,40S 39E,overlap,agree
+1863,40S 40E,1,FL290400S0400E0,40S 40E,overlap,agree
+1864,40S 41E,1,FL290400S0410E0,40S 41E,overlap,agree
+1865,40S 42E,1,FL290400S0420E0,40S 42E,overlap,agree
+1866,40S 43E,1,FL290400S0430E0,40S 43E,overlap,agree
+1867,41S 19E,1,FL290410S0190E0,41S 19E,overlap,agree
+1868,41S 20E,1,FL290410S0200E0,41S 20E,overlap,agree
+1869,41S 21E,1,FL290410S0210E0,41S 21E,overlap,agree
+1870,41S 22E,1,FL290410S0220E0,41S 22E,overlap,agree
+1871,41S 23E,1,FL290410S0230E0,41S 23E,overlap,agree
+1872,41S 24E,1,FL290410S0240E0,41S 24E,overlap,agree
+1873,41S 26E,1,FL290410S0260E0,41S 26E,overlap,agree
+1874,41S 27E,1,FL290410S0270E0,41S 27E,overlap,agree
+1875,41S 28E,1,FL290410S0280E0,41S 28E,overlap,agree
+1876,41S 29E,1,FL290410S0290E0,41S 29E,overlap,agree
+1877,41S 30E,1,FL290410S0300E0,41S 30E,overlap,agree
+1878,41S 31E,1,FL290410S0310E0,41S 31E,overlap,agree
+1879,41S 32E,1,FL290410S0320E0,41S 32E,overlap,agree
+1880,41S 37E,1,FL290400S0370E0,40S 37E,overlap,label differs
+1881,41S 38E,1,FL290410S0380E0,41S 38E,overlap,agree
+1882,41S 39E,1,FL290410S0390E0,41S 39E,overlap,agree
+1883,41S 40E,1,FL290410S0400E0,41S 40E,overlap,agree
+1884,41S 42E,1,FL290410S0420E0,41S 42E,overlap,agree
+1885,41S 43E,1,FL290410S0430E0,41S 43E,overlap,agree
+1886,41S 41E,1,FL290410S0410E0,41S 41E,overlap,agree
+1887,42S 20E,1,FL290420S0200E0,42S 20E,overlap,agree
+1888,42S 21E,2,FL290420S0210E0,42S 21E,overlap,agree; duplicate FGDL label
+1889,42S 23E,1,FL290420S0230E0,42S 23E,overlap,agree
+1890,42S 24E,1,FL290420S0240E0,42S 24E,overlap,agree
+1891,42S 25E,1,FL290420S0250E0,42S 25E,overlap,agree

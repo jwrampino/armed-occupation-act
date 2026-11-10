@@ -40,6 +40,7 @@
 armed-occupation-act/
 ├── data/                                           # Primary sources and extracted features
 │   ├── labins-detections/                           # Extracted features of GLO LABINS data
+│   ├── plss/                                        # BLM and FGDL PLSS layers
 │   ├── 004D07-2.pdf                                 # 1826 Plat for GLO LABINS CV pilot
 │   ├── SERIALSET-00507_00_00-009-0039-0000.pdf      # 1848 Abstract PDF
 │   ├── SERIALSET-00507_00_00-009-0039-0000.pdf      # 1848 Abstract PDF

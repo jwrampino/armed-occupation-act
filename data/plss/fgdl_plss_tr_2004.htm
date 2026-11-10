@@ -1,0 +1,677 @@
+<HTML>
+<HEAD>
+<TITLE> FGDL Documentation </TITLE>
+<STYLE>
+          .pre { color: black; font-size: 12pt; font-weight: normal; font-family: courier; }
+	  strong {font-weight: normal; text-transform: uppercase; }
+</STYLE>
+</HEAD>
+<BODY>
+<table width="90%">
+<tr>
+<td>
+<strong><b>FLORIDA GEOGRAPHIC DATA LIBRARY DOCUMENTATION</b></strong><br />
+<p>
+<strong><b>TITLE: Florida Public Land Survey System - Township and Range Level - Statewide</b></strong>
+</p>
+<pre>
+Geodataset Name:       PLSS_TR_2004
+Geodataset Type:       SHAPEFILE
+Geodataset Feature:    <strong>Polygon</strong>
+Feature Count:         1892
+</pre>
+</td>
+</tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr>
+<td>
+<strong><b>GENERAL DESCRIPTION:</b></strong>
+<table width="650">
+<tr>
+<td>
+The Public Land Survey System (PLSS) is a legal land reference system created to facilitate the inventory and transfer of property.  This system is divided into township, range, and sections. This shapefile contains PLSS boundaries to the township and range level.  Further PLSS data down to the section level can be found on the FGDL website. This dataset was created by GeoPlan using data from the Bureau of Land Management (BLM) combined with existing PLSS data to fill in known gaps.
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td></td></tr>
+<tr>
+<td>
+<pre>
+DATA SOURCE(S):                    University of Florida GeoPlan Center
+SCALE OF ORIGINAL SOURCE MAPS:     1:24,000
+GEODATASET EXTENT:                 State of Florida<br />
+PUBLICATION DATE:                  2004
+TIME PERIOD OF CONTENT:            2004
+DOWNLOAD LINK:                     <A href="http://www.fgdl.org/metadataexplorer/explorer.jsp">http://www.fgdl.org/metadataexplorer/explorer.jsp</A>
+</pre>
+</td>
+</tr>
+</table>
+<P>
+<strong><b>FEATURE ATTRIBUTE TABLES:</b></strong>
+</P>
+<pre>Datafile Name: PLSS_TR_2004.DBF</pre>
+<table width="75%" cellspacing="0" cellpadding="0" border="0">
+<tr align="left">
+<td> ITEM NAME </td>
+<td>WIDTH</td>
+<td>TYPE</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">OBJECTID
+</DIV>
+</td>
+<td>4</td>
+<td>OID</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">Shape
+</DIV>
+</td>
+<td>4</td>
+<td>Geometry</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">TOWN
+</DIV>
+</td>
+<td>3</td>
+<td>String</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">TOWN_DIR
+</DIV>
+</td>
+<td>1</td>
+<td>String</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">RANGE
+</DIV>
+</td>
+<td>3</td>
+<td>String</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">RANGE_DIR
+</DIV>
+</td>
+<td>1</td>
+<td>String</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">LABEL
+</DIV>
+</td>
+<td>10</td>
+<td>String</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">F_SOURCE
+</DIV>
+</td>
+<td>10</td>
+<td>String</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">DATEMODIFI
+</DIV>
+</td>
+<td>36</td>
+<td>Date</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">DATECREATE
+</DIV>
+</td>
+<td>36</td>
+<td>Date</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">FGDLAQDATE
+</DIV>
+</td>
+<td>36</td>
+<td>Date</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">DESCRIPT
+</DIV>
+</td>
+<td>10</td>
+<td>String</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">AUTOID
+</DIV>
+</td>
+<td>4</td>
+<td>Integer</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">SHAPE.AREA
+</DIV>
+</td>
+<td>0</td>
+<td>Double</td>
+</tr>
+<tr>
+<td>
+<DIV align="left">SHAPE.LEN
+</DIV>
+</td>
+<td>0</td>
+<td>Double</td>
+</tr>
+</table>
+<p>
+<strong><b>FEATURE ATTRIBUTE TABLES CODES AND VALUES:</b></strong>
+</p>
+<P />
+<table width="75%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td width="30%">Item<pre></pre></td>
+<td>Item Description<pre></pre></td>
+</tr>
+<tr valign="top">
+<td>OBJECTID</td>
+<td>
+Internal feature number.<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>Shape</td>
+<td>
+Feature geometry.<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>TOWN</td>
+<td>
+Township Number<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>TOWN_DIR</td>
+<td>
+Township Direction (N=North, S=South)<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>RANGE</td>
+<td>
+Range Number<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>RANGE_DIR</td>
+<td>
+Range Direction (E= East, W=West)<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>LABEL</td>
+<td>
+GeoPlan added field combining Township, Township Direction, Range, and Range Direction<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>F_SOURCE</td>
+<td>
+Source of Feature Information<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>DATEMODIFI</td>
+<td>
+Undefined by source<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>DATECREATE</td>
+<td>
+Undefined by source<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>FGDLAQDATE</td>
+<td>
+The date GeoPlan acquired the data from the source<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>DESCRIPT</td>
+<td>
+GeoPlan added field based on LABEL<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>AUTOID</td>
+<td>
+Unique ID added by GeoPlan<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>SHAPE.AREA</td>
+<td>
+Area in meters<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+<tr valign="top">
+<td>SHAPE.LEN</td>
+<td>
+Perimeter in meters<table>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<br />
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<pre></pre>
+</td>
+</tr>
+</table>
+<strong><b>USER NOTES:</b></strong>
+<br />
+<table width="500">
+<tr>
+<td>
+<pre>
+Relied on the integrity of the attribute information within the original data layer.
+</pre>
+</td>
+</tr>
+</table>
+<table width="500">
+<tr>
+<td>
+<pre>
+Relied on the integrity of the attribute information within the original data layer.
+</pre>
+</td>
+</tr>
+</table>
+<table width="500">
+<tr>
+<td>
+<pre>
+GeoPlan relied on the integrity of the attribute information within
+the original data.
+</pre>
+</td>
+</tr>
+</table>
+<table width="500">
+<tr>
+<td>
+<pre>
+</pre>
+</td>
+</tr>
+</table>
+<table width="500">
+<tr>
+<td>
+<pre>
+This polygon shapefile was created to facilitate the inventory and transfer of property.<br /><br />
+</pre>
+</td>
+</tr>
+</table>
+<table width="500">
+<tr>
+<td>
+<pre>
+This data is provided 'as is' and its horizontal positional accuracy
+has not been verified by GeoPlan<br /><br />
+</pre>
+</td>
+</tr>
+</table>
+<table width="500">
+<tr>
+<td>
+<pre>
+This data is provided 'as is' and its vertical positional accuracy
+has not been verified by GeoPlan<br /><br />
+</pre>
+</td>
+</tr>
+</table>
+<table width="550">
+<tr>
+<td>
+<pre>
+THE DATA INCLUDED IN FGDL ARE 'AS IS' AND SHOULD NOT BE CONSTRUED AS LEGALLY BINDING.
+THE UNIVERSITY OF FLORIDA GEOPLAN CENTER SHALL NOT BE LIABLE FOR ANY DAMAGES
+SUFFERED AS A RESULT OF USING, MODIFYING, CONTRIBUTING OR DISTRIBUTING THE MATERIALS.
+
+A note about data scale:
+
+Scale is an important factor in data usage. Certain scale datasets are not suitable
+for some project, analysis, or modelling purposes. Please be sure you are using
+the best available data.
+
+1:24000 scale datasets are recommended for projects that are at the county level.
+1:24000 data should NOT be used for high accuracy base mapping such as property
+parcel boundaries.
+1:100000 scale datasets are recommended for projects that are at the multi-county or
+regional level.
+1:125000 scale datasets are recommended for projects that are at the regional or state
+level or larger.
+
+Vector datasets with no defined scale or accuracy should be considered suspect. Make
+sure you are familiar with your data before using it for projects or analysis. Every
+effort has been made to supply the user with data documentation. For additional
+information, see the References section and the Data Source Contact section of this
+documentation. For more information regarding scale and accuracy, see our webpage at:
+&lt;http://geoplan.ufl.edu/education.html&gt;</pre>
+<br />
+</td>
+</tr>
+</table>
+<table width="550">
+<tr>
+<td>
+<pre>
+The Florida Geographic Data Library is a collection of Geospatial Data
+compiled by the University of Florida GeoPlan Center with support from
+the Florida Department of Transportation. GIS data available in FGDL is
+collected from various state, federal, and other agencies (data sources)
+who are data stewards, producers, or publishers. The data available in
+FGDL may not be the most current version of the data offered by the
+data source. University of Florida GeoPlan Center makes no guarantees
+about the currentness of the data and suggests that data users check
+with the data source to see if more recent versions of the data exist.
+
+Furthermore, the GIS data available in the FGDL are provided 'as is'.
+The University of Florida GeoPlan Center makes no warranties, guaranties
+or representations as to the truth, accuracy or completeness of the data
+provided by the data sources. The University of Florida GeoPlan Center
+makes no representations or warranties about the quality or suitability
+of the materials, either expressly or implied, including but not limited
+to any implied warranties of merchantability, fitness for a particular
+purpose, or non-infringement. The University of Florida GeoPlan Center
+shall not be liable for any damages suffered as a result of using,
+modifying, contributing or distributing the materials.
+
+A note about data scale: 
+
+Scale is an important factor in data usage.  Certain scale datasets
+are not suitable for some project, analysis, or modeling purposes.
+Please be sure you are using the best available data. 
+
+1:24000 scale datasets are recommended for projects that are at the
+county level.
+1:24000 data should NOT be used for high accuracy base mapping such
+as property parcel boundaries.
+1:100000 scale datasets are recommended for projects that are at the
+multi-county or regional level.
+1:125000 scale datasets are recommended for projects that are at the
+regional or state level or larger.
+
+Vector datasets with no defined scale or accuracy should be
+considered suspect. Make sure you are familiar with your data
+before using it for projects or analysis. Every effort has been
+made to supply the user with data documentation. For additional
+information, see the References section and the Data Source Contact
+section of this documentation. For more information regarding
+scale and accuracy, see our webpage at:
+http://geoplan.ufl.edu/education.html</pre>
+<br />
+</td>
+</tr>
+</table>
+<strong><b>REFERENCES: </b></strong>
+<table width="60%">
+<tr>
+<td>
+<pre>
+</pre>
+<br />
+</td>
+</tr>
+</table>
+<strong><b>DATA LINEAGE SUMMARY: </b></strong>
+<br />
+<table width="60%">
+<tr>
+<td>
+<pre>
+The original data was in both DLG and Coverage format depending on the source. Source
+data was converted to coverage. The data then existed in previous versions of FGDL
+(i.e. FGDL V3 or less) as county data sets. The coverages were merged together. Next
+the eliminate command was run in ArcInfo Workstation. Then the Coverage was converted
+to a shapefile and a dissolve was executed. The dissolve was used in order to change all
+sections with multiple polygons into one section.
+Process Date: Unknown
+<br />
+This dataset was created by GeoPlan using information from two sources, the Bureau
+of Land Management (BLM) Public Land Survey System (PLSS) Data Download and the
+Florida Geographic Data Library (FGDL).
+
+The first layer, from the BLM, contained data on the township and range level. However,
+this dataset had a few gaps across the state. These holes were filled in using the
+layer from FGDL. This layer had more detailed information, breaking the townships and
+ranges into sections. These sections were dissolved, using the ArcMap tool, into the
+larger townships and ranges so that they would match the data from the BLM. The BLM
+layer was projected into the projection type matching the FGDL layer, FGDL Albers.
+
+After the FGDL layer was dissolved on township and range, the features from the FGDL
+layer that filled in the holes found in the BLM layer were selected and exported to a
+new layer. Some spatial discrepancy was present between the two layers, even though
+both had the same projection information (the BLM layer was projected into the correct
+projection), FGDL Albers. To repair these discrepancies, the layer from FGDL was edited
+using the Spatial Adjustment tool in conjunction with the Editor toolbar. The specific
+Spatial Adjustment method used was Rubbersheet. The rubbersheet process followed
+these steps:
+- Start an edit session, select the proper layer to edit, in this case the FGDL layer
+- Ensure the Spatial Adjustment toolbar is present on the toolbar section
+- In the Spatial Adjustment menu, hover over "Adjustment Method" and click "Rubbersheet"
+- In the Spatial Adjustment menu, click on "Set Adjust Data...", click "All features in
+these layers" and ensure the only layer being altered (the FGDL layer) is selected,
+click "OK"
+- Make sure the Snapping toolbar is present and is set to snap to vertexes, and not to
+edges
+- Now that all the preliminary settings are in place, select vertices from the FGDL
+layer and move them to the nearest vertex from the BLM layer
+- Periodically, in the Spatial Adjustment menu, click "Adjust" to move the vertices to
+the new locations selected and save edits to ensure work is not lost
+
+After the Rubbersheet process was completed for all features of the layer where edits
+were necessary, the Integrate tool was used. This tool ensures that micro-scale 
+discrepancies between polygon boundaries are repaired so they are right on top of
+each other. In the Integrate tool, two layers were used to repair the gaps, one with
+the features created by BLM and one with features created by GeoPlan. The BLM layer
+was ranked first and the GeoPlan layer was ranked second. The distance threshold
+was 0.5 meters. The GeoPlan layer was then merged with the non-integrated BLM data to 
+ensure that no points were altered from the BLM data. This created the final layer. Then, 
+the attribute information had to be edited using Xtools so that the merge could be completed 
+effectively. After the merge, attribute information was cleaned so that it met GeoPlan's 
+requirements. Fields were added, edited, or deleted so that the current fields are: FID, Shape, 
+TOWN, TOWN_DIR, RANGE, RANGE_DIR, LABEL, F_SOURCE, DATEMODIFI,
+DATECREATE, FGDLAQDATE, DESCRIPT.
+
+All of the records were upcased.
+Process Date: 20160308
+<br />
+</pre>
+</td>
+</tr>
+</table>
+<strong><b>MAP PROJECTION PARAMETERS: </b></strong>
+<br />
+<pre>
+Projection                          ALBERS
+Datum                               HPGN
+Units                               METERS
+Spheroid                            GRS1980
+1st Standard Parallel               24  0  0.000
+2nd Standard Parallel               31 30  0.000
+Central Meridian                   -84 00  0.000
+Latitude of Projection's Origin     24  0  0.000
+False Easting (meters)              400000.00000
+False Northing (meters)             0.00000
+</pre>
+<p>
+<strong><b>DATA SOURCE CONTACT (S):</b></strong>
+</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td>
+<pre>
+Name:
+Abbr. Name:
+Address:
+
+
+Phone:
+
+Web site:
+E-mail:
+Contact Person:
+         Phone:
+        E-mail:
+</pre>
+</td>
+<td valign="top"><pre>University of Florida GeoPlan Center
+GeoPlan
+131 Architecture PO Box 115706
+Gainesville, FL
+32611-5706
+
+<br />
+http://www.fgdl.org
+data@fgdl.org
+
+</pre>
+</td>
+</tr>
+</table>
+<br />
+<strong><b>FGDL CONTACT:</b></strong>
+<pre>
+Name:                   FLORIDA GEOGRAPHIC DATA LIBRARY
+Abbr. Name:             FGDL
+Address:                Florida Geographic Data Library
+                        431 Architecture Building
+                        PO Box 115706
+                        Gainesville, FL  32611-5706
+Web site:               <a href="http://www.fgdl.org">http://www.fgdl.org</a>
+
+Contact FGDL: 
+
+      Technical Support:	        <a href="http://www.fgdl.org/fgdlfeed.html">http://www.fgdl.org/fgdlfeed.html</a>
+      FGDL Frequently Asked Questions:  <a href="http://www.fgdl.org/fgdlfaq.html">http://www.fgdl.org/fgdlfaq.html</a>
+      FGDL Mailing Lists:		<a href="http://www.fgdl.org/fgdl-l.html">http://www.fgdl.org/fgdl-l.html</a>
+      For FGDL Software:                <a href="http://www.fgdl.org/software.html">http://www.fgdl.org/software.html</a>
+</pre>
+</BODY>
+</HTML>
