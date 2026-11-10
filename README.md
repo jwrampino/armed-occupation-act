@@ -11,7 +11,6 @@
 | Results |
 | Instructions |
 | Job IDs |
-| [Contextual Timeline](#contextual-timeline) |
 | References |
 
 ### Research Questions
@@ -39,17 +38,15 @@
 ```
 armed-occupation-act/
 ├── data/                                           # Primary sources and extracted features
-│   ├── labins-detections/                           # Extracted features of GLO LABINS data
+│   ├── congress-abstract/                           # 1848 Abstract and OCR outputs
+│   ├── labins-detections/                           # Extracted LABINS diagrams
+│   ├── labins-index/                                # LABINS indices and diagrams by volume
 │   ├── plss/                                        # BLM and FGDL PLSS layers
-│   ├── 004D07-2.pdf                                 # 1826 Plat for GLO LABINS CV pilot
-│   ├── SERIALSET-00507_00_00-009-0039-0000.pdf      # 1848 Abstract PDF
-│   ├── SERIALSET-00507_00_00-009-0039-0000.pdf      # 1848 Abstract PDF
-│   ├── SERIALSET-00507_00_00-009-0039-0000.txt      # 1848 Abstract TXT
-│   └── SERIALSET-00507_00_00-009-0039-0000.json     # 1848 Abstract JSON (~structured tables)
+│   └── 004D07-2.pdf                                 # 1826 diagram for LABINS CV pilot
 ├── ocr.ipynb                                       # OCR pipeline pilot
 ├── htr-letters.ipynb                               # HTR pipeline (forthcoming)
 ├── htr-permits.ipynb                               # HTR pipeline (forthcoming)
-├── cv-labins.ipynb                                 # GLO LABINS CV pipeline pilot
+├── cv-labins.ipynb                                 # LABINS CV pipeline pilot
 ├── environment.yml                                 # Conda stuff
 └── README.md                                       # You are here
 ```
