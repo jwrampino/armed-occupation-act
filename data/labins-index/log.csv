@@ -81,7 +81,7 @@ vol,page_status,pdf_url,pdf_status,bytes
 80,200,https://ftp.labins.org/glo_all/Volume80_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,872175
 81,200,https://ftp.labins.org/glo_all/Volume81_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,243191
 82,200,https://ftp.labins.org/glo_all/Volume82_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,183857
-83,200,,no link,0
+83,200,https://ftp.labins.org/glo_all/Volume83_pdf/Folder%20%201%20Index%20&%20Diagarm_pdf.pdf,200,150775
 84,200,https://ftp.labins.org/glo_all/Volume84_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,597706
 85,200,https://ftp.labins.org/glo_all/Volume85_pdf/Folder%20%201%20Inderx%20&%20Diagram_pdf.pdf,200,62034
 86,200,https://ftp.labins.org/glo_all/Volume86_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,55731
@@ -101,7 +101,7 @@ vol,page_status,pdf_url,pdf_status,bytes
 100,200,https://ftp.labins.org/glo_all/Volume100_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,165918
 101,200,https://ftp.labins.org/glo_all/Volume101_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,193252
 102,200,https://ftp.labins.org/glo_all/Volume102_pdf/Folder%20%201%20index%20&%20Diagram_pdf.pdf,200,280031
-103,200,,no link,0
+103,200,https://ftp.labins.org/glo_all/Volume103_pdf/Folder%20%201%20Index%20&%20Diagame_pdf.pdf,200,114476
 104,200,https://ftp.labins.org/glo_all/Volume104_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,245427
 105,200,https://ftp.labins.org/glo_all/Volume105_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,166444
 106,200,https://ftp.labins.org/glo_all/Volume106_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,205564
@@ -276,7 +276,4 @@ vol,page_status,pdf_url,pdf_status,bytes
 275,200,https://ftp.labins.org/glo_all/Volume275_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,413695
 276,200,https://ftp.labins.org/glo_all/Volume276_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,2031448
 277,200,https://ftp.labins.org/glo_all/Volume277_pdf/Folder%20%201%20Index%20&%20Diagram_pdf.pdf,200,431807
-278,200,https://ftp.labins.org/glo_all/Volume278_pdf/Folder%201%20Index%20&%20Diagram_pdf.pdf,200,39193683,200,,no link,0
-103,200,,no link,0
-192,200,,no link,0
-217,200,https://ftp.labins.org/glo_all/Volume217_pdf/Folder%20%201%20Inex%20&%20Diagram_pdf.pdf,404,0
+278,200,https://ftp.labins.org/glo_all/Volume278_pdf/Folder%201%20Index%20&%20Diagram_pdf.pdf,200,39193683
