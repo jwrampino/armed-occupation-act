@@ -39,17 +39,19 @@
 armed-occupation-act/
 ├── data/                                           # Primary sources and extracted features
 │   ├── congress-abstract/                           # 1848 Abstract and OCR outputs
-│   ├── labins-detections/                           # Extracted LABINS diagrams
-│   ├── labins-index/                                # LABINS indices and diagrams by volume
-│   ├── plss/                                        # BLM and FGDL PLSS layers
-│   └── 004D07-2.pdf                                 # 1826 diagram for LABINS CV pilot
+│   ├── labins/                                      # LABINS data
+│   │   ├── diagram-detections/                       # CV outputs for diagrams
+│   │   ├── index-ocr/                                # OCR outputs for indexes
+│   │   ├── index-ocr-check/                          # OCR confidence charts
+│   │   └── index-pdfs/                               # Scraped indexes and diagrams
+│   └── plss/                                        # BLM and FGDL PLSS layers
 ├── ocr-congress.ipynb                              # OCR pipeline for 1848 Abstract
 ├── ocr-labins-index.ipynb                          # OCR pipeline for LABINS index
 ├── htr-labins-fieldnote.ipynb                      # HTR pipeline for LABINS fieldnotes
 ├── htr-letters.ipynb                               # HTR pipeline (forthcoming)
 ├── htr-permits.ipynb                               # HTR pipeline (forthcoming)
 ├── cv-labins-diagram.ipynb                         # LABINS CV pipeline pilot
-├── scraper-labins.ipynb                            # Scraper for LABINS indices and diagrams
+├── scraper-labins.ipynb                            # Scraper for LABINS indexes and diagrams
 ├── environment.yml                                 # Conda stuff
 └── README.md                                       # You are here
 ```
