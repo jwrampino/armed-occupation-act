@@ -43,10 +43,13 @@ armed-occupation-act/
 │   ├── labins-index/                                # LABINS indices and diagrams by volume
 │   ├── plss/                                        # BLM and FGDL PLSS layers
 │   └── 004D07-2.pdf                                 # 1826 diagram for LABINS CV pilot
-├── ocr.ipynb                                       # OCR pipeline pilot
+├── ocr-congress.ipynb                              # OCR pipeline for 1848 Abstract
+├── ocr-labins-index.ipynb                          # OCR pipeline for LABINS index
+├── htr-labins-fieldnote.ipynb                      # HTR pipeline for LABINS fieldnotes
 ├── htr-letters.ipynb                               # HTR pipeline (forthcoming)
 ├── htr-permits.ipynb                               # HTR pipeline (forthcoming)
-├── cv-labins.ipynb                                 # LABINS CV pipeline pilot
+├── cv-labins-diagram.ipynb                         # LABINS CV pipeline pilot
+├── scraper-labins.ipynb                            # Scraper for LABINS indices and diagrams
 ├── environment.yml                                 # Conda stuff
 └── README.md                                       # You are here
 ```
