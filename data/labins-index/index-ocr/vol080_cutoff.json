@@ -1,1 +1,0 @@
-{"vol": 80, "n_pages": 47, "n_good": 3, "first_degraded": 4, "line_min": 0.9, "mean_min": 0.9, "share_min": 0.8, "stats": [{"page": 1, "n_lines": 67, "mean": 0.9897, "share": 1.0}, {"page": 2, "n_lines": 77, "mean": 0.9937, "share": 1.0}, {"page": 3, "n_lines": 50, "mean": 0.9952, "share": 1.0}, {"page": 4, "n_lines": 86, "mean": 0.8166, "share": 0.5698}]}
