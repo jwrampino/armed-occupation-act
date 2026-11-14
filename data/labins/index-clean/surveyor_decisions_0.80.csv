@@ -1,0 +1,225 @@
+surveyor,parent,decision,target,canonical
+B. Clements,,,,B. Clements
+Benj. Clements,B. Clements,merge,,B. Clements
+J. B. Clements,B. Clements,split,,J. B. Clements
+H. B. Clements,B. Clements,split,,H. B. Clements
+Benjamin Clements,B. Clements,merge,,B. Clements
+Clements,B. Clements,unsure,,
+B. J. Clements,B. Clements,merge,,B. Clements
+J.B. Clements,J. B. Clements,merge,J. B. Clements,J. B. Clements
+H.B. Clements,H. B. Clements,merge,H. B. Clements,H. B. Clements
+Henry Washington,,,,Henry Washington
+George Washington,Henry Washington,split,,George Washington
+A.M. Randolph,,,,A.M. Randolph
+A. M. Randolph,A.M. Randolph,merge,,A.M. Randolph
+A.M.Randolph,A.M. Randolph,merge,,A.M. Randolph
+J. W. Exum,,,,J. W. Exum
+J.W. Exum,J. W. Exum,merge,,J. W. Exum
+Jas. W Exum,J. W. Exum,merge,,J. W. Exum
+Exum,J. W. Exum,merge,,J. W. Exum
+J.W.Exum,J. W. Exum,merge,,J. W. Exum
+James W. Exum,J. W. Exum,merge,,J. W. Exum
+John Jackson,,,,John Jackson
+J.Jackson,John Jackson,merge,,John Jackson
+J. Jackson,J.Jackson,merge,,John Jackson
+A.H. Jones,,,,A.H. Jones
+M.A. Williams,,,,M.A. Williams
+George Willis,M.A. Williams,split,,George Willis
+B.F. Whitmer,,,,B.F. Whitmer
+B.F. Whitner,B.F. Whitmer,unsure,,
+B.F. Whitrier,B.F. Whitmer,unsure,,
+Thomas K. White,B.F. Whitmer,split,,Thomas K. White
+J.L. White,B.F. Whitmer,split,,J.L. White
+E.L. White,B.F. Whitmer,unsure,,
+George Mackay,,,,George Mackay
+A. McKay,George Mackay,split,,A. McKay
+George McKay,George Mackay,merge,,George Mackay
+Geo. Mackay,George Mackay,merge,,George Mackay
+G.McKay,George McKay,merge,,George Mackay
+G. McKay,G.McKay,merge,,George Mackay
+W.L. Apthorp,,,,W.L. Apthorp
+J.P. Apthorp,W.L. Apthorp,split,,J.P. Apthorp
+David Thomas,,,,David Thomas
+E.L. Thomas,David Thomas,split,,E.L. Thomas
+D. Thomas,David Thomas,merge,,David Thomas
+Dàvid Thomas,David Thomas,merge,,David Thomas
+Thomas,David Thomas,merge,,David Thomas
+D.Thomas,D. Thomas,merge,,David Thomas
+Sam Reid,,,,Sam Reid
+C.C. Tracy,,,,C.C. Tracy
+Chas C. Tracy,C.C. Tracy,merge,,C.C. Tracy
+C.C.Tracy,C.C. Tracy,merge,,C.C. Tracy
+Paul McCormick,,,,Paul McCormick
+A.H. McCormick,Paul McCormick,split,,A.H. McCormick
+W.S. Harris,,,,W.S. Harris
+R. D. Harris,W.S. Harris,split,,R. D. Harris
+R.W. Harris,W.S. Harris,split,,R.W. Harris
+W.P. Harris,W.S. Harris,unsure,,
+H. Wells,,,,H. Wells
+H.Wells,H. Wells,merge,,H. Wells
+W.J. Reyes,,,,W.J. Reyes
+W.D. Reyes,W.J. Reyes,unsure,,
+W.J.Reyes,W.J. Reyes,merge,,W.J. Reyes
+T.T. Hays,,,,T.T. Hays
+Hays,T.T. Hays,unsure,,
+T. T. Hays,T.T. Hays,merge,,T.T. Hays
+Thomas T. Hays,T.T. Hays,merge,,T.T. Hays
+Milton Hays,T.T. Hays,split,,Milton Hays
+T.T Hays,T.T. Hays,merge,,T.T. Hays
+Thos. T Hays,T.T. Hays,merge,,T.T. Hays
+W. B. Drake,,,,W. B. Drake
+Drake,W. B. Drake,unsure,,
+J. W. Drake,W. B. Drake,split,,J. W. Drake
+W.B. Drake,W. B. Drake,merge,,W. B. Drake
+W.B Drake,W. B. Drake,merge,,W. B. Drake
+C.F. Smith,,,,C.F. Smith
+C.F.Smith,C.F. Smith,merge,,C.F. Smith
+George Houston,,,,George Houston
+G. Houston,George Houston,merge,,George Houston
+R.W. Norris,,,,R.W. Norris
+R.W.Norris,R.W. Norris,merge,,R.W. Norris
+R. W.Norris,R.W. Norris,merge,,R.W. Norris
+Ralph N. Norris,R.W. Norris,unsure,,
+R. W. Norris,R.W. Norris,merge,,R.W. Norris
+R.W. Morris,R.W. Norris,unsure,,
+D.H. Burr,,,,D.H. Burr
+Washington Burr,D.H. Burr,split,,Washington Burr
+D.H.Burr,D.H. Burr,merge,,D.H. Burr
+S.J.Perry,,,,S.J.Perry
+S.J. Perry,S.J.Perry,merge,,S.J.Perry
+Col. S. J. Perry,S.J.Perry,merge,,S.J.Perry
+Judge S.J. Perry,S.J.Perry,merge,,S.J.Perry
+Col. Samuel J. Perry,S.J.Perry,merge,,S.J.Perry
+Judge S. J. Perry,S.J.Perry,merge,,S.J.Perry
+C.F. Hopkins,,,,C.F. Hopkins
+C.F. Hopkius,C.F. Hopkins,unsure,,
+Hopkins,C.F. Hopkins,merge,,C.F. Hopkins
+D.F. McNeil,,,,D.F. McNeil
+J.A. Henderson,,,,J.A. Henderson
+Patton Anderson,J.A. Henderson,split,,Patton Anderson
+George Watson,,,,George Watson
+J.M. Irwin,,,,J.M. Irwin
+J.M.Irwin,J.M. Irwin,merge,,J.M. Irwin
+R. C. Allen,,,,R. C. Allen
+R.C. Allen,R. C. Allen,merge,,R. C. Allen
+Allen,R. C. Allen,merge,,R. C. Allen
+John Boyd,,,,John Boyd
+Boyd,John Boyd,merge,,John Boyd
+Jno. Boyd,John Boyd,merge,,John Boyd
+S. Hamblin,,,,S. Hamblin
+J. R. Donelson,,,,J. R. Donelson
+J.R. Donelson,J. R. Donelson,merge,,J. R. Donelson
+J. Donelson,J. R. Donelson,split,,J. Donelson
+Jas. R. Donelson,J. R. Donelson,merge,,J. R. Donelson
+Jno. Donelson,J. R. Donelson,merge,J. Donelson,J. Donelson
+J. Westcott,,,,J. Westcott
+J. P. Love,,,,J. P. Love
+J.P. Love,J. P. Love,merge,,J. P. Love
+T.H. Weightman,,,,T.H. Weightman
+T.H.Weightman,T.H. Weightman,merge,,T.H. Weightman
+T.S. Stearus,,,,T.S. Stearus
+J.H. Stearus,T.S. Stearus,unsure,,
+W. Mickler,,,,W. Mickler
+W.Mickler,W. Mickler,merge,,W. Mickler
+Wm Mickler,W. Mickler,merge,,W. Mickler
+John Brown,,,,John Brown
+Brown,John Brown,unsure,,
+W.C. Brown,John Brown,split,,W.C. Brown
+L.M. Prevash,,,,L.M. Prevash
+R. B. Ker,,,,R. B. Ker
+R.W.Templeman,,,,R.W.Templeman
+R.W. Templeman,R.W.Templeman,merge,,R.W.Templeman
+R. Lewis,,,,R. Lewis
+Romeo Lewis,R. Lewis,merge,,R. Lewis
+Frederick L. Ming,,,,Frederick L. Ming
+F.L. Ming,Frederick L. Ming,merge,,Frederick L. Ming
+T.L. Ming,Frederick L. Ming,unsure,,
+H.S. DuVal,,,,H.S. DuVal
+H.S. Duval,H.S. DuVal,merge,,H.S. DuVal
+M.H. Clay,,,,M.H. Clay
+M.H.Clay,M.H. Clay,merge,,M.H. Clay
+H.H. Floyd,,,,H.H. Floyd
+Davis Floyd,H.H. Floyd,split,,Davis Floyd
+A.W. Warrall,,,,A.W. Warrall
+F.R. Laring,,,,F.R. Laring
+S.E. Hope,,,,S.E. Hope
+C.C. Stone,,,,C.C. Stone
+J.J. Daniel,,,,J.J. Daniel
+J.J.Daniel,J.J. Daniel,merge,,J.J. Daniel
+H.Jenkins,,,,H.Jenkins
+H. Jenkins,H.Jenkins,merge,,H.Jenkins
+John O. Fries,,,,John O. Fries
+J.D. Fries,John O. Fries,unsure,,
+J.O. Fries,John O. Fries,merge,,John O. Fries
+J.O. Frier,John O. Fries,unsure,,
+E.B. Camp,,,,E.B. Camp
+E.B.Camp,E.B. Camp,merge,,E.B. Camp
+John Blocker,,,,John Blocker
+John Blacker,John Blocker,unsure,,
+G.H. Bunker,,,,G.H. Bunker
+J.R. Richard,,,,J.R. Richard
+J.W.Childs,,,,J.W.Childs
+W.C. Sallie,,,,W.C. Sallie
+Sallie,W.C. Sallie,merge,,W.C. Sallie
+W.C. Sollie,W.C. Sallie,merge,,W.C. Sallie
+Wm Sollce,W.C. Sollie,unsure,,
+J.D. Staubury,,,,J.D. Staubury
+Joseph Wright,,,,Joseph Wright
+J.M. Gould,,,,J.M. Gould
+J.M.Gould,J.M. Gould,merge,,J.M. Gould
+J.M. Sloan,,,,J.M. Sloan
+James M. Sloan,J.M. Sloan,merge,,J.M. Sloan
+J. A. Coffee,,,,J. A. Coffee
+J.B. Kilgore,,,,J.B. Kilgore
+J.T. Hancock Jr,,,,J.T. Hancock Jr
+J.T. Hancock,J.T. Hancock Jr,merge,,J.T. Hancock Jr
+M.Garrison,,,,M.Garrison
+Isaac Garrison,M.Garrison,unsure,,
+M. Garrison,M.Garrison,merge,,M.Garrison
+R.W.B. Hodgson,,,,R.W.B. Hodgson
+W.G. Moseley,,,,W.G. Moseley
+R.C. May,,,,R.C. May
+E. Leroy May,R.C. May,split,,E. Leroy May
+LeRoy May,R.C. May,merge,E. Leroy May,E. Leroy May
+D.D. Rodgers,,,,D.D. Rodgers
+J.M. Cook,,,,J.M. Cook
+Louis Lanier,,,,Louis Lanier
+R.H. Shaffer,,,,R.H. Shaffer
+R.W.H. Shaffer,R.H. Shaffer,merge,,R.H. Shaffer
+A.W. Gilchrist,,,,A.W. Gilchrist
+G.W. Patter,,,,G.W. Patter
+Geo. Potter,G.W. Patter,unsure,,
+J.D. Galbraith,,,,J.D. Galbraith
+J.S. Fredrick,,,,J.S. Fredrick
+L. A. Jewett,,,,L. A. Jewett
+S.A. Jewitt,L. A. Jewett,unsure,,
+R.B. Birchfield,,,,R.B. Birchfield
+R.B. Burchfield,R.B. Birchfield,unsure,,
+R.Canova,,,,R.Canova
+A.G. Johnson,,,,A.G. Johnson
+G.H. Johnson,A.G. Johnson,unsure,,
+D.A. Spaulding,,,,D.A. Spaulding
+G.H. Milman,,,,G.H. Milman
+J.F. Le Baraer,,,,J.F. Le Baraer
+Joel A. Barber,J.F. Le Baraer,unsure,,
+J.F. Leslie,,,,J.F. Leslie
+J.T. Leslie,J.F. Leslie,unsure,,
+J.R. Moorhead,,,,J.R. Moorhead
+W.E. Loper,,,,W.E. Loper
+W.H. Macy,,,,W.H. Macy
+Wm. H. Macy,W.H. Macy,merge,,W.H. Macy
+A.A. Stewart,,,,A.A. Stewart
+E.W. Morrill,,,,E.W. Morrill
+H.P. Gerald,,,,H.P. Gerald
+J.A. McDonald,,,,J.A. McDonald
+J.D. Rousseau,,,,J.D. Rousseau
+JohnJackson,,,,JohnJackson
+Jos. F. Shands,,,,Jos. F. Shands
+L.W. Dubois,,,,L.W. Dubois
+M.J. McEaddy,,,,M.J. McEaddy
+P.Baldwin,,,,P.Baldwin
+R.F. Bettis,,,,R.F. Bettis
+R.F. Hartford,,,,R.F. Hartford
+Robert B Leak,,,,Robert B Leak
+W.H. Parker,,,,W.H. Parker
+Walter Gwynn,,,,Walter Gwynn
