@@ -1,0 +1,225 @@
+surveyor,n,n_vols,first_vol,parent,similarity,match,root,depth,cluster_size,cluster_n
+B. Clements,202,17,vol013,,,,B. Clements,0,9,551
+Benj. Clements,100,10,vol001,B. Clements,1.0,given names compatible,B. Clements,1,9,551
+J. B. Clements,89,10,vol013,B. Clements,1.0,surname group,B. Clements,1,9,551
+H. B. Clements,48,2,vol029,B. Clements,1.0,surname group,B. Clements,1,9,551
+Benjamin Clements,29,4,vol061,B. Clements,1.0,given names compatible,B. Clements,1,9,551
+Clements,3,3,vol011,B. Clements,1.0,surname only,B. Clements,1,9,551
+B. J. Clements,2,1,vol015,B. Clements,1.0,given names compatible,B. Clements,1,9,551
+J.B. Clements,45,6,vol052,J. B. Clements,1.0,same after normalizing,B. Clements,2,9,551
+H.B. Clements,33,2,vol035,H. B. Clements,1.0,same after normalizing,B. Clements,2,9,551
+Henry Washington,297,14,vol003,,,,Henry Washington,0,2,298
+George Washington,1,1,vol027,Henry Washington,1.0,surname group,Henry Washington,1,2,298
+A.M. Randolph,200,18,vol058,,,,A.M. Randolph,0,3,217
+A. M. Randolph,16,1,vol016,A.M. Randolph,1.0,same after normalizing,A.M. Randolph,1,3,217
+A.M.Randolph,1,1,vol181,A.M. Randolph,1.0,same after normalizing,A.M. Randolph,1,3,217
+J. W. Exum,111,8,vol012,,,,J. W. Exum,0,6,196
+J.W. Exum,69,8,vol009,J. W. Exum,1.0,same after normalizing,J. W. Exum,1,6,196
+Jas. W Exum,10,1,vol007,J. W. Exum,1.0,given names compatible,J. W. Exum,1,6,196
+Exum,3,3,vol011,J. W. Exum,1.0,surname only,J. W. Exum,1,6,196
+J.W.Exum,2,2,vol061,J. W. Exum,1.0,same after normalizing,J. W. Exum,1,6,196
+James W. Exum,1,1,vol064,J. W. Exum,1.0,given names compatible,J. W. Exum,1,6,196
+John Jackson,103,6,vol065,,,,John Jackson,0,3,178
+J.Jackson,74,3,vol198,John Jackson,1.0,given names compatible,John Jackson,1,3,178
+J. Jackson,1,1,vol198,J.Jackson,1.0,same after normalizing,John Jackson,2,3,178
+A.H. Jones,155,13,vol075,,,,A.H. Jones,0,1,155
+M.A. Williams,121,15,vol061,,,,M.A. Williams,0,2,126
+George Willis,5,2,vol027,M.A. Williams,0.857,surname group,M.A. Williams,1,2,126
+B.F. Whitmer,41,5,vol120,,,,B.F. Whitmer,0,6,107
+B.F. Whitner,28,2,vol123,B.F. Whitmer,0.857,given names compatible,B.F. Whitmer,1,6,107
+B.F. Whitrier,19,1,vol112,B.F. Whitmer,0.8,given names compatible,B.F. Whitmer,1,6,107
+Thomas K. White,15,2,vol002,B.F. Whitmer,0.833,surname group,B.F. Whitmer,1,6,107
+J.L. White,3,2,vol238,B.F. Whitmer,0.833,surname group,B.F. Whitmer,1,6,107
+E.L. White,1,1,vol243,B.F. Whitmer,0.833,surname group,B.F. Whitmer,1,6,107
+George Mackay,49,3,vol063,,,,George Mackay,0,6,107
+A. McKay,26,3,vol178,George Mackay,0.909,surname group,George Mackay,1,6,107
+George McKay,14,3,vol085,George Mackay,0.909,given names compatible,George Mackay,1,6,107
+Geo. Mackay,13,2,vol070,George Mackay,1.0,given names compatible,George Mackay,1,6,107
+G.McKay,3,1,vol160,George McKay,1.0,given names compatible,George Mackay,2,6,107
+G. McKay,2,1,vol160,G.McKay,1.0,same after normalizing,George Mackay,3,6,107
+W.L. Apthorp,59,1,vol220,,,,W.L. Apthorp,0,2,97
+J.P. Apthorp,38,4,vol229,W.L. Apthorp,1.0,surname group,W.L. Apthorp,1,2,97
+David Thomas,71,7,vol001,,,,David Thomas,0,6,95
+E.L. Thomas,16,2,vol066,David Thomas,1.0,surname group,David Thomas,1,6,95
+D. Thomas,5,1,vol061,David Thomas,1.0,given names compatible,David Thomas,1,6,95
+Dàvid Thomas,1,1,vol040,David Thomas,1.0,same after normalizing,David Thomas,1,6,95
+Thomas,1,1,vol061,David Thomas,1.0,surname only,David Thomas,1,6,95
+D.Thomas,1,1,vol061,D. Thomas,1.0,same after normalizing,David Thomas,2,6,95
+Sam Reid,94,6,vol068,,,,Sam Reid,0,1,94
+C.C. Tracy,84,5,vol061,,,,C.C. Tracy,0,3,92
+Chas C. Tracy,7,1,vol016,C.C. Tracy,1.0,given names compatible,C.C. Tracy,1,3,92
+C.C.Tracy,1,1,vol097,C.C. Tracy,1.0,same after normalizing,C.C. Tracy,1,3,92
+Paul McCormick,67,5,vol006,,,,Paul McCormick,0,2,85
+A.H. McCormick,18,2,vol145,Paul McCormick,1.0,surname group,Paul McCormick,1,2,85
+W.S. Harris,49,6,vol103,,,,W.S. Harris,0,4,80
+R. D. Harris,24,1,vol028,W.S. Harris,1.0,surname group,W.S. Harris,1,4,80
+R.W. Harris,6,1,vol126,W.S. Harris,1.0,surname group,W.S. Harris,1,4,80
+W.P. Harris,1,1,vol242,W.S. Harris,1.0,surname group,W.S. Harris,1,4,80
+H. Wells,74,8,vol107,,,,H. Wells,0,2,76
+H.Wells,2,1,vol107,H. Wells,1.0,same after normalizing,H. Wells,1,2,76
+W.J. Reyes,70,4,vol130,,,,W.J. Reyes,0,3,74
+W.D. Reyes,3,1,vol212,W.J. Reyes,1.0,surname group,W.J. Reyes,1,3,74
+W.J.Reyes,1,1,vol198,W.J. Reyes,1.0,same after normalizing,W.J. Reyes,1,3,74
+T.T. Hays,15,4,vol011,,,,T.T. Hays,0,7,71
+Hays,42,4,vol004,T.T. Hays,1.0,surname only,T.T. Hays,1,7,71
+T. T. Hays,9,2,vol017,T.T. Hays,1.0,same after normalizing,T.T. Hays,1,7,71
+Thomas T. Hays,2,1,vol002,T.T. Hays,1.0,given names compatible,T.T. Hays,1,7,71
+Milton Hays,1,1,vol241,T.T. Hays,1.0,surname group,T.T. Hays,1,7,71
+T.T Hays,1,1,vol028,T.T. Hays,1.0,same after normalizing,T.T. Hays,1,7,71
+Thos. T Hays,1,1,vol011,T.T. Hays,1.0,given names compatible,T.T. Hays,1,7,71
+W. B. Drake,31,3,vol004,,,,W. B. Drake,0,5,69
+Drake,19,3,vol004,W. B. Drake,1.0,surname only,W. B. Drake,1,5,69
+J. W. Drake,10,2,vol004,W. B. Drake,1.0,surname group,W. B. Drake,1,5,69
+W.B. Drake,7,2,vol028,W. B. Drake,1.0,same after normalizing,W. B. Drake,1,5,69
+W.B Drake,2,1,vol028,W. B. Drake,1.0,same after normalizing,W. B. Drake,1,5,69
+C.F. Smith,51,4,vol213,,,,C.F. Smith,0,2,66
+C.F.Smith,15,1,vol224,C.F. Smith,1.0,same after normalizing,C.F. Smith,1,2,66
+George Houston,56,5,vol080,,,,George Houston,0,2,59
+G. Houston,3,1,vol189,George Houston,1.0,given names compatible,George Houston,1,2,59
+R.W. Norris,33,9,vol058,,,,R.W. Norris,0,6,58
+R.W.Norris,13,4,vol061,R.W. Norris,1.0,same after normalizing,R.W. Norris,1,6,58
+R. W.Norris,4,1,vol174,R.W. Norris,1.0,same after normalizing,R.W. Norris,1,6,58
+Ralph N. Norris,4,1,vol016,R.W. Norris,1.0,surname group,R.W. Norris,1,6,58
+R. W. Norris,3,1,vol174,R.W. Norris,1.0,same after normalizing,R.W. Norris,1,6,58
+R.W. Morris,1,1,vol061,R.W. Norris,0.833,given names compatible,R.W. Norris,1,6,58
+D.H. Burr,40,3,vol182,,,,D.H. Burr,0,3,57
+Washington Burr,16,1,vol223,D.H. Burr,1.0,surname group,D.H. Burr,1,3,57
+D.H.Burr,1,1,vol185,D.H. Burr,1.0,same after normalizing,D.H. Burr,1,3,57
+S.J.Perry,36,3,vol193,,,,S.J.Perry,0,6,54
+S.J. Perry,10,3,vol193,S.J.Perry,1.0,same after normalizing,S.J.Perry,1,6,54
+Col. S. J. Perry,4,1,vol069,S.J.Perry,1.0,same after normalizing,S.J.Perry,1,6,54
+Judge S.J. Perry,2,1,vol069,S.J.Perry,1.0,same after normalizing,S.J.Perry,1,6,54
+Col. Samuel J. Perry,1,1,vol069,S.J.Perry,1.0,given names compatible,S.J.Perry,1,6,54
+Judge S. J. Perry,1,1,vol069,S.J.Perry,1.0,same after normalizing,S.J.Perry,1,6,54
+C.F. Hopkins,45,11,vol102,,,,C.F. Hopkins,0,3,53
+C.F. Hopkius,6,1,vol100,C.F. Hopkins,0.857,given names compatible,C.F. Hopkins,1,3,53
+Hopkins,2,1,vol244,C.F. Hopkins,1.0,surname only,C.F. Hopkins,1,3,53
+D.F. McNeil,52,2,vol003,,,,D.F. McNeil,0,1,52
+J.A. Henderson,35,3,vol230,,,,J.A. Henderson,0,2,50
+Patton Anderson,15,2,vol003,J.A. Henderson,0.824,surname group,J.A. Henderson,1,2,50
+George Watson,49,6,vol095,,,,George Watson,0,1,49
+J.M. Irwin,41,5,vol064,,,,J.M. Irwin,0,2,49
+J.M.Irwin,8,3,vol118,J.M. Irwin,1.0,same after normalizing,J.M. Irwin,1,2,49
+R. C. Allen,23,2,vol002,,,,R. C. Allen,0,3,46
+R.C. Allen,21,4,vol002,R. C. Allen,1.0,same after normalizing,R. C. Allen,1,3,46
+Allen,2,1,vol061,R. C. Allen,1.0,surname only,R. C. Allen,1,3,46
+John Boyd,34,4,vol004,,,,John Boyd,0,3,41
+Boyd,5,1,vol061,John Boyd,1.0,surname only,John Boyd,1,3,41
+Jno. Boyd,2,1,vol061,John Boyd,1.0,given names compatible,John Boyd,1,3,41
+S. Hamblin,40,2,vol218,,,,S. Hamblin,0,1,40
+J. R. Donelson,11,1,vol016,,,,J. R. Donelson,0,5,36
+J.R. Donelson,11,2,vol061,J. R. Donelson,1.0,same after normalizing,J. R. Donelson,1,5,36
+J. Donelson,10,1,vol091,J. R. Donelson,1.0,given names compatible,J. R. Donelson,1,5,36
+Jas. R. Donelson,2,1,vol014,J. R. Donelson,1.0,given names compatible,J. R. Donelson,1,5,36
+Jno. Donelson,2,1,vol014,J. R. Donelson,1.0,given names compatible,J. R. Donelson,1,5,36
+J. Westcott,36,3,vol132,,,,J. Westcott,0,1,36
+J. P. Love,21,2,vol012,,,,J. P. Love,0,2,35
+J.P. Love,14,1,vol010,J. P. Love,1.0,same after normalizing,J. P. Love,1,2,35
+T.H. Weightman,34,3,vol094,,,,T.H. Weightman,0,2,35
+T.H.Weightman,1,1,vol101,T.H. Weightman,1.0,same after normalizing,T.H. Weightman,1,2,35
+T.S. Stearus,20,1,vol225,,,,T.S. Stearus,0,2,35
+J.H. Stearus,15,1,vol216,T.S. Stearus,1.0,surname group,T.S. Stearus,1,2,35
+W. Mickler,23,1,vol245,,,,W. Mickler,0,3,35
+W.Mickler,6,1,vol245,W. Mickler,1.0,same after normalizing,W. Mickler,1,3,35
+Wm Mickler,6,1,vol204,W. Mickler,1.0,given names compatible,W. Mickler,1,3,35
+John Brown,5,1,vol002,,,,John Brown,0,3,30
+Brown,23,1,vol008,John Brown,1.0,surname only,John Brown,1,3,30
+W.C. Brown,2,1,vol241,John Brown,1.0,surname group,John Brown,1,3,30
+L.M. Prevash,29,2,vol072,,,,L.M. Prevash,0,1,29
+R. B. Ker,27,2,vol027,,,,R. B. Ker,0,1,27
+R.W.Templeman,14,1,vol109,,,,R.W.Templeman,0,2,24
+R.W. Templeman,10,1,vol109,R.W.Templeman,1.0,same after normalizing,R.W.Templeman,1,2,24
+R. Lewis,15,1,vol019,,,,R. Lewis,0,2,23
+Romeo Lewis,8,1,vol057,R. Lewis,1.0,given names compatible,R. Lewis,1,2,23
+Frederick L. Ming,12,2,vol018,,,,Frederick L. Ming,0,3,22
+F.L. Ming,9,1,vol060,Frederick L. Ming,1.0,given names compatible,Frederick L. Ming,1,3,22
+T.L. Ming,1,1,vol061,Frederick L. Ming,1.0,surname group,Frederick L. Ming,1,3,22
+H.S. DuVal,12,1,vol242,,,,H.S. DuVal,0,2,22
+H.S. Duval,10,2,vol236,H.S. DuVal,1.0,same after normalizing,H.S. DuVal,1,2,22
+M.H. Clay,15,1,vol222,,,,M.H. Clay,0,2,22
+M.H.Clay,7,1,vol222,M.H. Clay,1.0,same after normalizing,M.H. Clay,1,2,22
+H.H. Floyd,10,1,vol127,,,,H.H. Floyd,0,2,19
+Davis Floyd,9,1,vol023,H.H. Floyd,1.0,surname group,H.H. Floyd,1,2,19
+A.W. Warrall,18,1,vol071,,,,A.W. Warrall,0,1,18
+F.R. Laring,18,2,vol148,,,,F.R. Laring,0,1,18
+S.E. Hope,18,2,vol206,,,,S.E. Hope,0,1,18
+C.C. Stone,17,2,vol005,,,,C.C. Stone,0,1,17
+J.J. Daniel,16,3,vol197,,,,J.J. Daniel,0,2,17
+J.J.Daniel,1,1,vol201,J.J. Daniel,1.0,same after normalizing,J.J. Daniel,1,2,17
+H.Jenkins,11,1,vol228,,,,H.Jenkins,0,2,15
+H. Jenkins,4,1,vol228,H.Jenkins,1.0,same after normalizing,H.Jenkins,1,2,15
+John O. Fries,6,1,vol244,,,,John O. Fries,0,4,15
+J.D. Fries,5,1,vol251,John O. Fries,1.0,surname group,John O. Fries,1,4,15
+J.O. Fries,3,1,vol241,John O. Fries,1.0,given names compatible,John O. Fries,1,4,15
+J.O. Frier,1,1,vol242,John O. Fries,0.8,given names compatible,John O. Fries,1,4,15
+E.B. Camp,12,4,vol250,,,,E.B. Camp,0,2,14
+E.B.Camp,2,1,vol249,E.B. Camp,1.0,same after normalizing,E.B. Camp,1,2,14
+John Blocker,12,3,vol030,,,,John Blocker,0,2,14
+John Blacker,2,1,vol023,John Blocker,0.857,given names compatible,John Blocker,1,2,14
+G.H. Bunker,12,3,vol199,,,,G.H. Bunker,0,1,12
+J.R. Richard,12,1,vol135,,,,J.R. Richard,0,1,12
+J.W.Childs,12,1,vol213,,,,J.W.Childs,0,1,12
+W.C. Sallie,8,1,vol247,,,,W.C. Sallie,0,4,12
+Sallie,2,1,vol244,W.C. Sallie,1.0,surname only,W.C. Sallie,1,4,12
+W.C. Sollie,1,1,vol244,W.C. Sallie,0.833,given names compatible,W.C. Sallie,1,4,12
+Wm Sollce,1,1,vol244,W.C. Sollie,0.833,given names compatible,W.C. Sallie,2,4,12
+J.D. Staubury,11,1,vol214,,,,J.D. Staubury,0,1,11
+Joseph Wright,11,1,vol087,,,,Joseph Wright,0,1,11
+J.M. Gould,8,2,vol106,,,,J.M. Gould,0,2,10
+J.M.Gould,2,2,vol106,J.M. Gould,1.0,same after normalizing,J.M. Gould,1,2,10
+J.M. Sloan,9,1,vol088,,,,J.M. Sloan,0,2,10
+James M. Sloan,1,1,vol001,J.M. Sloan,1.0,given names compatible,J.M. Sloan,1,2,10
+J. A. Coffee,9,1,vol038,,,,J. A. Coffee,0,1,9
+J.B. Kilgore,9,1,vol206,,,,J.B. Kilgore,0,1,9
+J.T. Hancock Jr,6,2,vol255,,,,J.T. Hancock Jr,0,2,7
+J.T. Hancock,1,1,vol258,J.T. Hancock Jr,1.0,same after normalizing,J.T. Hancock Jr,1,2,7
+M.Garrison,3,1,vol153,,,,M.Garrison,0,3,7
+Isaac Garrison,2,1,vol153,M.Garrison,1.0,surname group,M.Garrison,1,3,7
+M. Garrison,2,1,vol153,M.Garrison,1.0,same after normalizing,M.Garrison,1,3,7
+R.W.B. Hodgson,6,1,vol167,,,,R.W.B. Hodgson,0,1,6
+W.G. Moseley,6,1,vol200,,,,W.G. Moseley,0,1,6
+R.C. May,3,2,vol241,,,,R.C. May,0,3,5
+E. Leroy May,1,1,vol040,R.C. May,1.0,surname group,R.C. May,1,3,5
+LeRoy May,1,1,vol001,R.C. May,1.0,surname group,R.C. May,1,3,5
+D.D. Rodgers,4,4,vol238,,,,D.D. Rodgers,0,1,4
+J.M. Cook,4,1,vol249,,,,J.M. Cook,0,1,4
+Louis Lanier,4,1,vol203,,,,Louis Lanier,0,1,4
+R.H. Shaffer,2,1,vol199,,,,R.H. Shaffer,0,2,4
+R.W.H. Shaffer,2,1,vol199,R.H. Shaffer,1.0,surname group,R.H. Shaffer,1,2,4
+A.W. Gilchrist,3,1,vol253,,,,A.W. Gilchrist,0,1,3
+G.W. Patter,2,1,vol243,,,,G.W. Patter,0,2,3
+Geo. Potter,1,1,vol248,G.W. Patter,0.833,given names compatible,G.W. Patter,1,2,3
+J.D. Galbraith,3,2,vol208,,,,J.D. Galbraith,0,1,3
+J.S. Fredrick,3,1,vol255,,,,J.S. Fredrick,0,1,3
+L. A. Jewett,2,1,vol016,,,,L. A. Jewett,0,2,3
+S.A. Jewitt,1,1,vol061,L. A. Jewett,0.833,surname group,L. A. Jewett,1,2,3
+R.B. Birchfield,2,1,vol250,,,,R.B. Birchfield,0,2,3
+R.B. Burchfield,1,1,vol249,R.B. Birchfield,0.9,given names compatible,R.B. Birchfield,1,2,3
+R.Canova,3,1,vol212,,,,R.Canova,0,1,3
+A.G. Johnson,1,1,vol166,,,,A.G. Johnson,0,2,2
+G.H. Johnson,1,1,vol238,A.G. Johnson,1.0,surname group,A.G. Johnson,1,2,2
+D.A. Spaulding,2,1,vol237,,,,D.A. Spaulding,0,1,2
+G.H. Milman,2,2,vol243,,,,G.H. Milman,0,1,2
+J.F. Le Baraer,1,1,vol241,,,,J.F. Le Baraer,0,2,2
+Joel A. Barber,1,1,vol258,J.F. Le Baraer,0.833,surname group,J.F. Le Baraer,1,2,2
+J.F. Leslie,1,1,vol241,,,,J.F. Leslie,0,2,2
+J.T. Leslie,1,1,vol241,J.F. Leslie,1.0,surname group,J.F. Leslie,1,2,2
+J.R. Moorhead,2,1,vol249,,,,J.R. Moorhead,0,1,2
+W.E. Loper,2,1,vol249,,,,W.E. Loper,0,1,2
+W.H. Macy,1,1,vol250,,,,W.H. Macy,0,2,2
+Wm. H. Macy,1,1,vol243,W.H. Macy,1.0,given names compatible,W.H. Macy,1,2,2
+A.A. Stewart,1,1,vol166,,,,A.A. Stewart,0,1,1
+E.W. Morrill,1,1,vol258,,,,E.W. Morrill,0,1,1
+H.P. Gerald,1,1,vol248,,,,H.P. Gerald,0,1,1
+J.A. McDonald,1,1,vol241,,,,J.A. McDonald,0,1,1
+J.D. Rousseau,1,1,vol248,,,,J.D. Rousseau,0,1,1
+JohnJackson,1,1,vol129,,,,JohnJackson,0,1,1
+Jos. F. Shands,1,1,vol258,,,,Jos. F. Shands,0,1,1
+L.W. Dubois,1,1,vol099,,,,L.W. Dubois,0,1,1
+M.J. McEaddy,1,1,vol241,,,,M.J. McEaddy,0,1,1
+P.Baldwin,1,1,vol165,,,,P.Baldwin,0,1,1
+R.F. Bettis,1,1,vol258,,,,R.F. Bettis,0,1,1
+R.F. Hartford,1,1,vol248,,,,R.F. Hartford,0,1,1
+Robert B Leak,1,1,vol258,,,,Robert B Leak,0,1,1
+W.H. Parker,1,1,vol250,,,,W.H. Parker,0,1,1
+Walter Gwynn,1,1,vol241,,,,Walter Gwynn,0,1,1

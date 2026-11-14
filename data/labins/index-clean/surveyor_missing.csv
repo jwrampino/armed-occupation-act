@@ -1,0 +1,81 @@
+vol,page,row,surveyors,n_surveyors,not_given,row_text
+vol009,2,0,,0,True,Not Given Not Given | 1 | 9S 10W | Not Given
+vol009,2,1,,0,True,1 | 8S 10W | Not Given Not Given | Not Given
+vol009,2,2,,0,True,2 | Not Given Not Given | 7S 10W | Not Given
+vol009,2,3,,0,True,2 | Not Given | Not Given Not Given | 9W
+vol009,2,4,,0,True,3 | Not Given Not Given | 6S | Not Given | 9W
+vol009,2,5,,0,True,3 | Not Given Not Given | 2N 7W | Not Given
+vol009,2,6,,0,True,4 | Not Given Not Given | 1N 7W | Not Given
+vol009,2,7,,0,True,4 | Not Given Not Given | 1N 6W | Not Given
+vol009,2,8,,0,True,Not Given Not Given | 5 | 2N 6W | Not Given
+vol009,2,9,,0,True,5 | Not Given Not Given | 1N 5W | Not Given
+vol009,2,10,,0,True,6 | Not Given Not Given | 2N 5W | Not Given
+vol023,2,11,,0,False,
+vol024,4,4,,0,False,2
+vol032,3,12,,0,False,
+vol036,2,0,,0,False,Basis Parallel ( from 19W thru 32W)
+vol040,3,7,,0,True,32 | Not Given | Not Given | Not Given | Not Given
+vol040,3,8,,0,False,32-1 | Insert Page
+vol040,3,9,,0,False,32-2 | Insert Page
+vol040,3,10,,0,False,
+vol055,1,6,,0,True,14S 17E Not Given | 1835 | Not Given | 7
+vol055,1,7,,0,True,15S 17E Not Given | Not Given Not Given | 7
+vol055,1,8,,0,True,16S 17E Not Given | Not Given Not Given | 9
+vol055,1,9,,0,True,17S 17E Not Given | Not Given Not Given | 9
+vol055,1,10,,0,True,18S 17E Not Given | Not Given Not Given | 11
+vol055,1,11,,0,True,19S 17E Not Given | Not Given Not Given | 11
+vol055,1,12,,0,True,14S 18E Not Given | Not Given Not Given | 13
+vol055,1,13,,0,True,15S 18E Not Given | Not Given Not Given | 13
+vol055,1,14,,0,True,16S 18E Not Given | Not Given Not Given | 15
+vol055,1,15,,0,True,17S 18E Not Given | Not Given Not Given | 15
+vol055,2,0,,0,True,18S 18E Not Given | Not Given Not Given | 17
+vol055,2,1,,0,True,19S 18E Not Given | Not Given Not Given | 17
+vol055,2,2,,0,True,15S 19E Not Given | Not Given Not Given | 19
+vol055,2,3,,0,True,16S 19E Not Given | Not Given Not Given | 19
+vol055,2,4,,0,True,17S 19E Not Given | Not Given Not Given | 21
+vol055,2,5,,0,True,18S 19E Not Given | Not Given Not Given | 21
+vol055,2,6,,0,True,2d Basis Parallel South and East | 23 | (Between Townships 14 and 15 South See Vol. 53) | Not Given | Not Given Not Given
+vol061,3,1,,0,True,63 | 4°-30'E | 1843 | 32S 18E N.G.
+vol061,3,3,,0,True,4°-30'E | 67 | 1843 | 31S 19E N.G.
+vol061,3,4,,0,True,4°-30'E | 69 | 1843 | 32S 19E N.G
+vol061,3,5,,0,True,71 | 4°-30'E | 1843 | 32S 20E N.G.
+vol066,1,0,,0,False,à
+vol076,2,2,,0,True,29 | 1843 | None Given | 34S 21E Not Given
+vol110,1,11,,0,False,
+vol119,1,4,,0,False,
+vol140,1,5,,0,False,*
+vol244,1,6,,0,False,229 | Index of Islands in Lake Charles Apopka surveyed.
+vol250,1,6,,0,False,Special Indices
+vol251,1,9,,0,False,Special Indices
+vol251,1,10,,0,False,"Index to Twp 3S Rng 17E, Diagram Page 26."
+vol251,1,11,,0,False,"Index, Diagram Page 66."
+vol251,1,12,,0,False,"Index to Section Lines and Connections within Twp 3S, Diagram Page 188."
+vol252,1,4,,0,False,Special Indices
+vol252,1,5,,0,False,"Index, Part of Twp 4S Rng 17E, Diagram Page 2A"
+vol252,1,6,,0,False,"Index, Part of Twp 4S Rng 17E, Diagram Page 62"
+vol252,1,7,,0,False,"Index, Part of Twp 3S Rng 17E, Diagram Page 100"
+vol252,1,8,,0,False,"Index, Part of Twp 3S Rng 16E, Diagram Page 146"
+vol252,1,9,,0,False,"Index, Part of Twp 3S Rng 16E, Diagram Page 206"
+vol252,1,10,,0,False,"Index, Part of Twp 4S Rng Unknown, Diagram Page 242"
+vol252,1,11,,0,False,"Index, Part of Twp 4S Rng 16E, Diagram Page 302"
+vol253,1,3,,0,False,Special Indices
+vol253,1,4,,0,False,"Index to Twp 45S Rng 22E, | Index to Twp 46S Rng 22E, | Page 3A"
+vol253,1,5,,0,False,"Index to Twp 46S Rng 22E, | Index to Twp 46S Rng 23E, | Page 63"
+vol253,1,6,,0,False,"Index to Twp 46S Rng 21E, Page 83"
+vol253,1,7,,0,False,"Index to Twp 46S Rng 21E, | Page 123 | Index to Twp 46S Rng 22E,"
+vol253,1,8,,0,False,"Index to Twp 46S Rng 21E, Page 243"
+vol253,1,9,,0,False,"Index to Twp 45S Rng 21E, | Page 296 | Index to Twp 46S Rng 21E,"
+vol255,1,5,,0,False,Special Indices
+vol255,1,6,,0,False,"Index to Sections 19, 20, 29, 30, 31, 32 – Page 2A"
+vol255,1,7,,0,False,Index to Various Sections – Page 54
+vol255,1,8,,0,False,"Index to Twp 34S, 31E – Page 109"
+vol255,1,9,,0,False,Index to Islands – page 146
+vol257,1,4,,0,False,Special Indices
+vol257,1,5,,0,False,Index to Twp 38S Rng 36E – Page 2
+vol257,1,6,,0,False,Index to Twp 37S Rng 36E – Page 62
+vol257,1,7,,0,False,Index to Twp 37S Rng 35E – Page 79
+vol257,1,8,,0,False,Index to Twp 37S Rng 34E – Page 162
+vol257,1,9,,0,False,Index to Various Twp's and Rng's - Page 219
+vol257,1,10,,0,False,Index to Twp 37S Rng 34E – Page 219A | Index to Twp 37S Rng 35E – Page 219A | Index to Twp 37S Rng 36E – Page 219A | Index to Twp 38S Rng 36E – Page 219A
+vol258,1,13,,0,False,PG 1 of 2
+vol258,2,0,,0,True,1860 | 304A thru 365 | 36S | 27E | Not Given
