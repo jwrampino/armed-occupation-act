@@ -1,0 +1,143 @@
+vol,page,row,twp_raw,twp_dir,rge_raw,rge_dir,tr_keys,years,year_first,date_not_given,variation,diagram_page,surveyors,surveyor_not_given,ok,issues,row_text
+vol002,1,3,,,3,E,,1824,1824,False,Not Given,7,Thomas T. Hays | John Brown,False,False,no township,Thomas T. Hays | 1824 | 3E | Not Given | 7 | (Exterior N & E By | John Brown)
+vol002,2,12,,,3,E,,1824,1824,False,Not Given,24,John Brown,False,False,no township,24 | John Brown (& Hays) | 1824 | Not Given | 3E
+vol002,3,0,,,2,E,,1825,1825,False,Not Given,24,R.C. Allen,False,False,no township,2E | R.C. Allen | 1825 | Not Given | 24
+vol004,2,5,,,7,E,,1825,1825,False,Not Given,8,J. W. Drake,False,False,no township,1825 | 7E | J. W. Drake | Not Given | 8
+vol009,2,3,,,9,W,,,,True,,2,,True,False,no township,2 | Not Given | Not Given Not Given | 9W
+vol023,2,11,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,
+vol024,4,4,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,2
+vol025,2,7,2,N,25,E,R25E T2N,1831,1831,False,Not Given,,Paul McCormick,False,False,no diagram page,Not Given | 2N 25E | 1831 | Paul McCormick
+vol029,5,1,1,N,29,W,R29W T1N,1825,1825,False,Not Given,31,B. Clements | H. B. Clements,False,False,"township read as IN, taken as 1N",IN 29W | 31 | 1825 | Not Given | B & H. B. Clements
+vol032,3,12,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,
+vol033,2,7,,,27,E,,1833-4,1833,False,Not Given,7,B. Clements | J. B. Clements,False,False,no township,27E | B & J. B. Clements | 1833-4 | Not Given | 7
+vol036,2,0,,,19,W,,,,False,,,,False,False,no township; no year; no diagram page,Basis Parallel ( from 19W thru 32W)
+vol036,2,1,,,19,W,,1825,1825,False,Not Given,1,B. Clements | H.B. Clements,False,False,no township,19W | 1825 | B & H.B. Clements | Not Given | 1
+vol036,2,2,,,20,W,,1825,1825,False,Not Given,1,B. Clements | H.B. Clements,False,False,no township,20W | 1825 | Not Given | B & H.B. Clements | 1
+vol036,2,3,,,21,W,,1825,1825,False,Not Given,1,B. Clements | H.B. Clements,False,False,no township,21W | 1825 | Not Given | B & H.B. Clements | 1
+vol036,2,4,,,22,W,,1825,1825,False,Not Given,1,B. Clements | H.B. Clements,False,False,no township,22W | 1825 | B & H.B. Clements | Not Given | 1
+vol036,2,5,,,23,W,,1825,1825,False,Not Given,3,B. Clements | H.B. Clements,False,False,no township,23W | B & H.B. Clements | 3 | 1825 | Not Given
+vol036,2,6,,,24,W,,1825,1825,False,Not Given,3,B. Clements | H.B. Clements,False,False,no township,24W | 1825 | 3 | B & H.B. Clements | Not Given
+vol036,2,7,,,25,W,,1825,1825,False,Not Given,3,B. Clements | H.B. Clements,False,False,no township,25W | 1825 | Not Given | 3 | B & H.B. Clements
+vol036,2,8,,,26,W,,1825,1825,False,Not Given,3,B. Clements | H.B. Clements,False,False,no township,26W | Not Given | 3 | B & H.B. Clements | 1825
+vol036,2,9,,,27,W,,1825,1825,False,Not Given,3,B. Clements | H.B. Clements,False,False,no township,27W | 1825 | 3 | B & H.B. Clements | Not Given
+vol036,2,10,,,28,W,,1825,1825,False,Not Given,5,B. Clements | H.B. Clements,False,False,no township,28W | 1825 | B & H.B. Clements | 5 | Not Given
+vol036,2,11,,,29,W,,1825,1825,False,Not Given,5,B. Clements | H.B. Clements,False,False,no township,1825 | 29W | Not Given | 5 | B & H.B. Clements
+vol036,2,12,,,30,W,,1825,1825,False,Not Given,5,B. Clements | H.B. Clements,False,False,no township,30W | 1825 | 5 | B & H.B. Clements | Not Given
+vol036,3,0,,,31,W,,1825,1825,False,Not Given,5,B. Clements | H.B. Clements,False,False,no township,31W | 1825 | B & H.B. Clements | Not Given | 5
+vol036,3,1,,,32,W,,1825,1825,False,Not Given,5,B. Clements | H.B. Clements,False,False,no township,32W | 1825 | B & H.B. Clements | 5 | Not Given
+vol039,2,3,3,S,9,W,R9W T3S,1831,1831,False,Not Given,,J. B. Clements,False,False,no diagram page,3S | 9W | J. B. Clements | 1831 | Not Given
+vol040,3,4,,,24,E,,1825,1825,True,,30,E. Leroy May,False,False,no township,30 | Meridian between Ranges 23 and 24 E. Leroy May. 1825
+vol040,3,7,,,,,,,,True,Not Given,32,,True,False,no township; no range,32 | Not Given | Not Given | Not Given | Not Given
+vol040,3,8,,,,,,,,False,,32-1,,False,False,no township; no range; no year,32-1 | Insert Page
+vol040,3,9,,,,,,,,False,,32-2,,False,False,no township; no range; no year,32-2 | Insert Page
+vol040,3,10,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,
+vol045,3,2,,,29,W,,1828,1828,False,N. G.,24,Benj. Clements | J. W. Exum,False,False,no township,24 | N. G. | 29W | Benj. Clements | 1828 | J. W. Exum
+vol051,1,2,13,S,28,E,R28E T13S,1835,1835,True,5*-30' E,,Henry Washington,False,False,no diagram page,13S | 28E | Henry Washington | 1835 | 5*-30' E
+vol051,1,3,14,S,28,E,R28E T14S,1835,1835,True,5*-30'E,,Henry Washington,False,False,no diagram page,14S | 28E | Henry Washington | 5*-30'E | 1835
+vol053,1,0,,,23,E,,1835,1835,True,Not Given,2,B. Clements | J.B. Clements,False,False,no township,2nd Basis Parallel Range 23E | Between Townships 14 and 15 South and East | 2 | Not Given | 1835 | B & J.B. Clements
+vol053,1,1,13,S,22,E,R22E T13S,1835,1835,False,Not Given,,B. Clements | J.B. Clements,False,False,no diagram page,1835 | Not Given | 13S 22E B & J.B. Clements
+vol055,2,6,,,,,,,,True,,23,,True,False,no township; no range,2d Basis Parallel South and East | 23 | (Between Townships 14 and 15 South See Vol. 53) | Not Given | Not Given Not Given
+vol057,1,2,1,S,7,E,R7E T1S,1825,1825,False,Not Given,,Romeo Lewis,False,False,no diagram page,Not Given | 1825 | 1S | Romeo Lewis | 7E
+vol058,1,2,"6,7",S,29,E,R29E T6S|R29E T7S,1849,1849,False,Not Given,,R.W. Norris,False,False,no diagram page,"6,7S 27,28 | 29E R.W. Norris | 1849-(8) | Not Given | 3"
+vol058,1,4,"8,9",S,27,E,R27E T8S|R27E T9S,1834,1834,False,Not Given,,B. Clements | J.B. Clements,False,False,no diagram page,"8,9S 27E B & J.B. Clements | 1834 | Not Given"
+vol058,1,5,10,S,27,E,R27E T10S,1834,1834,False,Not Given,,B. Clements | J.B. Clements,False,False,no diagram page,10S 27E B & J.B. Clements | 1834 | Not Given
+vol058,1,6,,,28,E,,1834,1834,False,Not Given,5,B. Clements | J.B. Clements,False,False,no township,28E B & J.B. Clements | 1834 | Not Given | 5
+vol058,1,9,7,S,30,E,R30E T7S,1834,1834,False,Not Given,,B. Clements | J.B. Clements,False,False,no diagram page,30E B & J.B. Clements | 7S | 1834 | Not Given | 6
+vol059,1,12,31,S,39,E,R39E T31S,1903,1903,True,1.03E,19,Henry Washington,False,False,year far from the volume's other years,19 | 1.03E | 1903 | 31S 39E Henry Washington
+vol061,1,2,5,S,,,,1826,1826,True,Not Given,9,Henry Washington,False,False,no range,1826 | 5S | Henry Washington | Not Given | 9
+vol061,1,7,,,10,E,,1826,1826,True,Not Given,19,Henry Washington,False,False,no township,10E Henry Washington | Not Given | 1826 | 19
+vol061,1,8,,,10,E,,1826,1826,True,Not Given,21,Henry Washington,False,False,no township,10E Henry Washington | 1826 | 21 | Not Given
+vol061,2,2,,,11,E,,1829,1829,False,Not Given,33,R.C. Allen | D. Thomas,False,False,no township,"Not Given | 33 | 11E R.C. Allen, D. Thomas 1829"
+vol062,1,5,,,10,W,,1825,1825,False,Not Given,5,Benjamin Clements | J.W. Exum,False,False,no township,"10W Benjamin Clements, | 5 | Not Given | 1825 | J.W. Exum"
+vol062,2,8,,,13,W,,1825,1825,False,Not Given,21,Benjamin Clements | J.W. Exum,False,False,no township,"13W Benjamin Clements, | 21 | Not Given | 1825 | J.W. Exum"
+vol062,3,0,,,,,,1825,1825,True,Not Given,23,Benjamin Clements | J.W. Exum,False,False,no township; no range,Basis Parallel West | Range 9 | Range 8 | Range 10 | Benjamin Clements & J.W. Exum | 1825 | Not Given | 23
+vol062,3,1,,,,,,1825,1825,True,Not Given,25,Benjamin Clements | J.W. Exum,False,False,no township; no range,Basis Parallel West | Range 11 Range 12 Range 13 Range 14 | Benjamin Clements & J.W. Exum | 1825 | 25 | Not Given
+vol062,3,2,,,,,,1825,1825,True,Not Given,27,Benjamin Clements | J.W. Exum,False,False,no township; no range,Basis Parallel West | Range 15 Range 16 Range 17 | Benjamin Clements & J.W. Exum | 1825 | Not Given | 27
+vol062,3,4,,,18,W,,1825,1825,True,Not Given,29,Benjamin Clements | J.W. Exum,False,False,no township,Basis Parallel West | Range 18W | Range 19W | Benjamin Clements & J.W. Exum | 29 | 1825 | Not Given
+vol063,1,1,1,S,2,E,R2E T1S,1824,1824,False,Not Given,,David Thomas,False,False,no diagram page,1824 | 1S | Not Given | David Thomas | 2E
+vol063,1,13,28,S,38,E,R38E T28S,1845,1845,False,Not Given,,George Mackay,False,False,no diagram page,28S 38E George Mackay | 1845 | Not Given | 28
+vol066,1,0,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,à
+vol079,1,12,,,,,,1847,1847,False,5°E,25,John Jackson,False,False,no township; no range,Plan of Key Biscayne | 5°E | 25 | 1847 | John Jackson
+vol087,1,2,1,S,,,,1825,1825,False,None,6,Joseph Wright,False,False,no range,1825 | None | 6 | 1S | Joseph Wright | 4WJ
+vol091,1,0,,,9,W,,1825,1825,False,None,1,J. Donelson | J.R. Donelson,False,False,no township,None | 9W J. & J.R. Donelson 1825 | 1
+vol095,1,0,23,S,18,E,R18E T23S,1846-7,1846,False,None,,George Watson,False,False,no diagram page,23S 18E George Watson | None | 1846-7 | 
+vol100,1,2,28,S,,,,1852,1852,False,4°-40'E,3,C.F. Hopkius,False,False,no range,28S | C.F. Hopkius | 18EC | 1852 | 4°-40'E | 3
+vol110,1,11,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,
+vol119,1,4,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,
+vol139,1,1,,,1,W,,1852,1852,False,5°- 5'E,4,A.M. Randolph,False,False,no township,1W A.M. Randolph | 1852 | 5°- 5'E | 4
+vol140,1,5,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,*
+vol141,1,9,21,S,17,E,R17E T21S,,,False,None,18,George Watson,False,False,no year,21S 17E George Watson | 188 | None | 18
+vol144,1,8,24,S,24,E,R24E T24S,1847-8,1847,False,4°- 30'E,,J. Westcott,False,False,no diagram page,24S 24E J. Westcott | 1847-8 | 4°- 30'E & 40'E 17
+vol157,1,1,,,9,E,,1850,1850,False,5°-40'E,4,A.H. Jones,False,False,no township,1850 | A.H. Jones | 9E | 5°-40'E | 4
+vol165,1,9,29,S,36,E,R36E T29S,1962,1962,False,Not Given,18,P.Baldwin,False,False,year far from the volume's other years,29S 36E P.Baldwin | 1962 | Not Given | 18
+vol166,2,0,6,N,33,W,R33W T6N,1851,1851,False,,,H. Wells,False,False,no diagram page,33W H. Wells | 1851 | 6N | Each Course Noted 31
+vol168,1,4,1,N,17,W,R17W T1N,1851-2,1851,False,5°-15'E,9,H. Wells,False,False,"township read as TN, taken as 1N",17W H. Wells | 1851-2 | TN | 5°-15'E | 9
+vol177,1,6,18,S,34,E,R34E T18S,,,False,None,7,C.C. Tracy,False,False,no year,18S 34E C.C. Tracy | 184(7)-8 | None | 7
+vol177,1,7,18,S,34,E,R34E T18S,,,False,None,8,C.C. Tracy,False,False,no year,18S 34E C.C. Tracy | 184(7)-8 | None | 8
+vol177,1,8,19,S,34,E,R34E T19S,,,False,None,8,C.C. Tracy,False,False,no year,19S 34E C.C. Tracy | 184(7)-8 | None | 8
+vol191,1,1,,,37,E,,1855,1855,False,4°- 15'E,3,W.J. Reyes,False,False,no township,3 | 4°- 15'E | 1855 | 4QS 37E W.J. Reyes
+vol196,1,0,,,,,,1825,1825,False,,1,D.F. McNeil,False,False,no township; no range,1st - 9th | D.F. McNeil | 1825 | 1
+vol196,1,1,,,,,,1825,1825,False,,2,D.F. McNeil,False,False,no township; no range,9th' - 18th | D.F. McNeil | 1825 | 2
+vol196,1,2,,,,,,1825,1825,False,,3,D.F. McNeil,False,False,no township; no range,18th - 27th | D.F. McNeil | 1825 | 3
+vol196,1,3,,,,,,1825,1825,False,,4,D.F. McNeil,False,False,no township; no range,27th - 36th | D.F. McNeil | 1825 | 4
+vol196,1,4,,,,,,1825,1825,False,,5,D.F. McNeil,False,False,no township; no range,36th - 45th | D.F. McNeil | 1825 | 5
+vol196,1,5,,,,,,1825,1825,False,,6,D.F. McNeil,False,False,no township; no range,45th - 54th | D.F. McNeil | 1825 | 6
+vol196,1,6,,,,,,1825,1825,False,,7,D.F. McNeil,False,False,no township; no range,54th - 63rd | D.F. McNeil | 1825 | 7
+vol196,1,7,,,,,,1825,1825,False,,8,D.F. McNeil,False,False,no township; no range,63rd - 66th | 1825 | D.F. McNeil | 8
+vol196,1,8,,,,,,1825,1825,False,,10,D.F. McNeil,False,False,no township; no range,306m 6th | D.F. McNeil | 1825 | 10
+vol196,1,9,,,,,,1825,1825,False,,11,D.F. McNeil,False,False,no township; no range,6th - 12th I | D.F. McNeil | 1825 | 11
+vol196,1,10,,,,,,1825,1825,False,,12,D.F. McNeil,False,False,no township; no range,12th - 21st | D.F. McNeil | 1825 | 12
+vol196,1,11,,,,,,1825,1825,False,,13,D.F. McNeil,False,False,no township; no range,21st - 30th | 1825 | D.F. McNeil | 13
+vol196,1,12,,,,,,1825,1825,False,,14,D.F. McNeil,False,False,no township; no range,30th - 39th | D.F. McNeil | 1825 | 14
+vol196,1,13,,,,,,1825,1825,False,,15,D.F. McNeil,False,False,no township; no range,39th - 48th | D.F. McNeil | 1825 | 15
+vol196,1,14,,,,,,1825,1825,False,,16,D.F. McNeil,False,False,no township; no range,48th - 57th | D.F. McNeil | 1825 | 16
+vol196,2,0,,,,,,1825,1825,False,,17,D.F. McNeil,False,False,no township; no range,57th - 66th | 1825 | D.F. McNeil | 17
+vol196,2,1,,,,,,1825,1825,False,,18,D.F. McNeil,False,False,no township; no range,66th - 75th | D.F. McNeil | 1825 | 18
+vol196,2,2,,,,,,1825,1825,False,,19,D.F. McNeil,False,False,no township; no range,75th - 84th | D.F. McNeil | 1825 | 19
+vol196,2,3,,,,,,1825,1825,False,,20,D.F. McNeil,False,False,no township; no range,84th - 93rd  | 20 | D.F. McNeil | 1825
+vol196,2,4,,,,,,1825,1825,False,,21,D.F. McNeil,False,False,no township; no range,93rd - 102nd D.F. McNeil | 1825 | 21
+vol196,2,5,,,,,,1825,1825,False,,22,D.F. McNeil,False,False,no township; no range,102nd 11th} D.F. McNeil | 22 | 1825
+vol227,1,4,,,2,W,,1874,1874,False,as noted,2,C.F. Smith,False,False,no township,1874 | 2W C.F. Smith | 2 | as noted
+vol227,1,7,,,,,,1874,1874,False,as noted,2,C.F. Smith,False,False,no township; no range,C.F. Smith | 1874 | 2 | as noted
+vol233,1,0,,,,,,1878,1878,False,3°-46'E,1,J.A. Henderson,False,False,no township; no range,J.A. Henderson | 1878 | 3°-46'E | 1
+vol244,1,6,,,,,,,,False,,229,,False,False,no township; no range; no year,229 | Index of Islands in Lake Charles Apopka surveyed.
+vol250,1,6,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,Special Indices
+vol251,1,9,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,Special Indices
+vol251,1,10,3,S,17,E,R17E T3S,,,True,,,,False,False,no diagram page,"Index to Twp 3S Rng 17E, Diagram Page 26."
+vol251,1,11,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,"Index, Diagram Page 66."
+vol251,1,12,3,S,,,,,,False,,,,False,False,no range; no year; no diagram page,"Index to Section Lines and Connections within Twp 3S, Diagram Page 188."
+vol252,1,4,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,Special Indices
+vol252,1,5,4,S,17,E,R17E T4S,,,True,,,,False,False,no diagram page,"Index, Part of Twp 4S Rng 17E, Diagram Page 2A"
+vol252,1,6,4,S,17,E,R17E T4S,,,True,,,,False,False,no diagram page,"Index, Part of Twp 4S Rng 17E, Diagram Page 62"
+vol252,1,7,3,S,17,E,R17E T3S,,,True,,,,False,False,no diagram page,"Index, Part of Twp 3S Rng 17E, Diagram Page 100"
+vol252,1,8,3,S,16,E,R16E T3S,,,True,,,,False,False,no diagram page,"Index, Part of Twp 3S Rng 16E, Diagram Page 146"
+vol252,1,9,3,S,16,E,R16E T3S,,,True,,,,False,False,no diagram page,"Index, Part of Twp 3S Rng 16E, Diagram Page 206"
+vol252,1,10,4,S,,,,,,True,,,,False,False,no range; no diagram page,"Index, Part of Twp 4S Rng Unknown, Diagram Page 242"
+vol252,1,11,4,S,16,E,R16E T4S,,,True,,,,False,False,no diagram page,"Index, Part of Twp 4S Rng 16E, Diagram Page 302"
+vol253,1,3,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,Special Indices
+vol253,1,4,45,S,22,E,R22E T45S,,,True,,,,False,False,no diagram page,"Index to Twp 45S Rng 22E, | Index to Twp 46S Rng 22E, | Page 3A"
+vol253,1,5,46,S,22,E,R22E T46S,,,True,,,,False,False,no diagram page,"Index to Twp 46S Rng 22E, | Index to Twp 46S Rng 23E, | Page 63"
+vol253,1,6,46,S,21,E,R21E T46S,,,True,,,,False,False,no diagram page,"Index to Twp 46S Rng 21E, Page 83"
+vol253,1,7,46,S,21,E,R21E T46S,,,True,,,,False,False,no diagram page,"Index to Twp 46S Rng 21E, | Page 123 | Index to Twp 46S Rng 22E,"
+vol253,1,8,46,S,21,E,R21E T46S,,,True,,,,False,False,no diagram page,"Index to Twp 46S Rng 21E, Page 243"
+vol253,1,9,45,S,21,E,R21E T45S,,,True,,,,False,False,no diagram page,"Index to Twp 45S Rng 21E, | Page 296 | Index to Twp 46S Rng 21E,"
+vol255,1,5,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,Special Indices
+vol255,1,6,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,"Index to Sections 19, 20, 29, 30, 31, 32 – Page 2A"
+vol255,1,7,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,Index to Various Sections – Page 54
+vol255,1,8,34,S,31,E,R31E T34S,,,False,,,,False,False,no year; no diagram page,"Index to Twp 34S, 31E – Page 109"
+vol255,1,9,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,Index to Islands – page 146
+vol257,1,4,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,Special Indices
+vol257,1,5,38,S,36,E,R36E T38S,,,True,,,,False,False,no diagram page,Index to Twp 38S Rng 36E – Page 2
+vol257,1,6,37,S,36,E,R36E T37S,,,True,,,,False,False,no diagram page,Index to Twp 37S Rng 36E – Page 62
+vol257,1,7,37,S,35,E,R35E T37S,,,True,,,,False,False,no diagram page,Index to Twp 37S Rng 35E – Page 79
+vol257,1,8,37,S,34,E,R34E T37S,,,True,,,,False,False,no diagram page,Index to Twp 37S Rng 34E – Page 162
+vol257,1,9,,,,,,,,True,,,,False,False,no township; no range; no diagram page,Index to Various Twp's and Rng's - Page 219
+vol257,1,10,37,S,34,E,R34E T37S,,,True,,,,False,False,no diagram page,Index to Twp 37S Rng 34E – Page 219A | Index to Twp 37S Rng 35E – Page 219A | Index to Twp 37S Rng 36E – Page 219A | Index to Twp 38S Rng 36E – Page 219A
+vol258,1,0,35,S,16,E,R16E T35S,1906,1906,False,,1,E.B. Camp,False,False,year far from the volume's other years,1906 | 1 thru 22 | 35S | 16E | E.B. Camp | (Island in Sarasota Bay Sec 13)
+vol258,1,8,39,S,18,E,R18E T39S,1907,1907,False,,114,E.W. Morrill,False,False,year far from the volume's other years,1907 | 114 thru 133 | E.W. Morrill | 39S | 18E
+vol258,1,9,30,S,19,E,R19E T30S,1907,1907,False,,134,R.F. Bettis,False,False,year far from the volume's other years,"1907 | 134 thru 147 | 30S | R.F. Bettis | 19E | (Island in Hillsborough Bay Sec 27,34 | “Bull Frog Mound”)"
+vol258,1,10,46,S,23,E,R23E T46S,1904,1904,False,,148,Robert B Leak,False,False,year far from the volume's other years,"1904 | 148 thru 166 | 46S 23E Robert B Leak | (Island “Kitchell's Key"" Sec 5)"
+vol258,1,11,47,S,24,E,R24E T47S,1904,1904,False,,167,Jos. F. Shands,False,False,year far from the volume's other years,"167 thru 195 | 1904 | 47S 24E Jos. F. Shands | (Island in Sec 2, 11 | “Black Island”)"
+vol258,1,12,40,S,26,E,R26E T40S,1905,1905,False,,196,Joel A. Barber,False,False,year far from the volume's other years,1905 | 196 thru 304 | 40S 26E Joel A. Barber
+vol258,1,13,,,,,,,,False,,,,False,False,no township; no range; no year; no diagram page,PG 1 of 2
+vol258,2,1,38,S,34,E,R34E T38S,1907,1907,False,,366,J.T. Hancock,False,False,year far from the volume's other years,366 thru 425 | 1907 | 38S | 34E J.T. Hancock | 38S | 35E | 39S | 33E | 39S | 34E | 40S | 32E | 40S | 33E | (Lake Okeechobee Meanders)
