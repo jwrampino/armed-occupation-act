@@ -11,6 +11,9 @@ dependencies:
   - tesseract
   - jupyterlab
   - ipykernel
+  - pyarrow
+  - fastparquet
+  - geopandas
   - pip:
       - pytesseract
       - paddlepaddle
