@@ -1,0 +1,554 @@
+type,severity,sources,key,vol,page,row,detail,resolve_by
+"unsure page, not parsed",needs check,searchidx,,vol013,3,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol021,5,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol021,6,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol027,2,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol054,2,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol147,1,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol173,1,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol188,2,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol228,2,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol232,1,,typed page the classifier was unsure about,hand-check page image
+"unsure page, not parsed",needs check,searchidx,,vol256,1,,typed page the classifier was unsure about,hand-check page image
+"index page not parsed, no header",needs check,searchidx,,vol004,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol004,8,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol008,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol009,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol010,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol011,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol012,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol012,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol013,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol014,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol015,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol016,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol017,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol017,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol017,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol018,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol019,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol020,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol023,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol024,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol024,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol025,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol026,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol028,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol029,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol029,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol030,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol031,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol032,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol032,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol033,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol034,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol035,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol036,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol037,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol038,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol039,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol041,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol061,5,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol061,6,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol061,7,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol061,8,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol069,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol098,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol102,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol112,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol112,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol183,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol198,6,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol198,7,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol213,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol214,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol214,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol219,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol219,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol222,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol222,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol224,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol224,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol231,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol231,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol236,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol236,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol237,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol239,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol239,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol240,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol240,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol242,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol242,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol243,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol243,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol249,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol249,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol250,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol250,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol251,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol252,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol252,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol258,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol258,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol267,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol267,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol267,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol267,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol270,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol270,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol270,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol270,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol271,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol271,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol271,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol271,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol275,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol275,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol275,3,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol275,4,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol275,5,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol275,6,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol278,1,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol278,2,,,"hand-check page image, may be a continuation page"
+"index page not parsed, no header",needs check,searchidx,,vol278,3,,,"hand-check page image, may be a continuation page"
+index row: no township,blocking,searchidx,,vol002,1,3,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol002,2,12,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol002,3,0,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol004,2,5,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol009,2,3,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol023,2,11,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol023,2,11,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol023,2,11,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol023,2,11,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol024,4,4,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol024,4,4,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol024,4,4,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol024,4,4,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R25E T2N,vol025,2,7,no diagram page,hand-check row on page image
+index row: township read as,needs check,searchidx,R29W T1N,vol029,5,1,"township read as IN, taken as 1N",hand-check row on page image
+index row: no township,blocking,searchidx,,vol032,3,12,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol032,3,12,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol032,3,12,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol032,3,12,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol033,2,7,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,0,no township,hand-check row on page image
+index row: no year,needs check,searchidx,,vol036,2,0,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol036,2,0,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,1,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,2,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,3,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,4,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,5,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,6,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,7,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,8,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,9,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,10,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,11,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,2,12,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,3,0,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol036,3,1,no township,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R9W T3S,vol039,2,3,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol040,3,4,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol040,3,7,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol040,3,7,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol040,3,8,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol040,3,8,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol040,3,8,no year,hand-check row on page image
+index row: no township,blocking,searchidx,,vol040,3,9,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol040,3,9,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol040,3,9,no year,hand-check row on page image
+index row: no township,blocking,searchidx,,vol040,3,10,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol040,3,10,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol040,3,10,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol040,3,10,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol045,3,2,no township,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R28E T13S,vol051,1,2,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R28E T14S,vol051,1,3,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol053,1,0,no township,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R22E T13S,vol053,1,1,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol055,2,6,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol055,2,6,no range,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R7E T1S,vol057,1,2,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R29E T6S|R29E T7S,vol058,1,2,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R27E T8S|R27E T9S,vol058,1,4,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R27E T10S,vol058,1,5,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol058,1,6,no township,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R30E T7S,vol058,1,9,no diagram page,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R39E T31S,vol059,1,12,year far from the volume's other years,hand-check row on page image
+index row: no range,blocking,searchidx,,vol061,1,2,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol061,1,7,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol061,1,8,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol061,2,2,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol062,1,5,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol062,2,8,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol062,3,0,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol062,3,0,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol062,3,1,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol062,3,1,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol062,3,2,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol062,3,2,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol062,3,4,no township,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R2E T1S,vol063,1,1,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R38E T28S,vol063,1,13,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol066,1,0,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol066,1,0,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol066,1,0,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol066,1,0,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol079,1,12,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol079,1,12,no range,hand-check row on page image
+index row: no range,blocking,searchidx,,vol087,1,2,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol091,1,0,no township,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R18E T23S,vol095,1,0,no diagram page,hand-check row on page image
+index row: no range,blocking,searchidx,,vol100,1,2,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol110,1,11,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol110,1,11,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol110,1,11,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol110,1,11,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol119,1,4,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol119,1,4,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol119,1,4,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol119,1,4,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol139,1,1,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol140,1,5,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol140,1,5,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol140,1,5,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol140,1,5,no diagram page,hand-check row on page image
+index row: no year,needs check,searchidx,R17E T21S,vol141,1,9,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R24E T24S,vol144,1,8,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol157,1,1,no township,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R36E T29S,vol165,1,9,year far from the volume's other years,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R33W T6N,vol166,2,0,no diagram page,hand-check row on page image
+index row: township read as,needs check,searchidx,R17W T1N,vol168,1,4,"township read as TN, taken as 1N",hand-check row on page image
+index row: no year,needs check,searchidx,R34E T18S,vol177,1,6,no year,hand-check row on page image
+index row: no year,needs check,searchidx,R34E T18S,vol177,1,7,no year,hand-check row on page image
+index row: no year,needs check,searchidx,R34E T19S,vol177,1,8,no year,hand-check row on page image
+index row: no township,blocking,searchidx,,vol191,1,1,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,0,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,0,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,1,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,1,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,2,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,2,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,3,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,3,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,4,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,4,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,5,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,5,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,6,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,6,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,7,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,7,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,8,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,8,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,9,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,9,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,10,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,10,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,11,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,11,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,12,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,12,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,13,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,13,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,1,14,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,1,14,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,2,0,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,2,0,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,2,1,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,2,1,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,2,2,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,2,2,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,2,3,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,2,3,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,2,4,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,2,4,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol196,2,5,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol196,2,5,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol227,1,4,no township,hand-check row on page image
+index row: no township,blocking,searchidx,,vol227,1,7,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol227,1,7,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol233,1,0,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol233,1,0,no range,hand-check row on page image
+index row: no township,blocking,searchidx,,vol244,1,6,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol244,1,6,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol244,1,6,no year,hand-check row on page image
+index row: no township,blocking,searchidx,,vol250,1,6,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol250,1,6,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol250,1,6,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol250,1,6,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol251,1,9,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol251,1,9,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol251,1,9,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol251,1,9,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R17E T3S,vol251,1,10,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol251,1,11,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol251,1,11,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol251,1,11,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol251,1,11,no diagram page,hand-check row on page image
+index row: no range,blocking,searchidx,,vol251,1,12,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol251,1,12,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol251,1,12,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol252,1,4,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol252,1,4,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol252,1,4,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol252,1,4,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R17E T4S,vol252,1,5,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R17E T4S,vol252,1,6,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R17E T3S,vol252,1,7,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R16E T3S,vol252,1,8,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R16E T3S,vol252,1,9,no diagram page,hand-check row on page image
+index row: no range,blocking,searchidx,,vol252,1,10,no range,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol252,1,10,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R16E T4S,vol252,1,11,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol253,1,3,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol253,1,3,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol253,1,3,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol253,1,3,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R22E T45S,vol253,1,4,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R22E T46S,vol253,1,5,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R21E T46S,vol253,1,6,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R21E T46S,vol253,1,7,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R21E T46S,vol253,1,8,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R21E T45S,vol253,1,9,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol255,1,5,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol255,1,5,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol255,1,5,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol255,1,5,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol255,1,6,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol255,1,6,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol255,1,6,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol255,1,6,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol255,1,7,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol255,1,7,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol255,1,7,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol255,1,7,no diagram page,hand-check row on page image
+index row: no year,needs check,searchidx,R31E T34S,vol255,1,8,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R31E T34S,vol255,1,8,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol255,1,9,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol255,1,9,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol255,1,9,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol255,1,9,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol257,1,4,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol257,1,4,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol257,1,4,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol257,1,4,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R36E T38S,vol257,1,5,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R36E T37S,vol257,1,6,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R35E T37S,vol257,1,7,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R34E T37S,vol257,1,8,no diagram page,hand-check row on page image
+index row: no township,blocking,searchidx,,vol257,1,9,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol257,1,9,no range,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol257,1,9,no diagram page,hand-check row on page image
+index row: no diagram page,needs check,searchidx,R34E T37S,vol257,1,10,no diagram page,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R16E T35S,vol258,1,0,year far from the volume's other years,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R18E T39S,vol258,1,8,year far from the volume's other years,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R19E T30S,vol258,1,9,year far from the volume's other years,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R23E T46S,vol258,1,10,year far from the volume's other years,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R24E T47S,vol258,1,11,year far from the volume's other years,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R26E T40S,vol258,1,12,year far from the volume's other years,hand-check row on page image
+index row: no township,blocking,searchidx,,vol258,1,13,no township,hand-check row on page image
+index row: no range,blocking,searchidx,,vol258,1,13,no range,hand-check row on page image
+index row: no year,needs check,searchidx,,vol258,1,13,no year,hand-check row on page image
+index row: no diagram page,needs check,searchidx,,vol258,1,13,no diagram page,hand-check row on page image
+index row: year far from the volume's other years,needs check,searchidx,R34E T38S,vol258,2,1,year far from the volume's other years,hand-check row on page image
+township disagreement,needs check,web,R1E T2N,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R1E T5S,,,,nearest: R18E T52S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R2E T5S,,,,nearest: R29E T57S|R27E T56S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R3E T5S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R5E T6S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R13.5E T15S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R16E T20S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R18E T52S,,,,nearest: R1E T5S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R19.5E T14S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R20E T2S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R20E T43S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R20E T44S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R21.5E T19S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R23.5E T39S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R24E T1S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R24E T2S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R24E T3S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R25E T23S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R25.5E T15S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R27E T49S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R27E T53S,,,,nearest: R27E T56S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R27E T56S,,,,nearest: R37E T56S|R32E T56S|R27E T53S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R28E T49S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R29E T49S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R29E T54S,,,,nearest: R29E T57S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R29E T57S,,,,nearest: R29E T54S|R2E T5S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R29E T60S,,,,nearest: R32E T60S|R29E T66S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R29E T66S,,,,nearest: R29E T60S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R30E T49S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R30E T54S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R30E T55S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R31E T42S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R31E T54S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R31E T55S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R31E T60S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R31E T65S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R32E T28S,,,,nearest: R32W T28S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R32E T29S,,,,nearest: R32W T29S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R32E T42S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R32E T49S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R32E T56S,,,,nearest: R27E T56S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R32E T58S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R32E T60S,,,,nearest: R29E T60S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R32E T61S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R32E T65S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R33E T28S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R33E T29S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R33E T30S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R33E T40S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R33E T49S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R33E T58S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R33E T59S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R33E T60S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R33E T61S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R34E T24S,,,,nearest: R34E T26S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R34E T26S,,,,nearest: R34E T61S|R34E T60S|R34E T24S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R34E T39S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R34E T49S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R34E T50S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R34E T58S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R34E T59S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R34E T60S,,,,nearest: R34E T26S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R34E T61S,,,,nearest: R34E T26S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R35E T38S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R35E T43S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R35E T48S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R35E T50S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R35E T59S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R35E T60S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R35E T61S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R36E T30S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R36E T31S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R36E T43S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R36E T48S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R36E T49S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R36E T51S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R36E T59S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R37E T40S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R37E T42S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R37E T45S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R37E T52S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R37E T53S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R37E T54S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R37E T56S,,,,nearest: R27E T56S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R37E T57S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R37E T58S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R37E T59S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R37E T61S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R38E T45S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R38E T55S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R38E T61S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R39E T43S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R39E T54S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R40E T57S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R41E T51S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R44E T44S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R4W T3N,,,,nearest: R4W T3S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R6W T6N,,,,nearest: R6W T6S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R15W T5N,,,,nearest: R15W T5S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R30W T4N,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R1W T4S,,,,nearest: R31W T14S|R19W T14S|R18W T14S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R2W T6S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R3W T3S,,,,nearest: R30W T13S|R4W T3S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R3W T4S,,,,nearest: R31W T14S|R4W T4S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R3W T5S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R4W T3S,,,,nearest: R4W T3N|R3W T3S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R4W T4S,,,,nearest: R8W T4S|R3W T4S|R1W T4S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R6W T6S,,,,nearest: R6W T6N,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R6W T8S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R8W T4S,,,,nearest: R18W T14S|R4W T4S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R9W T9S,,,,nearest: R19W T19S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R12W T6S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R12W T8S,,,,nearest: R28W T8S|R27W T8S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R12W T9S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R13W T6S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R15W T5S,,,,nearest: R15W T5N,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R18W T14S,,,,nearest: R8W T4S|R1W T4S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R18W T15S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R18W T16S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R18W T17S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R18W T18S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R18W T19S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R19W T14S,,,,nearest: R1W T4S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R19W T15S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R19W T16S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R19W T17S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R19W T18S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R19W T19S,,,,nearest: R9W T9S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R24W T1S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R26W T7S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R26W T10S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R27W T8S,,,,nearest: R12W T8S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R28W T8S,,,,nearest: R12W T8S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R29W T2S,,,,nearest: R29W T3S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R29W T3S,,,,nearest: R29W T2S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R30W T9S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R30W T13S,,,,nearest: R3W T3S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R31W T11S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R31W T12S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R31W T14S,,,,nearest: R3W T4S|R1W T4S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web + volidx,R32W T4S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R32W T12S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R32W T28S,,,,nearest: R32E T28S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R32W T29S,,,,nearest: R32E T29S,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,web,R33W T4S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R40W T35S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R41W T37S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R41W T38S,,,,,"OCR web or volidx page, hand-check searchidx page"
+township disagreement,needs check,searchidx,R42W T38S,,,,,"OCR web or volidx page, hand-check searchidx page"
+diagram page missing,needs check,searchidx vs diagram files,R7E T1N,vol004,1,4,page 21,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R7E T2N,vol004,2,4,page 71,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R11E T13S,vol157,1,6,page 12,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R15E T10S,vol235,1,0,page 1,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R28E T23S,vol244,1,0,page 1,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R20E T18S,vol244,1,4,page 1921,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,,vol244,1,6,page 229,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R31E T53S,vol244,1,8,page 2991,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R32E T50S,vol244,1,10,page 4851,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R38E T24S,vol250,1,0,page 1,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R17E T10S,vol258,1,1,page 23,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R16E T13S,vol258,1,6,page 87,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R18E T39S,vol258,1,8,page 114,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R19E T30S,vol258,1,9,page 134,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R23E T46S,vol258,1,10,page 148,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R24E T47S,vol258,1,11,page 167,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R26E T40S,vol258,1,12,page 196,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R27E T36S,vol258,2,0,page 304A,"check Folder 1 file list, or the diagram is absent from the server"
+diagram page missing,needs check,searchidx vs diagram files,R34E T38S,vol258,2,1,page 366,"check Folder 1 file list, or the diagram is absent from the server"
+volume has no searchidx,blocking,searchidx,,vol192,,,"0 files in its folder, 0 index tifs","ask LABINS, nothing on the server"
+volume has no searchidx,blocking,searchidx,,vol217,,,"1834 files in its folder, 4 index tifs",OCR the index tifs
+volume has no parsed rows,blocking,searchidx,,vol021,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol022,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol147,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol173,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol195,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol232,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol254,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol256,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol259,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol260,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol261,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol262,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol263,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol264,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol265,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol266,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol267,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol268,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol269,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol270,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol271,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol272,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol273,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol274,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol275,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol276,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol277,,,,hand-check volume PDF
+volume has no parsed rows,blocking,searchidx,,vol278,,,,hand-check volume PDF
