@@ -1,11 +1,11 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 9
 INDEX TO DIAGRAM PAGES
 
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 - VOL. 9
 FIELD NOTEBOOKS
@@ -66,7 +66,7 @@ Not Given
 6
 J.W. Exum
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 TWP RGE
 SURVEYOR (S)
 DATE
@@ -129,7 +129,7 @@ Not Given
 10
 J.W. Exum
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Nol
 9
 Index to Diagrams.
@@ -194,7 +194,7 @@ A
 75
 10
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Jounship 9South. Range 10 West
 1
@@ -260,7 +260,7 @@ Ma
 32
 33
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 Tuinship 7 Srith. Kange 10 Wst.
 5
@@ -345,7 +345,7 @@ r
 31
 32
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 Township 6 South. Rangr 9 West.
 6
@@ -425,7 +425,7 @@ voU
 32
 0
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 4
 Sounship! Narth. Rangi 7 West.
 4
@@ -451,7 +451,7 @@ Form
 clazin
 you
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 Township 2 North. Range 6 West.
 5
@@ -507,7 +507,7 @@ Touvnship 1 North. Rang: 5 Mest.
 2o0
 Fotes blaim
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 6
 Township 2 North. Rang: 5 West.
 5
@@ -628,7 +628,7 @@ B
 36
 74
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 Tounship 2 South. Rauge
 13 West.
@@ -825,7 +825,7 @@ E8
 153
 16:2
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 8
 1.881
 207
@@ -1008,7 +1008,7 @@ X
 36
 35
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 Jownship 2 South.
 Ramgi 14 West.
@@ -1157,7 +1157,7 @@ OSE
 317
 317
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 70
 Tounship 4 Souuth.
 Range 14 West.

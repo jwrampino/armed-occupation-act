@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 49
@@ -82,7 +82,7 @@ R. B. Ker
 5*-25'E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -146,7 +146,7 @@ George Willis
 Henry Washington
 George Willis
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 
 E
 259s0
@@ -158,7 +158,7 @@ E
 9
 一
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Jounships 112 Soutk. Kange I Wst
 银
 4
@@ -224,7 +224,7 @@ N
 11
 8
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Tomships 2 Srith. Manges 1.62
 6
@@ -260,7 +260,7 @@ A
 E
 C
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 Dounship 1 Noth. KMange 2 West
 6
@@ -302,7 +302,7 @@ Firbes Line
 Yahs
 
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 2
 Touns kip 2 Noth. Kange 3 West
 3
@@ -381,7 +381,7 @@ Line
 Forbis
 
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 Soinship 1 North. Mange 5 West?
 2
@@ -432,7 +432,7 @@ Line
 Forbs
 
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 Ioonships 1 Noth. in Rangs 6&/ Wt
 D
@@ -511,7 +511,7 @@ Forby Line
 R.B. Ker, 1839.
 No variatisin given.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 Township 1 North.
 Kanqp 23 Cast.
@@ -616,7 +616,7 @@ CC
 GG1
 1522
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15-
 Sounship 3 North.
 Mange 23 Qast
@@ -742,7 +742,7 @@ Laseiter
 dec.57
 1031
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 17
 Sounship 2 North.
 Range 24bast
@@ -908,7 +908,7 @@ see tote on
 31
 
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 19
 Sounship 4 North.
 Kange 24 East
@@ -1002,7 +1002,7 @@ Huges
 036
 Broum
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 21
 川
 
@@ -1072,7 +1072,7 @@ S
 S
 注
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 23
 Tounships  North. in Mangu 28.1 29 East.
 Amelia Island
@@ -1107,7 +1107,7 @@ basher
 
 
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 25
 Sounship 1 Noth.
 Kange 29

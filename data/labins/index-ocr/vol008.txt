@@ -1,11 +1,11 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 VOL.8
 FIELD NOTEBOOK -
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S.
 GOVERNMENT SURVEY
 - VOL. 8
@@ -88,7 +88,7 @@ Hays and Brown
 Not Given
 13
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 TWP RGE
 SURVEYOR (S)
 DATE
@@ -155,7 +155,7 @@ Hays and Brown
 Not Given
 23
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 200
 4
 Index to Diagrams.
@@ -226,7 +226,7 @@ S.W.
 23
 11
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Township / South.
 Range 4 Nest.
 2
@@ -318,7 +318,7 @@ M
 32
 13
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 19C81
 Jownship1North.
@@ -445,7 +445,7 @@ Go
 36
 Forls,cla
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Jounship 3 North.
 Rang: 5 West.
@@ -573,7 +573,7 @@ CO/m
 011
 011
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 7
 Jouwnship 1 North. Rangi 17 West.
 112
@@ -683,7 +683,7 @@ r-
 35
 10
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 9
 Township 2 North.
 Range 18 West?
@@ -772,7 +772,7 @@ Township 3 North. Range 17 Wist.
 36
 31
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 1
 Township 4 North. Range 16 Wost.
 5
@@ -855,7 +855,7 @@ Z3
 孔1
 36
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 13
 2
 9
@@ -1061,7 +1061,7 @@ y
 34
 18
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 15
 w
 43
@@ -1127,7 +1127,7 @@ X
 181
 187
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 VoL 8
 17
 Tourship 4 North.
@@ -1252,7 +1252,7 @@ Township 1 North. Rangi 18 West.
 35
 =343
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 VOL
 19
 C81-
@@ -1479,7 +1479,7 @@ b67
 36
 -97
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 21
 294
 293-
@@ -1688,7 +1688,7 @@ LçE
 36
 9
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 9t81
 23
 605

@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 11
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 11
@@ -76,7 +76,7 @@ Not Given
 14W
 J.W. Exum
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE SURVEYOR (S)
 DATE VARIATION
@@ -103,7 +103,7 @@ Not Given
 11
 Benj. Clements
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Yol
 11
 4
@@ -140,7 +140,7 @@ N.W.
 11
 9
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Jorwnship 1 Nooth.
 Range 13 Mest.
 6
@@ -298,7 +298,7 @@ G4
 82
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 9681
 U3
@@ -506,7 +506,7 @@ JG
 36
 5
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 hi
 Jounship 4 North.
@@ -723,7 +723,7 @@ S
 36
 
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 7
 Tounship 6 North. Range 13 West.
 wom
@@ -896,7 +896,7 @@ ese
 36
 35
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 9
 Jounship
 Range 14 West.
@@ -1073,7 +1073,7 @@ Qçε
 36
 35
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 11
 u3pr
 2010

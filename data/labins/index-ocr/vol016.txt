@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 16
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -90,7 +90,7 @@ Chas C. Tracy
 4* 40' E
 13
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -194,7 +194,7 @@ A. M. Randolph
 5* 15' E
 29
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -273,7 +273,7 @@ J. R. Donelson
 6* 10' E
 41
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 Inder
 to
 D
@@ -446,7 +446,7 @@ South
 1
 31
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Tounship 20 Suth. Mange 16 East.
 The Fiuld Notes of cntain Liher in this
 Soonship caw be found on page 1-2-3-4-5-6
@@ -458,7 +458,7 @@ Same as nates in
 Valume 14/luy
 Watson
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 Downship 14South: Kange 17 Gast
 6
@@ -566,7 +566,7 @@ X
 35
 36
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3
 3
 2
@@ -696,7 +696,7 @@ yor S. Sanchez
 49
 48
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Val,113 same
 7.
 Tounship 14 South. Kange 17East
@@ -730,7 +730,7 @@ yy
 110++10+100+100-
 31  32 = 33 ミ 34  35  36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 9
 Tounship 16 Suith. Kange 19 E:
 Fracy 184.5
@@ -821,7 +821,7 @@ h
 34
 36
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 11
 Jnshi 1 S. Rage 19 t:
 3
@@ -909,7 +909,7 @@ y
 31
 32
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 3
 oh
 13
@@ -992,7 +992,7 @@ Go
 35
 30
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 wwW
 10
 Iounship 20 Saith. Rango 18 Oast.
@@ -1083,7 +1083,7 @@ ID. acosta Clasttathinem
 
 70
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 rath.. Khange 2)
 Cast.
 10w.
@@ -1181,7 +1181,7 @@ yot
 33
 -285235
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 6181
 M
 Jons 1 Kage2 
@@ -1280,7 +1280,7 @@ b.n. Clask
 36
 L
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 21
 Dounship 13 Snith
 Kange 26 East
@@ -1361,7 +1361,7 @@ tmah
 323
 322
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 81
 Vo
 23
@@ -1461,7 +1461,7 @@ B.Gaudey
 379
 379
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 25
 15 Snith.
 Tounship
@@ -1545,7 +1545,7 @@ sh
 L
 381
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 27
 Township 15 South.
 Mange 29 East.
@@ -1648,7 +1648,7 @@ ia
 31
 32
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 十十
 十
 十
@@ -1795,7 +1795,7 @@ y
 34
 35
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 31
 Township 12 South.
 Kange 28 East
@@ -1938,7 +1938,7 @@ E1S
 as
 49s
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 33
 Tounship 2 North.
 Mange 30 Wist.
@@ -2024,7 +2024,7 @@ o
 34
 35
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 30
 Dshi 6N Kag
 pa
@@ -2039,7 +2039,7 @@ Hange 29 west.
 0d
 31
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 3
 Range 31 West.:
 Township
@@ -2136,7 +2136,7 @@ iin
 31
 32
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 39
 Tounsh
 I Snith.
@@ -2304,7 +2304,7 @@ Xuy
 199
 0
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 41
 7
 S. C. pait of

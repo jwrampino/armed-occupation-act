@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 54
@@ -68,7 +68,7 @@ Not Given
 B & J. B. Clements
 J. W. Exum
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -84,7 +84,7 @@ Not Given
 J. W. Exum
 4
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Sowns hip
 Kange
 Page
@@ -102,7 +102,7 @@ West
 31
 外引
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 
 
@@ -118,12 +118,12 @@ X
 L
 L
 
-===== PAGE 5 =====
+===== PAGE 5 [blank] =====
 2
 
 °4
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Jaunship 6 North. Kango 29 West
 2
 Coffies
@@ -194,7 +194,7 @@ M. Carrera
 yRamey
 C. Beles
 
-===== PAGE 7 =====
+===== PAGE 7 [blank] =====
 4
 4
 数
@@ -202,7 +202,7 @@ C. Beles
 4
 o
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Sounship 2 North.
 Range 30 West?
@@ -420,7 +420,7 @@ C1C
 hY℃
 37
 
-===== PAGE 9 =====
+===== PAGE 9 [blank] =====
 6
 
 7
@@ -428,7 +428,7 @@ hY℃
 k
 X
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 A
 Soonship 4 North H. 30West
 Sat of Inon. 4 Noth:Mange 3 .
@@ -652,12 +652,12 @@ c9a
 383
 à
 
-===== PAGE 11 =====
+===== PAGE 11 [blank] =====
 8
 
 3
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 Sounship 2 Nirth.
 Range 31 Wut
@@ -703,7 +703,7 @@ b's
 j.Dela YRue.
 Sc0 36
 
-===== PAGE 13 =====
+===== PAGE 13 [hindex] =====
 Drargiom Page
 1,3,5,7,9
 are blank

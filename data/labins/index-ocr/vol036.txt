@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 36
 INDEX TO DIAGRAM PAGES
 8
@@ -15,7 +15,7 @@ INDEX TO DIAGRAM PAGES
 22
 汉
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 36
@@ -87,7 +87,7 @@ B & H.B. Clements
 Not Given
 5
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -154,7 +154,7 @@ B & H.B. Clements
 Not Given
 15
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Index ti
 Page
 Younship
@@ -190,7 +190,7 @@ North
 15
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Basis
 Paralld
@@ -213,7 +213,7 @@ Mange 22.
 Wist
 14 1313 12 12  1
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3.
 Basis Paralleb
 Range 23. West
@@ -235,7 +235,7 @@ West
 26 25 25 24 24 23
 f
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Basis
 Parallel
@@ -263,7 +263,7 @@ cni
 3838
 Y
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 7
 Sownship 4 Noth.
 Kange 24
@@ -470,7 +470,7 @@ CE1
 -001
 3
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 9
 19
 6
@@ -672,7 +672,7 @@ S1G
 36
 21
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 11
 Sounship 6 North.
 Kange 24 West.
@@ -765,7 +765,7 @@ slc
 AE
 th0
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 13.
 Sounship 3 North.
 Kange 26 Wist.
@@ -929,7 +929,7 @@ ELL AEI
 31
 32
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 15
 Younship 6 Noth.
 Range 30 West.

@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 23
 DIAGRAM PAGES # 1 thru # 6
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 23
@@ -82,7 +82,7 @@ Not Given
 6
 
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Vol
 V
 23
@@ -130,7 +130,7 @@ S. E.
 è
 1
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Jouvrship 5 South .
 Rangr
 19 East.
@@ -294,7 +294,7 @@ H
 31
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 Jounship 5 So uth. Rangr 20 East.
 69
@@ -456,7 +456,7 @@ cçO
 31
 855
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Jounship 6 South. Range 1 E ast.
 6
@@ -625,7 +625,7 @@ give
 16
 32
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 Range 21 East.
 641
@@ -814,7 +814,7 @@ hIT
 31
 51℃
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 22E ast.
 22℃
@@ -1013,7 +1013,7 @@ C.9℃
 309
 09℃
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 Tounship 7 South. Range 22 East.
 02℃

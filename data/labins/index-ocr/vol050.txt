@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 50
 DIAGRAM
@@ -73,7 +73,7 @@ PAGE
 5°-30'E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 50.
 cont.
@@ -110,7 +110,7 @@ PAGE
 5°-30'E
 23
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Index
 to
 lagrams
@@ -174,7 +174,7 @@ P
 26
 11
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 Rangus
 18
@@ -236,7 +236,7 @@ Y13
 Y13
 X/3
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 • Sounship 9 South.
 Kango 18 Eat
@@ -318,7 +318,7 @@ Go
 32
 か
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 9,01
 Sownship 11 South.
@@ -465,7 +465,7 @@ T81-
 34
 -081
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 SES/
 Sounship q Snuth. Range 19 East
@@ -533,7 +533,7 @@ SG1
 35
 TH
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 Younship 9 Sth. Mange 20 East
 8-2E8/'m
@@ -556,7 +556,7 @@ hy
 -691
 DeapWaters
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 Jonship 11 South, Mango 20 East:
 2881
@@ -611,7 +611,7 @@ oK
 31
 -911
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 Sounship Snuth. Mange 21 Cast
 8-3E.3
@@ -635,7 +635,7 @@ Younship 10 South. Hange 1 East
 3,08.5
 -0l1
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 Sounship 11 South. Kange 21 East
 ell
 3,0508
@@ -696,7 +696,7 @@ A
 cet
 CCC
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 17
 Mango 21
 Sounship 10 South.
@@ -930,7 +930,7 @@ cb℃
 -270
 -272
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 19
 Sounship 10 South.
 Kango 22
@@ -1149,7 +1149,7 @@ L358
 357
 358-
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 21
 S
 12 South.
@@ -1335,7 +1335,7 @@ Tho! Sravuse
 442
 443
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 23
 Sounship 6 South. Mange 26 East:
 J. Soarense

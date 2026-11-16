@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 39
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 39
@@ -71,7 +71,7 @@ J. B. Clements
 Not Given
 10
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 x
 1
 2
@@ -345,7 +345,7 @@ S846
 …
 m
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Tounshij
 1 South Range 8 West
@@ -467,7 +467,7 @@ C6
 33
 34
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 .Tounship 2 South Range 9 West
 1881
@@ -594,7 +594,7 @@ Mo
 35
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 Township
 4 Smuth Rarige 9 West
@@ -704,7 +704,7 @@ E51
 861
 36
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 8
 Tonunship
 2 South Range to West
@@ -918,7 +918,7 @@ C62
 265
 266
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 10
 Tounship 4 South Range 10 West
 1831

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 - VOL. 48
 FIELD NOTEBOOKS
@@ -65,7 +65,7 @@ Not Given
 J. B. & Benj. Clements
 J. W. Exum
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -146,7 +146,7 @@ Not Given
 27
 J. W. Exum
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Index to
 Sounship
 Rango
@@ -182,7 +182,7 @@ hart
 24
 
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Inonshp 1Noth. Kango 27 West.
 insne
 6
@@ -226,7 +226,7 @@ sn estote on map
 a
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Sownship 2 North.
 6
@@ -385,7 +385,7 @@ D
 35
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 J
 Sownship 4 North.
 Kango 27
@@ -581,7 +581,7 @@ Cot
 661
 -100
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Saunship 6 Nnth. Mange 26 Wast.
 s281
 boffees Suroy
@@ -648,7 +648,7 @@ c9C
 35
 36
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 PsiNKae
 21
@@ -699,7 +699,7 @@ Sc14
 LMagstre
 U. Hernandes
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 Alabama
 of.
@@ -749,7 +749,7 @@ S06
 X
 No vareaterin given,
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 Sownship 5 North.
 Kange 29 west
@@ -819,7 +819,7 @@ Dmatim
 No variation gwer,
 2
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15-
 Manges, 30 0 31 West
 Henry
@@ -878,7 +878,7 @@ Letthe berry easoro0
 33
 No varialion griven
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 17
 Sounship 5 Nrth.
 Rango 30 Wist.
@@ -937,7 +937,7 @@ M
 33
 No variation griverr.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 19
 Township 4. North.
 Mange 31 Wist
@@ -999,7 +999,7 @@ Henry elichaelt
 7
 No variation given.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 21
 Sownship 4 North.
 Kango 32 West
@@ -1048,7 +1048,7 @@ H. Report No.5
 No variationgiver.
 N
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 23
 Pait if S owonships
 3
@@ -1095,7 +1095,7 @@ H. 1Repoit No4
 33
 No variation groed.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 25-
 Sounship 2 North.
 Range 28 Wst.
@@ -1284,7 +1284,7 @@ robe
 -986
 c8€
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 27
 Sownship
 4 North.

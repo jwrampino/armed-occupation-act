@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 33
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 33
@@ -81,7 +81,7 @@ B & J. B. Clements
 Not Given
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Younship
 Kange
 Pago
@@ -108,7 +108,7 @@ f1
 //
 11
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 ci
 01-5
 Saonship 8 Swith. Kange 22
@@ -244,7 +244,7 @@ C.I83.
 61
 3
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Tounship 7 South.
 Kange 26 East.
 EESI
@@ -450,7 +450,7 @@ PEl
 0.51
 118
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5-
 9 South.
 Kange 26 East.
@@ -649,7 +649,7 @@ X
 32
 210
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 y
 Jouns hip
 11 S nith.
@@ -811,7 +811,7 @@ E
 -295
 297
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 1833-H
 Youwnship
@@ -1018,7 +1018,7 @@ S042
 443
 443
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 10 South.
 Tounship

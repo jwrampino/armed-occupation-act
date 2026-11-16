@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 56
 DIAGRAM
@@ -57,7 +57,7 @@ Not Given
 12
 13S 17E John Blocker
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Index to Dragrazis
 Touship
@@ -85,7 +85,7 @@ Firt St. Marles,
 End of rolume,
 T. 42 S., R. 20.E.
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Tounship
 10 South Range
@@ -222,7 +222,7 @@ E1
 35-
 36
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Tounship 12 South Range 16 East
 3
@@ -405,7 +405,7 @@ BC
 134≥195
 934
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Tounship
 8 South
@@ -587,7 +587,7 @@ E
 35
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Tovrship
 2 Sorth Range
@@ -790,7 +790,7 @@ C66
 35
 36
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Tounship
 11 South Range 17 East-
@@ -988,7 +988,7 @@ BQ
 35
 31
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 Vol56
 Toncresthip 1sSouth Runge 1r Bust
 D 12

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 0
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -89,7 +89,7 @@ D.F. McNeil
 6*10'E
 14
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 TWP
 RGE
@@ -194,7 +194,7 @@ D.F. McNeil
 6*10'E
 30
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -238,7 +238,7 @@ D.F. McNeil
 6*10'E
 36
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Nol
 3
 Index to Diagrams.
@@ -352,7 +352,7 @@ Page.
 19
 18
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 1681
 Tounship
@@ -535,7 +535,7 @@ W
 68
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 x281
 Iaunship.
@@ -678,7 +678,7 @@ S1!
 31
 らカ人
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 6
 Sownship 1.N. Range 5 
 5481
@@ -778,7 +778,7 @@ SBy
 31
 36
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 8
 W
 Tounship 3 N. Range 5 E
@@ -874,7 +874,7 @@ Georgia Line
 35
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 10
 Jounship 1.N.
 Range 14 6
@@ -968,7 +968,7 @@ C
 31
 35-
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 12
 Sownship 1 N Range 15E
 9481m
@@ -1065,7 +1065,7 @@ wr
 34
 35
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 14
 0.
 Jownship 1 N. Range 16 E
@@ -1149,7 +1149,7 @@ Guorgia Line
 32
 31
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 16
 -262
 —263
@@ -1240,7 +1240,7 @@ Georgiadive
 31
 3.2
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 18
 liw
 10
@@ -1304,7 +1304,7 @@ ly
 32
 35
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 20
 9681
 Joivnship 1 N. Range 20E
@@ -1375,7 +1375,7 @@ eorgia Line
 35
 36
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 22
 Jownship 1 N. Range 21 E
 W
@@ -1420,7 +1420,7 @@ C
 himup 4s
 31
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 24
 Jownship 1 N. Range 23 E
 91.81
@@ -1490,7 +1490,7 @@ X
 36
 33
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 26
 Joconship 3.N. Range 23 E
 3
@@ -1565,7 +1565,7 @@ is
 35
 32
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 28
 Township 1  forth.
 TRange 24 East.
@@ -1672,7 +1672,7 @@ P
 35
 88x
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 30
 Tounship br North.
 Rango 24 East
@@ -1776,7 +1776,7 @@ c60
 31
 32
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 32
 W
 Jounship 1 North. Rango 25 East.
@@ -1886,7 +1886,7 @@ h
 31
 32
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 34
 3
 0
@@ -1976,7 +1976,7 @@ hage 309
 808
 31
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 36
 CD.
 -01-09

@@ -1,9 +1,9 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [blank] =====
 
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Nol
 22
 5
@@ -42,7 +42,7 @@ S.W.
 3
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 To vvoship 9. South. Range 12 West.
 ST 9oselhs Bay
 1
@@ -70,7 +70,7 @@ Tow rvship 8 So u th. Range 12 west.
 *
  t2 2º
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 south. Rangs12 west.
 To vvrrs hip 6
@@ -206,7 +206,7 @@ C6
 85
 86
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Township 4 Sou th. Range 1s west.
 5
@@ -264,7 +264,7 @@ mexico
 EN'f
 AEY
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 To w nship 5 South. Raorgi 13 Wost.
 148-
@@ -468,7 +468,7 @@ C35
 -243
 245
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 mamt
 To nship 3 South. Ranige 14 wist.
@@ -590,7 +590,7 @@ St. Aoidoci. Pay
 274
 guef
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Jowrvship 5 Sou th. Rarngs
 14 wost.
@@ -715,7 +715,7 @@ St A ndrecs Bau
 312
 312-
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Jow niship J. soutte. Rangs 1s west .
 145

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 - VOL. 42
 FIELD NOTEBOOKS
@@ -64,7 +64,7 @@ B. Clements
 31E
 B & J. B. Clements
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 7
 Index to Diaßrans
 Tounship
@@ -85,7 +85,7 @@ East
 10
 n
 
-===== PAGE 3 =====
+===== PAGE 3 [blank] =====
 Nl
 3
 421
@@ -93,7 +93,7 @@ A?
 
 7
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Tounship 7 South Ranße 30 East
 insmb
@@ -173,12 +173,12 @@ OQ Clark
 76
 33
 
-===== PAGE 5 =====
+===== PAGE 5 [blank] =====
 3
 .C
 .A
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 1
 Torniship 9 South Range 30 East
 66
@@ -331,13 +331,13 @@ El
 98
 99
 
-===== PAGE 7 =====
+===== PAGE 7 [blank] =====
 C
 2
 
 2
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 Tounship 11South Range 30 East
 -201
 201
@@ -559,11 +559,11 @@ EEE
 199
 199
 
-===== PAGE 9 =====
+===== PAGE 9 [blank] =====
 7
 
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 Tounship 10 South.Range 31 East
 thest
@@ -701,12 +701,12 @@ SUS
 2790280
 2800808281
 
-===== PAGE 11 =====
+===== PAGE 11 [blank] =====
 9
 .3
 1"
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 Toivnship 12 South Range 31 East
 392

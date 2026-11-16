@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 5
@@ -89,7 +89,7 @@ C.C. Stone
 6*10'E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRA
 TWP RGE
 SURVEYOR (S)
@@ -115,7 +115,7 @@ C.C. Stone
 1N
 14E
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 vot
 5
 Index to Diagrams.
@@ -169,7 +169,7 @@ n
 44
 
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Township
 1 North.
 Rango 11 East:
@@ -302,7 +302,7 @@ aa
 22
 21
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Tanship 2 South.
 Range 11 bast.
@@ -465,7 +465,7 @@ i
 7
 35
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 4 Shuth. Range W East.
 Township
@@ -682,7 +682,7 @@ L
 112
 113
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 Iounship 6 South.
 Kange 11 East.
@@ -769,7 +769,7 @@ G.6.81
 35
 36
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 Range 14 East.
 Township 1 South.
@@ -943,7 +943,7 @@ o6
 174174
 176
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 Tounship
 3 South.
@@ -1153,7 +1153,7 @@ Ear
 220.
 2211
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 b
 mo
@@ -1294,7 +1294,7 @@ CfC
 1825
 Sloni
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15
 Sounship 6 South.
 Range 14 Cast

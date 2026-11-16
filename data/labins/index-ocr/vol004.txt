@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -73,7 +73,7 @@ W. B. Drake
 Not Given
 5
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -154,7 +154,7 @@ Thomas K. White
 Not Given
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -197,7 +197,7 @@ Not Given
 Thomas K. White
 (Georgia Line)
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 vol 4
 Index to Diagrams.
 T
@@ -269,7 +269,7 @@ South
 13
 13
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -342,7 +342,7 @@ W. B. Drake
 Not Given
 5
 
-===== PAGE 6 =====
+===== PAGE 6 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -423,7 +423,7 @@ Thomas K. White
 Not Given
 11
 
-===== PAGE 7 =====
+===== PAGE 7 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -466,7 +466,7 @@ Not Given
 Thomas K. White
 (Georgia Line)
 
-===== PAGE 8 =====
+===== PAGE 8 [hindex] =====
 vol 4
 Index to Diagrams.
 T
@@ -538,7 +538,7 @@ South
 13
 13
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Range 4. E.
 Soonship 2.N.
 6
@@ -636,7 +636,7 @@ myof
 31
 32
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 2/
 J. 1. M. R. 7. E.
 202202202202202202-3
@@ -653,7 +653,7 @@ J. 1. M. R. 7. E.
 205
 202h02
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 2
 、6
 Nange 5. E.
@@ -793,7 +793,7 @@ ES
 XL
 52
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 3. Noth. Range 9
 Ioonship
 Cast.
@@ -898,7 +898,7 @@ CS1
 32
 1
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 4
 Tounship 1 North.
 Range 9 Cast.
@@ -1049,7 +1049,7 @@ raht
 2
 70
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 5
 Township
 3. N.
@@ -1125,7 +1125,7 @@ El'K
 33
 34
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 6
 Township. D. N. Range 9.
 C.
@@ -1224,7 +1224,7 @@ Line
 88
 80
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 7#
 T.2 7.
 R. 7E
@@ -1248,7 +1248,7 @@ h-ε9
 12
 O
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 7
 Tounship 1 North.
 Range 8 Cast.
@@ -1405,7 +1405,7 @@ A
 35
 -681-
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 8
 2 North. Mange 7 Cast.
 Township
@@ -1554,7 +1554,7 @@ C
 3.2
 490
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 9
 2
 Township 2 North.
@@ -1670,7 +1670,7 @@ Giagia ine
 35
 36
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 10
 Jounship
 1 South.
@@ -1836,7 +1836,7 @@ d8t
 1c
 -1he
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 11
 Tounship 2 Mrth.
 TRange 11 Cast.
@@ -1940,7 +1940,7 @@ Georgia Line
 35
 3b
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 12
 Range 12 East.
 Toonship 2 North.
@@ -2132,7 +2132,7 @@ arE
 -323-
 328.
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 4
 No
 13
@@ -2239,7 +2239,7 @@ Georgia Line
 349
 $85-349
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 Range 4. E.
 Soonship 2.N.
 6
@@ -2337,7 +2337,7 @@ myof
 31
 32
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 2/
 J. 1. M. R. 7. E.
 202202202202202202-3
@@ -2354,7 +2354,7 @@ J. 1. M. R. 7. E.
 205
 202h02
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 2
 、6
 Nange 5. E.
@@ -2494,7 +2494,7 @@ ES
 XL
 52
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 3. Noth. Range 9
 Ioonship
 Cast.
@@ -2599,7 +2599,7 @@ CS1
 32
 1
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 4
 Tounship 1 North.
 Range 9 Cast.
@@ -2750,7 +2750,7 @@ raht
 2
 70
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 5
 Township
 3. N.
@@ -2826,7 +2826,7 @@ El'K
 33
 34
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 6
 Township. D. N. Range 9.
 C.
@@ -2925,7 +2925,7 @@ Line
 88
 80
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 7#
 T.2 7.
 R. 7E
@@ -2949,7 +2949,7 @@ h-ε9
 12
 O
 
-===== PAGE 32 =====
+===== PAGE 32 [diagram] =====
 7
 Tounship 1 North.
 Range 8 Cast.
@@ -3106,7 +3106,7 @@ A
 35
 -681-
 
-===== PAGE 33 =====
+===== PAGE 33 [diagram] =====
 8
 2 North. Mange 7 Cast.
 Township
@@ -3255,7 +3255,7 @@ C
 3.2
 490
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 9
 2
 Township 2 North.
@@ -3371,7 +3371,7 @@ Giagia ine
 35
 36
 
-===== PAGE 35 =====
+===== PAGE 35 [diagram] =====
 10
 Jounship
 1 South.
@@ -3537,7 +3537,7 @@ d8t
 1c
 -1he
 
-===== PAGE 36 =====
+===== PAGE 36 [diagram] =====
 11
 Tounship 2 Mrth.
 TRange 11 Cast.
@@ -3641,7 +3641,7 @@ Georgia Line
 35
 3b
 
-===== PAGE 37 =====
+===== PAGE 37 [diagram] =====
 12
 Range 12 East.
 Toonship 2 North.
@@ -3833,7 +3833,7 @@ arE
 -323-
 328.
 
-===== PAGE 38 =====
+===== PAGE 38 [diagram] =====
 4
 No
 13

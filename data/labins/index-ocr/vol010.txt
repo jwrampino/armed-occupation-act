@@ -1,13 +1,13 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 10
 INDEX TO DIAGRAM PAGES
 2
 4
 4
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 - VOL. 10
 FIELD NOTEBOOKS
@@ -74,7 +74,7 @@ Not Given
 J.W. Exum
 J.P. Love
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -124,7 +124,7 @@ Not Given
 7
 J.P. Love
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 auf
 10
 Index to Diagrams.
@@ -163,7 +163,7 @@ Southy west
 2
 7
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 30
 29
 2821
@@ -268,7 +268,7 @@ gy
 33
 37
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 
 G
 19
@@ -399,7 +399,7 @@ TI7
 33
 34
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 6
 Township 5 North. Range 20 WisT.
@@ -568,7 +568,7 @@ C.5/
 36
 -471
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 4
 7
 163
@@ -773,7 +773,7 @@ Y
 36
 31
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 Tow nship 4 Nor th.
 Rangi 21
@@ -1000,7 +1000,7 @@ GFT
 32
 62
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 6
 U3
 OU
@@ -1153,7 +1153,7 @@ B17
 296
 296
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 Sowirship 2 South. Rangr 23. West.
 328
@@ -1228,7 +1228,7 @@ Sound
 0
 
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 8
 uzn
 339℃

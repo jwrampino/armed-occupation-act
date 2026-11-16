@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 doist-
 1/2
 Washington If toillis
@@ -8,7 +8,7 @@ Washington If toillis
 5
 10
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 3/4
 Index to. Diagrom's
 T
@@ -54,7 +54,7 @@ n
 2
 22
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 1/4
 SVE Doundanies.
 32 019
@@ -105,7 +105,7 @@ R029
 R29
 36.R29
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 FIELD NOTEBOOK - VOL. 21
 INDEX TO DIAGRAM PAGES
 33
@@ -115,7 +115,7 @@ INDEX TO DIAGRAM PAGES
 33
 M
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 21
@@ -182,7 +182,7 @@ Henry Washington
 9
 Geo. Willis
 
-===== PAGE 6 =====
+===== PAGE 6 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -238,7 +238,7 @@ Henry Washington
 15
 George Willis
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Vil
 21
 2
@@ -247,7 +247,7 @@ Towiship 2 South. Rauge 19 East
 31
 ___
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3
 50
 Jo wus nip
@@ -418,7 +418,7 @@ y
 34
 33
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 40
 01.9292
@@ -581,7 +581,7 @@ J2
 13
 133
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 5
 7
 50
@@ -773,7 +773,7 @@ E3r
 31
 32
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 Jo wras nip 1 Sonith.
 Range 22 East.
@@ -901,7 +901,7 @@ h7で
 36
 85-
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 21
 Jo wns hip
 3 Sou th.
@@ -1117,7 +1117,7 @@ HIE
 -316=
 5
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 13
 SJovvrvs 1vip 2 SouTh.  Ravege
 24 Ea8h
@@ -1347,7 +1347,7 @@ E66
 -380
 378
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 25
 Jownship I south.
 Range 25 East.

@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 35
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 -VOL. 35
@@ -69,7 +69,7 @@ Not Given
 23W
 B & H.B. Clements
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Index to Diagrams
 Tonvuship
 Runge
@@ -101,12 +101,12 @@ West
 10
 23
 
-===== PAGE 4 =====
+===== PAGE 4 [blank] =====
 Vol. 35
 4.
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 Township 1 North Range21West
 £2
@@ -213,11 +213,11 @@ C
 31
 32
 
-===== PAGE 6 =====
+===== PAGE 6 [blank] =====
 3
 e
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 Tounship 3 North Range 2 2 West
 104104103103102102
@@ -381,13 +381,13 @@ BC
 33
 9
 
-===== PAGE 8 =====
+===== PAGE 8 [blank] =====
 5
 4
 5
 
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 Tounship 5 North Range22 West
 261
@@ -603,12 +603,12 @@ Lc0
 36
 
 
-===== PAGE 10 =====
+===== PAGE 10 [blank] =====
 7
 中
 
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 Tounship 6-North Range 22 West
 Line
@@ -709,11 +709,11 @@ EDE
 36
 35
 
-===== PAGE 12 =====
+===== PAGE 12 [blank] =====
 9
 
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 Tounship 4 North Range 23 West
 334*335334

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 44
@@ -90,7 +90,7 @@ B & J. B. Clements
 Not Given
 2
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index ti
 Sownship
 Range
@@ -132,7 +132,7 @@ yy
 二
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Yownship
 4
@@ -317,11 +317,11 @@ J
 3
 56
 
-===== PAGE 4 =====
+===== PAGE 4 [blank] =====
 2
 2
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Sounship
 9 South.
@@ -524,11 +524,11 @@ ahi
 19
 162
 
-===== PAGE 6 =====
+===== PAGE 6 [blank] =====
 4
 7
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 J
 Douns hip
 1 South. Kange 28 East.
@@ -712,14 +712,14 @@ L
 264
 
 
-===== PAGE 8 =====
+===== PAGE 8 [blank] =====
 C
 
 2
 C
 
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2
 Younship 1 Suith.
 Kange
@@ -933,10 +933,10 @@ NA
 -348-
 -347-
 
-===== PAGE 10 =====
+===== PAGE 10 [blank] =====
 8
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 Younship
 Kange 29 East.
@@ -1149,12 +1149,12 @@ C9ク
 448
 -448-
 
-===== PAGE 12 =====
+===== PAGE 12 [blank] =====
 10
 2
 
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 H
 N South.
 Jaunship

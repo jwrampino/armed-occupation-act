@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 60
 DIAGRAM
@@ -45,7 +45,7 @@ PAGE
 17
 17S 34E F.L. Ming
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inder to
 Sonth X Eash
 T
@@ -76,7 +76,7 @@ n
 34
 17
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 3
 otof
@@ -89,7 +89,7 @@ A
 5
 
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Joiunship 15
 6
@@ -178,7 +178,7 @@ G
 J.L. Miing, 1834,
 Narialion, 5º 40, E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 South Kange 27
 Jowrrship
@@ -273,7 +273,7 @@ J.L. Miing,
 1834.
 Variation,5-40,E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Jounship 15
  Range 2 8 East
 -189
@@ -383,7 +383,7 @@ RiVeN
 J.L. Minng, 1835.
 Variation, 5-40,E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 South, Range 280
 Eash:
@@ -541,7 +541,7 @@ V
 F.L.
 1815.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 East.
 Jownship
@@ -658,7 +658,7 @@ L67
 J.L. King, 1835.
 Variation, 5–40,E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Jownship 17 South. Range 81
 East.
@@ -770,7 +770,7 @@ F.L. i
 2. 1830.
 Varilation, 5º 40, E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15-
 South.
 Jownship 17
@@ -880,7 +880,7 @@ HE
 -400
 Variation, 5º 40,E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 Range 54.
 East.

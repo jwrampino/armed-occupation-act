@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 26
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 - VOL. 26
 FIELD NOTEBOOKS
@@ -91,7 +91,7 @@ Not Given
 7W
 W. B. Drake
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -192,7 +192,7 @@ Not Given
 14
 J. P. Love
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 DIAGRAM
 TWP
 RGE
@@ -294,7 +294,7 @@ J. W. Exum
 Not Given
 22
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -332,7 +332,7 @@ J. W. Exum
 Not Given
 24
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 20
 Index
 to Diagrams.
@@ -479,7 +479,7 @@ r9
 3
 24
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 l24
 Sounship 2 North. Rangi 4 Wist
 5
@@ -572,7 +572,7 @@ EN
 This traveure unee
 2 c1.se
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 2
 Township 4 North. 1
 Rangi G wost.
@@ -632,7 +632,7 @@ ng Erh
 32
 33
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 3.
 Township 2 Narth. Rarnge 8 West.
 5
@@ -685,7 +685,7 @@ GE
 no
 6 £
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 4
 
 Jownship I South. Rangi 9. West
@@ -703,7 +703,7 @@ Rangi 9.wist.
 7
 L
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 5
 msmb
 To unship 3. South. Range I wost.
@@ -720,7 +720,7 @@ L
 53
 52-5252
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 6
 Jo wrvship I South. Rargi 11 West
 7.C
@@ -742,7 +742,7 @@ To vwnship 1 So uth. Rarrg& 12 west.
 whhe
 61
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 7
 To wnship 3 worth. Rangt 7 wost.
 4
@@ -796,7 +796,7 @@ Rangi
 04
 Gá
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 2
 8
 Jownship 2 South Range 13 west.
@@ -811,7 +811,7 @@ Towrnship 18outh. Rangi 14 wost.
 考
 68—68
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 9
 Towroship 4 North. Rang: 10 wost.
 5
@@ -908,7 +908,7 @@ VWest
 31
 32
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 10
 Wow nship. 6. North
 Range 10 West
@@ -1020,7 +1020,7 @@ X
 30
 35-
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 11
 Tovvrship 5. North. Rarnge 11 wost.
 b
@@ -1110,7 +1110,7 @@ M
 35
 36
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 12
 Towrnship 7 North. Rarnge 11 west.
 9281
@@ -1201,7 +1201,7 @@ X
 35-
 36
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 13
 To wrnship 3. North. Range 17 Wost
 741
@@ -1401,7 +1401,7 @@ chuctalihatelee
 189.
 190
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 14
 Ju vwreshi'p I so uth..
 Rangi 20 West
@@ -1426,7 +1426,7 @@ L
 220220
 227227
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 15
 To vwiushup 1 soiuth. Raingi 22 west.
 67℃
@@ -1589,7 +1589,7 @@ X0
 2767
 31
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 16
 Towinship 2 South. Range 25 West.
 228
@@ -1642,7 +1642,7 @@ X
 322
 323
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 inams
 17
 Jo wruship 2 sou th.
@@ -1708,7 +1708,7 @@ Jowrvship 2 South. Rangi 26 Most.
 20
 Santa Raso's Sond
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 18
 288/
 Tourushup 2 Suuth. Rarrge 25 wost.
@@ -1751,7 +1751,7 @@ SamuTu Rosa's Somd
 zk
 曹
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 19
 imamib
 Towruship 2 South. Raarge 29 Wost.
@@ -1790,7 +1790,7 @@ Scc 3
 3
 Santa Rosas Sound
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 20
 20
 Towruship I s o uth.
@@ -1895,7 +1895,7 @@ found
 32
 31
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 2
 Towrnship 1. South.
 Range
@@ -2032,7 +2032,7 @@ See 46
 45
 I Devideier
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 22
 E. 1827
 Jouruship 2 So uth: Ranvg& 3o west.
@@ -2124,7 +2124,7 @@ Pepartmant
 1
 Pensacola.Bay
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 23
 Jo wrnsloup 2. So uth. Range 3) wost.
 =90.9
@@ -2265,7 +2265,7 @@ M
 04LE0
 Guef
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 24
 Jo vurrs hip 2: s o wth.
 Rangi 32 wost

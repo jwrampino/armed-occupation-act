@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 28
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 28
@@ -87,7 +87,7 @@ R. D. Harris
 Not Given
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -195,7 +195,7 @@ Hays and Drake
 Not Given
 15
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -280,7 +280,7 @@ Not Given
 W.B. Drake
 T.T. Hays
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 Index
 to Diagraims.
 T
@@ -319,7 +319,7 @@ Econchatimico's Reserv
 ie
 + Sectian lines the
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2ol-28
 Jounship 2 South. Range 1 West
 4
@@ -404,7 +404,7 @@ o
 35
 36
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 2
 Jounship 1 North. Rangi 2 West.
 10/410/410/4
@@ -544,7 +544,7 @@ Mo
 31
 99
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3
 Jownship 3 North. Range 2 West.
 Georgia - Sine
@@ -673,7 +673,7 @@ R
 32-
 32
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 4
 Jounship 2 South. Rang: 5 West.
 5
@@ -738,7 +738,7 @@ AVY
 35-
 36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 5
 Township 1 North. Range 15 West.
 35
@@ -900,7 +900,7 @@ CF
 36
 36
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 6
 Towship 3 North. Rangi 75 West.
 40-
@@ -983,7 +983,7 @@ Mん
 62620101+616
 3/ 32 33 34 35-636
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 7
 Tounship 2 North. Rangi 10 West.
 721272
@@ -1004,7 +1004,7 @@ m
 727272
 T
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 8
 Jounship 3 North: Rangi14 West.
 117117117
@@ -1016,7 +1016,7 @@ rai
 0811
 f
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 9
 Jownship1 South. Range 1 West.
 0.9/
@@ -1140,7 +1140,7 @@ Q4
 The Traverse of this Sake will be fomid
 0n Pages. 122-123-124-125-126-127--128-
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 10
 Jownship 2 North. Rangr1 Wist.
 159159159166
@@ -1158,7 +1158,7 @@ Jownship 1 Soruth. Rangi
 196196
 196—195195—195
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 11
 Jounship 2 South. Rangr 6 Wist.
 161
@@ -1171,7 +1171,7 @@ Tousiship 3.South. Range 6 West.
 CO℃
 
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 12
 Towniship 2 South, Rangr 5 West
 80℃
@@ -1189,7 +1189,7 @@ S
 
 
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 13
 Jownship 5 South. Rang: 6. Mist.
 GOC
@@ -1206,7 +1206,7 @@ A
 7/5
 -C/C
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 14
 Jownship 1North Rangr 7 Mest.
 82
@@ -1261,7 +1261,7 @@ D5
 36
 金
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 15
 Jounskip 4 North. Rangi 6 rist.
 s81s
@@ -1374,7 +1374,7 @@ T9T
 25-56
 36
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 16
 394
 387
@@ -1400,7 +1400,7 @@ River
 
 -388
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 16
 Jownship 3 North. Range 7 West.
 279
@@ -1530,7 +1530,7 @@ H
 31
 311
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 17
 Range 7 West.
 To wiship 5 North.
@@ -1593,7 +1593,7 @@ chatte
 638
 386
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 18
 Jounship 1 South. Range 7 West.
 188198
@@ -1624,7 +1624,7 @@ L
 358
 358
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 19.1
 Touriship 3 South. Range 7 Wost.
 CE
@@ -1648,7 +1648,7 @@ L
 365-
 365366366
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 20209
 Township 5 South. Range
 7 rest.
@@ -1682,7 +1682,7 @@ ou
 7-2
 27
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 20
 21
 21

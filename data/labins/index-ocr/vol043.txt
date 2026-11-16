@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 43
@@ -89,7 +89,7 @@ Patton Anderson
 Not Given
 14
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -103,7 +103,7 @@ Patton Anderson
 Not Given
 14
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 1
 Toureshijo
 Ranoe
@@ -126,7 +126,7 @@ North
 3
 4+14
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Township 3 N. Range 18 W
 12
@@ -312,7 +312,7 @@ A016=
 36
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 Tounshif 6 N Range 18 West.
 Sh
@@ -435,7 +435,7 @@ F66
 N
 
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 Tounship
 6 N Range 17 West
@@ -607,7 +607,7 @@ LVE
 36
 31
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 8
 Tounship 1 8 Range 2 West
 648
@@ -625,7 +625,7 @@ Tovnship 2 S Range 2 West
 Fala
 389390390891391392
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 10
 6E96E268168
 M
@@ -638,7 +638,7 @@ E00
 ∴:
 …
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 12
 9281
 207807
@@ -656,7 +656,7 @@ Clorim
 ne
 B
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 14
 14
 Tounship 2 N Rhae 3 West

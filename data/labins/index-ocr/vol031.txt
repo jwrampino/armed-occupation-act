@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 31
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 - VOL. 31
 FIELD NOTEBOOKS
@@ -89,7 +89,7 @@ Not Given
 14S 24E
 Paul McCormick
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 SURVEYOR (S)
 DATE
@@ -189,7 +189,7 @@ Paul McCormick
 7S 24E
 Paul McCormick
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 DIAGRAM
 DATE VARIATION
 PAGE
@@ -201,7 +201,7 @@ Not Given
 8S 24E
 Paul McCormick
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 Diagoany
 Inder
 to
@@ -278,7 +278,7 @@ South.B. Gast.
 33
 1"
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 1
 Jovivstip 3 rorth. Rcincige 7 West.
 5G
@@ -321,7 +321,7 @@ Jovivstip 3 rorth. Rcincige 7 West.
 82
 
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 Joeurrship. 3 North.
 Range 8 west.
@@ -413,7 +413,7 @@ River
 36
 seen
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Jouvinship 1 Nor th.
 Range
@@ -518,7 +518,7 @@ P neg
 32
 3
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Towesrip 2 Sou th.
 Rarde
@@ -566,7 +566,7 @@ To aurysheip)
 G6
 67
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 9
 Jovurvs hip 3 Sorr th .
 Roumge I nest.
@@ -707,7 +707,7 @@ ino
 30
 31
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 4
 Townsrip12 Sovvth. Rarage 23 Eash
 EZL_
@@ -720,7 +720,7 @@ Ranrge 23 Bast
 2T
 —92221
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 13
 23 East.
 .Jocorship 14 south.
@@ -738,7 +738,7 @@ X
 -131
 -13/—132—132
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 25
 .Jo wnsnip 14 Sovu th.
 Renzcge 25 East.
@@ -757,7 +757,7 @@ VX
 137
 _
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 27
 . Jownship 15 Sou th. Rannge 26 East..
 -6E1—6E1
@@ -770,7 +770,7 @@ f
 7
 1834
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 39
 : Jowreship 15. South. Ranse 27 East.
 t8.sl'go
@@ -788,7 +788,7 @@ Si e
 143
 St. Julhns
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 21
 Jownship 14 Suuth. Range 2s Gash.
 DM
@@ -806,7 +806,7 @@ Ba hc
 148/49149/49
 148
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 23
 . Jourrsnip 14 South.
 Ramge 30 East.
@@ -818,7 +818,7 @@ X
 -15:2—152153
 —15-316-4165-4
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 25
 ismb
 Jocunsnip 14 So uth.
@@ -833,7 +833,7 @@ X
 Oceao2
 Al tointic
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 27
 Jo urship I So u th.
 Range 23.
@@ -1040,7 +1040,7 @@ be0
 -204
 205
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 29
 Tourrs hip 5
 South.
@@ -1257,7 +1257,7 @@ Em
 297
 298
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 31
 Rannse 2H Gast.
 .Joiunsnip 7 Soiu Th.

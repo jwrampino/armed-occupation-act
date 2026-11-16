@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 53
 DIAGRAM
@@ -46,7 +46,7 @@ Not Given
 10
 19S 17E B & J.B. Clements
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 9
 Index to Dragraes
 Tounship
@@ -66,7 +66,7 @@ Sozuth
 8
 10
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 2 Basis Parallel Range 23 East
 Belucen Townships 14 and 1s South s dhst
@@ -98,7 +98,7 @@ Raige 16 East
 Range 15 East
 6565
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Tounship
 13 South Range 22 East
@@ -253,7 +253,7 @@ A20
 93
 93
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Tounship 14 South Range 17 East
 5881
@@ -440,7 +440,7 @@ AC
 35
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Tounship
 16 South Range 17 East
@@ -644,7 +644,7 @@ AEl
 85:
 34
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Tounship
 18South Range 17 East,

@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 29
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 to
 Index
 iagrams
@@ -177,7 +177,7 @@ _
 11
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U. S. GOVERNMENT SURVEY
 - VOL. 29
 FIELD NOTEBOOKS
@@ -254,7 +254,7 @@ Not Given
 1N 25W
 B & H. B. Clements
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -347,7 +347,7 @@ Not Given
 B & H. B. Clements
 1825
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 DIAGRAM
 TWPRGE
 SURVEYOR (S)
@@ -385,7 +385,7 @@ B & H. B. Clements
 Not Given
 35
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 1
  Sownship 2 Noth. 
 Kange 21 Wist.
@@ -398,11 +398,11 @@ Range 21 West
 8—8 g-611-89—9
 6
 
-===== PAGE 7 =====
+===== PAGE 7 [blank] =====
 2
 7
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3
  Sownship 4 North.
 Mange 21 Wist?
@@ -416,11 +416,11 @@ Range 21 Wist.
 -π/
 -π1
 
-===== PAGE 9 =====
+===== PAGE 9 [blank] =====
 4
 ,4
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 5
 Soonship 6 North.
 Range 21 Wist
@@ -437,12 +437,12 @@ Kange 22 Wist.
 19
 18
 
-===== PAGE 11 =====
+===== PAGE 11 [blank] =====
 6
 
 
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 7
 Jownship 1 North.
 Kange 23 Wist.
@@ -459,7 +459,7 @@ B. vH B. Climunts, 1824,
 
 .E/E 0
 
-===== PAGE 13 =====
+===== PAGE 13 [blank] =====
 8
 7
 0
@@ -467,7 +467,7 @@ B. vH B. Climunts, 1824,
 E
 
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 9
 Downship 3 Noth. 
 Kange 23-West.
@@ -488,12 +488,12 @@ EN'L AEl
 49
 -67
 
-===== PAGE 15 =====
+===== PAGE 15 [blank] =====
 10
 0
 
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 11
 Township 2 North.
 Kange 24 West.
@@ -521,11 +521,11 @@ ELN 4E
 6
 60
 
-===== PAGE 17 =====
+===== PAGE 17 [blank] =====
 19
 
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 13
 Tounshifh 1 North.
 Kange 25 Wast
@@ -545,12 +545,12 @@ N
 P 'EM AE
 -8%-
 
-===== PAGE 19 =====
+===== PAGE 19 [blank] =====
 4
 4
 
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 15
 Township 3 North.
 Range. 25 West.?
@@ -575,11 +575,11 @@ MP E  KE
 56
 
 
-===== PAGE 21 =====
+===== PAGE 21 [blank] =====
 16
 
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 19
 Younship 2 North.
 Kange 26 West.
@@ -604,11 +604,11 @@ Konan
 al
 EH PE
 
-===== PAGE 23 =====
+===== PAGE 23 [blank] =====
 18
 :Fi
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 19
 Kange 2y
 Jounship 2 North.
@@ -708,13 +708,13 @@ M
 891
 1910
 
-===== PAGE 25 =====
+===== PAGE 25 [blank] =====
 20
 i
 2
 
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 21
 Township 1 North.
 Range 30 Wist.
@@ -747,11 +747,11 @@ Mango 30 Wist
 B 
 πIπ
 
-===== PAGE 27 =====
+===== PAGE 27 [blank] =====
 92
 
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 2.3
 Younship 1 North. Nange 31 West
 -221—220220219
@@ -780,11 +780,11 @@ Alabama
 S781
 D E H AE
 
-===== PAGE 29 =====
+===== PAGE 29 [blank] =====
 24
 
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 25
 Jonship  North. Mange  Wist
 -225—224—224—223—223—223—
@@ -812,12 +812,12 @@ El H + El
 B.+ H B, Climento, 1825,
 L
 
-===== PAGE 31 =====
+===== PAGE 31 [blank] =====
 26
 2.4v1
 
 
-===== PAGE 32 =====
+===== PAGE 32 [diagram] =====
 27
 Sounship 1 North.
 Mango 29
@@ -834,11 +834,11 @@ Alatama
 X
 L
 
-===== PAGE 33 =====
+===== PAGE 33 [blank] =====
 28
 
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 29
 Sounship 1 Snith.
 Range 26 Wist.
@@ -856,11 +856,11 @@ St
 J
 L
 
-===== PAGE 35 =====
+===== PAGE 35 [blank] =====
 30
 
 
-===== PAGE 36 =====
+===== PAGE 36 [diagram] =====
 31
 1 Snith.
 Range 28 West.
@@ -887,11 +887,11 @@ DEI HEI
 L290—290
 J
 
-===== PAGE 37 =====
+===== PAGE 37 [blank] =====
 32
 
 
-===== PAGE 38 =====
+===== PAGE 38 [diagram] =====
 33
 Sounship 2 South.
 Kange 29 Wist.
@@ -913,11 +913,11 @@ B. 1 H. B. Clements,
 X
 sbc
 
-===== PAGE 39 =====
+===== PAGE 39 [blank] =====
 34
 
 
-===== PAGE 40 =====
+===== PAGE 40 [diagram] =====
 35
 Younship 2 South. Range 3o Wist
 9781.

@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 34
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 34
@@ -93,7 +93,7 @@ T. T. Hays
 Not Given
 13
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -188,7 +188,7 @@ W. B. Drake
 6*- 10'E
 27
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Index to
 iagrams
 Souns hip
@@ -281,7 +281,7 @@ x
 13.
 1
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Snith. Range 16 Cast.
 Sounship
@@ -374,12 +374,12 @@ b
 9
 31
 
-===== PAGE 6 =====
+===== PAGE 6 [blank] =====
 2
 a
 慢
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 Juunship
 Snith.
@@ -574,10 +574,10 @@ Ce
 3
 31
 
-===== PAGE 8 =====
+===== PAGE 8 [blank] =====
 4.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 Tounshup 4. South.
 Kango 17 bast?
@@ -680,12 +680,12 @@ myk
 64
 -65
 
-===== PAGE 10 =====
+===== PAGE 10 [blank] =====
 6
 3
 
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 y
 Sounship 2 Snith.
 Kango 18 Cast
@@ -708,10 +708,10 @@ va
 707
 3
 
-===== PAGE 12 =====
+===== PAGE 12 [blank] =====
 8
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 Yownship 4 South.
 Kange 18 East
@@ -909,14 +909,14 @@ ce1
 -76-
 77
 
-===== PAGE 14 =====
+===== PAGE 14 [blank] =====
 10
 4
 
 
 
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 11
 Yownship 6 South.
 Mango 18 Cast.
@@ -935,10 +935,10 @@ Jounship I Sath: Kange 18 East.
 -18
 C8
 
-===== PAGE 16 =====
+===== PAGE 16 [blank] =====
 12
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 13
 Kange 18
 East.
@@ -1131,11 +1131,11 @@ $11
 89
 89
 
-===== PAGE 18 =====
+===== PAGE 18 [blank] =====
 14
 
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 15
 Younship 10 Souith.
 Kange 18 East.
@@ -1253,11 +1253,11 @@ O'EN'
 218
 2/3
 
-===== PAGE 20 =====
+===== PAGE 20 [blank] =====
 16
 
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 17
 Sownship
 12 South.
@@ -1390,12 +1390,12 @@ S3C
 -220-
 220.
 
-===== PAGE 22 =====
+===== PAGE 22 [blank] =====
 18
 
 . ′tige
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 19
 Younship 4 South. Kango 19 bast
 022—222—222—222—222023
@@ -1413,10 +1413,10 @@ Kange 19 East.
 -bcc—6xx
 -230—230—236—230—231—231-
 
-===== PAGE 24 =====
+===== PAGE 24 [blank] =====
 20
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 21
 Younship 6 South.
 Kange 19 East
@@ -1432,12 +1432,12 @@ Sounship I South. Kango 19 ast.
 (yak--/sa.
 2
 
-===== PAGE 26 =====
+===== PAGE 26 [blank] =====
 22
 
 
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 2
 Youns hip 8 Suth.
 Nange 19 bast?
@@ -1457,13 +1457,13 @@ Soiunship 9 South. Range 19 East.
 
 SクCーSサC
 
-===== PAGE 28 =====
+===== PAGE 28 [blank] =====
 x4
 
 あ木
 2
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 25
 Sounship 10 Shuth?
 Kange 19 bast.
@@ -1478,7 +1478,7 @@ Range 19 East.
 3,01-9
 Nals
 
-===== PAGE 30 =====
+===== PAGE 30 [blank] =====
 26
 
 
@@ -1486,7 +1486,7 @@ Nals
 2
 
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 27
 Younship 12 Suith. Kango 19 East.
 ω

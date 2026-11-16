@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 59
 DIAGRAM
@@ -67,7 +67,7 @@ PAGE
 19
 31S 39E Henry Washington
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Sownship
 Range
 Page
@@ -85,7 +85,7 @@ East
 11
 
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Sownship 1South.
 Fyrucx
@@ -112,7 +112,7 @@ Sec.38
 Keirs of
 A. Deures
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Younship 2 South.
 Kango 29
@@ -166,7 +166,7 @@ yoron
 3
 28
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Township 3 South.
 Ben. bastro
@@ -237,7 +237,7 @@ Salma
 55
 59
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2.
 Township 4 Swith.
 Range 29
@@ -359,7 +359,7 @@ CcI
 234
 88
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Kange
 Township
@@ -476,7 +476,7 @@ Hecirg
 Varialion,
 5=30E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Township 6 South.
 Kange 29 East.
@@ -595,7 +595,7 @@ Herry
 Washington, 1834.
 Varialion, 520-E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Township 13 South.
 f
@@ -784,7 +784,7 @@ ae€
 36
 330
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Sownship 13 South.
 Range 30
@@ -971,7 +971,7 @@ H
 222
 807
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 19
 Toinship 13 South.
 Kange 31.

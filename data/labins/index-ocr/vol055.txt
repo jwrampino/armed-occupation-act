@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 55
 DIAGRAM
@@ -64,7 +64,7 @@ Not Given Not Given
 Not Given Not Given
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 55.
 DIAGRAM
@@ -119,7 +119,7 @@ Not Given
 Not Given
 33
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Index
 to
 Younship
@@ -156,7 +156,7 @@ South
 33
 11
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Sownship 13 Snith.
 Kangi 16 Cast
 19
@@ -335,7 +335,7 @@ La1-g721
 35
 32
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Tounship 15 Soith:
 Kange 1.6
@@ -540,7 +540,7 @@ CIC
 31
 2108214
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 Sounship 17 Snith.
 Range 16 East
@@ -673,7 +673,7 @@ CI€-
 2
 D'Elf ED
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 X
 Sounship is Souith.
 Range 14 Cast.
@@ -682,7 +682,7 @@ Sounship 15 Snith.
 Mange 14 Exst
 'FP
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 Sounship 16 Soith. Mange 17 East
 yons
@@ -694,7 +694,7 @@ rop
 1
 C
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 Soonship 18 South. Rango 17 Bast?
 7
@@ -711,7 +711,7 @@ T℃
 一℃
 -2121
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 Sounship 14 South. Range 18 East
 eo
 yom
@@ -731,7 +731,7 @@ a e
 8℃
 πE
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15
 Sounship 16 South.
 Rango 18 East
@@ -756,7 +756,7 @@ Younship 19 South. Rango 18 East.
 ℃7
 ーでク
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 17
 Sounship 18 Snith. Rango 18 East
 eグ
@@ -782,7 +782,7 @@ CC
 −99
 —54—58-6-54
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 19
 Tounship 15Srith. Mange 19 Cast
 
@@ -796,7 +796,7 @@ f
 Mhdian
 -59—59—59—59
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 21
 Jounship 17 Snuth. Mango 19 East
 uf
@@ -808,7 +808,7 @@ j
 N
 -63—63
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 23
 Paralkel South anco Cast
 Basis
@@ -823,7 +823,7 @@ Mango 17
 ap
 16969  69 68-669 69 68
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 25
 Srumshipo 10 Soith.
 Range 23 East
@@ -927,7 +927,7 @@ cle
 32
 329
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 27
 Younship
 y South.
@@ -978,7 +978,7 @@ Anastasia Islando
 31
 -387
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 29
 Mange 30
 E8/ 
@@ -1026,7 +1026,7 @@ Rivers
 452
 34
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 31
 9881
 Sownship 9 Snith.
@@ -1080,7 +1080,7 @@ Frort
 32
 36
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 33
 Snshi age
 non

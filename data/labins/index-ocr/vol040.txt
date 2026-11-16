@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 40
@@ -89,7 +89,7 @@ Not Given
 21E
 David Thomas
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 SURVEYOR (S)
 DATE
@@ -199,7 +199,7 @@ Not Given
 23E
 David Thomas
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR(S)
@@ -255,7 +255,7 @@ Insert Page
 32-2
 
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 to
 iagrams.
 Youns hip
@@ -404,7 +404,7 @@ Meridian
 11
 30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Yownship 8 South.
 Kange 1 ast.
@@ -416,14 +416,14 @@ Kange 11 East.
 Ganidd o
 X
 
-===== PAGE 6 =====
+===== PAGE 6 [blank] =====
 2
 
 
 
 ÷
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 Tounship 10 South.
 Kange n bast.
@@ -522,7 +522,7 @@ W
 -33-
 32
 
-===== PAGE 8 =====
+===== PAGE 8 [blank] =====
 4
 
 2
@@ -530,7 +530,7 @@ W
 
 
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 Township 10 Snuth.
 Mange 13 East.
@@ -691,13 +691,13 @@ eπ1
 31
 32
 
-===== PAGE 10 =====
+===== PAGE 10 [blank] =====
 6
 4
 man
 
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 y
 insmb
 .A
@@ -709,12 +709,12 @@ Dnship South. Rang t.
 ann
 
 
-===== PAGE 12 =====
+===== PAGE 12 [blank] =====
 8
 
 
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 Younship 5 S nith. KRange 20 bast.
 202222
@@ -726,7 +726,7 @@ Y
 d
 -150150—149149—148—148
 
-===== PAGE 14 =====
+===== PAGE 14 [blank] =====
 10
 
 4
@@ -736,7 +736,7 @@ d
 
 
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 11
 Dounship I South. Range 0 bast?
 inse
@@ -751,11 +751,11 @@ isnb
 G
 -156—156—155—165—154—154
 
-===== PAGE 16 =====
+===== PAGE 16 [blank] =====
 12
 é
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 13
 Jownship Smith. Kange1 Oast
 f
@@ -766,14 +766,14 @@ Sainship 2Snith. Kange 21 East
 No
 a g
 
-===== PAGE 18 =====
+===== PAGE 18 [blank] =====
 14
 7
 
 
 
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 /5
 Tounship 3 Snith. Kange 21 0ast.
 1-0E81
@@ -789,14 +789,14 @@ W
 Ban
 081
 
-===== PAGE 20 =====
+===== PAGE 20 [blank] =====
 16
 2
 
 
 =. = 
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 19
 Tounship 5 South.
 Kangu 21 East.
@@ -813,7 +813,7 @@ L
 -193—193—192—192--192----192-
 
 
-===== PAGE 22 =====
+===== PAGE 22 [blank] =====
 18
 
 
@@ -823,7 +823,7 @@ L
 
 
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 19
 Younship 7 South.
 Kange 21 East.
@@ -844,7 +844,7 @@ aricd
 -10π
 -206—205—204—204—200—203
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 20
 Younship 1 Sauth. Mange  Eat
 imamb
@@ -858,7 +858,7 @@ Dounship 2 Snith. Kange22 East.
 X
 amil
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 21
 Tnsi Sh. Kage 22 
 eaa
@@ -881,7 +881,7 @@ aril
 EG
 232—2/32—231—231—2/31—230
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 22
 Dounship 5 Snuth. Kango 2 bast
 E
@@ -903,7 +903,7 @@ imamb
 C
 —bex
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 23
 Township 7 South.
 Kange 22 East
@@ -924,12 +924,12 @@ Y
 67π
 -0.90
 
-===== PAGE 28 =====
+===== PAGE 28 [blank] =====
 24
 
 *.
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 25
 Towns hip
 1 South.
@@ -1151,14 +1151,14 @@ Sx€
 -300-
 302
 
-===== PAGE 30 =====
+===== PAGE 30 [blank] =====
 26
 2441
 
 
 
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 2
 Township
 3 South.
@@ -1383,14 +1383,14 @@ E04
 375
 375
 
-===== PAGE 32 =====
+===== PAGE 32 [blank] =====
 28
 Y
  2
 
 7
 
-===== PAGE 33 =====
+===== PAGE 33 [diagram] =====
 29
 Younship 5 South.
 Kange 23
@@ -1616,7 +1616,7 @@ alt.
 449
 448-
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 Meridiarr helweer Ranges 23 and 4 E.
 R.
 R.
@@ -1719,7 +1719,7 @@ oay × 2 S.
 5170
 017
 
-===== PAGE 35 =====
+===== PAGE 35 [diagram] =====
 31
 Downship 7 South. Range 23 East.
 S/
@@ -1739,7 +1739,7 @@ rraamar
 N
 
 
-===== PAGE 36 =====
+===== PAGE 36 [diagram] =====
 Horth
 S4 C 29.00
 32-2
@@ -1772,7 +1772,7 @@ in
 
 
 
-===== PAGE 37 =====
+===== PAGE 37 [diagram] =====
 X
 32-1
 
@@ -1909,7 +1909,7 @@ khog
 3080
 2
 
-===== PAGE 38 =====
+===== PAGE 38 [diagram] =====
 32
 246,
 236

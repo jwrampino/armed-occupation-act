@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 52
 DIAGRAM
@@ -45,7 +45,7 @@ Not Given
 Not Given
 7
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Sounship
 YRange
 Page
@@ -57,7 +57,7 @@ by
 South
 Wiut
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Tounshisp 1 North.
 Kange 8
 West
@@ -226,7 +226,7 @@ coc
 32
 881
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Younship
 Kange 9
@@ -399,7 +399,7 @@ L6
 -96
 86-
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Sounship
 1 North.
@@ -562,7 +562,7 @@ AE
 57
 -20
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 Tounship 1 Soith.
 Kange 16 Wist

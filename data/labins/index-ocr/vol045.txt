@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 45
@@ -89,7 +89,7 @@ Benj. Clements
 N.G.
 8
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -187,7 +187,7 @@ N.G.
 22
 J. W. Exum
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE SURVEYOR (S)
 DATE VARIATION
@@ -227,7 +227,7 @@ N.G.
 22
 J. W. Exum
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 1
 Tourship
 Rarroe
@@ -307,7 +307,7 @@ North
 Sazeth
 1.0
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 TounshiJo 1 North Range 1 West
 114.0
@@ -333,7 +333,7 @@ Tounships 1 Nortk Range 7 West
 181817 ×18171716
 Tounskip 1 North Range & West
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 Tounship 4 Norlh Range 26 West.
 -30311—30—292929
@@ -350,7 +350,7 @@ mb
 6E
 TE
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 不
 Tounship 6 North Range 26 West
 481
@@ -367,7 +367,7 @@ Tounship 2 North Range 27 West
 ean
 hel
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 8
 Tounship 3 Nortk Ronge 27 West.
 77
@@ -383,7 +383,7 @@ n
 
 bng
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 910
 Tounship 5 North Range 27 West
 5545355353
@@ -396,7 +396,7 @@ South borrndery of Gemeral Coffee Survey
 2
 bng
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 12
 Tounshij 2 North Range 28 West.
 25
@@ -415,7 +415,7 @@ D
 fml
 00
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 14
 Tounship 4 North Range 2s West
 innanb
@@ -429,7 +429,7 @@ Tounship 5 North Range 28 West
 D
 Lisg
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 16
 .Towniship 4 North Rane 29 West
 -7676757575
@@ -518,7 +518,7 @@ Elt
 35
 36
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 18
 Tounship
 2 North Ranße 26 West.
@@ -711,7 +711,7 @@ G
 36
 35
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 20
 Thunshis 5 North Range 26 West
 6
@@ -830,7 +830,7 @@ u200
 Bscam bia River
 J2>52
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 22
 Tounship 1 North Range 30 West.
 6
@@ -917,7 +917,7 @@ AC
 36
 257
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 24
 Tounshys 4 North Range 29 West
 2m6
@@ -1037,7 +1037,7 @@ oat
 300
 300
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 26
 Tounship
 5 North Range 29 West

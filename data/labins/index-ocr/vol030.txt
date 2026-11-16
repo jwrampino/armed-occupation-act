@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 30
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 30
@@ -78,7 +78,7 @@ John Boyd
 Not Given
 9
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -132,7 +132,7 @@ John Boyd
 Not Given
 17
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Index
 to
 Sounship
@@ -202,7 +202,7 @@ U
 u
 11
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Township 1 South?
 Kange 3 Cast.
@@ -276,7 +276,7 @@ cπ
 06
 30
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 stos
 3
 
@@ -410,7 +410,7 @@ y0
 -E.9
 -65-b-56
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 5
 South
@@ -582,7 +582,7 @@ C11
 262
 262
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 y
 Jounship
 10 South.
@@ -800,7 +800,7 @@ TIC
 254
 253
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 proy
 9
 Sounship South.
@@ -910,7 +910,7 @@ bc0
 228228
 -227
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 /
 Sownship 7 Souith.
 Kange 15 East.
@@ -936,7 +936,7 @@ ee么
 myof
 ーク€ル
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 13
 Township q Sbouth?
 Nange 15 East.
@@ -966,7 +966,7 @@ R2
 9.9π
 99π
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 15
 Toonship 8 South.
 Kango 14 Bast
@@ -990,7 +990,7 @@ imb
 -268
 -248
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 17
 Tounship 13 Snith.
 East

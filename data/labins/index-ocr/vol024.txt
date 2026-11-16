@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 24
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 indu
 TR
 Sonthslast
@@ -15,7 +15,7 @@ Paage
 1“
 
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 24
@@ -102,7 +102,7 @@ David Thomas
 Not Given
 13
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -135,7 +135,7 @@ Not Given
 17
 2
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Jounship 4 South, Range 3 East
 8-
@@ -172,12 +172,12 @@ guif of ellexico
 10
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [blank] =====
 2
 世
 
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 Tunship 50Maith.
 Tangt 4 East.
@@ -280,10 +280,10 @@ i
 36
 33
 
-===== PAGE 8 =====
+===== PAGE 8 [blank] =====
 4
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 2 South.
 Kange 4 East.
@@ -389,13 +389,13 @@ xal
 94
 95
 
-===== PAGE 10 =====
+===== PAGE 10 [blank] =====
 6
 4
 2
 「T
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 2
 Youns
 hip 1 Snith.
@@ -612,12 +612,12 @@ L
 179
 180
 
-===== PAGE 12 =====
+===== PAGE 12 [blank] =====
 8
 a
 霍
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 0
 Township 3 South.
 Range b East.
@@ -640,10 +640,10 @@ aic
 -218—218218
 217217217
 
-===== PAGE 14 =====
+===== PAGE 14 [blank] =====
 10
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 11
 Cast.
 5 Ioith.
@@ -672,11 +672,11 @@ Guep
 F
 22
 
-===== PAGE 16 =====
+===== PAGE 16 [blank] =====
 12
 二
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 13
 3 South.
 Cast..
@@ -873,12 +873,12 @@ E1€
 31
 E23
 
-===== PAGE 18 =====
+===== PAGE 18 [blank] =====
 14
 
 号
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 15
 Kange
 Tounship
@@ -1039,12 +1039,12 @@ ME
 343
 343
 
-===== PAGE 20 =====
+===== PAGE 20 [blank] =====
 16
 5.
 4
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 17
 Jownship 8 South. Range 10
 δast.

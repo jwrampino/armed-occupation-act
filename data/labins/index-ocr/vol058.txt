@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 58
 DIAGRAM
@@ -67,7 +67,7 @@ Not Given
 Not Given
 8
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 10S 31E B & J.B. Clements
 1834
 Not Given
@@ -111,7 +111,7 @@ Not Given
 Not Given
 12
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 vol
 58
 Index to diagrans.
@@ -227,7 +227,7 @@ m
 12
 12
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Sec6
 -1008
 Scc 56
@@ -256,7 +256,7 @@ J.Sanchuz
 GW.P.
 571
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 Tounships 13.14.f15 South Ranae 32 East
 6
@@ -333,7 +333,7 @@ Fitch.
 2
 3
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Jonmships 67 SouthRange286.5.Range2729 East-
 6
@@ -388,7 +388,7 @@ M. Grespo
 23
 Joln nTa).
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 A
 Tonniships 889 South Range 27 E.
 7E81
@@ -474,7 +474,7 @@ Martin
 B1
 35
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Townshup 7. South Range 28 East:
 R.W. No+xi6, 1849-(0)
@@ -570,7 +570,7 @@ elf el
 35
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 Jownship 7 South Range 29 Easl
 
@@ -676,7 +676,7 @@ GWP30
 36
 31
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 Tommship 8. South Ramge 30 East
 ×|I]
 9
@@ -764,7 +764,7 @@ ost
 
 
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 Towmship 10 South Range 30 East
 imant
@@ -836,7 +836,7 @@ GLOL
 3
 60
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 278
 9
 Jonnmshift
@@ -942,7 +942,7 @@ J.Iccauut
 1
 13
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 Townshih 11 South Range 31 East.
 mm6
@@ -1033,7 +1033,7 @@ N
 31
 
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 Tonnships 1 8f19 South Rangc 34 E as1.
 11
 6
@@ -1131,7 +1131,7 @@ Pablo Rosclle
 35
 36
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 Jonmships 89f g South Ranges 18ff1g East
 Pime Tice at Hatumal Bridge on Santa Fee river.

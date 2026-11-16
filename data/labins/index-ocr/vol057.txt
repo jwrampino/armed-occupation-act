@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 57-A
 DIAGRAM
@@ -97,7 +97,7 @@ Not Given
 9S
 11E R.C. Allen
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 10S 11E R.C. Allen
 1829
 Not Given
@@ -116,7 +116,7 @@ Not Given
 20
 é
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Index to Diagrans
 Tounship
 Range
@@ -130,7 +130,7 @@ East
 い
 
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Tounship 1 Smith Range 5 East
 Duplicali se vol. 63
@@ -215,7 +215,7 @@ E7
 31
 3b
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 F
 Tounship 1South Range 1 East
 691
@@ -420,7 +420,7 @@ EU0
 206
 
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 Tounship 3 South Range 1 East
 23239-
@@ -528,7 +528,7 @@ cSe
 432
 -248-249
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 8
 Tounship 5 Soth Range 7 East
 8
@@ -729,7 +729,7 @@ B5
 341
 342
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 10
 9681
 3836
@@ -813,7 +813,7 @@ ofn0
 少0
 24
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 12
 Tavniship 1 Sorith Range 8 East.
 6
@@ -934,7 +934,7 @@ SE
 35
 86
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 14
 Tounship
 4 South Rarase 10 East
@@ -1086,7 +1086,7 @@ DD
 35
 36
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 16
 6
 30
@@ -1126,7 +1126,7 @@ B3
 Tnunship 9 South Raige nEast
 van
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 18
 Tounship 10 South Ronge 11 East
 518
@@ -1211,7 +1211,7 @@ D
 36
 52
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 20
 Torrnships 11 Smuth Range 12 East
 6

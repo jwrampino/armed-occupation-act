@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 25
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 25
@@ -79,7 +79,7 @@ Paul McCormick
 Not Given
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -106,7 +106,7 @@ Paul McCormick
 Not Given
 9
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Index. to Diagrams.
 Page
 T
@@ -148,7 +148,7 @@ North + East.
 29
 9
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Journship 1 North. Kange 5 Enst.
 3
@@ -228,7 +228,7 @@ Jawnship2 North. Rangs 6 East.
 31
 32
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 insnt
 
@@ -251,7 +251,7 @@ Township 2 North : Range 28 East.
 28
 TECT
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 Sownship 3 North. Range 28 East.
 0881
@@ -302,7 +302,7 @@ X
 36
 35
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 Rangi 25 East.
 Jownship 1 North.
 6
@@ -463,7 +463,7 @@ e
 14
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 Rainge 25 East.
 Jow nship 3 North.
@@ -661,7 +661,7 @@ C81
 32
 33
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 6
 Rangi 26 East.
 Township 3 Nor th.
@@ -786,7 +786,7 @@ T
 31
 35
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 Jouizship 2 North. Range 27 East.
 273
@@ -950,7 +950,7 @@ L
 295-
 296
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 8
 inaif
 Jow rrs hip
@@ -973,7 +973,7 @@ Ia t istand
 安
 1
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 Jo urvs hip 2 Nov th. Range 29 Easl
 8

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 九
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -70,7 +70,7 @@ Henry Washington
 5*-30'E
 10
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 2
 
 目
@@ -551,7 +551,7 @@ IE
 à
 王
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Tovnship 5 Soulh Range 27 East
   Fee
@@ -691,7 +691,7 @@ A
 36
 .
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 #
 129
@@ -876,7 +876,7 @@ C9
 
 2
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Tounship
 1 South Range 2s East
 226
@@ -1027,7 +1027,7 @@ B6
 237
 
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 f
 Township 3 South Range 2 8 East
 3
@@ -1252,7 +1252,7 @@ DE0
 329
 
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Tounship 5 Soulh Range2s East
 3

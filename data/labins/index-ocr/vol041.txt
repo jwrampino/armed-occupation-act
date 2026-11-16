@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 41
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 41
@@ -93,7 +93,7 @@ Paul McCormick
 Not Given
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Vol-41
 Index to Diagrams
 TR
@@ -131,7 +131,7 @@ South-East
 16
 7
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 70
 13
@@ -235,7 +235,7 @@ M
 46
 43.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 112-
 15
 00/
@@ -354,7 +354,7 @@ Bo
 35
 1221
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 #41
 3
 Jounship 8. South. Rangi 25 East.
@@ -569,7 +569,7 @@ C7C
 230-
 834
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 Jounship 16 South. Range 29 East.
 fre81
@@ -723,7 +723,7 @@ Sate
 285
 286.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Jowriship 16 South. Rangr 30 East
 -222
@@ -908,7 +908,7 @@ S
 348-
 349
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 Joumship 16 South. Ramgr
 31 East
@@ -1126,7 +1126,7 @@ A26
 406
 
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 2
 2
 X

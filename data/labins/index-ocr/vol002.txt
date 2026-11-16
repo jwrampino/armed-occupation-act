@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. C
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -80,7 +80,7 @@ R.C. Allen
 Not Given
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -170,7 +170,7 @@ John Brown (& Hays)
 Not Given
 24
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U. S.
 GOVERNMENT
 SURVEY
@@ -189,7 +189,7 @@ R.C. Allen
 Not Given
 24
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Index to Dragrams.
 Div.
 R.
@@ -272,7 +272,7 @@ fallowing
 Su
 140
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Mrda
 北
@@ -295,7 +295,7 @@ page
 precedims
 See
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 TI S. R 2E.
 wan
@@ -399,7 +399,7 @@ J5
 DE
 12
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 TIN. R 3 E.
 54-2
 571:2
@@ -557,7 +557,7 @@ ppo
 J5
 36
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 T2 N.
 R 3 E.
 2
@@ -710,7 +710,7 @@ ttl
 35
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 T
 R2
 S
@@ -873,7 +873,7 @@ D87
 08T
 36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 T 4 S. R 2 E.
 6
 A
@@ -964,7 +964,7 @@ pan
 35
 36
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 T 1 N. R 6 E.
 _188
 -189
@@ -1093,7 +1093,7 @@ J2
 36
 i
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 IIV
 S.R13E
 Ⅱ
@@ -1301,7 +1301,7 @@ is
 233
 233
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 T 3 S.
 RI3E
 252
@@ -1504,7 +1504,7 @@ X
 2
 2
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 18
 J.I S. R. 2 E.
 1
@@ -1517,7 +1517,7 @@ dy
 163
 —163164164164165/65
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 19
 TJN.
 R4E.
@@ -1592,7 +1592,7 @@ U
 3y
 -6
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 J. I S. R. 3 E.
 10
 1
@@ -1601,7 +1601,7 @@ J. I S. R. 3 E.
 んん
 889-
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 22
 T. 3 N. R. 3. E.
 nGrorgia Line-
@@ -1617,7 +1617,7 @@ R. 3 E.
 74
 7.7
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 J. I S. R.4 E.
 ハ
 12.
@@ -1628,7 +1628,7 @@ e
 1920
 20
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 T. I N. R. 3 E.
 49-2
 49-2

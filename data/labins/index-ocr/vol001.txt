@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -59,7 +59,7 @@ Not Given
 6
 1825
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Nal
 1.
 Index to
@@ -106,7 +106,7 @@ $2
 5
 SI E
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Georgia  Line
 Touwnsips n'h
 ma
@@ -144,7 +144,7 @@ and
 333537394244
 Su previous
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 8
 Ranges East
@@ -164,7 +164,7 @@ Ranges East
 
 River
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 181
 you
@@ -296,7 +296,7 @@ S
 2
 8
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 T 3 S.
 R1E.
@@ -328,7 +328,7 @@ orhimy
 T.SSRI.E
 1
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 N
 3X
@@ -371,7 +371,7 @@ X
 2
 Rà
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 T 3 N.
 R I E.

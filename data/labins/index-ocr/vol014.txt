@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 14
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 - VOL. 14
 FIELD NOTEBOOKS
@@ -68,7 +68,7 @@ Not Given
 12W
 J.W. Exum
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Diagrams
 to
 Sounship
@@ -85,7 +85,7 @@ Wist
 234か6
 か
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 23
 Jounship 1 Werth
 Kange 1 Wist
@@ -188,7 +188,7 @@ take Jackson
 35
 234
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Jounship
 1 North.
@@ -370,7 +370,7 @@ eel.
 36
 161
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 M3
 West.
@@ -582,7 +582,7 @@ DE0
 1€0
 3
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 U
 5 North.
 runship

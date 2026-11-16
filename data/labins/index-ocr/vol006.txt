@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S.
 GOVERNMENT SURVEY
 .
@@ -85,7 +85,7 @@ Hays and Drake
 Not Given
 6
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 TWP
 RGE
@@ -190,7 +190,7 @@ John Boyd
 Not Given
 14
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 RGE
 SURVEYOR (S)
@@ -211,7 +211,7 @@ John Boyd
 Not Given
 15
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Nol
 6
 Index to Diagrams.
@@ -293,7 +293,7 @@ South
 15
 15
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 11
 Township 4. Aorth. Rangr 5 Mest.
 小
@@ -319,7 +319,7 @@ Georgia Lirne
 36
 32
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 2
 Jounship 4 North. Range 4 West.
@@ -336,7 +336,7 @@ gohaeny
 Gerrgia
 31
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3 
 Jounship 3 North. Rauge 3 Wesh.
 Georgia Line
@@ -420,7 +420,7 @@ un
 36
 35
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 4
 Jownship 3 North. Rangi 1 West.
 scorgia Sirre
@@ -506,7 +506,7 @@ y
 31
 32
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Jswnship 3 North. Range 2 East
 Georgia Line
 23
@@ -569,7 +569,7 @@ Seorgia Line
 35-
 36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 66
 gis/ur
 Jounship 3 North. Range 4
@@ -632,7 +632,7 @@ Georgia Lins
 33
 34
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 Jownship 1 North. Rangr 5 East.
 6
@@ -722,7 +722,7 @@ z
 31
 32
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 8
 SJounship! North.
 Rangi 6 East.
@@ -854,7 +854,7 @@ Range 6 East,
 35
 36
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 Jownship 1 South : Rangi 12 East.
 601
@@ -1022,7 +1022,7 @@ O£/
 32
 621
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 10
 Range 12 East.
 6
@@ -1226,7 +1226,7 @@ Rangi 12 East.
 157
 158.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 11
 5 Suth.
 Tounship
@@ -1441,7 +1441,7 @@ rch1
 32
 77
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 12
 Tounship 1 North.
 Range 13 East.
@@ -1637,7 +1637,7 @@ East.
 30
 229
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 13
 13/3
 Jounship 2 South.
@@ -1855,7 +1855,7 @@ clx
 276
 276
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 14
 4 Jouth.
 East.
@@ -2075,7 +2075,7 @@ CIE
 868
 308
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 15
 Tounship
 6 South.

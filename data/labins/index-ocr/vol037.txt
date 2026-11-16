@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 37
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 37
@@ -92,7 +92,7 @@ Henry Washington
 Not Given
 13
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE SURVEYOR (S)
 DATE
@@ -177,7 +177,7 @@ Henry Washington
 Not Given
 25
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Index
 to Diagrams
 Younship
@@ -203,7 +203,7 @@ East
 25
 25
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Sounship 1South. Rango 8
 Cast
@@ -306,7 +306,7 @@ Younship 2 Saith. Range 8 East.
 9
 M
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Yownship
 3 South.
@@ -416,7 +416,7 @@ CC
 24
 24-
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 hip
 Kange
@@ -614,7 +614,7 @@ y2
 9
 3
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 y
 Towns hip 7 Snith.
 Range 8
@@ -832,7 +832,7 @@ X
 126-
 124
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 9
 Sounship q South. 
 Lange 8 Cast
@@ -874,7 +874,7 @@ Kange 9 Oast.
 90999℃79℃
 homh
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 11
 Sounship 3 South. 
 Kange 10 Gast.
@@ -891,7 +891,7 @@ Sownship 4 Suth. Mango 9 Bast
 f
 ola
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 13
 02
 A
@@ -902,7 +902,7 @@ Sounship 6 Saith, Range 9 Oast.
 llclhalla8la8la8hc-
 
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 15-
  Sownship I Soith. Kange 9 bast
 9281'
@@ -916,7 +916,7 @@ Jownship 8 South. Mange 9 Oast.
 1
 .80
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 129
 Jownship 6 Soath. Mange to bast.
 928/
@@ -936,7 +936,7 @@ M
 
 -2.94—294294293—290—293-
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 19
 Tounship 8 South.
 Kango 10 bast.
@@ -963,7 +963,7 @@ N
 -302
 -302
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 21
 Yawnship 10 South.
 Range 10 Bast.
@@ -1062,7 +1062,7 @@ S/€
 -818-
 316
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 23
 Sownship 10 Snith.
 Kange q Bast
@@ -1151,7 +1151,7 @@ Me
 3%
 心
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 25
 Sounship
 11 South.

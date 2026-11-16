@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 46
@@ -67,7 +67,7 @@ Not Given
 8
 J. W. Exum
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 DIAGRAM
 VARIATION
 PAGE
@@ -96,7 +96,7 @@ Benj. Clements
 25W
 J. W. Exum
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 1
 Indox to Dragrams
 Tonrnship
@@ -122,7 +122,7 @@ North
 25
 12
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 6
 4E
@@ -266,7 +266,7 @@ C3
 
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 Tounship 2 North Range 23 West
 122
@@ -445,7 +445,7 @@ C01
 34
 35
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 Tounship 1 Norlh Ranige 2.4 West
 6
@@ -636,7 +636,7 @@ C92
 35
 36
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 8
 6
 ce2
@@ -763,7 +763,7 @@ E82
 a80
 36
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 10
 Tonunship
 1 North Rarge 25 West
@@ -949,7 +949,7 @@ CBE
 35
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 12
 ク6
 6

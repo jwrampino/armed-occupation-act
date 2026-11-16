@@ -1,10 +1,10 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 12
 INDEX TO DIAGRAM PAGES
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 IN DEX to DIAGRAMS.
 Division
 T.R.
@@ -52,7 +52,7 @@ N.W.
 15
 6
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS
 - VOL. 12
@@ -132,7 +132,7 @@ Not Given
 11
 J. W. Exum
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 DIAGRAM
 SURVEYOR (S)
 DATE VARIATION
@@ -181,7 +181,7 @@ Not Given
 J. W. Exum
 J. P. Love
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 Jounshi p 2 North. Range 14 mst.
 6
@@ -279,7 +279,7 @@ H
 33
 35$ 36.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Sounship 7 North. Rangi 15 West.
 4
@@ -371,7 +371,7 @@ segtur
 343536
 -90+
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 uzin
 u
@@ -479,7 +479,7 @@ waL
 36
 19
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 7
 uznn
 Jownship 7 Nor-th Range 16 West
@@ -556,7 +556,7 @@ potaumy
 35
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 9
 Jounship
 Ravigi 17 West
@@ -717,7 +717,7 @@ C.C℃
 36
 672
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 11
 71
 u3pm
@@ -946,7 +946,7 @@ SOL
 3
 v
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 vzn
 73
 fou
@@ -1162,7 +1162,7 @@ Cε
 362
 57
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 15
 Jouriship 6 North. Range 19 West.
 tgin
@@ -1218,7 +1218,7 @@ by. potzwrry
 390
 Forbes Clain
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 MNr
 17
 Jounship 2 North. Range 3. West.

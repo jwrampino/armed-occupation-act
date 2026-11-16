@@ -1,13 +1,13 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK - VOL. 18
 INDEX TO DIAGRAM PAGES
 25 8
 3
 
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -80,7 +80,7 @@ Frederick L. Ming
 5* 15' E
 9
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Index
 T
 R
@@ -111,7 +111,7 @@ Southt East
 9
 11
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 2
 5
@@ -258,7 +258,7 @@ M
 54
 54
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 123
 17
 122
@@ -441,7 +441,7 @@ M
 153
 137
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 10
 7T
 Roaarge
@@ -723,7 +723,7 @@ L
 258
 258
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 brinn
 .Jownship 17 South:
@@ -1006,7 +1006,7 @@ a84
 384
 383
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 bisy
 Jolonskip 10 S011 th. Raonge

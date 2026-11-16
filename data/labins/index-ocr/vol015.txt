@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 FIELD NOTEBOOK
 K - VOL. 15
 INDEX TO DIAGRAM PAGES
@@ -10,7 +10,7 @@ INDEX TO DIAGRAM PAGES
 X
 2
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -82,7 +82,7 @@ Not Given
 J. W. Exum
 1829
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 DIAGRAM
 TWP RGE
 SURVEYOR (S)
@@ -134,7 +134,7 @@ Benj. Clements
 Not Given
 15
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Indes To. Diagrams
 T
 R
@@ -181,7 +181,7 @@ North
 6
 L5
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1
 L
 .Tovorrskip 5-South. Roueege 13. Mest.
@@ -217,7 +217,7 @@ Clemenk
 L
 1
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Jo evrrship 3 Souith.
 Rannde
@@ -270,7 +270,7 @@ L
 L
 1832
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 W
 5
 63812
@@ -411,7 +411,7 @@ Z8
 59
 59
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 warrb
 7
 s
@@ -564,7 +564,7 @@ S1
 34
 35
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 9
 24
 Invrrstrip 1 South. Ranage 27
@@ -724,7 +724,7 @@ dp
 Bay os. St. mar-ys de. Galaez
 L
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 11
 Jownship 2 South.
 Range 2s rest.
@@ -880,7 +880,7 @@ U8
 304
 Bayou Mulatto
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 1t810s
 13
 Torship. 2 Nor th.
@@ -1135,7 +1135,7 @@ n6E
 35
 185
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 15-
 84812m
 28mesh
