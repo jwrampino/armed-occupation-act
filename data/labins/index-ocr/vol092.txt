@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 92
 DIAGRAM
@@ -51,7 +51,7 @@ PAGE
 4°-30'E
 4
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 92
 cont...
@@ -103,7 +103,7 @@ PAGE
 3°-40'E
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 92
 cont...
@@ -155,7 +155,7 @@ PAGE
 4°-30'E
 11
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 92
 cont..
@@ -207,7 +207,7 @@ PAGE
 4°- 45'E
 14
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 92
 cont..
@@ -256,7 +256,7 @@ PAGE
 4°-30'E
 18
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 N
 Nol
 0
@@ -358,7 +358,7 @@ ns
 14
 over
 
-===== PAGE 7 =====
+===== PAGE 7 [hindex] =====
 Page
 Page
 South + East.
@@ -463,7 +463,7 @@ n
 P4
 4
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 1
 -91-91-カ1-£1-21-1101-68-∠-9-9
 -172-2-28
@@ -474,7 +474,7 @@ J        G.
 322 'S  R  2 25 G.
 
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2
 -35---330-
 E81
@@ -486,7 +486,7 @@ L2929------------34
 922 S. R29G.
 CTL
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 3
 x9ー99-19-0965
 2 23E
@@ -497,7 +497,7 @@ x9ー99-19-0965
 s1 E
 7
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 尤
 3,51 th 
 -86
@@ -522,7 +522,7 @@ T2E.
 8H81
 1687
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 5
 sh1-Ln1-gnl-5m
 11-26
@@ -546,7 +546,7 @@ R.XE
 X
 T 19.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 6
 +<61-961++561
 s, 3SE
@@ -568,7 +568,7 @@ hh81
 -091-651-85!
 2
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 À
 181-081-611-861-661-7617
 T19.6E
@@ -582,7 +582,7 @@ T1.5.
 02
 
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 8
 -557-252-652-852-657-095-
 0-120
@@ -603,7 +603,7 @@ this1
 1
 。s
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 9
 2h81
 -284-08-18-222--22-
@@ -620,7 +620,7 @@ sA2-5
 R6G-2G6A
 TI19E.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 10
 -296-95-5--5---291-
 B08------8803
@@ -640,7 +640,7 @@ T. E
 2h81
 0x
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 11
 018-918-618-818-618-07
 3829-3228
@@ -661,7 +661,7 @@ GOM-LOH-SUT-6O+T-OIHT-11T
 T2SSE
 Eh81
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 12
 -BAS-ONS-ITSNSSTSAN
 -1SFTSP-PSE-ASP-SSP28
@@ -678,7 +678,7 @@ T3,2E.
 .sb2
 
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 13
 -880720-62-19--875
 L36--36
@@ -693,7 +693,7 @@ T,E
 .t
 2
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 14
 -138-881688-061-168-7687
 56-001107-20f0n
@@ -706,7 +706,7 @@ Eh 81
 R.E.
 T' ssys
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 15
 T2 YY.0E
 -91tr-61tt-81tr61tr-02118t
@@ -721,7 +721,7 @@ T  RIE
 T2Y.9E
 
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 Ep31
 -fカカーカカSカカークカカーカケーカカー
 8Sカー6Sー0ククーノ9ー
@@ -741,7 +741,7 @@ T2YY. IE
 1
 Gulf.
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 17
 36R
 OLな-L-ヒLーSLAカんASん
@@ -759,7 +759,7 @@ TS,RSE
 J
 2772
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 8t81
 .08
 01
@@ -768,6 +768,6 @@ Xx
 J22SR16 G
 
 
-===== PAGE 26 =====
+===== PAGE 26 [blank] =====
 i
 191

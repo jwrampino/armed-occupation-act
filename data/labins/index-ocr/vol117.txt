@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 117
 DIAGRAM
@@ -27,7 +27,7 @@ PAGE
 4°-30'E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Mder
 to
 tagel
@@ -44,7 +44,7 @@ R
 10
 1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 18.East.
 - Jowrrs hhip 20 So wth.
@@ -134,7 +134,7 @@ z0r
 50
 E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 8ourth.
 East.
 18
@@ -239,7 +239,7 @@ J.H.
 Vav.,
 E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 117
 6
 South, Range
@@ -333,7 +333,7 @@ Var,
 50
 E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Sownslirp in D.
 Range 20 E:
@@ -345,7 +345,7 @@ Powrship, will
 be found
 Vav, 4:20'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 8
 3
@@ -474,7 +474,7 @@ geo
 Atmar, 1843.
 J.H.N
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 East.
 876

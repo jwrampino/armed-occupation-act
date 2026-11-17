@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 244
 DIAGRAM
@@ -49,7 +49,7 @@ Index of Islands in Lake Charles Apopka surveyed.
 2°- 55'E
 4851/2
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 44
 Index to Diagram's
 T
@@ -83,7 +83,7 @@ Inddx
 11
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 95.
 229
 Index
@@ -160,7 +160,7 @@ We. G. Croft
 51-53
 24
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 96
 230
 n dex.
@@ -219,7 +219,7 @@ Joshua D. Spoonen 11and12
 81-84
 18S0
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 7
 U. S.
 GOVERNMENT SURVEY
@@ -237,7 +237,7 @@ Diagram Page #294½- See Body Pages 200 to 384
 Diagram Page #Hoo - See Body Pages Hoolto H8s
 Diagram Page #hs/ See Body Pages Hs6 to
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 170
 04
 59
@@ -271,7 +271,7 @@ as
 Surreyed
 1885
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 
 n
 1
@@ -290,7 +290,7 @@ W
 CC
 5
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 2.
 70
 Names and dutries of aseistanto
@@ -314,7 +314,7 @@ Meandeo of Laka Apopka
 Pogen 19-24
 道
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2
 103
 Names
@@ -333,7 +333,7 @@ Sections 19end 30. Tp 22S0 - Rge 27 E.
 30.
 leanders of Joha's Lahe -Pagy
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 135
 Township
 R. 20C.
@@ -379,7 +379,7 @@ Wilson'sI
 0389
 144221—10m
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 192元
 (1-674.)
 Township
@@ -433,7 +433,7 @@ Bigg'sI
 is,1885,
 -10m
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 193
 (4-674.)
 18 S., R. 19 E.
@@ -485,7 +485,7 @@ mitehillsI.hoz.
 2°49
 a.v.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 239
 STATE OF
 FLORIDA.
@@ -581,7 +581,7 @@ Variation?55.
 Scale 80 chains to an inch.
 FLORIDIAN PRINT, TalLaMassi
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 299
 Townskip
 55. South.Range. 31. East
@@ -671,7 +671,7 @@ $9S
 85
 36
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 Township. 53. South. Range. 32. East
 ーh
 85H
@@ -783,7 +783,7 @@ shh
 35
 36
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 485/2
 Contiuned in b
 bol. 247, Page.246

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 118
 DIAGRAM
@@ -37,7 +37,7 @@ PAGE
 4°-28'E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 2
 
 Inder
@@ -61,7 +61,7 @@ If
 13
 40
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 7
 South.
 Range 216ad
@@ -113,7 +113,7 @@ C
 of
 1849.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Range
 22. Eash
@@ -198,7 +198,7 @@ T
 M
 Nar., 4-28' E,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Jownship 4
 140
@@ -207,7 +207,7 @@ ob
 1849.
 Var., 4°-28'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Jownship 37
 Sowth
@@ -306,7 +306,7 @@ N
 32
 1849.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Jownship 38 South.
 Range
@@ -422,7 +422,7 @@ Q
 q
 9
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 21
 Range
 East
@@ -520,7 +520,7 @@ win
 Var.,
 4°28'E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Jownshp 2o
 outh

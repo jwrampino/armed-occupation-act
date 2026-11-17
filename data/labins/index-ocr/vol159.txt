@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 159
 DIAGRAM
@@ -53,7 +53,7 @@ PAGE
 4°-24E
 21
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 Yo
 0
@@ -80,14 +80,14 @@ Cast
 25
 26
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Younshif
 26 South: Mange 15 bast.
 20-19-
 Uav.
 4°272E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Tournship
 23 South.
@@ -98,7 +98,7 @@ Mange 16 Bast.
 36-34138
 1847.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 . Range 16 Cast.
 —6
@@ -107,7 +107,7 @@ Hata
 1847.
 4°15'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 Younship
 -74-675-72-673-72
@@ -120,7 +120,7 @@ Younship
 1847.
 J
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 103102
 -102—101—100
@@ -128,7 +128,7 @@ J
 A
 Geo.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Youns hip
 25South.
@@ -142,7 +142,7 @@ Range 17 Cast.
 05
 091
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Kange 17 Cast.
 182
@@ -156,7 +156,7 @@ san, 1847
 C
 7
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Younship
 25 South.
@@ -178,7 +178,7 @@ Lec
 c€c
 YEC
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 Dounship 26 South.
 Mange 18 East.
@@ -192,7 +192,7 @@ Mange 18 East.
 -279
 —278—278
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 —320—321—322
 010
@@ -203,7 +203,7 @@ Hatson,
 Var,
 4=33元E
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 —368—369—361—362—363—364
 -19€

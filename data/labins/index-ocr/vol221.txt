@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 221
 DIAGRAM
@@ -99,7 +99,7 @@ S. Hamblin
 46S
 30E S. Hamblin
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1N
 Index
 T
@@ -138,7 +138,7 @@ Page
 16
 46
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 一
 Township 43 Sout h R.30 East
 2
@@ -236,7 +236,7 @@ O
 2
 1873
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 6
 10895
 66
@@ -290,7 +290,7 @@ O
 32
 6
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 R.30East
 Township 45 South
@@ -392,7 +392,7 @@ Township 45 South
 1873.
 w
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 Township 44 South R. 29 East
 507
@@ -495,7 +495,7 @@ L61
 31,
 bleu,1873.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Township 45 South R. 29 East
 253
@@ -599,7 +599,7 @@ LEZ
 31
 Vav., 4º 30'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Township 43 SouthR. 31 East
 326
@@ -693,7 +693,7 @@ QQ6
 1873.
 30 E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 8
 7
 Township 44 South R. 31 East
@@ -796,7 +796,7 @@ CCS
 30'E,
 Vav., 4
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 X
 8
 Township 45 South R. 31 East
@@ -901,7 +901,7 @@ sb6
 E.
 30
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 9
 Township 46 South R. 31 East
@@ -984,7 +984,7 @@ qo3
 1873.
 30'E
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 東
 10
 R.32E
@@ -1070,7 +1070,7 @@ y
 Vuv.
 40
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 8
 11
 Township 44 South R. 32East
@@ -1175,7 +1175,7 @@ Township 44 South R. 32East
 11
 30'E.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 12
 Township 45 South
 R. 32 East
@@ -1283,7 +1283,7 @@ y
 E
 4
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 +2
 .13
 Township 46 South R. 32 East
@@ -1376,7 +1376,7 @@ aiu
 4° 30 E.
 Vav,
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 14
 Township 44 Soutk R. 33 East
 心
@@ -1452,7 +1452,7 @@ Vav.,
 4
 30'E
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 15
 Township 45 South R. 33 East
 289
@@ -1567,7 +1567,7 @@ E
 4
 an
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 16
 Township46 South R. 33 East
 877
@@ -1672,7 +1672,7 @@ ble
 E
 30
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 17
 Township 43 South R. 29 East
 Ch
@@ -1775,7 +1775,7 @@ aer
 30
 aN,, 4
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 17
 18
 Township 46 South R. 30 East
@@ -1862,7 +1862,7 @@ c98
 4  30 E.
 av,
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 19
 R.
 Township
@@ -1903,7 +1903,7 @@ Township
 31
 32
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 20
 R.
 Township

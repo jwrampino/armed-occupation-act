@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 131
 DIAGRAM
@@ -46,7 +46,7 @@ PAGE
 4°- E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 #
 ndex
 Jo
@@ -81,7 +81,7 @@ H
 11
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Manai
 6 Saith.
@@ -146,11 +146,11 @@ GS
 0
 5°20'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Vier, 5º 30'E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5-
 Yrange 16 Gast:
 a 14 Saulhi.
@@ -255,7 +255,7 @@ S9/
 1846.
 oile
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 X
 281
 781
@@ -359,7 +359,7 @@ A.
 nee,
 6°-30' 8.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 h 10 South.
 Kangi
@@ -470,7 +470,7 @@ C.H.
 Nav.,
 5°30'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 /1
 Rangi
 h 18 Saith.
@@ -573,7 +573,7 @@ Nav.,
 5°30'E.
 XiA+AF
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 25 South.
 Kangi 36tast.
@@ -669,7 +669,7 @@ W.H.
 1844.
 4°20'E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15.
 -06
 7.19
@@ -770,7 +770,7 @@ AN.
 Nar.,
 4° 10'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 Rangi 36ast.
 c/a

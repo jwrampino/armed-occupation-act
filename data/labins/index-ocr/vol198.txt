@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 198
 DIAGRAM
@@ -68,7 +68,7 @@ PAGE
 4°- E
 4
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 198.
 cont..
@@ -138,7 +138,7 @@ PAGE
 4°- E
 8
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 198C(oY..
 DIAGRAM
@@ -206,7 +206,7 @@ TWP RGE SURVEYOR(S) DATE
 4°-5'E
 15
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 198Cc0t..
 DIAGRAM
@@ -274,7 +274,7 @@ TWP RGE SURVEYOR(S) DATE
 1859
 40S 28E J.Jackson
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 198C..
 DIAGRAM
@@ -334,7 +334,7 @@ TWP RGE SURVEYOR(S) DATE
 4°-5'E
 39S 32E J.Jackson
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 Index to Diagrams.
 R.E.
 Page
@@ -451,7 +451,7 @@ T.S.
 38
 30
 
-===== PAGE 7 =====
+===== PAGE 7 [hindex] =====
 Index to Diagrams
 T.E.
 R.E.
@@ -558,7 +558,7 @@ Page
 36
 11
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 335 S.R 27.E
 335S.R28E
 18683
@@ -567,7 +567,7 @@ Page
 30
 厂
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2
 J32AR3
 J32 S. R29 E.
@@ -577,7 +577,7 @@ J32 S. R29 E.
 厂
 888—78—98
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 3
 735.AR30E.
 35 S.R 29 E
@@ -590,7 +590,7 @@ T32A.R31L
 S.328R326
 厂
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 4
 S33S.R31C
 J33 S.R32E
@@ -599,7 +599,7 @@ T34DARBIE
 J34S.R32E
 厂
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 5
 J35S.R 31
 T3EOR32.
@@ -614,7 +614,7 @@ V
 T328. R348.
 厂
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 6
 P33 SR33
 T33 S.R34L.
@@ -627,7 +627,7 @@ T34SR3HE
 116—116—117117-118—118
 7
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 7
 T35SR33E
 3358.934E
@@ -642,7 +642,7 @@ R34E
 -8288
 L
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 8
 5378.R34E
 T379R33
@@ -658,7 +658,7 @@ J35-FR36E
 7
 a
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 9
 3328.R35E
 1
@@ -668,7 +668,7 @@ W.
 7
 厂
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 10
 5.34 8.R 35E
 T
@@ -677,7 +677,7 @@ y
 WI
 1863.
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 11
 5363.R35E.
 J363R36E
@@ -701,7 +701,7 @@ wthy?
 stimd
 H
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 13
 295
 T.40S, R. 2SE.
@@ -711,7 +711,7 @@ n9-10810x130c
 T.413, R.2JE.
 THISA
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 15
 A
 1265266267268-2692707
@@ -743,7 +743,7 @@ sso
 215316317121—0192
 Var, 4° 05 6.
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 7
 345
 一
@@ -759,7 +759,7 @@ a ckean.
 1859
 Jan 4"00'6
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 19
 400
 237
@@ -782,7 +782,7 @@ TyR24
 lar
 405'6
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 2F
 259
 397
@@ -814,7 +814,7 @@ S9
 1808-9
 Var, 4°05'6
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 23
 s6
 884
@@ -829,7 +829,7 @@ T
 1859
 Van, 4'05'6,
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 25
 T.37 5., R. 29E.
 TJ7S
@@ -837,7 +837,7 @@ TJ7S
 7.38 3, A. 295
 1859
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 27
 500-501—502-505
 496
@@ -854,7 +854,7 @@ T.40RJ
 159
 Var, 4" 05'6,
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 29
 T. JI'S, R JIE.
 T.38S. A. 32E.

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 191
 DIAGRAM
@@ -48,7 +48,7 @@ TWP RGE SURVEYOR(S) DATE
 3°-E
 41S 43E W.J. Reyes
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 Index
 Yo
@@ -64,7 +64,7 @@ Cast
 38
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Rango
 South.
@@ -113,7 +113,7 @@ GT
 35
 4
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 94
 2
@@ -153,7 +153,7 @@ C
 15E.
 4°
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Rango 38
 East.
@@ -220,7 +220,7 @@ H3
 Var.,
 15'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 41 South. Kange
 38Cast
@@ -252,7 +252,7 @@ DU
 9
 1855,
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Range 39
 Cast.
@@ -351,7 +351,7 @@ CCT
 1855
 10
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Cast
 Louns
@@ -437,7 +437,7 @@ Vav.,
 E.
 4°20'
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 40 South.
 9π9
@@ -525,7 +525,7 @@ a80
 Vav,
 E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 40 South.
 060
@@ -593,14 +593,14 @@ y
 4
 E
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 12
 445
 30
 中
 1853.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 Range 4s East.
 3

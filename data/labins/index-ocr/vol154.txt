@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 154
 DIAGRAM
@@ -52,7 +52,7 @@ PAGE
 5°-30'E
 21
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex
 To
@@ -67,7 +67,7 @@ South
 23２32312322
 F
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 RangiI
 Younship 2 South.
@@ -146,7 +146,7 @@ Nav,
 E.
 5°30
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 South.
 Jounship
@@ -164,7 +164,7 @@ Jounship
 Nav,
 5°30'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Kangu 18 West.
 -142
@@ -258,7 +258,7 @@ JMIr
 1847.
 Var.,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 Sounship
 3 South.
@@ -350,7 +350,7 @@ JMS
 Nav.,
 
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Mango 19
 West
@@ -412,7 +412,7 @@ a95
 1848.
 5=30E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Jounslufp
 Kangi 19 Weat.
@@ -469,7 +469,7 @@ Vav.,
 5°30'E.
 2-
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Wouth.
 Kangi 20
@@ -547,7 +547,7 @@ D.G.L.
 Nav.,
 5=30'E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 69ク
 10
@@ -616,7 +616,7 @@ AM
 Vav,
 5= 30'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 Tounship eSouth.
 Kange 20 Wist.
@@ -641,7 +641,7 @@ Nav.,
 30'E.
 5
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 Younship
 Range 21 Wist.
@@ -691,7 +691,7 @@ JM
 1847.
 Nar,
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 the
 Socwnshiu will b

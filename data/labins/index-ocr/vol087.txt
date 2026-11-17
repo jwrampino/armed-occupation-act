@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 87
 DIAGRAM
@@ -65,7 +65,7 @@ None
 None
 22
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Indese
 to Diagrans
 Township
@@ -107,7 +107,7 @@ North
 15
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 
 aut
@@ -116,7 +116,7 @@ aut
 von
 8-
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 01
 
@@ -124,7 +124,7 @@ von
 2
 1815
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Honraship1 North Rarege 4 Wes t
 0
@@ -136,7 +136,7 @@ K2
 0子
 DE
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Township
 2 North Mavge
@@ -245,7 +245,7 @@ this
 3
 Forbes Claim
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Towrishij3 Narth Rarige 4
 West.
@@ -350,7 +350,7 @@ C8.
 B3
 30-
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 528
 9
@@ -374,7 +374,7 @@ Georġia Line
 35
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 Township 1 North Range
 16 West
@@ -386,7 +386,7 @@ Township 1 North Range
 nar
 9E1
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 West
 Township2
@@ -425,7 +425,7 @@ epace
 06
 03
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 North
 R16
@@ -520,7 +520,7 @@ P1
 32
 33
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 20
 210—209
 -209
@@ -538,7 +538,7 @@ yefso
 902
 =042
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 22
 2/8
 217

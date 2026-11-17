@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 136
 DIAGRAM
@@ -29,7 +29,7 @@ PAGE
 4°-30'E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inden
 Paqe
 outt f Eash
@@ -42,7 +42,7 @@ R
 18
 E
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 23. Eash
 99
@@ -132,7 +132,7 @@ Salke
 30
 Jav., 4°30'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 23. Gash
 6
@@ -223,7 +223,7 @@ Jav., 4°30'E.
 71
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Jownship
 19
@@ -338,7 +338,7 @@ F.F
 Var.,
 30'E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 6
 5-
@@ -416,7 +416,7 @@ s2
 2
 ,1849.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 23 East
 7

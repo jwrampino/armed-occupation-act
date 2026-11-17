@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 232
 DIAGRAM
@@ -20,7 +20,7 @@ PAGE
 4°-5'E
 247 1/2, 247 1/4 , 247
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 Index
 to Diagrams
@@ -55,7 +55,7 @@ Rge
 and
 247
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 119
 1
 d
@@ -75,7 +75,7 @@ C
 1878
 5'E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 11
 T
 R
@@ -91,7 +91,7 @@ B
 12
 1
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 R 16 E
 13
 14
@@ -106,7 +106,7 @@ C51
 26
 156
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 25
 4
 9
@@ -136,7 +136,7 @@ R
 308
 23
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 14
 R 16
 T.
@@ -152,7 +152,7 @@ E
 0s
 27
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 T.
 R.16E
 15-
@@ -173,7 +173,7 @@ A
 190
 195.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 T.
 R
 16 E 247
@@ -197,7 +197,7 @@ HOMOSASSA
 15
 308
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 247
 T.20 S
 RIGE
@@ -225,7 +225,7 @@ S
 
 336
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 249)
 T.20 S
 R 16 E

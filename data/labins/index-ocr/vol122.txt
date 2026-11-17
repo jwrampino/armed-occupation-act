@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 122
 DIAGRAM
@@ -74,7 +74,7 @@ None
 4°-30'E
 32
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Indeh
 to
 Peast.
@@ -139,7 +139,7 @@ n
 7
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 S
 2
@@ -155,7 +155,7 @@ r
 C
 L234—233-232-
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Donnsaip 29 dorth. Range 16 Eash
 8
@@ -163,7 +163,7 @@ Donnsaip 29 dorth. Range 16 Eash
 1249248247246245=
 AMRadalph, 1844,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Towns hip 27 Sou th. Runge 16 Fast.
 811
@@ -173,7 +173,7 @@ A
 AM. Raydolfh,
 1844.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 16. East.
 6
@@ -257,7 +257,7 @@ GG
 No
 rar.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Range
 Torrns hyp 29.
@@ -319,7 +319,7 @@ E73
 1844.
 griver.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Sounship 30 South, Range 16. East.
 17.52
@@ -328,7 +328,7 @@ SSZ
 1.50
 marsh
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 187
 86
@@ -339,7 +339,7 @@ X
 Arn Raudolph, 1844.
 Var., 4-35'E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 -170
 22
@@ -351,7 +351,7 @@ L
 132131130
 AM.Raudolph, 1844.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 Sownship 27Sorith.
 Range 18. East.
@@ -360,7 +360,7 @@ Range 18. East.
 781
 -781
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 21
 Malitary
 M
@@ -369,14 +369,14 @@ L
 L
 vere,
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 22
 
 143
 —0∠
 35'E.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 24
 f10
 916
@@ -385,7 +385,7 @@ L
 1
 2
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 26
 9S
 =SS1-
@@ -396,7 +396,7 @@ A.M. Raudolph, 1842.
 Vav., 4-35'E.
 4
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 28
 Township 27 South.
 Range 21
@@ -516,7 +516,7 @@ n
 a.2
 1843.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 30
 22 &ast.
 77.8
@@ -620,7 +620,7 @@ P
 7
 1843,
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 32
 South
 Jownship 29.

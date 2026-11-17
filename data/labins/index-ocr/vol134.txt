@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 134
 DIAGRAM
@@ -32,7 +32,7 @@ PAGE
 5°-E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 ndex.
 键
 Yo
@@ -59,7 +59,7 @@ H
 n
 4
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 聖
 Jounship
 8 South.
@@ -143,7 +143,7 @@ EIH
 Nav.,
 13'8
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Younship
 Cast.
@@ -248,7 +248,7 @@ Vav.,
 30'E.
 50
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 MEast.
 A South. Kangi
 19℃
@@ -347,7 +347,7 @@ Var.,
 E.
 5°20
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 12 South.
 MCast.
 Yourship
@@ -447,7 +447,7 @@ Vav.,
 5°25'E.
 X
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Jounship
 8 South.

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 151
 DIAGRAM
@@ -45,7 +45,7 @@ PAGE
 4°-35'E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 uder
 to
@@ -75,7 +75,7 @@ Pagel
 1
 X
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 27Eash
 ownshp 22
 P
@@ -105,7 +105,7 @@ E
 Var.
 30
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Rounge 27 East
 owns hip 27 Sonn th.
@@ -195,7 +195,7 @@ X
 E.
 30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 East
 Township
@@ -304,7 +304,7 @@ R.
 1848.
 4°18'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 foonship 24
 E ast
 28
@@ -406,7 +406,7 @@ R.
 22'E.
 4°
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Eash
 13
@@ -516,7 +516,7 @@ R.
 1848.
 22'+30'ε.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 East
 -21-
@@ -628,7 +628,7 @@ Var.,
 22'+30'E.
 40
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Sownship 27
 Range 28. Eash
@@ -735,7 +735,7 @@ F.R.
 Var.,
 4° 22'+30′E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 4
 15
 Range 29
@@ -833,7 +833,7 @@ G83
 1849.
 35′E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 E ast.
 Sownship
 29

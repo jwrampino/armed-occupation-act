@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 258
 DIAGRAM
@@ -83,7 +83,7 @@ R.F. Bettis
 196 thru 304
 PG 1 of 2
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 258
 PG. 2 of 2
@@ -113,7 +113,7 @@ Not Given
 33E
 (Lake Okeechobee Meanders)
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 385-3
 34E
 405-32E
@@ -130,7 +130,7 @@ pg2
 385-3
 35E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 105
 17€
 TOWNGHIP
@@ -167,7 +167,7 @@ as
 33
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 115
 17€
@@ -207,7 +207,7 @@ as
 32
 33
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 27E
 365
@@ -277,7 +277,7 @@ as
 33
 23
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 15E
 125
@@ -318,7 +318,7 @@ C
 52
 +
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5.
 125
 17E
@@ -366,7 +366,7 @@ C3
 33
 64
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 16€
 135
@@ -410,7 +410,7 @@ C
 32
 33
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 15E
 11S
@@ -460,7 +460,7 @@ RANGE
 32
 33
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 2116
 Names ans dutus a
 Jm.Hmman!
@@ -473,7 +473,7 @@ See 1×12
 539S.R18E
 12
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 2135
 Chainnian(
 Sndex.
@@ -487,7 +487,7 @@ No.2
 34
 35
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 E
 涨
 
@@ -525,7 +525,7 @@ X
 1:3
 2
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 3
 Inder-Black Jeland
 169
@@ -539,7 +539,7 @@ BLACK
 ISLA
 13
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 Newsome
 leorbitt
 AWBarber.
@@ -581,7 +581,7 @@ Y. 40 8. R.26 E.
 35
 15
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 381
 Pames anl Drnties A Assista
 C.C. Hanover

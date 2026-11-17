@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 152
 DIAGRAM
@@ -57,7 +57,7 @@ J. Westcott
 9E
 J. Westcott
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 mnder
 Ao
 South toash
@@ -80,7 +80,7 @@ q
 11
 41
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 wmww
 6. East.
@@ -152,7 +152,7 @@ of
 5°10
 E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 ournship
 7 East
@@ -246,7 +246,7 @@ E.
 50
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Jourishup 2
 South
@@ -351,7 +351,7 @@ E61
 238
 224
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 3South
 Jowrnshup
@@ -462,7 +462,7 @@ catt
 1849.
 SE.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Jownship 2
 South.
@@ -591,7 +591,7 @@ col
 Vav,
 5°10'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 12
 Cast.
@@ -710,7 +710,7 @@ ShE
 50
 X
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 Rauge
 9. East.
@@ -826,7 +826,7 @@ L.
 Kestcatt,
 1849.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 Bourrship
 ast.

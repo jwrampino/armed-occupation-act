@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [diagram] =====
 XX∥V
 &Te
 XXVI
@@ -35,7 +35,7 @@ J
 32
 33
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -96,7 +96,7 @@ Col. S. J. Perry
 Not Given
 15
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Indet
 to
 South  Eash
@@ -128,7 +128,7 @@ Ic
 2G
 2
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Jownship
 South. Range
@@ -240,7 +240,7 @@ Perry1848
 Nar
 4-30E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Eash
 Jowuship Q7
@@ -356,7 +356,7 @@ Var.
 4°-30'E
 N
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5-
 South
 Jowuship 23.
@@ -486,7 +486,7 @@ anvverged
 Var,,
 4°15'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 South Range
 Jovuship
@@ -601,7 +601,7 @@ S. J. Perry 1848.
 grdge
 Var., 4=20'E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 25 Eash.
 Jounship
@@ -720,7 +720,7 @@ G
 L
 Var, 4° 25'E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 26 South. Range
 Jownship
@@ -850,7 +850,7 @@ Var. not
 grivere.
 
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 27 South.
 Jownship
@@ -974,7 +974,7 @@ lool
 1848.
 Nar., 4-30'E
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15
 Range
 Jownship 23

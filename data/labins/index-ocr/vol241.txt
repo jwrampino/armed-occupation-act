@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 241
 DIAGRAM
@@ -70,7 +70,7 @@ a
 13
 14S 24E J.O. Fries
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Nol
 911
 Pag
@@ -122,7 +122,7 @@ XII
 24
 XIII
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 知都四欲9存行器  0
 R
 9
@@ -142,7 +142,7 @@ E
 214
 24
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 A
 U. S.
 GOVERNMENT SURVEY
@@ -160,7 +160,7 @@ Diagram Page # - See Body Pages 4 to /73
 Diagram Page # 1X - See Body Pages 1734to 241
 Diagram Page # - See Body Pages 2 to 259
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 B
 U. S.
 GOVERNMENT SURVEY
@@ -191,19 +191,19 @@ Diagram Page #
 - See Body Pages
 to
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 I
 29. S, e R19 E
 T
 1817
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 IY
 T19S
 R24E
 G
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 111
 1.27.8. R.37.E.
 Merrits Island
@@ -213,14 +213,14 @@ Merrits Island
 14
 1675.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 IV
 T 20 S
 R31E
 S
 losd
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 V
 T29S
 Rs. 18 + 19 E
@@ -241,7 +241,7 @@ Var,
 not
 grver.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 VI
 T15S
 RB3E
@@ -250,7 +250,7 @@ Island
 Sawmil
 7
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 V
 T 15 S.
 R28E
@@ -261,7 +261,7 @@ Island in St guhus Rover
 C. F. HokRine, 187%
 X
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 VIII
 R2OE
 T26
@@ -295,7 +295,7 @@ S.
 1879.
 30 E.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 1X
 T20S
 R36E
@@ -312,7 +312,7 @@ South lane of Same. P. 203
 N. line of Ruervation. Sec 30.P 205
 Haulorer Camal. P209
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 X
 我
 T 20S
@@ -325,7 +325,7 @@ Island s in Loak. Hacris.
 30'E.
 X
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 X1
 T19S R 26 E
 
@@ -334,7 +334,7 @@ T19S R 26 E
 given.
 X
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 X1I
 R's 3227E
 T22S.
@@ -355,7 +355,7 @@ Survey of Island
 274
  cloin 277
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 X1H
 TL4S
 R 24E
@@ -371,7 +371,7 @@ R 24E
 36
 Var.
 
-===== PAGE 19 =====
+===== PAGE 19 [hindex] =====
 知都四欲9存行器  0
 R
 9

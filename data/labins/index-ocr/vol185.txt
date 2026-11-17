@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 185
 DIAGRAM
@@ -76,7 +76,7 @@ TWP RGE SURVEYOR(S) DATE
 4N
 25E D.H. Burr
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 185
 Index to
 Diagrams.
@@ -128,7 +128,7 @@ I1
 00
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 16 S. Ranage 33 East.
 2
 5
@@ -164,7 +164,7 @@ Sce 38
 35
 Vav. 4-30 E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 2
 34. East.
@@ -207,7 +207,7 @@ Guommo Alvares.
 Sam Betts
 4°30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 79
 1741
@@ -299,7 +299,7 @@ ceurs
 1L1
 4°30E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 East.
 151
@@ -346,7 +346,7 @@ Johu Lo1s.
 S.H.B
 ξ.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Tonnshup
 1 8. S. Range
@@ -364,7 +364,7 @@ rueu
 32
 5
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Tast
 nLD0o0
@@ -406,7 +406,7 @@ Focucated
 35
 yrr, 1850.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 phip 19 S. Range 34 Cast
 5CL37
@@ -448,7 +448,7 @@ P. Eouchard.
 Joionshil 208. Rumige 34301
 Var, 4º30 E,
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 2 N' Ranage
 Caol
@@ -493,7 +493,7 @@ i7
 urr
 5° 30
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 Tonnship
 3 N. Range 28 Easl
@@ -508,7 +508,7 @@ OlvE
 24
 50
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 Tovnshit 2 N. Range 27. East
 Hiils of EWalirman
@@ -569,7 +569,7 @@ Brigos
 urn, 1849.
 6º 30'E
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 11
 Range 27
 East.
@@ -622,7 +622,7 @@ Scc.5l
 171
 30
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 12
 Tonnshup 2N. Range 26E
 Hein ofE
@@ -634,7 +634,7 @@ Watima
 2
 Vav., 5º 30'E.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 13
 East.
 Tonmshrip 3N. 26
@@ -693,7 +693,7 @@ H
 35.
 AHBurr, 1847.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 14
 Foronhip 4N. Range 2 6 East
 103
@@ -730,7 +730,7 @@ esrr,
 Vav, 5°º- 30 E.
 Y
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 15
 25 East.
 13

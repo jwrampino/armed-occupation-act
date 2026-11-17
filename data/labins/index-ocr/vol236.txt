@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 236
 DIAGRAM
@@ -59,7 +59,7 @@ VARIATION PAGE
 2°- 42'E
 326
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Indix
 to Diagrams.
 T.S
@@ -105,7 +105,7 @@ Subdiviuons.
 262
 326
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 A
 7
 U. S.
@@ -131,7 +131,7 @@ Diagram Page #
 - See Body Pages
 to
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 F
 T51S. R28E
 of the South East North
@@ -170,7 +170,7 @@ Henderson
 31
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 5
 9
@@ -225,7 +225,7 @@ C
 3
 125
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 "111
 金
 e
@@ -237,7 +237,7 @@ T523R28E
 12
 4R-7
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 146
 P7d
 Iridex
@@ -287,7 +287,7 @@ Axeman
 Nat. Moone
 Atemarr
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 212
 2
 Towirship
@@ -317,7 +317,7 @@ T51S R28E
 1882.
 2°42'
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 262
 2
 Louit.
@@ -351,7 +351,7 @@ P25.
 Rortu 5 P. 326
 1882.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 326
 2
 Soith

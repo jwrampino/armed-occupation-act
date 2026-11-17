@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 138
 DIAGRAM
@@ -64,7 +64,7 @@ PAGE
 5°-20'E
 21
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 
 hrded to
 R
@@ -103,7 +103,7 @@ North
 31
 2
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 28 mest.
 fhip 1 Nor-th
@@ -237,7 +237,7 @@ cee
 Vav.
 20
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 28mast.
 302
@@ -306,7 +306,7 @@ Nar.
 5°20'E.
 1
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Range
 28.mos4
@@ -424,7 +424,7 @@ n0m
 1X
 20
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Jonship INor
 Range
@@ -525,7 +525,7 @@ mis
 ∑
 20
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 570
 60
@@ -550,7 +550,7 @@ neo
 I War 5°
 20.E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 31
 ea
 1
@@ -561,7 +561,7 @@ S
 ones, 1852.
 Var., 5–20'E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 23
 Jownship 1 North
 30 nesh.
@@ -626,7 +626,7 @@ See.25
 20
 5
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 75
 ---5--
 L5
@@ -644,7 +644,7 @@ ESS
 —29-5
 -0.95
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 -523—5242—541—540-539-538
 332
@@ -663,7 +663,7 @@ Pe
 0.K
 Nav., 5° 20'E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 31mosh
 —596
@@ -748,7 +748,7 @@ G
 wes
 5°-20'E.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 Range
 Township 2 North.

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 175
 DIAGRAM
@@ -68,7 +68,7 @@ PAGE
 4°-E
 10
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 175colt..
 DIAGRAM
@@ -140,7 +140,7 @@ PAGE
 5°- E
 17
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 175c0ot..
 DIAGRAM
@@ -164,7 +164,7 @@ PAGE
 3°-50'E
 19
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 4
 of
 010115/11/1
@@ -260,7 +260,7 @@ gaのa
 12
 42
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 35
 36
 2
@@ -275,7 +275,7 @@ Cr
 n
 gilu
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 14
 3
 2
@@ -353,7 +353,7 @@ S
 44
 Nar,
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 56
 12
 11
@@ -412,7 +412,7 @@ rua
 50
 E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 4
 Range 26. East
 C
@@ -445,7 +445,7 @@ D.Acosin
 1861.
 50
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 602
 -198--1--202
@@ -526,7 +526,7 @@ a
 1857
 E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 6
 2
 Jonmship 13. South Range 26 East.
@@ -573,7 +573,7 @@ eo
 154
 M.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 East.
 onmship 14. South Range 26
@@ -691,7 +691,7 @@ a.
 50
 Van.,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 8
 Jonnship
 15 South Range 26
@@ -778,7 +778,7 @@ a.
 1852.
 Var.,
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 489
 3
@@ -820,7 +820,7 @@ ad
 34
 1857.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 U73
 23
 24
@@ -881,7 +881,7 @@ iN
 33 Range
 144
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 α 175
 11
 —473-
@@ -913,7 +913,7 @@ U46T
 34 Easl
 Rangt 35 E
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 12
 J.38R. 40. 41 42  J. 39. Ranger 404 41. Eas1-
 6
@@ -979,7 +979,7 @@ J.38R. 40. 41 42  J. 39. Ranger 404 41. Eas1-
 42
 1850-5
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 13
 Jonnship 14 South Range 27.
 East
@@ -1002,7 +1002,7 @@ J.Forbes
 S
 1852
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 14
 East
 6
@@ -1040,7 +1040,7 @@ OEE
 .27.
 a.
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 15
 27
 28
@@ -1075,7 +1075,7 @@ L1
 Var.,
 E
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 16
 4
 3
@@ -1100,7 +1100,7 @@ doliueros
 122
 M.
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 17
 Joivnshup
 406
@@ -1190,7 +1190,7 @@ uus
 E.
 5°
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 18
 6
 5
@@ -1224,7 +1224,7 @@ Sc3
 35
 3G
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 19
 Jonnships 22923 South Range 35 East
 452

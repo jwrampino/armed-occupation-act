@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 213
 DIAGRAM
@@ -60,7 +60,7 @@ As Noted
 None
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 213
 Ind ex to
 Diagrams
@@ -106,7 +106,7 @@ n
 13
 1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Township 37 SadhR. 26 East
 13
@@ -219,7 +219,7 @@ co
 1869.
 Voav,
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Township 38 South R. 27 East
 64
@@ -262,7 +262,7 @@ GZ
 58
 08
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Townsh i p 3. South.R. 27East
 4
@@ -319,7 +319,7 @@ UT
 E
 35
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 Township 36 S R. 28Tast
 3
@@ -385,7 +385,7 @@ St
 131131
 130
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 37S
 R. 28 Eas4
@@ -486,7 +486,7 @@ lds
 av.
 4° 03'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 T.388
 R
@@ -584,7 +584,7 @@ ilds,
 W:
 2
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Township 36. S. A 29 East
 60
@@ -683,7 +683,7 @@ C68
 2961
 296
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 T!
 37.S.
@@ -800,7 +800,7 @@ L352=
 337
 1
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 T.38181
 R. 2.9..
@@ -904,7 +904,7 @@ COF
 U.
 1870,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 130.7
 Township6. S.
@@ -974,7 +974,7 @@ L.Stearns
 30
 7
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 11
 T.37.S.
 R.30 E
@@ -1060,7 +1060,7 @@ COC
 X
 2
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 1.2
 Townshi 38.S.
 30.E.
@@ -1152,7 +1152,7 @@ DWC
 3°32
 Vany
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 13
 The Sield Notes ofit
 will be found from page 57

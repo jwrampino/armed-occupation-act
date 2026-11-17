@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 235
 DIAGRAM
@@ -41,7 +41,7 @@ None
 4°- 45'E
 602
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index
 T
 R.
@@ -68,7 +68,7 @@ E
 24
 602
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 2
 TI0S
@@ -87,7 +87,7 @@ R15E
 1853
 Vac.I 5° E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 82
 Range
 16. S t Easth
@@ -108,7 +108,7 @@ en
 1-99+101+103+105+107+108
 Vu., 5° E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 C
 160
 T75
@@ -148,7 +148,7 @@ F362
 VarI s
 E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3922
 T8SR22E
 405
@@ -166,7 +166,7 @@ Vai.,
 Vage
 43
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4532
 7
 E
@@ -297,7 +297,7 @@ Loカ
 1853.
 4°
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 2
 20
 29
@@ -397,7 +397,7 @@ oo
 9
 21
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 532%
 2201
 T9S
@@ -478,7 +478,7 @@ I1
 r
 398
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 6082
 楼
 T8S

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 199
 DIAGRAM
@@ -28,7 +28,7 @@ PAGE
 4°-37 1/2 E
 5
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 hnder
 to
 biagram's
@@ -50,7 +50,7 @@ Page
 32
 4
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Sourrs hip 36
 Easf.
@@ -134,7 +134,7 @@ Vav.,
 E.
 4°5
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 2
 R. 23. Eash
@@ -202,7 +202,7 @@ CC
 33
 31
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 East
 25
@@ -280,14 +280,14 @@ q
 1853
 372
 
-===== PAGE 6 =====
+===== PAGE 6 [blank] =====
 2
 
 
 1
 注：
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 26
 -061681-
@@ -353,7 +353,7 @@ I4
 36
 4
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 2537
 G
 5
@@ -441,7 +441,7 @@ H2
 37/
 E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5-
 26 Eash
 Sowth Hange

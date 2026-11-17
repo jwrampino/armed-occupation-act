@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 181
 DIAGRAM
@@ -71,7 +71,7 @@ None
 14
 12S 25E A. McKay
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 181
 cont...
@@ -96,7 +96,7 @@ None
 1851
 19S 29E M.A. Williams
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 181
 South
 Range
@@ -119,7 +119,7 @@ Pagi
 11
 29
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 23
 246
 22
@@ -161,7 +161,7 @@ orca
 Vav.,
 5°E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 128
 6
@@ -218,7 +218,7 @@ rea
 ∑
 A
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 147
 150
@@ -272,7 +272,7 @@ a.m
 Van
 Aoee p6 139
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 CEZ
 238
@@ -376,7 +376,7 @@ airis
 Var.,
 50E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Jonmship 9 South Range 27.
 East.
@@ -433,7 +433,7 @@ St. fohns. Riock-
 A.meKo
 1849.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 26
 Easl
@@ -482,7 +482,7 @@ a.Mka
 1849
 Not dar giveu.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 7
 323
@@ -520,7 +520,7 @@ S
 318
 1849.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 a
 Easl.
@@ -621,13 +621,13 @@ LカE
 大
 .1.84.9
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 386
 A.MeT, 1849.
 No war. giver.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 Sernship 16 South Range 28 East.
 386
@@ -642,7 +642,7 @@ NEJAcice
 N.MeK
 1849.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 Lake Gcorge
 807
@@ -685,7 +685,7 @@ ay , 1849.
 No
 var. girer.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 Easl:
 297
@@ -709,7 +709,7 @@ Easl:
 26
 25
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 Sownshit
 Range 26 East.
@@ -754,7 +754,7 @@ SS bolinLs
 33
 1849.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 14
 Oc&la
 4
@@ -795,7 +795,7 @@ ay, 1849.
 No
 var.
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 15
 1
 2
@@ -822,7 +822,7 @@ Litle Lutee
 4° 45'E.
 40
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 16
 Son19SoRangs2829
 E.

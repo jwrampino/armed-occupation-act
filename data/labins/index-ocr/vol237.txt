@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 237
 DIAGRAM
@@ -40,7 +40,7 @@ None
 4°-30'E
 444
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 To
 laqrams.
 R S+E
@@ -71,7 +71,7 @@ T
 ger 379-389
 show distang
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 
 T
 S
@@ -153,7 +153,7 @@ n
 10
 C.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 5 17 4 16 3 10 2
 6
 190
@@ -211,7 +211,7 @@ C.
 175
 C.F. Hokkma, 1881.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 192
 T
 R
@@ -256,7 +256,7 @@ F
 36
 1481
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 218
 T
 S
@@ -306,7 +306,7 @@ D
 C. F Hole,
 1881.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 266
 SR
 36 E
@@ -340,7 +340,7 @@ T
 E1. Hapkirs, 1881.
 Var as given
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 18380
 Township
 34 S R. 3 8 &
@@ -412,7 +412,7 @@ Township
 80
 80
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 382
 Township 37. S R. 36 
 83.90
@@ -494,7 +494,7 @@ A
 35
 36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8584
 20
 38 S R. 3 6
@@ -556,7 +556,7 @@ Township
 32
 33
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 385
 36 8-R. 36 8
 Township
@@ -641,7 +641,7 @@ Rs
 36
 86.901 801
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 387
 3FE
 37
@@ -727,7 +727,7 @@ a
 35
 36
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 389
 8-B. 3 6 E
 35
@@ -823,7 +823,7 @@ ns
 33
 34
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 Pange 26 East.
 33
 0€
@@ -859,7 +859,7 @@ E5
 D.a Shaulding, 1855.
 Ho rav. givew,
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 396
 Jonnship
 109 11. South
@@ -886,7 +886,7 @@ Josephe AM. banander,
 30
 29
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 444
 T 33 S
 R17E

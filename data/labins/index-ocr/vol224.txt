@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 224
 DIAGRAM
@@ -69,7 +69,7 @@ None
 3°- 55'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 224
 cont...
@@ -143,7 +143,7 @@ None
 None
 31
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 vvl
 2
 2
@@ -163,7 +163,7 @@ vvl
 69966
 342了
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 6 2 S
 38 East
 Township
@@ -199,7 +199,7 @@ Township
 1873.
 3050
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 63
 Township
@@ -242,7 +242,7 @@ S R. 38 East.
 1873,
 Var.,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Township
 6 3 S R. 37 Bast
@@ -281,7 +281,7 @@ Township
 1873.
 7
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 6 3 S
 R. 36 East
@@ -326,7 +326,7 @@ Township
 33
 1873.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Eash
 64S
@@ -378,7 +378,7 @@ JO
 1873.
 3250'E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 Township
 64 S R. 36 East
@@ -420,7 +420,7 @@ Township
 30
 183.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 Township
 65 S R. 35East.
@@ -465,7 +465,7 @@ Township
 33
 1873.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 Township
 6 4 S R. 35 East
@@ -509,7 +509,7 @@ Township
 rav,
 wec.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 65 S R. 34 East.
 Township
@@ -548,7 +548,7 @@ Township
 32
 th,1873.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 Township
 65S
@@ -587,7 +587,7 @@ Var.,
 2
 3056
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 Township
 GG S
@@ -630,7 +630,7 @@ R. 33 Bast
 30
 with, 1873.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 6 6 S R. 32 Eash
 Township
@@ -676,7 +676,7 @@ Township
 35
 30
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 66 S. R. 31 East.
 Township
@@ -722,7 +722,7 @@ X
 wrth,
 grvem.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 14
 6S R. 31 Eash.
 Township
@@ -763,7 +763,7 @@ Township
 30
 No
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 15
 6 6 S R. 30 Eash.
 Township
@@ -814,7 +814,7 @@ Nav.,
 E
 3°55
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 16
 Township
 6
@@ -859,7 +859,7 @@ Township
 C. F.Sr
 1873.
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 Diagram 17
 Note:
 289→298
@@ -919,7 +919,7 @@ Township
 1873.
 Var.,
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 18
 65S R. 29 Eash
 Township
@@ -967,7 +967,7 @@ D
 Var.,
 3°-55'E.
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 Note: After
 415
 4，412413，414
@@ -1022,7 +1022,7 @@ Var.,
 29E
 S
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 20
 R.. 28 Eiast
 Township
@@ -1073,7 +1073,7 @@ Township
 33
 C. F.
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 21
 S R. 28 Hast.
 Township
@@ -1110,7 +1110,7 @@ E.
 55
 30
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 22
 65S R.28 East
 Township
@@ -1149,7 +1149,7 @@ Township
 H
 30
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 23
 Township
 R. 27 East.
@@ -1197,7 +1197,7 @@ E.
 Vav.,
 55
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 24
 Eash.
 Township
@@ -1237,7 +1237,7 @@ Township
 E.
 3055
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 25-
 65S
 R. 27 Eiast.
@@ -1281,7 +1281,7 @@ Township
 33
 C
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 26
 67 S
 R. 26 Eash.
@@ -1312,7 +1312,7 @@ ys
 1873.
 Var.,
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 27
 Township C6
 R. 26 East.
@@ -1357,7 +1357,7 @@ S
 wwith, 1873.
 Var.,
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 28
 R. 26 Eash
 68S
@@ -1403,7 +1403,7 @@ C. F. S
 uth,
 1873.
 
-===== PAGE 32 =====
+===== PAGE 32 [diagram] =====
 29
 Township
 67 S
@@ -1456,7 +1456,7 @@ o
 C.
 Vav,,
 
-===== PAGE 33 =====
+===== PAGE 33 [diagram] =====
 30
 R. 25-Eash.
 Township
@@ -1501,7 +1501,7 @@ Township
 C. F.
 Nav.,
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 31
 66S R. 25 East
 Township

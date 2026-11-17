@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 120
 DIAGRAM
@@ -65,7 +65,7 @@ PAGE
 4°-5'E
 21
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 120.
 cont...
@@ -99,7 +99,7 @@ PAGE
 4°-20'E
 33
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 hidet
 to
 D
@@ -161,7 +161,7 @@ h
 33
 23
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 7
 20 Eash
 Jowirship 23 Soarth.
@@ -261,7 +261,7 @@ OTG
 CG
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 owsh24
 5
@@ -389,7 +389,7 @@ Shenuer
 M
 Var, 4= 30 n.t5.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 Sonth.
 Range 21
@@ -520,7 +520,7 @@ E
 Var., 4-45
 E,t2h.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 in South.
 Jownshap
@@ -646,7 +646,7 @@ him
 Vav.,
 4°30'E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 South
 Jownship
@@ -768,23 +768,23 @@ G
 2
 Var, y°40' E(varabl).
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Doutth Range 26 Eas
 Sownship 24
 25/24/23122121/20
 Vav., 4° 5'E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 Var., 4°-5'E,
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15
 Eash
 B. F. Whitrer, 1847,
 Var, 4–5'E,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 17
 Sonnslip 27 Soutto. Range 26 Eash
 7L
@@ -796,7 +796,7 @@ Sonnslip 27 Soutto. Range 26 Eash
 B. F. 2Whitier 1847.
 Vav., 4=5'E.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 18
 -18
 9
@@ -820,7 +820,7 @@ ti
 B. F Whituer, 1847.
 Vav. 4° 5'E.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 19
 -80+
 291
@@ -832,7 +832,7 @@ H0
 -111-
 211
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 21
 Sowrnship 25
 -921-
@@ -847,7 +847,7 @@ Sowrnship 25
 13
 -181
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 23
 Jownship 26 douth.
 9.51
@@ -863,7 +863,7 @@ Jownship 26 douth.
 —19
 51
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 25
 77
 -51
@@ -873,7 +873,7 @@ X
 J ,1
 Var., 4=20'E.
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 27
 Sownship 24 Sonth. Range 29. Each
 ー
@@ -889,7 +889,7 @@ Sownship 24 Sonth. Range 29. Each
 -9 E
 Frow
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 29
 Tow nship 23 South
 =C T-
@@ -901,7 +901,7 @@ Tow nship 23 South
 24
 23
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 31
 -5.5
 —29
@@ -911,7 +911,7 @@ X
 -50—51—5253—54-
 Frouw Plot
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 33
 —22
 -89

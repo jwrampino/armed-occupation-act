@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 I1
 U.S. Field Notes
 Yolume-267
@@ -67,7 +67,7 @@ Dependent Resurvey, Exterior
 13South
 Meander of Lake Ker.
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Iス
 U.S. Field Notes
 Yolume-267
@@ -92,7 +92,7 @@ Doundary, the Subdivisional
 Lines, Survey of IslAnds t
 Neanders,
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 I1
 U.S. Field Notes
 Yolume-267
@@ -159,7 +159,7 @@ Dependent Resurvey, Exterior
 13South
 Meander of Lake Ker.
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Iス
 U.S. Field Notes
 Yolume-267

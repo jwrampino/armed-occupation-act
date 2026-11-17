@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 246
 DIAGRAM
@@ -28,7 +28,7 @@ PAGE
 2°-55'E
 5
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 to. Diagrams
 Index
 T
@@ -55,7 +55,7 @@ Page
 32
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 _
 2ownship 51. South Range. 3 East
 8
@@ -107,7 +107,7 @@ H1
 C. F. Hopkimee,
 1884
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Township. 52 South Range. 34. East
 221
@@ -202,7 +202,7 @@ HH1
 18824
 2053E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 -6h℃
 226
@@ -289,7 +289,7 @@ G1℃
 Lav., 2° 35'E.
 X
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 h9℃
 000
@@ -382,7 +382,7 @@ hム
 35
 f
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 £01
 380

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 248
 1
@@ -69,7 +69,7 @@ PAGE
 2°-7'E
 7
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 248
 INDEX
 to
@@ -97,7 +97,7 @@ J.Hua
 3
 7  8
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 248 comt.
 1
@@ -111,7 +111,7 @@ Index for Twp 35S Rng 41E, Page 370
 Index for Twp 34S Rng 40E, Page 402
 Index for Twp 38S Rng 42E, Page 424
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 R.14E
 T. 30 S.
 33
@@ -120,7 +120,7 @@ Var,,3-45.E.
 T.18S. R.25 E.
 r.24308
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 T.31S.
 R.39 E.
@@ -138,7 +138,7 @@ R.43E
 2
 m
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Tps. 38 & 39 S.
 Rs. 40 & 41 E
 Tp.
@@ -158,7 +158,7 @@ JJohon
 2
 9682
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 下.31S.
 R.26 E.
@@ -181,7 +181,7 @@ Hrrris
 2n
 出D
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 T. 34 S. R. 40 E
 Kina, 1887,
@@ -200,7 +200,7 @@ a
 AD
 32
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 R.41 E.
 T. 36 S.
@@ -225,7 +225,7 @@ J.37S.R41E
 T.37S.R42.E
 OCEAN
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 T.38S.
 R. 42 E
@@ -242,7 +242,7 @@ AN
 RIVER
 g
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 9
 INDEX
@@ -265,7 +265,7 @@ p.38
 2
 27
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 x124
 Williaun Ime f. Oren,?
 ndex.
@@ -277,7 +277,7 @@ Sownship 31 south, Rangr 26 cast.
 14
 13
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 Loues Hogau
 Chamm
 George. H. Hodges
@@ -322,7 +322,7 @@ of Hutchwioon and
 Moautero-of last Bauk of dusin
 Gever Hast site of Hutckemson Saland
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 323
 nder. I 36S
 6
@@ -354,7 +354,7 @@ of faut side
 IndianRitkr-
 fage 33
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 syo
 Vndev
 7358 R418
@@ -400,7 +400,7 @@ Meanders of westside of Lland
 east baofe
 1一
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 402
 ndex to
 T.34 S. P9 40E.
@@ -426,7 +426,7 @@ Meander of east barck of.
 Judian River-west side
 page 16
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 424
 Tuder of 7 38 S R42 East
 2

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 169
 DIAGRAM
@@ -59,7 +59,7 @@ Not Given
 Not Given
 19
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex
 Yo
@@ -88,7 +88,7 @@ H
 25
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 'ounship
 Kangt 23 Wist
 -184
@@ -113,7 +113,7 @@ T194
 Vavo
 1H
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Douns hip 4 North.
 Range 23 West.
@@ -140,7 +140,7 @@ y
 32
 520
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 78
 5
 4
@@ -205,7 +205,7 @@ Var.,
 1E
 35
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 107
 106
 -106
@@ -300,7 +300,7 @@ N.
 1857.
 Ex
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Rango 24
 West.
@@ -419,7 +419,7 @@ sxt
 N
 2
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Younship
 5. North.
@@ -448,7 +448,7 @@ YRange 24 West..
 20'E.
 50
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Younship
 1North.
@@ -476,7 +476,7 @@ IV
 Vav,
 5=35'E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Jounship
 Range 25 1u
@@ -578,7 +578,7 @@ H.
 Var.,
 E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 Younship
 Rangi 25 West.
@@ -622,7 +622,7 @@ H
 1857.
 Nar,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 Jounship
 Kange 25 Wist.

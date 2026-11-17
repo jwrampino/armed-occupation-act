@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 106
 DIAGRAM
@@ -29,7 +29,7 @@ PAGE
 4°-30'E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 19-25
 19-27
 19-24
@@ -46,7 +46,7 @@ L
 20
 9
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 26 East.
 23
 23
@@ -92,7 +92,7 @@ Dora
 32
 1849.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Range 27Eash
 Jonnshap 17 So
@@ -172,7 +172,7 @@ r
 34
 69
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Iownship
 18 South
@@ -267,7 +267,7 @@ H
 1848-9.
 4°30
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Jonns hip 19 Soulth.
 Range
@@ -365,7 +365,7 @@ Dara
 245
 fauld, 1848.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 27 Eash
 311-

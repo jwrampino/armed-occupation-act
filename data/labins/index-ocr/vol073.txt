@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -49,7 +49,7 @@ L.M. Prevash
 4° - 18' E
 6
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Judey to Deagrams.
 T
 R
@@ -80,7 +80,7 @@ u
 
 
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 10
 13
@@ -148,7 +148,7 @@ of Several
 be frund on pases 66t. 77. incluino
 this Ponnship, will
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 071
 811
 401
@@ -216,7 +216,7 @@ Pouns hip is ill
 be forrid on
 Pagen 154-155-156157
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 100
 881
 224
@@ -274,7 +274,7 @@ Pages
 240241×242
 X
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 十
 313
 -324
@@ -368,7 +368,7 @@ Y
 83
 31
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 372
 384
 878
@@ -465,7 +465,7 @@ on
 Pagis
 409-410-4114412
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 To urr s hip
 East.
 15 Saaith. Rangi

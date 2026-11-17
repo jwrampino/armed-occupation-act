@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 225
 DIAGRAM
@@ -68,7 +68,7 @@ None
 4°-30'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 225
 cont...
@@ -98,7 +98,7 @@ DATE
 1874
 48S 26E T.S. Stearus
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Hal
 2
 可明卵好如所分好公有分勾分
@@ -107,7 +107,7 @@ J
 a
 6
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Township 47 Sout h R. 31 E a st
 5
 ラク
@@ -198,7 +198,7 @@ L5
 carus
 2oE
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 Township 48 South R. 3/ East
 70
@@ -244,7 +244,7 @@ do
 6130
 eares,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 170
 128
@@ -342,7 +342,7 @@ eaus
 1874.
 E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 _
 金1
 221
@@ -412,7 +412,7 @@ OO
 eaus
 4°20'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Township 47South R. 34 Eush
 6/263
@@ -470,7 +470,7 @@ GG
 1874.
 30 E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Township49. South R. 31. Eash
 281
 297
@@ -526,7 +526,7 @@ Township49. South R. 31. Eash
 aus
 4°30'E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 
 Townehip 48 Louth R. 30 East
 307
@@ -597,7 +597,7 @@ Townehip 48 Louth R. 30 East
 33
 312
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 Township 4 1South R. 30 East
 魯
 391
@@ -670,7 +670,7 @@ SA
 1874.
 4º zo'E,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 D
 47 bouth R. 29 Each.
 Township
@@ -779,7 +779,7 @@ n
 30. E.
 4
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 Township 48South R. 29 Each
 492
@@ -886,7 +886,7 @@ Township 48South R. 29 Each
 470
 caruus
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 Township 48 South R. 28 Each
 575
 546
@@ -988,7 +988,7 @@ Vai,
 43 30'E.
 X
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 Township
 47 South R. 28Bast.
 2
@@ -1068,7 +1068,7 @@ Township
 Var.,
 4° z0 E.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 Township 48 South. R. 27 East
 626
@@ -1135,7 +1135,7 @@ Township 48 South. R. 27 East
 605
 1874.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 14
 Township
 49 SouthR. 26 Eact.
@@ -1237,7 +1237,7 @@ Township
 32
 aus
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 13-
 Township47South R. 27 East.
 643.
@@ -1301,7 +1301,7 @@ G33
 1874.
 Jo'E.
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 16
 Township 47 Soulh R. 26 Eas)
 655
@@ -1378,7 +1378,7 @@ Township 47 Soulh R. 26 Eas)
 4°30
 Vav.,
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 17
 Township 47 South R. 25 East
 739
@@ -1482,7 +1482,7 @@ aN.,
 30
 X
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 Township 4 8 Southo R. 25East
 784
 773
@@ -1567,7 +1567,7 @@ E
 30
 aN,,
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 Township 49 South R. 25 &ast.
 0
 846
@@ -1653,7 +1653,7 @@ S
 802
 4°30 E.
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 Township 4 8 South R. 26 Each.
 6
 932

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 251
 DIAGRAM
@@ -53,7 +53,7 @@ Index to Twp 3S Rng 17E, Diagram Page 26.
 Index, Diagram Page 66.
 Index to Section Lines and Connections within Twp 3S, Diagram Page 188.
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 251
 cont.
@@ -63,7 +63,7 @@ Diagram Page 214.
 Index to Section Lines and Connections within Twp 4S, 17E,
 Diagram Page 252.
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 al
 25/
 T
@@ -89,7 +89,7 @@ S
 0
 2A
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 A
 Field notes
 of the survey of
@@ -111,7 +111,7 @@ Suay
 commenced July 28=1898
 Sunvey completod ang.6 1898.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 25
 (4-674.)
 3 S,
@@ -152,7 +152,7 @@ riH
 208
 216 8-380
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Index
 Lines in T.50 S., R. 41E.
 18
@@ -210,7 +210,7 @@ Jaland vi Sec.29 p1
 60
 dong Kayp.p.56-5/ pp E1-(4(ricl)
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 N.ol 25
 (4-674.)
 Township 4 S., R. /6 E.
@@ -253,7 +253,7 @@ Township 4 S., R. /6 E.
 36
 6389
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 (4-674.)
 3 S., 
 R. 17 E.
@@ -295,7 +295,7 @@ Ca
  1897
 Vav, 1-34'E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 4
 (4-674.)
 rownship
@@ -346,7 +346,7 @@ R. I7 E.
 6389
 1897
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 2
 26
 Hamus and Dutis of ausistants
@@ -371,7 +371,7 @@ T4S
 33
 Ieeg.cor.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 X
 66
 Chaiuman
@@ -408,7 +408,7 @@ LISN
 125
 Ls.w.com
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 188
  Miildrd F Broun, Ghaimma
 2
@@ -430,7 +430,7 @@ Section lons and Conmuetims wichisT3s
 La
 5
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 2
 214
 Nammi and Dutis of Assistunts
@@ -453,7 +453,7 @@ RIGE
 22
 21
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 252
 Grorgeet Buir
 hanim

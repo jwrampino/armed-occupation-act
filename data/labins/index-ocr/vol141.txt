@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 141
 DIAGRAM
@@ -51,7 +51,7 @@ None
 None
 18
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 guden
 to
 South Eash
@@ -74,7 +74,7 @@ R
 18
 18
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 outh
 Yourship 13
 18
@@ -130,7 +130,7 @@ q
 2
 66
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 49
 6487
@@ -147,7 +147,7 @@ L
 Vav.,
 5°E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Tos hs19 420. 8.
 19. s.
@@ -197,7 +197,7 @@ Tos hs19 420. 8.
 35
 1
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 06+69
 O
 IAOLI
@@ -226,7 +226,7 @@ h+sl1
 -175=
 Var. nat
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 16.
 Gast
@@ -249,7 +249,7 @@ Co
 1857.
 Vav.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 1=SA
 2
 2
@@ -364,7 +364,7 @@ y
 Var.
 not
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 Sorns hp
 31 Sorth Range
@@ -474,7 +474,7 @@ LCO
 max
 irear.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 16. East
 4
@@ -504,7 +504,7 @@ C
 M
 1848.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 31
 L

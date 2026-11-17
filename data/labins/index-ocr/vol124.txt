@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 124
 DIAGRAM
@@ -29,7 +29,7 @@ PAGE
 4°-30'E
 10
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inder lo Diagrams
 Tounship
 Range
@@ -58,7 +58,7 @@ IC
 10
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 15
 10
@@ -90,7 +90,7 @@ uld
 1848.
 Var, 4°-30' E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 Tounshis17SouthRange25Easi
 4
@@ -179,7 +179,7 @@ J.M.G.
 uld,
 1849.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 G
 Township16SouthRange26E
 83
@@ -275,7 +275,7 @@ o0
 9
 1849.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Thwniship17SwuthRange 26East
 £81
@@ -374,7 +374,7 @@ D12
 M.Gould,
 1849.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Towrnshujp18 SouthRange 26 East
 237-237

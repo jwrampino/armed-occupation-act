@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 132
 DIAGRAM
@@ -57,7 +57,7 @@ None
 None
 29S 26E J. Westcott
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 ndex
 Yo
@@ -106,7 +106,7 @@ South
 26
 23
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Kiange 23 East.
 20 South.
@@ -207,7 +207,7 @@ Nestcolt,
 Var.,
 4=40′E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 South.
 Kangi 23
@@ -294,7 +294,7 @@ e61
 890
 Nestaalt, 1848.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Rangi 23 Cast.
 Jouns hip
@@ -387,7 +387,7 @@ b00
 34
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 26 South.
 8
@@ -478,7 +478,7 @@ G0
 Var.,
 4° 20'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Scuth.
 27
@@ -577,7 +577,7 @@ be9
 Aestcatt,
 1848.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 28 South.
 Rangy 23 bast
@@ -673,7 +673,7 @@ T80
 36
 88.9
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 South.
 Kange 23
@@ -773,7 +773,7 @@ et9
 36
 1849-50.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15-
 Range 24Cast.
 Jounship
@@ -867,13 +867,13 @@ Eπ1
 Nestaolt,
 1847-8.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 12
 Jounship 28South. Range2
 1
 Nowar, giver.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 ounshi 29 a2
 2
@@ -881,14 +881,14 @@ ounshi 29 a2
 21
 —24
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 36
 少
 8€
 39
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 23
 Sewnship 2q South. to
 Range26 Cast.

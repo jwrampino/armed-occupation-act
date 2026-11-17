@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 177
 DIAGRAM
@@ -70,7 +70,7 @@ None
 None
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 177
 cont...
@@ -162,7 +162,7 @@ None
 5°-30'E
 21
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 177
 cont...
@@ -191,7 +191,7 @@ None
 5°- E
 23
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 INDEX.
 T. South.
 R. East
@@ -296,7 +296,7 @@ Page
 20
 35
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 12
 5
 4
@@ -340,7 +340,7 @@ E.4.
 E.
 丽
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 6
 5
@@ -380,7 +380,7 @@ Glarlei
 32
 31
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 m2s/L/L
 so
@@ -422,7 +422,7 @@ A.cosla
 35
 3G
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 1177
 4
 6
@@ -464,7 +464,7 @@ E.P.Sunchi
 -18.
 18
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 East
 5
@@ -506,7 +506,7 @@ Scc41
 35
 36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 5
 232
 山
@@ -557,7 +557,7 @@ John HuuTas.
 Note- The fieled noles of the sumvy of
 the He
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 Township.18 South Range 34 East.
 5
@@ -618,7 +618,7 @@ G
 4°℃
 gveun.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 8
 129
 Sibbald
@@ -650,7 +650,7 @@ Dohn W Lawy
 34
 33
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 3
 2
@@ -696,7 +696,7 @@ ange 34 East-
 1847
 giveir.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 1.0
 East
 Fownship 13 South Range
@@ -726,7 +726,7 @@ aeck
 L182
 20
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 11
 -289
 EM.Airidondo
@@ -778,7 +778,7 @@ L51
 446
 418
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 ;12
 Tornship 15South Range 30 Eas
 2
@@ -793,7 +793,7 @@ dondo-
 184
 Var., 5º30E
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 13
 oronship 12South Kange 21 East.
 South bame Aaiedondo goaul
@@ -818,7 +818,7 @@ No
 vav.
 giveu
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 14
 SCCNO
 Denation
@@ -845,7 +845,7 @@ Scc
 39
 C
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 15
 19
 21
@@ -885,7 +885,7 @@ Huitas
 13
 8
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 16
 Joniship 13 SouthRange 29
 C asr
@@ -925,7 +925,7 @@ and conmentions with the pmluate sumvay
 Sec volumi 176
 Navi
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 17
 278
 Su 39
@@ -946,7 +946,7 @@ Thomas Fitch
 1849.
 5°30'E.
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 18
 South Range 26°6
 Jownships 243
@@ -981,7 +981,7 @@ Grant
 .1847.
 E
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 19
 East.
 407
@@ -1045,7 +1045,7 @@ limc
 12
 184950.
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 ODラ
 679
 007
@@ -1111,7 +1111,7 @@ SLE
 Arredondo Gramt
 1850
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 21
 Manges 29830
 conshi/s 174/8South
@@ -1147,7 +1147,7 @@ conshi/s 174/8South
 Nav.,
 50.30.1.
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 22
 山
 150
@@ -1183,7 +1183,7 @@ Wlee
 1847.
 wen
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 23
 1
 Soumship 16 South Range 20 Cast

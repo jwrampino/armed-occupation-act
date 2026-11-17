@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 214
 DIAGRAM
@@ -52,7 +52,7 @@ None
 3°-47'E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 2
 214
 vol-214
@@ -74,7 +74,7 @@ Page
 11
 383412
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Township 36 S. R. 3 / Cast.
 6
@@ -109,7 +109,7 @@ Township 36 S. R. 3 / Cast.
 34 12 35 3 30
 32
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 R. 31 6
 Township 37 S.
 3 35 2 3/ 1
@@ -152,7 +152,7 @@ Township 37 S.
 Vav,
 30 47'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 R. 31 C.
 Township 38S
 5
@@ -189,7 +189,7 @@ Township 38S
 41'E.
 an,,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7813
 18 119 17 106 16 97 15
 8714
@@ -214,7 +214,7 @@ an,,
 Var,, asd
 noted
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Township 36 S - R. 32 6
 1527
 531
@@ -245,7 +245,7 @@ Township 36 S - R. 32 6
 1870.
 30 47'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 Township 37 S.
 R. 32 E
 929
@@ -287,7 +287,7 @@ R. 32 E
 1870.
 47E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 8
 Township 375
 R. 32 ε.
@@ -314,7 +314,7 @@ R. 32 ε.
 31 293 32 284 33 276 34 267 35 256 36
 Vav, as noted.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 33
 S.
 R. 3 6.
@@ -391,7 +391,7 @@ wee
 533
 1870
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 10
 R. 33 E-
 Township 37 S
@@ -447,7 +447,7 @@ Township 37 S
 47'E
 Vav.,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 11
 R. 33 8.
 Township 38 S
@@ -472,7 +472,7 @@ Township 38 S
 3° 47 E.
 N
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 12
 R. 34 6
 Township 38 8.
@@ -529,7 +529,7 @@ Township 38 8.
 513
 47
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 13
 R.
 Township

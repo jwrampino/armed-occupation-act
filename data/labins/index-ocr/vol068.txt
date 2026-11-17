@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S.
 GOVERNMENT SURVEY
 FIELD NOTEBOOKS
@@ -66,7 +66,7 @@ Sam Reid
 4° - 30' E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 to
 Younship
 Rangn
@@ -100,7 +100,7 @@ n
 35
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 South.
 Kange
@@ -148,7 +148,7 @@ no
 36
 35
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Jounship
 Cast.
@@ -201,7 +201,7 @@ C81
 34
 200
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3,st
 cor
 South.
@@ -274,7 +274,7 @@ Entrance to Blew or.Harbom
 5
 9
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Yhange 15
 South.
 30
@@ -370,7 +370,7 @@ cL
 121
 2
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Cast.
 South.
@@ -480,7 +480,7 @@ CEG
 36
 1
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Sounship
 35 South.
@@ -508,7 +508,7 @@ DE
 0
 22
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 South.
 Range
@@ -619,7 +619,7 @@ SI€
 31
 -100
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Rangu
 Younship
@@ -644,7 +644,7 @@ Dlkaco
 -377
 36
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 Tounship
 Rangi

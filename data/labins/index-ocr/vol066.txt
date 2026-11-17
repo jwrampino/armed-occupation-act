@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 66
 DIAGRAM
@@ -70,7 +70,7 @@ PAGE
 5°-23'E
 29
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 ndep
 to
 Diagranis
@@ -102,7 +102,7 @@ Whis Dep uty Sur egais Gemt-ait
 A.L.
 inu
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Sounship 12 South
 Smamp-50
@@ -161,7 +161,7 @@ S
 -20
 9
 
-===== PAGE 4 =====
+===== PAGE 4 [other] =====
 3
 12 8onth.
 Rang
@@ -228,7 +228,7 @@ Et81
 51
 52
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Jownship 13 Sonth.
 Range
@@ -290,7 +290,7 @@ X
 X
 
 
-===== PAGE 6 =====
+===== PAGE 6 [other] =====
 7
 R
 Eash
@@ -334,7 +334,7 @@ on
 35
 2
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 9
 18 Eash
@@ -422,7 +422,7 @@ i
 32
 31
 
-===== PAGE 8 =====
+===== PAGE 8 [other] =====
 71
 Jounship D4 Sonth. Range
 13 East
@@ -505,7 +505,7 @@ Go
 61
 60
 
-===== PAGE 9 =====
+===== PAGE 9 [other] =====
 /3
 Jownshnp Is Sonth.
 13. 8ast.
@@ -554,7 +554,7 @@ m4ieo
 05
 ones
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15-
 X
 3
@@ -602,7 +602,7 @@ meileo
 of
 set.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 47
 Jownship 12 South.
 Range
@@ -723,7 +723,7 @@ G
 270
 G
 
-===== PAGE 12 =====
+===== PAGE 12 [other] =====
 18
 Eash
 12 8onth
@@ -845,7 +845,7 @@ J:3
 -70
 -70
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 Jounship
 Eash
@@ -960,7 +960,7 @@ X
 22
 22
 
-===== PAGE 14 =====
+===== PAGE 14 [other] =====
 23
 i
 E7
@@ -1090,7 +1090,7 @@ L69.4343-
 68335
 6988343
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 25
 Jownship 14 Son th.
 
@@ -1101,7 +1101,7 @@ X
 w
 X
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 27
 .Jolnship 13 South.
 Range
@@ -1228,7 +1228,7 @@ GBEA7
 16
 16-
 
-===== PAGE 17 =====
+===== PAGE 17 [other] =====
 29
 : Jownshap 13 South
 Eash.

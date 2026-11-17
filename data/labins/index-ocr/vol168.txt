@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 168
 DIAGRAM
@@ -64,7 +64,7 @@ None
 5°-35'E
 21
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inclex
 R
 North x west.. Page
@@ -78,7 +78,7 @@ J串
 ….
 5
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 In on ship 3 arorth. Range 6 mest.
 6
@@ -121,7 +121,7 @@ In on ship 3 arorth. Range 6 mest.
 之0
 50
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Joons hip
 3 worth.
@@ -191,7 +191,7 @@ L191
 H.
 5=20'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 4
 Fornship 7 ror Tr. Rangs 16 West.
@@ -221,7 +221,7 @@ H.
 Vav,
 not
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Jo mm ship Grorth. Range
 17 wtst.
@@ -270,7 +270,7 @@ G
 36
 H.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Jonnohip 7 Northe. Range 17 Nest.
 Alabama. Lime
@@ -321,7 +321,7 @@ H.
 Var',,
 5° 15'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 21
 Tounship
 G North Range 18 West.
@@ -376,7 +376,7 @@ H.
 Var.,
 5=15E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Iovnsnip 5 eNortte.
 Range 18 rest.
@@ -434,7 +434,7 @@ H.
 Nav
 not
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15-
 Town's thip
 6 rovta
@@ -469,7 +469,7 @@ Var.,
 not
 grvew.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 Jounship
 2wortt.
@@ -515,7 +515,7 @@ C
 Van'
 50.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 To unship
 L Won-tT
@@ -574,7 +574,7 @@ H.
 5° 95.
 y
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 2ewooth. Roange
 Town s hip

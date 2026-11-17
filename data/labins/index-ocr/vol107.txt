@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 107
 DIAGRAM
@@ -29,7 +29,7 @@ PAGE
 4°- 45'E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index
 T
 R
@@ -53,7 +53,7 @@ n
 29
 第
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Township 15 South.
 Roarge
@@ -182,7 +182,7 @@ G3
 13
 33
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 0£1
 4
 251
@@ -290,7 +290,7 @@ Vav.,
 4°-30'E
 X
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Township I7. Soutth.
 Reanuge
@@ -408,7 +408,7 @@ Treacey
 234
 会
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 To wnsnip
 17 South. Range
@@ -516,7 +516,7 @@ O9T
 Var.,
 4°45'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Township
 Sou the. Range

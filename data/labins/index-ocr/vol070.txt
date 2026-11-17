@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 70
 DIAGRAM
@@ -36,7 +36,7 @@ Not Given
 5°- E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 to.
 iagrams
 Sounship
@@ -68,7 +68,7 @@ East
 2
 61
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Yhange
 Cast
@@ -188,7 +188,7 @@ whithurst
 furn
 hag- 406
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 South.
 P.Bairdm
@@ -337,7 +337,7 @@ S€ €
 : J. Say los
 haqo329
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 South.
 Kange
@@ -401,7 +401,7 @@ BEC
 9SC
 35
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 South.
 53
@@ -500,7 +500,7 @@ Hel
 *)
 Vx
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Kango 41 bast
 jao. 4agan
@@ -597,7 +597,7 @@ C
 33
 15
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11.
 East.
 5
@@ -687,7 +687,7 @@ n
 3
 3
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 5.5
 East.

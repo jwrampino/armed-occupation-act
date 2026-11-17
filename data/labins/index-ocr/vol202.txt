@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 202
 DIAGRAM
@@ -40,7 +40,7 @@ PAGE
 4°-5'E
 356
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Incley to Sowrnships.
 T
 R.
@@ -73,7 +73,7 @@ found
 volumsi.
 of this
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 3
 Township 31. S. R. 23. Eash
 
@@ -148,7 +148,7 @@ A7
 34
 4°15'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 141
 Township 35. S. R. 23 Eash
 9
@@ -232,7 +232,7 @@ A5-
 32
 33
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 206/2
 (4-674.)
 Township 36 S., R. 2 4 6.
@@ -249,7 +249,7 @@ Township 36 S., R. 2 4 6.
 31 242 32 234 33 222 34 2/4 35 201 36
 6389
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 275
 Township 37.S. R. 24
 8arl
@@ -340,14 +340,14 @@ SAク7
 3
 2
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 353
 J.37, R.24, StE.
 36—36885935
 Vav., 4°10'E
 
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3354
 T. 35, R.23, SHE.
 2908938887386
@@ -356,11 +356,11 @@ l
 366
 4010'€
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 356
 J. 36, R. 23, SHE.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 2
 358
 af Gavuship 378. Range 34. Esh.
@@ -388,7 +388,7 @@ Do 2h n
 Land 2ine
 Thmevay Neweh 25 01853?
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 364
 18 Mile an Est Banndary of
 Sawship 35-5. PRangr 33. East, Jd
@@ -416,7 +416,7 @@ Do 20 "
 n S.40.20. 66
 3i.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 386/8tmila
 20
 3S. S, Rangr 23. Past, Dumning Miss
@@ -439,7 +439,7 @@ Do 12
 Do 8 ."
 3arin
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 T.36. 806 R.23. C
 392
 aid Dan Mmee Daith. On Cast bune.
@@ -462,7 +462,7 @@ Dhr lugth a Eart banmday of
 3 chains  18 rts. Camet 4 thrnnd
 the eron an Lash mite Maith.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 33.
 399
 Ganeuslip 36. S. Range 23. E. Suni
@@ -482,7 +482,7 @@ N. 49.0. 94 "
 Pooe rine
 May yih
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 73
 Township 32.S. R. 23. East
 30

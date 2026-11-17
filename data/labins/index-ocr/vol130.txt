@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 130
 DIAGRAM
@@ -53,7 +53,7 @@ TWP RGE SURVEYOR(S)
 20S 22E W.J. Reyes
 1853
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 to
 hnder
 Soith East.
@@ -80,7 +80,7 @@ R
 4
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Towrrship 17 South.
 East.
@@ -167,7 +167,7 @@ h2
 工
 1854.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 SouTh. Range
 Jownship 18
@@ -255,7 +255,7 @@ _
 1854.
 4-45'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 54
 -192
@@ -298,7 +298,7 @@ _
 ,1853.
 Vav., 4-45.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 -206—205=
 6
@@ -338,7 +338,7 @@ Vav., 4-45.
 0
 W.SKe
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 6
 5
@@ -387,7 +387,7 @@ _
 .IRe
 eyea, 1854.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Sowrship 17 South
 6
@@ -430,7 +430,7 @@ Sowrship 17 South
 ThI Reyea, 1854,
 Var, 4-45'E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 -EMT
 -∠46.
@@ -478,7 +478,7 @@ b
 36
 —239
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 Jorvuship 19 doutth. Range
 21.East.
@@ -575,7 +575,7 @@ L
 .
 eyes,1853.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 21. East.
 490
@@ -673,7 +673,7 @@ S
 4°45'E.
 av.,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 Jounship 19 South. Range 22. East
 6
@@ -738,7 +738,7 @@ C
 33
 Vav., 4°º 45'E,
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 20
 -- -4/2
 -418

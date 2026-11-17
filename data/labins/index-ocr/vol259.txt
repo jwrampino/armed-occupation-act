@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 page 2.23
 U.s field Notes
 Volume 259
@@ -65,7 +65,7 @@ Tea Table Key
 645
 37€
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 State of Fla/
 page 3 y3
 Field Notes
@@ -89,7 +89,7 @@ Sectione 3-10, 15-22
 by
  March 1908
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Page 10g
 U.S. FIELD Notes
 VolumE 259
@@ -156,7 +156,7 @@ Boundaries of lake City Alal
  SubDivisional Section lines
 Of Sectio) 28, 29, 30, 31, 32+33.
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Page 1 0g 3
 U.S. FiELD Notes
 VOlumE 259
@@ -220,7 +220,7 @@ Boundaries of lake City la.
  SubDivisional Section lines
 of Section 28, 29,30, 31, 32+33
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 page 2.23
 U.s field Notes
 Volume 259
@@ -285,7 +285,7 @@ Tea Table Key
 645
 37€
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 State of Fla/
 page 3 y3
 Field Notes

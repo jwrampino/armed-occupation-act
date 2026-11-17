@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 179
 DIAGRAM
@@ -41,7 +41,7 @@ PAGE
 5°- E
 7
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 9
 Jonne
 Range torth
@@ -62,7 +62,7 @@ South
 11
 à
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 onnship 1 North Range 24 East-
 5
 23
@@ -141,7 +141,7 @@ M
 1850.
 Nav.,
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 史
 18
 13
@@ -197,7 +197,7 @@ wo
 
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 charlis Scaton-
 136
@@ -250,7 +250,7 @@ E2t
 1850.
 5°E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 194
 193
@@ -359,7 +359,7 @@ oo
 1850.
 Var.,
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 -202
 -203.
@@ -428,7 +428,7 @@ L82
 1850.
 5°E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 316A1
 339
@@ -487,7 +487,7 @@ SZE
 1850.
 5°E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Jownship 11 South Range 27
 East
 Acosta

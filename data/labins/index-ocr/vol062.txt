@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 62
 DIAGRAM
@@ -68,7 +68,7 @@ J.W. Exum
 Not Given
 J.W. Exum
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 62
 DIAGRAM
@@ -139,7 +139,7 @@ Not Given
 21
 J.W. Exum
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 62
 DIAGRAM
@@ -181,7 +181,7 @@ Benjamin Clements & J.W. Exum
 Not Given
 29
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Indep to.
 Svagrams
 T
@@ -258,7 +258,7 @@ Gouth
 SonTh
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 7
 Jownship 2 Morth. Range 10 West.
 225
@@ -384,7 +384,7 @@ X
 33
 34
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Jownship 3 North. Rangr 10 Wost.
 71
@@ -513,7 +513,7 @@ Ho1
 34
 103
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Tounship 5 North. Range 10 West.
 122
 121
@@ -700,7 +700,7 @@ n
 971
 31
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 7
 Jowwship 7 North. Rarge 2o West.
 1888/
@@ -752,7 +752,7 @@ ran
 2
 --561
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 9
 Jownrship 1 North. Range 9 Wist.
 200—200—199—199—199—199-
@@ -769,7 +769,7 @@ Journship 1 North. Rang: 1o West.
 2
 发
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 11
 Tournship I North. Range n Wist.
 208208207207207207
@@ -788,7 +788,7 @@ f
 0
 600
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 23
 TowrvshipI North. Rangi 1s Wost.
 214-
@@ -917,7 +917,7 @@ C
 31
 32
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 75
 Jownship1 North. Range Is West.
 6
@@ -1128,7 +1128,7 @@ Jo wnship2 North. Rangi 14 West.
 35-
 36
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 27
 Township 2 North. Rang: 8 Wost.
 0CC
@@ -1147,7 +1147,7 @@ C℃6
 X
 1℃T
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 29
 Jowwship 2 North. Range 11 Wost.
 -229229—228—228—228—228-
@@ -1170,7 +1170,7 @@ DEC
 DECDEE
 2
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 21
 Jownship2 North. Rang: 13 Wist.
 236
@@ -1183,7 +1183,7 @@ X
 7£
 7E℃
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 23
 Basis
 Par aleell.
@@ -1202,7 +1202,7 @@ Rause
 254254254
 21
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 25
 Basis
 Parallel
@@ -1222,7 +1222,7 @@ Marrge 14
 -264-263263
 -263263262
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 27
 Basis
 Parallel hesh
@@ -1236,7 +1236,7 @@ Range 17
 hay
 269269269268268268
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 09
 Basis
 Parallel

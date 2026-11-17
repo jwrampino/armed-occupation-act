@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 165
 DIAGRAM
@@ -71,7 +71,7 @@ Not Given
 3°- 45'E
 25
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 In det
 Ao
 6
@@ -104,14 +104,14 @@ R
 39
 
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Sownshp 6 S
 --- -1
 ---49
 20
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 ownship 8.8.
 38371
@@ -119,7 +119,7 @@ ownship 8.8.
 _
 no
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Jown ship 9 S.
 6.
@@ -200,12 +200,12 @@ P
 59
 E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Tounship 7.S RangelSE.
 2.0
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 H
 9
 
@@ -213,11 +213,11 @@ H
 2で
 No
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 nven
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 6
 8
@@ -257,7 +257,7 @@ T
 35
 1844.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 =978
 23
@@ -339,7 +339,7 @@ LT
 .184.4.
 weu.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 -29ε
 4
@@ -363,7 +363,7 @@ mKay
 not
 gseir.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 Jownship 29 South Rangezr East
 6
@@ -395,7 +395,7 @@ Jownship 29 South Rangezr East
 34
 3536
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 2
 22
@@ -419,7 +419,7 @@ Var,
 E
 3045
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 23
 w0
 2
@@ -450,7 +450,7 @@ P
 Vav.,
 3°45'E
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 25
 2
 。

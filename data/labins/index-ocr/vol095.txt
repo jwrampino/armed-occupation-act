@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 95
 DIAGRAM
@@ -33,7 +33,7 @@ None
 4°-26'E
 6
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Range
 70:19020
 l1c
@@ -43,7 +43,7 @@ J
 1
 20
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Index
 x to Diagrams.
 T
@@ -70,7 +70,7 @@ L
 in Tho 26-25-24423 on fageo 82
 to 99 incluscin
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 340
 34
 1615
@@ -128,7 +128,7 @@ n
 1846-(7).
 N。
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 24 South. Range
 18 Cast.
@@ -257,7 +257,7 @@ X
 2
 X
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 23 Santh. Bange
 19
@@ -385,7 +385,7 @@ F
 No var,
 1
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 Jo wns hip
 2460
@@ -533,7 +533,7 @@ No
 var.
 1
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Forwng hip 17 South. Range
 Least.
@@ -632,7 +632,7 @@ Hatsan, 1849.
 Var, 4° E.
 X
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 Jownship
 18 Santth. Rangi 24

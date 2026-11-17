@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 93
 DIAGRAM
@@ -33,7 +33,7 @@ PAGE
 5°- E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Tnclere la Diagrams
 Townshijo
@@ -63,7 +63,7 @@ li
 38
 1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 22 East
 6+81'
@@ -73,7 +73,7 @@ ag
 -F6
 E6
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 24
 m
 8.9
@@ -172,12 +172,12 @@ S
 4
 Var., 5°E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 4
 M
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 7
 272
@@ -284,7 +284,7 @@ B8
 Var.,
 50E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Yow nishif36 South Kange 21East
 59
@@ -380,7 +380,7 @@ or
 Nar.,
 5° E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 38 South
 Kange 21 Eart

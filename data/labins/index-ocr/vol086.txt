@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 86
 DIAGRAM
@@ -25,7 +25,7 @@ PAGE
 4°-15'E
 1B
 
-===== PAGE 2 =====
+===== PAGE 2 [diagram] =====
 lUilitary
 Resinc
 B

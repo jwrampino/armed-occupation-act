@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 158
 DIAGRAM
@@ -33,7 +33,7 @@ None
 5°- E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 0
 Yo
@@ -53,7 +53,7 @@ Cast
 4
 5/9
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Jounship
 Mange 13
@@ -98,7 +98,7 @@ East.
 B. F. White,
 1847.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Range
 8 South.
@@ -177,7 +177,7 @@ Tav.,
 E.
 5
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Younsh
 South.
@@ -264,7 +264,7 @@ B.F.
 No
 var.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Rangu
 Cast.
@@ -351,7 +351,7 @@ B.J.
 Var.,
 E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 10 South.
 04

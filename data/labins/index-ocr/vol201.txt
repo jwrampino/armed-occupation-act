@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 201
 DIAGRAM
@@ -36,7 +36,7 @@ TWP RGE SURVEYOR(S) DATE
 9
 31S 34E J.J. Daniel
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 
 Ludet
 to
@@ -65,7 +65,7 @@ Ii
 14
 i1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Sowns hip
 East.
@@ -147,7 +147,7 @@ dud
 Var,
 30
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Sownship 30 Sowth.
 Gast..
@@ -213,7 +213,7 @@ duil
 5′E.
 Vav.,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 E ast
 Touns hip
@@ -310,7 +310,7 @@ h8
 E
 20
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 Range.
 6 ast.
@@ -399,7 +399,7 @@ E.
 4°
 aN
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 Jorns hip
 Rauge
@@ -507,7 +507,7 @@ ust
 auiel
  20 E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 S
 Range
 Jounstip
@@ -621,7 +621,7 @@ c8
 Vav.,
 4°25
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 9
 J
 onnnohup

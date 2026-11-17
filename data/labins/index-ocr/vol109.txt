@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 109
 DIAGRAM
@@ -54,7 +54,7 @@ None
 5°-10'E
 25
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 109.
 cont...
@@ -93,7 +93,7 @@ PAGE
 4°-10'E
 39
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Inded
 A
 ⑨
@@ -182,13 +182,13 @@ fr
 26
 1
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 merico
 of
 Isnet
 Van., 4=30E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 00
 xu
@@ -199,7 +199,7 @@ ar～y
 32
 1844.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 331
 08
@@ -210,7 +210,7 @@ Yoいe
 4°30'E.
 X
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 6
 16 Eask
 -3-050-04
@@ -225,7 +225,7 @@ eo
 10.9
 Var., I4° 10'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 7
 16 Eash
 -500499—499
@@ -239,7 +239,7 @@ Var., I4° 10'E.
 2
 A
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 8
 16 Eash
 y
@@ -252,7 +252,7 @@ c2
 383
 uar, 1845!
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 9
 16 bast
 126-
@@ -357,7 +357,7 @@ gay
 -36G
 Var,
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 11
 16 Eash
 132
@@ -445,7 +445,7 @@ C
 176
 381
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 13
 130
 suulb
@@ -460,7 +460,7 @@ Mexieo
 Var., 5–E.
 
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 15
 —867
 
@@ -468,14 +468,14 @@ KWurpleran, 1894,
 Nav., 4-10 E.
 f
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 17
 -887
 —287
 一787
 Var, 4=10'E.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 19
 287
 -287
@@ -485,7 +485,7 @@ Var, 4=10'E.
 -087-
 p
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 20
 ークムククムー
 2∠7
@@ -493,7 +493,7 @@ p
 —7ム
 ークムター
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 21
 Sounship 30Sonth. Range
 17 Eash
@@ -530,7 +530,7 @@ o
 Var.,
 6°E.
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 23
 17 East
 2
@@ -568,7 +568,7 @@ C
 389
 0
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 25
 South
 Range
@@ -628,7 +628,7 @@ y
 37
 1845.
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 27
 Eash
 —678
@@ -640,7 +640,7 @@ Soanto.
 Var.,
 5-10'E
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 29
 Soith. Range
 Jonship 23
@@ -753,7 +753,7 @@ C
 6
 Var., 4-10'E.
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 31
 Joonship 2H South
 Range
@@ -862,7 +862,7 @@ zo'E
 Vav.,
 40
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 33
 Eash
 ークSー
@@ -871,7 +871,7 @@ Eash
 —7.517
 X
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 34
 677
 877
@@ -879,7 +879,7 @@ X
 ククカー
 Var., 4-10'E.
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 35-
 Zownship
 23
@@ -1001,7 +1001,7 @@ st
 3
 2
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 37
 Downship 24 Son th. Range
 19 Eash.
@@ -1115,7 +1115,7 @@ Downship 24 Son th. Range
 32
 83
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 38
 19 Eash
 6
@@ -1127,7 +1127,7 @@ Downship 24 Son th. Range
 RW. Teublear, 1844.
 W
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 39
 421420419419418—417
 917

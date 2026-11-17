@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 I 1.
 U.S. Field Notes
 Volume-270
@@ -67,7 +67,7 @@ Brown Donation in Section, 40.
 aportioN of Island No.6 +the
 Survey of a Portion of sec. 7.
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 I 2.
 U.S. Field Notes
 Volume-270
@@ -112,7 +112,7 @@ Of the North, west, + South
 Boundaries And the
 Subdivision of sect 5.
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 I 1.
 U.S. Field Notes
 Volume-270
@@ -179,7 +179,7 @@ Brown Donation in Section, 40.
 aportioN of Island No.6 +the
 Survey of a Portion of sec. 7.
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 I 2.
 U.S. Field Notes
 Volume-270

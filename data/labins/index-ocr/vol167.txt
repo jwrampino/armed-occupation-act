@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 167
 DIAGRAM
@@ -29,7 +29,7 @@ R.W.B. Hodgson 1850
 5°-27'E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 P
 tdse
@@ -46,7 +46,7 @@ Fouth
 2
 1E
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 6
 92
 5
@@ -101,7 +101,7 @@ of
 wau, 1850
 32'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Tawnshipt North Range
 15East
@@ -209,7 +209,7 @@ Vai,
 E
 5°27
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Georgia
 Line
 R0S
@@ -306,7 +306,7 @@ T
 5-27
 E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 290
 295
@@ -404,7 +404,7 @@ goou, 1850.
 5°-27
 E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Tornshijs 2 Nörth Range 16 East
 382
@@ -492,7 +492,7 @@ C
 7
 som,1850.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 2 Marth
 2sa

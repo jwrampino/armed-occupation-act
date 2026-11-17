@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 63
 DIAGRAM
@@ -80,7 +80,7 @@ Not Given
 3°-45'E
 30
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 30S 38E George Mackay
 1845
 Not Given
@@ -91,7 +91,7 @@ Not Given
 34
 à
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 IoDiagrams
 Indit
 Ineasa
@@ -134,7 +134,7 @@ i
 3
 3A
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Sownship I Soith Rauge 1 Eash
 6
@@ -226,7 +226,7 @@ D
 31
 6
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 591
 39
@@ -313,7 +313,7 @@ HLF
 17
 02=
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 Jounship 1 Soulth. Rauge H. Eash.
 f2811
@@ -363,7 +363,7 @@ X
 L
 L
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 8
 Sowtship, South Range 5. Eash,
 6
@@ -437,7 +437,7 @@ see
 35
 32
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 10
 Socwuship 1. South.
 Range
@@ -545,7 +545,7 @@ hnt
 230-
 2
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 12
 Sowoth. Range 8. East.
 181
@@ -567,7 +567,7 @@ m
 1
 L
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 14
 Jonwseijes 8 fi:9. South, Ranges 188. 19. East.
 Bellamy Ruad
@@ -583,7 +583,7 @@ W,D
 -1131
 2
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 16
 founsemp so Soull.
 Range
@@ -671,7 +671,7 @@ Sranh
 80
 1
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 18
 Sowtstip 28 Soith. Range 35 leash
 厂
@@ -695,7 +695,7 @@ L
 L
 X
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 20
 Pounstup 28.douth.
 6
@@ -790,7 +790,7 @@ n
 2
 
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 2:2
 3,sh0
 3
@@ -807,7 +807,7 @@ B
 L
 X
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 24
 in
 Sx
@@ -876,7 +876,7 @@ I
 34
 X
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 26
 Pounship 29 Srnsth. Pange s7
 Ear,
@@ -963,7 +963,7 @@ S
 6
 X
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 28
 Range 38 East.
 Fornship 28 South.
@@ -979,7 +979,7 @@ TVe-
 Sh
 31
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 31
 Sownsenp 29 Spu. ge 38ET.
 っメっ
@@ -1026,7 +1026,7 @@ p
 7
 7
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 32
 Pomotip s0 Sonth, Nange 38ba.
 un
@@ -1068,7 +1068,7 @@ Poant
 36
 X
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 3h
 Poaugo 39 Bust
 Poomsmp 30 bouith.

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 61
 DIAGRAM
@@ -72,7 +72,7 @@ Subdivisions: R.C. Allen
 Not Given
 27
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 61
 DIAGRAM
@@ -153,7 +153,7 @@ Not Given
 Not Given
 59
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 61
 DIAGRAM
@@ -224,7 +224,7 @@ Not Given
 18S 2
 29E M.A. Williams
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 61
 DIAGRAM
@@ -296,7 +296,7 @@ Not Given
 103
 17S 34E
 
-===== PAGE 5 =====
+===== PAGE 5 [other] =====
 Landfa
 #61
 STATE OF FLORIDA
@@ -343,7 +343,7 @@ robberies committed on two occasions by them, the Indians had
 become deeply indebted to the Mercantile House by the turn of
 the nineteenth century. The Indians had no means of liquidating
 
-===== PAGE 6 =====
+===== PAGE 6 [other] =====
 058-275
 Honorable Van H. Ferguson
 Page two
@@ -391,7 +391,7 @@ The question of the boundaries was directly before the Sup-
 reme Court of Florida insofar as the waters between the mainland
 and St. Vincent's Island were concerned in the case of Apalachicola
 
-===== PAGE 7 =====
+===== PAGE 7 [other] =====
 058-275
 Honorable Van H. Ferguson
 Page three
@@ -441,7 +441,7 @@ sides of a navigable tide water bay of the sea, run across the
 bay in reaching the land on the opposite side to be delineated
 as a part of the concession." This is precisely the situation
 
-===== PAGE 8 =====
+===== PAGE 8 [other] =====
 Honorable Van H. Ferguson
 058-275
 Page four
@@ -487,7 +487,7 @@ Florida at the time the cession was
 made. . ."
 The court further said on the same page:
 
-===== PAGE 9 =====
+===== PAGE 9 [other] =====
 Honorable Van H. Ferguson
 058-275
 Page five
@@ -530,7 +530,7 @@ H. Rex Owen
 Assistant Attorney General
 mjg
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 3
 Sounships
 Kangis
@@ -588,7 +588,7 @@ Apalachicda Ririrs ile be found on pages 436 to 443 Juclusin.
 R. 13. Ker /89.
 Var. 5° 28'E
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 5
 -686=
 W. Hambly
@@ -598,7 +598,7 @@ W. Hambly
 R.C. Allen, 1829.
 No variation givecr,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 y
 Blunts and
 Yushigus
@@ -612,7 +612,7 @@ V
 J. B. Clecciente, 181.
 No variation given,
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 Jownship 5 Seùth? Hange q east.
 169
@@ -625,7 +625,7 @@ ANshgton, 1826
 Jor fueler reoter see vol 37.
 7
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 Yownship 6 South.
 Kangi q Oast.
@@ -643,7 +643,7 @@ No variation gweer,
 Lee vol 37, for faller reder.
 f
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 13
 Yownship ISouth. Range q Cast.
 969
@@ -657,7 +657,7 @@ No variation giver,
 See vol, 37 Fr faller reter.
 11
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 15
 Yownship q South.
 Kange q bast.
@@ -673,7 +673,7 @@ No variotion giverr.
 See val, 37, foe fullir bioter.
 C
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 1
 Younship. 10 South.
 Kango q Bast.
@@ -688,7 +688,7 @@ Luta y
 No variation giver.
 See val, 37 For Fuller reale
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 19
 Sowniship 4 South.
 Kange 10 East.
@@ -697,7 +697,7 @@ n W ohugh
 See vol, 57 For feeelce seater.
 5
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 21
 -698—
 Eu r7 y
@@ -717,7 +717,7 @@ No variation givere,
 Lee vol, 37 For Fuller reotes.
 5
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 D3
 Sonsh SRang
 -00%
@@ -733,7 +733,7 @@ No variation piven,
 See val, 37 for Juller eoter,
 7
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 25
 Sounship. g South.
 Kange 10 East.
@@ -803,7 +803,7 @@ No var, griven
 R.C, alli, t D. Thono
 1829
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 27
 Sownship 10th.Range1
 Cast.
@@ -873,7 +873,7 @@ Ho var, giver (Exteriar by Hecery
 Subdivisiona,
 KO.allum, 1829:
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 29
 Younship 7 Sauth. RdGst.
 
@@ -881,7 +881,7 @@ e79
 e79
 f
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 31
 Younship 8 South. Rango n
 East.
@@ -907,7 +907,7 @@ Thomea 1829 Su Vd, 40 for fuller notby
 A. Thouar, 182'9
 See vol, 4o For fuller reater
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 33
 Jownship q South. Ranqe n East.
 814
@@ -930,7 +930,7 @@ Rl dellen, 1829
 See val 57 for fullee reates
 2
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 35
 Sownship 10 South. Range n East..
 中
@@ -942,7 +942,7 @@ S
 dad variation rest give.
 2
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 37
 Jownship MSouth. Kange n East.
 059
@@ -975,7 +975,7 @@ R.C. alleu, 1829,
 See Vol, 57 for fuller realesr.
 X
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 39
 Jounship 5 Sot.Mng bast
 668
@@ -984,7 +984,7 @@ Jounship 5 Sot.Mng bast
 Lee Vol, 6 for fuller mates
 X
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 4
 Jounship 6 South. Range 12 Cast.
 099
@@ -997,7 +997,7 @@ Su tol 6 for fullin motes boy kngd,
 Jee Val, 6. for Fuller reates.
 み
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 43
 Younshihp, o Suth? Rango 12 East.
 -660—657—667—657—651—667
@@ -1006,7 +1006,7 @@ fo
 D. Thoniars, 1829.
 See Val 40 for fuller reotes.
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 45
 Younship 6 South. Rango 13 East.
 Na..6°10'€
@@ -1016,7 +1016,7 @@ C.C. Stoue, 182s, -Var, 6°-10' E.
 Lie Vol. 5 For Fuller reales.
 2
 
-===== PAGE 32 =====
+===== PAGE 32 [diagram] =====
 47
 Younship 10 South. o
 Range 13 East.
@@ -1039,7 +1039,7 @@ Joc Fuller rialer see Vol, 40,
 7
 2
 
-===== PAGE 33 =====
+===== PAGE 33 [diagram] =====
 49
 Jounship outh. Kange 1 st
 -7.99
@@ -1066,7 +1066,7 @@ Jounship outh. Kange 1 st
 36
 7
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 57
 Township 7 South.
 KRangu 14 bast.
@@ -1090,7 +1090,7 @@ E1L
 No raristion giveer.
 2
 
-===== PAGE 35 =====
+===== PAGE 35 [diagram] =====
 53
 Sownship 8 South?
 Ranqu 14 Oast.
@@ -1123,7 +1123,7 @@ Boyd,
 Sce vol. 30 foe fulln rester.
 7
 
-===== PAGE 36 =====
+===== PAGE 36 [diagram] =====
 55
 Younship tRang
 —656——666
@@ -1145,7 +1145,7 @@ yon.
 variation resh grivee
 7
 
-===== PAGE 37 =====
+===== PAGE 37 [diagram] =====
 57
 Younship q South.
 Range 15 Cast.
@@ -1161,7 +1161,7 @@ frot
 hvariation eoh giver
 X
 
-===== PAGE 38 =====
+===== PAGE 38 [diagram] =====
 59
 Younship 10S.Kange15
 -999
@@ -1179,7 +1179,7 @@ zoe mpy
 foo
 f
 
-===== PAGE 39 =====
+===== PAGE 39 [diagram] =====
 61
 Jounships 607 South. Range 18 ast.
 S.A. Jevilt, 1841.
@@ -1224,7 +1224,7 @@ o
 14
 13
 
-===== PAGE 40 =====
+===== PAGE 40 [diagram] =====
 63
 Jounship 32 Sth Rang 18a
 347
@@ -1233,7 +1233,7 @@ Seveyor,
 1843, Var, 4º30 E.
 X
 
-===== PAGE 41 =====
+===== PAGE 41 [diagram] =====
 65
 Rango 19
 Cast.
@@ -1334,7 +1334,7 @@ oxe
 RlW. Narria, 184s.
 Narnation 5°21,E
 
-===== PAGE 42 =====
+===== PAGE 42 [diagram] =====
 67
 Range 19 Oast.
 Younship 31 South.
@@ -1343,7 +1343,7 @@ not giver,
 1843, Var, 4°30 E
 X
 
-===== PAGE 43 =====
+===== PAGE 43 [diagram] =====
 69
 建
 Younshi 2Sath. Range 19 
@@ -1358,7 +1358,7 @@ giver.
 1843, Vav, 4850'E
 2
 
-===== PAGE 44 =====
+===== PAGE 44 [diagram] =====
 71
 Township 32 South. 
 Kange 20 Cast.
@@ -1369,7 +1369,7 @@ Kange 20 Cast.
 see
 1843, Var, 4030'2h.
 
-===== PAGE 45 =====
+===== PAGE 45 [diagram] =====
 73
 Sounships 13th South. Kange 21
 East.
@@ -1385,7 +1385,7 @@ Don. Juan. Brourard
 C.C. Jracy, 1847.
 Variatian not giverr.
 
-===== PAGE 46 =====
+===== PAGE 46 [diagram] =====
 75
 Jounship 516 South. Rangi 27. East.
 Y 5.S. YR 26 E.
@@ -1414,7 +1414,7 @@ o人
 ククム
 743
 
-===== PAGE 47 =====
+===== PAGE 47 [diagram] =====
 7y
 Yownship 7 South.
 Range 
@@ -1480,7 +1480,7 @@ SS
 John. Heurtas
 Hovariatin giveee, 5° E.
 
-===== PAGE 48 =====
+===== PAGE 48 [diagram] =====
 79
 Sownships 687 South.
 Kange 28 East.
@@ -1519,7 +1519,7 @@ L9h
 RW. Naris, 1848–(9).
 Variation, 5- E.
 
-===== PAGE 49 =====
+===== PAGE 49 [diagram] =====
 81
 Tounship 7South. Range 28 Gast.
 -775-776—77
@@ -1533,7 +1533,7 @@ R.W.Narris, 1848(9)
 Variation, 5°-E.
 2
 
-===== PAGE 50 =====
+===== PAGE 50 [diagram] =====
 83
 Township 1 North.
 Range 28 Wist.
@@ -1546,7 +1546,7 @@ Her
 No variatión giver.
 C
 
-===== PAGE 51 =====
+===== PAGE 51 [diagram] =====
 85
 SnRangsW InSRan .
 Bay.
@@ -1557,7 +1557,7 @@ jiso
 J.W.Exn
 No variation griver.
 
-===== PAGE 52 =====
+===== PAGE 52 [diagram] =====
 87
 87
 Jnsi1Rage
@@ -1577,7 +1577,7 @@ No variation giver
 W.Cann
 5 18.S. 78. 296.
 
-===== PAGE 53 =====
+===== PAGE 53 [diagram] =====
 89
 Jownship
 1.12. North.
@@ -1608,7 +1608,7 @@ J.1 South. Range 30. Wut
 JW.E
 No variation giverr.
 
-===== PAGE 54 =====
+===== PAGE 54 [diagram] =====
 91
 Tewnship 2 South.
 Range 30 Wist.
@@ -1627,7 +1627,7 @@ P Prieto
 M
 No variateim guer.
 
-===== PAGE 55 =====
+===== PAGE 55 [diagram] =====
 93
 Y 4. N. 7R. 31 W.
 213
@@ -1667,7 +1667,7 @@ Y 2 N. YR 30 W.
 Y 2 N. 7R: 31 W
 4
 
-===== PAGE 56 =====
+===== PAGE 56 [diagram] =====
 95-
 .6N. YR 29W.
 2℃
@@ -1691,7 +1691,7 @@ Littlebory, ellason
 Benj. Clenfents, 1828.
 No variation given
 
-===== PAGE 57 =====
+===== PAGE 57 [diagram] =====
 97
 97
 S4 N. R 31 West.
@@ -1702,7 +1702,7 @@ a19
 J.W. E
 No variation giver.
 
-===== PAGE 58 =====
+===== PAGE 58 [diagram] =====
 99
 T1S.
 YR 31 W.
@@ -1719,7 +1719,7 @@ ging
 Y 2 S.
 YR 31 W.
 
-===== PAGE 59 =====
+===== PAGE 59 [diagram] =====
 101
 828/
 
@@ -1734,7 +1734,7 @@ Y4 N. YR 32 W.
 Yurnu-Starke
 1
 
-===== PAGE 60 =====
+===== PAGE 60 [diagram] =====
 103
 I 17 S.
 6.

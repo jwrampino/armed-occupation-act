@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 I2 page 2g3
 U.S. Field Notes
 Yolume-272
@@ -77,7 +77,7 @@ Extension Survey in sect 19, 20,
 1 South
 28EAst
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 I3
 pq 3q3
 U.S. Field Notes
@@ -130,7 +130,7 @@ TO DETERMINE THE
 boundary between Swamp
 AND OVER FLOWED I AND
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 page 1o03
 I1
 IU'S. Field Notss
@@ -209,7 +209,7 @@ Dependent Resurvay of sectiox
 Boundaries+ Aubdisisin  public
 Lando, diete in 284 30
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 page 10f 3
 I1
 IU.S. Field Notes
@@ -284,7 +284,7 @@ Dependent Resurvey of Sectiox
 Boundaries t Aubdivisiox  public
 Lando, Aicteins 28+ 30
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 I2 page 2g3
 U.S. Field Notes
 Yolume-272
@@ -361,7 +361,7 @@ Extension Survey in sect 19, 20,
 1 South
 28EAst
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 I3
 pq 3q3
 U.S. Field Notes

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 256
 7
@@ -21,7 +21,7 @@ Special Indices
 Index to Twp 3S Rng 16W
 Index to Twp 4S Rng 14W & 15W – Page 127
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 INDEX
 FiELD Notts- Volume 256 A.
 PagE 3
@@ -38,7 +38,7 @@ INDEx Diagram- Tounship 3S. Rng. 16W.
 INDEx Diagram- Touniship 4S, Rng. 15w.
 Touniship 4S, Rng. 14w.
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 L三
 三
 28
@@ -78,7 +78,7 @@ W
 X10
 开
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 8
 益
 15 W.
@@ -166,7 +166,7 @@ I1
 31
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 1273
 JS RIC
 十

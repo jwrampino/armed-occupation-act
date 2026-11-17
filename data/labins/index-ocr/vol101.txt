@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 101
 DIAGRAM
@@ -26,7 +26,7 @@ None
 5°E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Towiship
 Rance
@@ -43,7 +43,7 @@ East
 20
 12
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 3
 2
@@ -83,7 +83,7 @@ East
 33
 1
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 d
 Township/6SouthRange19East.
 6
@@ -140,7 +140,7 @@ Y
 2%
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 6
 5
@@ -200,7 +200,7 @@ Y
 56
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Township18SouthRange/9East.
 9
@@ -267,7 +267,7 @@ yn
 givew.
 1
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Township19SouthRange19East.
 187
@@ -349,7 +349,7 @@ Var.,
 4° 30'E
 X
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 992
 UTと

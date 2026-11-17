@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 137
 DIAGRAM
@@ -29,7 +29,7 @@ PAGE
 4°-30'E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index
 Jo.
 Sounship
@@ -56,7 +56,7 @@ n
 U
 n
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 一
 Joirnship 22 @South.
 Cast.
@@ -147,7 +147,7 @@ B.F. Whi
 E.
 4°30
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Tounship
 Kange 24
@@ -233,7 +233,7 @@ e
 B.J.
 1849.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 J
 Sounship
 20 South.
@@ -326,7 +326,7 @@ eL
 36
 191
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Rangu24 Cast.
 =970
 -9.92
@@ -424,7 +424,7 @@ SST
 Vav.,
 4°30'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Range 24 Cast:
 Sounship

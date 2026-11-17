@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 233
 DIAGRAM
@@ -65,7 +65,7 @@ J.A. Henderson
 3°-46'E
 5
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index
 Diagrams
 to
@@ -83,7 +83,7 @@ BWEEE
 E
 3
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 T3N
 
 R 3 E
@@ -169,7 +169,7 @@ A
 187
 Var., 316'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 T3×4N
 2
 R 37V
@@ -233,7 +233,7 @@ A
 -112
 A.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 T3 N
 RLE
 3
@@ -311,7 +311,7 @@ T3 N
 187
 46
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 T 3. N
 A 6 E
@@ -349,7 +349,7 @@ A 6 E
 X
 1878.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 I3N
 84F
 133

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 119
 DIAGRAM
@@ -26,7 +26,7 @@ PAGE
 7
 
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 index
 T
 R
@@ -44,7 +44,7 @@ N
 24
 a
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Township 14 South. Rcanrge
 23 East.
@@ -149,7 +149,7 @@ H. Wille, 1849,
 Vav.,5°5'E.
 X
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Township 16 Sozzth.
 Rcarnge 23 East.
@@ -240,7 +240,7 @@ L6
 Var., 
 4°55E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 éast.
 Jownship
@@ -372,7 +372,7 @@ COZ
 H.
 Helle, 1849.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 TOWnship
 1G South.

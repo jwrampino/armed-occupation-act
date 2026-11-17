@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 252
 7A
@@ -37,7 +37,7 @@ Index, Part of Twp 3S Rng 16E, Diagram Page 206
 Index, Part of Twp 4S Rng Unknown, Diagram Page 242
 Index, Part of Twp 4S Rng 16E, Diagram Page 302
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Nol 252
 Pag. 1
 R..16 E.
@@ -49,7 +49,7 @@ T. 3 S. R. 17E.
 T 4 S. R. 17 E.
 21
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 252
 (4-874.)
 3 S., R. 16 E.
@@ -94,7 +94,7 @@ Township
 E.BCack, 1897-
 -37E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 (4-674.)
 3 S_, F
@@ -143,7 +143,7 @@ Township
 36
 E13.Cank, 1897-8.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 (1-674.)
 Township 4 S., R. /7 E.
@@ -191,7 +191,7 @@ Township 4 S., R. /7 E.
 6389
 BCauk, 18978.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 100
 Haur and Duti ofasuulauts
@@ -231,7 +231,7 @@ Part of Tornship Ne 3 South. Range no17
 3x.27K
 Tpline
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 24
 Naues
 2e0
@@ -275,7 +275,7 @@ and
 21
 22
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 2
 (1-874.)
 Township  S.,
@@ -336,7 +336,7 @@ R. 16 E.
 6-389
 EB.Caub, 1897-8.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 X
 62
 Abil B. Broun Chaiwman and Flage.
@@ -359,7 +359,7 @@ Rangine
 20
 30
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 X
 146
 Tamce and Dutius of Assutaut
@@ -382,7 +382,7 @@ Partof Torrnship 3S., Range 16E.
 31
 Tpoline
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 206
 Abil 7D. Pram, Chainmancns Flogmi
 Elicha B. bamp
@@ -408,7 +408,7 @@ Township Line
 4
  line?
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 X
 242
 Ahl 7B. Dran Chaiman and Flope
@@ -442,7 +442,7 @@ Part of Township Ne 4S. Range
 29
 28
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 X
 302-
 Abel Va Brown. Chaimmaw ana Playamad

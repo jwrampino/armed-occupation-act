@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 129
 DIAGRAM
@@ -68,7 +68,7 @@ PAGE
 4°-30'E
 7
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 129.
 cont...
@@ -138,7 +138,7 @@ PAGE
 4°-30'E
 15
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 129.
 cont...
@@ -208,7 +208,7 @@ PAGE
 23
 31S 31E John Jackson
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 129
 cont..
@@ -242,17 +242,17 @@ PAGE
 4°-15'E
 27
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 0
 é
 
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 XX
 23
 CHX
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 1
 R 23 6
 331
@@ -271,7 +271,7 @@ R24 E.
 E77277ー
 7ーコTLー
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3
 333 8.R24
 0,
@@ -290,7 +290,7 @@ R24
 ——22——29
 必
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 R 25 E
 861-261961-561616
@@ -311,7 +311,7 @@ Saake
 139——140—141—142—143——144—163—164—165—166—167-168
 L
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 332 8, R 2
 25 6,
@@ -329,7 +329,7 @@ J 33 S. AR 26 E
 -187—287—887787—587—787
 127G2170072-6E8—880
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 33A S, AR 25 E.
 33A8R26E
@@ -347,7 +347,7 @@ R 26 6,
 1
 C
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 71
 336 S R 25E
 J36S.
@@ -367,7 +367,7 @@ R 26 E.
 2011
 L
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 13
 337 S
 R 24
@@ -392,7 +392,7 @@ KR 24E.
 C
 L
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 15
 3308
 R 27 E1
@@ -412,7 +412,7 @@ ane
 331——332—333—334—335—336355
 1056-357-3587.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 17
 332 6
 2
@@ -428,7 +428,7 @@ L
 -297-298-299-300-301-006
 Pane
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 19
 330SR30E
 330 8 R 296.
@@ -451,7 +451,7 @@ S.R 30E
 7888880288180088
 1
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 21
 J348.n27E
 33A8R28E
@@ -474,7 +474,7 @@ order to fooith fit The pecee at wtich the
 Road fmm Siont meade to dndniaw Ruver Croper
 inie be beand on
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 28
 3318.12316
 3318.12 326
@@ -486,12 +486,12 @@ L
 L
 421-422-423-424-425-426I432-431—430-429-429-427
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 2一
 -589590591592593594
 Johu
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 26
 29.Gash
 ウ
@@ -500,5 +500,5 @@ Johu
 -109
 596
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 27

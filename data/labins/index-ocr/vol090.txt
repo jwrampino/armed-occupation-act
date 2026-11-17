@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 90
 DIAGRAM
@@ -65,7 +65,7 @@ PAGE
 5°E
 27
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 90
 cont....
@@ -99,7 +99,7 @@ PAGE
 5°E
 38
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 to
 lagrams
 Sournship
@@ -190,7 +190,7 @@ oX
 11
 n
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Jackson,
 Yohir
 1848.
@@ -230,7 +230,7 @@ I
 34
 110
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Johu
 Vav..
 E
@@ -276,7 +276,7 @@ U
 66
 3
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 John
 Kange
 Cast.
@@ -350,7 +350,7 @@ Eサ1-
 140
 9
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Jahn
 1848.
 1
@@ -467,7 +467,7 @@ L61-
 161
 x
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 Joher
 9
 1848.
@@ -573,7 +573,7 @@ chπ-
 a
 6
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 John
 Var.,
 Rangu
@@ -676,7 +676,7 @@ E1E
 31
 1
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 1
 John
 1848.
@@ -784,7 +784,7 @@ obe-
 38
 3
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 
 1848.
 Var.
@@ -889,7 +889,7 @@ e97
 897
 9
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 Johu
 Sounship
 Cast.
@@ -991,7 +991,7 @@ C89
 89.
 1
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 Johu
 Vav.,
 5E.
@@ -1089,7 +1089,7 @@ be9
 -199
 61
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 E.
 Kange
 South.
@@ -1190,7 +1190,7 @@ C1L
 1)
 
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 Johu
 1848.
 Rango
@@ -1291,7 +1291,7 @@ bh
 AL7L
 33
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 Johen
 Vav., 5=E.
 Range 38
@@ -1299,7 +1299,7 @@ Cast.
 83
 25
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 Var., 5º E.
 Sounship
 -19-
@@ -1308,7 +1308,7 @@ Sounship
 -54
 ae
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 Var. 5= E.
 Kango
 Cast
@@ -1320,7 +1320,7 @@ Cast
 —69
 6℃
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 Var., 50-E.
 Younship
 Cast.
@@ -1334,7 +1334,7 @@ ST
 -9℃
 33
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 Johu
 Var. 5°-E.
 5
@@ -1342,7 +1342,7 @@ X
 8
 3
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 下4
 Var, '5ºE.
 Sownship
@@ -1358,7 +1358,7 @@ Sownship
 X
 3
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 Var., 5= E.
 Kange 40 Casts
 I
@@ -1370,7 +1370,7 @@ I
 —59
 ce
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 1
 Range
 éact,

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 74-A
 DIAGRAM
@@ -110,7 +110,7 @@ Henry Washington
 4°- 30'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 74-A
 .cont.
@@ -221,7 +221,7 @@ Henry Washington
 4°- 30'E
 19
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 74-A
 cont.
@@ -331,7 +331,7 @@ Henry Washington
 4°-30'E
 24
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 74-Acont
 DIAGRAM
@@ -418,7 +418,7 @@ Henry Washington
 4°-30'E
 27
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 Inder
 (Contino ne
 Sonth 8 8ash.
@@ -506,7 +506,7 @@ n
 27
 18
 
-===== PAGE 6 =====
+===== PAGE 6 [blank] =====
 3
 
 8
@@ -921,7 +921,7 @@ M
 排
 1.V
 
-===== PAGE 7 =====
+===== PAGE 7 [other] =====
 4-207.
 Department of the Interior,
 GENERAL LAND OFFICE.
@@ -941,7 +941,7 @@ on the day and year above written.
 Ac t 1nCommissioner of the General Lana Ofice.
 12314b3m8
 
-===== PAGE 8 =====
+===== PAGE 8 [hindex] =====
 Indel
 to
 Sonth ABash
@@ -1051,7 +1051,7 @@ M
 11
 20
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 f
 Joavarship 19 South.
 Rearrge 34 East.
@@ -1125,7 +1125,7 @@ w
 a
 S8
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 vor
 -911
 9
@@ -1212,7 +1212,7 @@ w
 34
 75
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 5
 Range
 Sast.
@@ -1325,7 +1325,7 @@ S1
 35
 36
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 Htradl
 East:
 35-
@@ -1348,7 +1348,7 @@ A
 31
 32
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 Township 19 So..th.
 Range.
@@ -1424,7 +1424,7 @@ Scc. 37
 32
 35
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 xts
 Township 21 South.
@@ -1516,7 +1516,7 @@ C9£
 378
 339
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 13
 J27 8 R 16E
 3 27 8. R 15 E.
@@ -1535,7 +1535,7 @@ M
 147-426-445
 449-442-
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 J27S R19E.
 J27 8 R 20 E.
 3.00
@@ -1556,7 +1556,7 @@ q2
 -420-1119-418-417
 11
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 R 24 8.
 J278
 549—550-557-3532—533—554
@@ -1567,7 +1567,7 @@ pol.9z
 567-568-569—570—571
 —562—563—564—565—566
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 10
 J278 R 27 C.
 J278R28C
@@ -1582,7 +1582,7 @@ J27SR29E.
 M
 Sale
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 17
 3278R
 32C
@@ -1594,7 +1594,7 @@ L599—600—601—602—603——604
 617618
 1612613
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 H
 20C
 J27 8R 35E.
@@ -1624,7 +1624,7 @@ R 34 E.
 都
 秋
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 川
 SR17E
 J 2Q
@@ -1648,7 +1648,7 @@ J22
 13
 
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 J22 8 R 21 E.
 T 22 8 R 20 E.
 -474-473-472-471-470-469-
@@ -1658,7 +1658,7 @@ J22SR23E
 X
 45845
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 21
 
 三
@@ -1713,7 +1713,7 @@ IV
 6
 31
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 W
 J 2 2
 R 28E
@@ -1748,7 +1748,7 @@ E
 W
 !2
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 23
 K 33 E
 I 22 8 R 326.
@@ -1768,7 +1768,7 @@ J2281P348
 31
 班
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 4
 320
 3
@@ -1788,7 +1788,7 @@ J21
 98%
 A730333273
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 25
 R 31 E.
 T18 S. AR 31 E.
@@ -1803,7 +1803,7 @@ E.
 82L116-92
 60b
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 26
 S
 S.
@@ -1831,7 +1831,7 @@ S
 St Jokns
 seathe
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 27
 J 18 S.
 R 33

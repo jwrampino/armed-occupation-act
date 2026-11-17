@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 180
 DIAGRAM
@@ -47,7 +47,7 @@ None
 3N
 26E A. McKay
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex
 Yo
@@ -81,7 +81,7 @@ North
 26
 15
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 198
 cnyill
 4
@@ -127,7 +127,7 @@ Dm.
 1850.
 E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 6
 3
 5
@@ -211,7 +211,7 @@ amek
 1850,
 irem.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Rangi 24
 Jaunship
@@ -320,7 +320,7 @@ o2
 1850.
 E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 Sounship 5 Nerth.
 Range 24 Bast.
@@ -359,7 +359,7 @@ A.MeKa
 Tali
 5°E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Cast
 Rider
@@ -449,7 +449,7 @@ M
 30
 E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 North
 1
 Younship
@@ -504,10 +504,10 @@ ybuibbyl
 1850.
 E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 1849-50.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 /5
 6
 5

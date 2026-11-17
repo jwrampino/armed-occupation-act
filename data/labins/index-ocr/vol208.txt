@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 208
 DIAGRAM
@@ -60,7 +60,7 @@ None
 4°-E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 12
 Index
 P
@@ -72,7 +72,7 @@ SVE
 1
 25
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Township 3 7 Soulhr. 25 Eas l
 Cカ
 2
@@ -127,7 +127,7 @@ un
 31
 Var., 4-E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 え
 Yd
 208
@@ -151,7 +151,7 @@ ao
 31
 83
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 R. 40 Era81
 81
@@ -206,7 +206,7 @@ p
 1858.
 Var., 4°E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 之
 891
@@ -290,7 +290,7 @@ Re
 心
 f
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 0
 4H S,
 R.
@@ -388,7 +388,7 @@ TOT
 1868.
 2÷10'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 Townshin39S.R.42 E ast
 243
 242
@@ -414,7 +414,7 @@ so_luou
 21
 ,1858.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 E ast
 42SR.42
 Township
@@ -510,7 +510,7 @@ Township
 2JJ
 1858.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 X
 Townshih
 439R.42East
@@ -596,7 +596,7 @@ GE
 1868.
 2°20
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 H2
 4H
@@ -709,7 +709,7 @@ E23
 1888.
 e.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 43East
 428.R
@@ -757,7 +757,7 @@ Var.
 2
 20
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 S
 3
 R.
@@ -819,7 +819,7 @@ AS9
 E
 2°20
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 12
 Townshi)HHS.R 43 East
 275
@@ -923,7 +923,7 @@ Praverse of
 Pond n8ec 16.9.4H 566o 569
 1868.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 3
 S
 R. 2J

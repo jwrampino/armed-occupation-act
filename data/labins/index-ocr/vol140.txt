@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 140
 DIAGRAM
@@ -30,7 +30,7 @@ None
 11
 *
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 140
 ndex.
@@ -63,7 +63,7 @@ Cast
 7
 1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 3
 Younship 23 South. Range 19 Cast.
 The Field Notes of this Jonship
@@ -77,7 +77,7 @@ on pago 9s.
 See alio
 a Dian of the same which wile bo found
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 5
 Younship 24 South. Range 19 East.
 The Field Notis of this Sowrnship con-
@@ -88,7 +88,7 @@ Se als
 Diay kipt by him while matking the
 No vay, giver,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 7
 Junsh 2519
 The Field Notes of this Sounship
@@ -100,7 +100,7 @@ See also
 Geo, Wolson, 1846.
 No wae, giveer,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 9
 Dounship 7 Mange 19 s
 The Fuld Notes of Shis Touship
@@ -114,7 +114,7 @@ Pramhation which wile be found on fragu 102141.
 LGeo, Hotson, 1846,
 No vai, given.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 11
 Younship 26 South. Range 19bast.
 The Field Notis of this Soonship

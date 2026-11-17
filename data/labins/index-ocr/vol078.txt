@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 78
 DIAGRAM
@@ -54,7 +54,7 @@ PAGE
 4°- 15E
 4
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 78.
 cont...
@@ -108,7 +108,7 @@ PAGE
 4°-15E
 8
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 7 c0m..
 DIAGRAM
@@ -162,7 +162,7 @@ PAGE
 4°-30E
 12
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 78
 cont...
@@ -199,7 +199,7 @@ PAGE
 4°-30E
 14
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 ander
 to
 Page
@@ -274,7 +274,7 @@ i1
 40
 Carried over
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 Indeu to
 (Contimed)
 T
@@ -363,7 +363,7 @@ n
 9
 11
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 1
 R. 34.E.
 R. 35 E .
@@ -382,7 +382,7 @@ J25
 19
 17—18—19—20—21—22
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 2
 8. R 22
 314
@@ -414,7 +414,7 @@ J16
 3h81
 09
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 3
 S. R QQ
 8
@@ -435,7 +435,7 @@ J20
 V
 -08——18——287
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 4
 S. R
 J238R
@@ -456,7 +456,7 @@ V
 701
 —901—20
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 5
 3,''1i'
 8. 1R
@@ -483,7 +483,7 @@ AR
 326
 -131-21-21111—21—-127
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 G
 8. 1
 22.2.
@@ -506,7 +506,7 @@ W
 V
 -155555.7
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 7
 8. R.
 8
@@ -532,7 +532,7 @@ F-961261—111
 4
 —861—641—08
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 8
 8
 J39
@@ -558,7 +558,7 @@ AR
 
 Bay
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 9
 J27 S R 3C E.
 S. R 35 E.
@@ -577,7 +577,7 @@ Atla
 456
 L233——234—235—236—237—237
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 10
 322 8. AR 35
 3228.
@@ -594,7 +594,7 @@ R 37 E..
 248—248—248-249—250-251
 252—253—254—255—255—255
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 11
 8.
 8..R38
@@ -623,7 +623,7 @@ E.
 297—298—299—3007
 285——286—287—288-289—290
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 12
 G.
 J22
@@ -653,7 +653,7 @@ S
 -325——326—327—328—329—3301
 -343—344—345—346—347—348
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 13
 26 S.R
 268.R
@@ -677,7 +677,7 @@ R 32 &.
 37
 838
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 14
 J258. R
 34E.

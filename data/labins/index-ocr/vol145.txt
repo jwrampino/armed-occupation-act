@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 145
 DIAGRAM
@@ -35,7 +35,7 @@ TWP RGE SURVEYOR(S) DATE
 18
 19S 22E A.H. McCormick 1848
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 gnder
 to
@@ -53,7 +53,7 @@ d山6 802山6
 22
 18
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 2
 976
@@ -85,7 +85,7 @@ Lanle
 32
 L
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Jownslip 19 South Range 20 East.
 7
@@ -136,7 +136,7 @@ iley
 1849
 Var.,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 East
 24
@@ -186,7 +186,7 @@ Q1
 ー17ケ
 30'E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Rauge
 21 Eas
@@ -277,7 +277,7 @@ q
 4°30'E.
 N
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Eash
 6
@@ -372,7 +372,7 @@ A.H.MCC
 1848.
 4°30
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 East
 Rauge 21
@@ -416,7 +416,7 @@ t
 Nar.,
 4°30'
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 South Range21 East.
 Jowuship 20
@@ -470,7 +470,7 @@ S
 5
 Vav., 4=30' E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 East
 Rauge
@@ -567,7 +567,7 @@ BH
 30' E.
 40
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 Bast.
 22

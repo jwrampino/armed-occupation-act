@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 150
 DIAGRAM
@@ -45,7 +45,7 @@ PAGE
 4°-27'E
 16
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Towreshep
 Rarnoe
@@ -73,7 +73,7 @@ FC
 19
 21
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Tounsip 19 South Range 16East
 DeeC
@@ -86,7 +86,7 @@ of
 G
 Vav,4°-38-14
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 §41
 8G
@@ -131,7 +131,7 @@ Vav,4°-38-14
 B6
 N
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Townshijs h0South Range 20 East
 771
 2
@@ -225,7 +225,7 @@ BlI
 06
 4°s0'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 E02
 53
@@ -312,7 +312,7 @@ z00
 Vav.,
 4-27'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 TowTpd2te
 Se zoEast
@@ -341,7 +341,7 @@ Se zoEast
 en
 9
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 19
 Tounshijo39SouthRange21East
 -208
@@ -437,7 +437,7 @@ P31
 32
 5
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 Tarrnship20SouthRange
 21East
@@ -543,7 +543,7 @@ R
 Var.
 4°28'
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 .9a0
 54

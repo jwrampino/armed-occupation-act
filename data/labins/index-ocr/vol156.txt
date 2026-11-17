@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 156
 DIAGRAM
@@ -28,7 +28,7 @@ TWP RGE SURVEYOR(S) DATE
 4°-30'E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 +
 +
 4
@@ -51,7 +51,7 @@ t
 2
 4
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Gast.
 20
@@ -120,7 +120,7 @@ ies,
 4°-30
 C
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Y.
 Township 37 south.
@@ -208,7 +208,7 @@ Q
 4
 E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 71E
 -B1E
 205
@@ -297,7 +297,7 @@ E
 1847.
 4
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 672
 カク、ド
 0
@@ -330,7 +330,7 @@ SE.C
 4°
 30
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 G
 220
 10

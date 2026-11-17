@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 104
 DIAGRAM
@@ -51,7 +51,7 @@ PAGE
 9
 5S
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index.
 TR
 Page
@@ -84,7 +84,7 @@ de
 6
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 20
 9
 7.9
@@ -151,7 +151,7 @@ Var
 5-30
 C
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Jouris hip 1
 South. Rangr
@@ -267,7 +267,7 @@ ey. 184.9.
 Val.,
 4°30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Journs hip 2 South. Range
 18East.
@@ -381,7 +381,7 @@ Q4
 Vakt.,
 5 E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 4
 Jownship 3 South. Range
@@ -508,7 +508,7 @@ imp raeticable
 Val.,
 5=° E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 3H
 80
@@ -622,7 +622,7 @@ EUM
 Var.,
 4°30'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Joivrn s hip
 22 So ith: Range
@@ -734,7 +734,7 @@ C.
 Varl,
 4°20'E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Jouns hip
 22 Sonth. Range 28 East.
@@ -848,7 +848,7 @@ G
 56
 4°30'E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 Township.4 South.
 East.
@@ -959,7 +959,7 @@ Range Q1
 Nav..
 5
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 Eash.
 Touns hip 5 Sorth.

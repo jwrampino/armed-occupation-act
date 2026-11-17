@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 88
 DIAGRAM
@@ -64,7 +64,7 @@ J.M. Sloan
 None
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Diag
 t
 In der
@@ -85,7 +85,7 @@ AO
 3
 5F
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Vol
 7
 
@@ -134,7 +134,7 @@ n
 1
 1
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Sownship
 3 South
@@ -196,7 +196,7 @@ X
 3
 6
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5.
 Jownship 
 ou th;
@@ -269,7 +269,7 @@ metico
 of
 36
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 mb
 19
 21
@@ -291,7 +291,7 @@ Q8
 33
 L
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Jownship
 Sowth
@@ -357,7 +357,7 @@ ex
 0
 7
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 -370-
 369
 -368
@@ -440,7 +440,7 @@ W
 -3G1
 369
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Jownship
 South,
@@ -523,7 +523,7 @@ X
 97
 95
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 -27
 25=
 24
@@ -581,7 +581,7 @@ S.
 20
 
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 n21
 4Gu

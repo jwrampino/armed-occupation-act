@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 75-A
 DIAGRAM
@@ -73,7 +73,7 @@ PAGE
 5°-30'E
 27
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 75-A
 cont...
@@ -148,7 +148,7 @@ Not Given
 55
 15S 21E A.H. Jones
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 75-A
 .cont...
@@ -218,7 +218,7 @@ Not Given
 3°- 52'E
 85
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 75-A
 cont...
@@ -284,7 +284,7 @@ PAGE
 112
 40S 40E A.H. Jones
 
-===== PAGE 5 =====
+===== PAGE 5 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 75-A
 cont...
@@ -350,7 +350,7 @@ PAGE
 4°- E
 131
 
-===== PAGE 6 =====
+===== PAGE 6 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 75-A
 cont...
@@ -364,7 +364,7 @@ PAGE
 4°- E
 133
 
-===== PAGE 7 =====
+===== PAGE 7 [hindex] =====
 to
 iagrams
 Jownship
@@ -439,7 +439,7 @@ f
 35
 4
 
-===== PAGE 8 =====
+===== PAGE 8 [hindex] =====
 Index
 to
 Sowns hip
@@ -571,7 +571,7 @@ l
 11
 11
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Mange 10 bast
 5 South.
 269
@@ -581,7 +581,7 @@ DE
 09
 Na
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 3
 6 South.
 Range
@@ -605,7 +605,7 @@ A
 bπ0
 XX
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 5
 7 South.
 Cast.
@@ -634,7 +634,7 @@ Lec
 284
 -231
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 7
 6 South.
 Kange 11
@@ -654,7 +654,7 @@ H
 0x0-
 -610
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 Cast.
 -204—203
@@ -674,7 +674,7 @@ Nan.
 -961-
 -961-
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 Kangi
 Cast
@@ -701,7 +701,7 @@ tN'
 -111-
 -681
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 13
 Yownship
 Kango 1 Qast.
@@ -714,7 +714,7 @@ DE
 29
 心
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 15
 Buth.
 Range
@@ -728,7 +728,7 @@ eE
 Na
 7
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 17
 Kange
 11 Cast
@@ -746,7 +746,7 @@ D
 8
 .3
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 19
 Younship
 Kange 11 East.?
@@ -767,7 +767,7 @@ Moutk
 Nivar
 Suante
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 21
 Mangi M.Cast
 Gulfof
@@ -779,7 +779,7 @@ Y
 al
 X
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 23
 7 South.
 Kange 12
@@ -797,7 +797,7 @@ the bear migs to the stt2 see 26e 56 are
 05
 àf
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 25
 Range 12 Cast.
 -376
@@ -810,7 +810,7 @@ Na
 A
 M
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 27
 Kange 12 East.
 all Thu same
@@ -842,7 +842,7 @@ No
 146
 144
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 29
 Cast
 Sounship
@@ -858,7 +858,7 @@ Naw.
 860
 6.66
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 3
 Soconship
 Mange. 12
@@ -879,7 +879,7 @@ C
 C
 Swo)ep
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 33
 Mange
 13 Qast.
@@ -898,7 +898,7 @@ sts1
 b10
 a98c
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 35
 Sownship
 7 South.
@@ -911,7 +911,7 @@ Na.
 F
 C
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 87
 11 South.
 -172
@@ -924,7 +924,7 @@ C
 -899
 X
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 89
 Mange 13 Cast.
 6ts1'r
@@ -932,7 +932,7 @@ Mange 13 Cast.
 C
 X
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 41
 Cast.
 btis/s
@@ -941,7 +941,7 @@ btis/s
 
 7
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 43
 -80カー
 bs1'
@@ -951,7 +951,7 @@ bs1'
 611-
 L1
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 45
 h. 7 South.
 Range 17
@@ -964,7 +964,7 @@ Cast.
 Na
 力
 
-===== PAGE 32 =====
+===== PAGE 32 [diagram] =====
 47
 18 South.
 Cast.
@@ -978,7 +978,7 @@ of lines through
 
 X
 
-===== PAGE 33 =====
+===== PAGE 33 [diagram] =====
 48
 The Fild Notes of this Sownship, founa in this voler
 haw onfrince to Purrhits ance the wstinsiono of lines through
@@ -989,7 +989,7 @@ you
 of r
 X
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 49
 Mange 20 bast
 Jounship
@@ -1005,7 +1005,7 @@ fom
 Na
 A
 
-===== PAGE 35 =====
+===== PAGE 35 [diagram] =====
 57
 Mange 20 East
 The Field Nts ofthis Sounshi found in ts e
@@ -1014,7 +1014,7 @@ X
 ofN
 X
 
-===== PAGE 36 =====
+===== PAGE 36 [diagram] =====
 53
 Mange 2i Gast.
 ham silation ts Pirmits and the extension f lines through
@@ -1023,13 +1023,13 @@ K
 发
 x
 
-===== PAGE 37 =====
+===== PAGE 37 [diagram] =====
 55
 Mangt 21 Gast.
 haw mfaunce to Permits, and the extinsion of lines through
 61
 
-===== PAGE 38 =====
+===== PAGE 38 [diagram] =====
 57
 Youns hip
 Mange 21 East.
@@ -1038,14 +1038,14 @@ X
 81
 in
 
-===== PAGE 39 =====
+===== PAGE 39 [diagram] =====
 59
 Kange 22 East.
 haw sifurnee to Permits and the extinsiom of lines thrugh the
 same and can bo found ow Page 424.
 4
 
-===== PAGE 40 =====
+===== PAGE 40 [diagram] =====
 61
 Kange 22 Qast.
 The firld notes of this
@@ -1057,7 +1057,7 @@ to 469 nclusivv.
 m
 2
 
-===== PAGE 41 =====
+===== PAGE 41 [diagram] =====
 68
 Kange 2s Cast
 he field Notes of this Suraship found in this Balame
@@ -1068,7 +1068,7 @@ you
 小
 N
 
-===== PAGE 42 =====
+===== PAGE 42 [diagram] =====
 65
 The Field Notes
 s of this Sounship
@@ -1078,7 +1078,7 @@ Ats
 yon
 2
 
-===== PAGE 43 =====
+===== PAGE 43 [diagram] =====
 67
 2 0 South?
 Gast?
@@ -1091,7 +1091,7 @@ ab
 of
 7
 
-===== PAGE 44 =====
+===== PAGE 44 [diagram] =====
 69
 82
 Hs1'
@@ -1108,7 +1108,7 @@ P.78
 78
 25.00
 
-===== PAGE 45 =====
+===== PAGE 45 [diagram] =====
 7
 Sounship
 75
@@ -1118,7 +1118,7 @@ Atrsl's
 29
 5
 
-===== PAGE 46 =====
+===== PAGE 46 [diagram] =====
 73
 Mange 36 East.
 2h
@@ -1128,7 +1128,7 @@ c
 o
 01
 
-===== PAGE 47 =====
+===== PAGE 47 [diagram] =====
 75
 South
 36 Cast.
@@ -1143,7 +1143,7 @@ w
 yR
 m
 
-===== PAGE 48 =====
+===== PAGE 48 [diagram] =====
 11
 25 South.
 36 East.
@@ -1156,7 +1156,7 @@ e
 大
 1
 
-===== PAGE 49 =====
+===== PAGE 49 [diagram] =====
 79.
 Kange
 East.
@@ -1164,7 +1164,7 @@ East.
 44
 ttslm
 
-===== PAGE 50 =====
+===== PAGE 50 [diagram] =====
 81
 Cast.
 =c e
@@ -1173,7 +1173,7 @@ Cast.
 9e
 -90
 
-===== PAGE 51 =====
+===== PAGE 51 [diagram] =====
 83
 Mangu
 37 Gast.
@@ -1184,7 +1184,7 @@ xt81.'
 66
 
 
-===== PAGE 52 =====
+===== PAGE 52 [diagram] =====
 85
 Kange
 South.
@@ -1202,7 +1202,7 @@ ttsl.m
 22
 -sπ--
 
-===== PAGE 53 =====
+===== PAGE 53 [diagram] =====
 89
 Range
 South.
@@ -1221,7 +1221,7 @@ o
 19
 95
 
-===== PAGE 54 =====
+===== PAGE 54 [diagram] =====
 89
 Kange
 Cast
@@ -1234,7 +1234,7 @@ tic.
 96
 96
 
-===== PAGE 55 =====
+===== PAGE 55 [diagram] =====
 91
 Range
 South.
@@ -1250,7 +1250,7 @@ C
 e
 0
 
-===== PAGE 56 =====
+===== PAGE 56 [diagram] =====
 93
 Kange 57 Cast.
 268/
@@ -1259,7 +1259,7 @@ W
 X
 pon
 
-===== PAGE 57 =====
+===== PAGE 57 [diagram] =====
 95
 Dy
 Hf8/'
@@ -1272,14 +1272,14 @@ W
 T i
 e
 
-===== PAGE 58 =====
+===== PAGE 58 [diagram] =====
 97
 Cast.
 501
 3
 sts1es
 
-===== PAGE 59 =====
+===== PAGE 59 [diagram] =====
 99
 39 East
 —528
@@ -1292,7 +1292,7 @@ E
 X
 —99.0
 
-===== PAGE 60 =====
+===== PAGE 60 [diagram] =====
 1.01
 h 42 South:
 Range 39 Qast.
@@ -1301,7 +1301,7 @@ Range 39 Qast.
 '9tsls
 7
 
-===== PAGE 61 =====
+===== PAGE 61 [diagram] =====
 103
 Yo
 Kange 40
@@ -1316,7 +1316,7 @@ w x
 8
 c6
 
-===== PAGE 62 =====
+===== PAGE 62 [diagram] =====
 105
 Range 40
 Cast
@@ -1328,7 +1328,7 @@ Cast
 =96か
 S6かー
 
-===== PAGE 63 =====
+===== PAGE 63 [diagram] =====
 107
 Kange 40 Gast
 37 South.
@@ -1342,7 +1342,7 @@ Kange 40 Gast
 X
 —86
 
-===== PAGE 64 =====
+===== PAGE 64 [diagram] =====
 109
 Sounship
 40 Cast
@@ -1356,7 +1356,7 @@ Ranqe
 00.9
 -10.9-
 
-===== PAGE 65 =====
+===== PAGE 65 [diagram] =====
 f1
 Rangi
 Cast.
@@ -1371,7 +1371,7 @@ e09
 -€aC-
 70.9
 
-===== PAGE 66 =====
+===== PAGE 66 [diagram] =====
 112
 40 Souto.
 Mange 40
@@ -1383,7 +1383,7 @@ Cast
 609-
 0LD
 
-===== PAGE 67 =====
+===== PAGE 67 [diagram] =====
 113
 Kange 40
 Cast.
@@ -1395,7 +1395,7 @@ Cast.
 19.0
 078
 
-===== PAGE 68 =====
+===== PAGE 68 [diagram] =====
 114
 Yownshif
 Range 40 Cast..
@@ -1411,7 +1411,7 @@ Range 40 Cast..
 CYS
 979
 
-===== PAGE 69 =====
+===== PAGE 69 [diagram] =====
 N5
 Mange 40 East
 ——568—568
@@ -1425,7 +1425,7 @@ X
 C
 2
 
-===== PAGE 70 =====
+===== PAGE 70 [diagram] =====
 116
 Range 40
 Cast.
@@ -1433,7 +1433,7 @@ Cast.
 a
 X
 
-===== PAGE 71 =====
+===== PAGE 71 [diagram] =====
 117
 h. 41 South.
 Kange 41 East.
@@ -1441,7 +1441,7 @@ Kange 41 East.
 649
 2948/
 
-===== PAGE 72 =====
+===== PAGE 72 [diagram] =====
 118
 548
 -6.9.9
@@ -1451,7 +1451,7 @@ stis1'r
 C9C
 X
 
-===== PAGE 73 =====
+===== PAGE 73 [diagram] =====
 119
 Range kt Cast.
 566
@@ -1465,7 +1465,7 @@ PL0
 119
 2h.0
 
-===== PAGE 74 =====
+===== PAGE 74 [diagram] =====
 120
 Khange 41 Cast.
 -572
@@ -1476,7 +1476,7 @@ ao
 Evin
 Glades
 
-===== PAGE 75 =====
+===== PAGE 75 [diagram] =====
 121
 Kange 42 Cast.
 522
@@ -1485,7 +1485,7 @@ Kange 42 Cast.
 X
 a.
 
-===== PAGE 76 =====
+===== PAGE 76 [diagram] =====
 122
 Kange 42 East.
 589
@@ -1497,7 +1497,7 @@ stsl
 ND
 X
 
-===== PAGE 77 =====
+===== PAGE 77 [diagram] =====
 123
 Mange 42 East.
 09x
@@ -1507,10 +1507,10 @@ is
 of'ND
 2
 
-===== PAGE 78 =====
+===== PAGE 78 [diagram] =====
 124
 
-===== PAGE 79 =====
+===== PAGE 79 [diagram] =====
 126
 Range 42 East!
 079
@@ -1518,7 +1518,7 @@ Range 42 East!
 W
 7
 
-===== PAGE 80 =====
+===== PAGE 80 [diagram] =====
 137
 520
 A.
@@ -1534,7 +1534,7 @@ M
 0
 c ean
 
-===== PAGE 81 =====
+===== PAGE 81 [diagram] =====
 109
 Sounship
 Range 43
@@ -1552,7 +1552,7 @@ c l.a n
 -96.9
 A
 
-===== PAGE 82 =====
+===== PAGE 82 [diagram] =====
 131
 South
 Mango
@@ -1573,7 +1573,7 @@ N
 C
 X
 
-===== PAGE 83 =====
+===== PAGE 83 [diagram] =====
 133
 Mange 43 bast.
 2

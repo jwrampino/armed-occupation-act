@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 253
 DIAGRAM
@@ -35,14 +35,14 @@ Index to Twp 45S Rng 21E,
 Index to Twp 46S Rng 21E,
 Page 296
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 953
 Dal
 T
 45 S., R. 22 E. (Ritracements)
 4.6.S, R. 22E.
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 (4-874.)
 R. 21 E.
@@ -77,7 +77,7 @@ J25
 Gilchrist,
 1897.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 (4-874)
 nship 45 S., R. 22 E.
@@ -119,7 +119,7 @@ $0
 Dle. Gilchrist, 897
 Vac., 2=14'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3-a
 Jndex
 Junsluif, 45. Sullh Range 22 Eact.
@@ -142,7 +142,7 @@ T.4GS.R.22E.
 M2S
 SANCARLOS BAY
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 (1-674.)
 mship 46 S., . 22 E.
@@ -184,7 +184,7 @@ Retracements
 36
 Vav., 3-9′ E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 63
 Inder-
 Jnnghifs 46 Saith, Range 22East
@@ -214,7 +214,7 @@ Meands. SanCaclos Bay Sec 13. pa749.o2.
 Reliacement, meandey, San Cacdos Bay and
 Gult y meric. T.465.8.23E. pses 2430.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3
 183
 In dex
@@ -234,7 +234,7 @@ Sanitd 21 and. pages. 46 t 4s.
 G. M. Armabys plaa paes
 58.59
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 3
 123
 Kn der
@@ -259,7 +259,7 @@ R22E at Lec/8.T465. R23E. hages. 4 to 6.
 Scalicu m.C. Sec.25Tus.R.22E. Sc 30T.
 R.23E-pajes.7.8.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 243
 Indey
 Jumshi 46 Suth. Range 21tast,
@@ -268,7 +268,7 @@ Cantivakl.
 Mexico.
 10
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 296.
 Names and dlulies of Assislauli.
 I.m.Orusly.

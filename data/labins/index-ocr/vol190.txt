@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 190
 DIAGRAM
@@ -79,7 +79,7 @@ None
 1850
 20S 31E A.M. Randolph
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 190
 DIAGRAM
@@ -107,7 +107,7 @@ PAGE
 None
 13
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 
 Dlagranms
 Rangal
@@ -127,7 +127,7 @@ South
 0
 202112
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 6
 4
 2
@@ -166,7 +166,7 @@ Var,
 50
 E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 Range
 25 East.
@@ -209,7 +209,7 @@ Shoipe
 rs
 5- E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Range
 onnns hip
@@ -258,7 +258,7 @@ Nole-
 balance
 Var, 5°E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 East.
 27
@@ -290,7 +290,7 @@ Rd.Hondnsw
 26
 van.,
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 144
 143
 -142
@@ -330,7 +330,7 @@ av.
 ivln.
 002.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 326
 う
@@ -399,7 +399,7 @@ EDe
 31
 E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 1E
 4.
@@ -434,7 +434,7 @@ D.Ecrmondz
 Van.,
 E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 East
 367
@@ -464,7 +464,7 @@ R.28.E.
 1850
 Vai.152E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 East.
 South
@@ -517,7 +517,7 @@ uJas
 1849
 ξ
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 Jonnship 6 South Rango 29
 Easl
@@ -536,7 +536,7 @@ Easl
 No
 vav.,
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 47
 Lake Moiroe
@@ -563,7 +563,7 @@ R31E
 O.NM.Kaudolph,
 1850,
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 28
 27
@@ -584,7 +584,7 @@ Lake
 Vae.
 4º30 E.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 C
 28 East

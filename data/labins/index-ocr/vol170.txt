@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 170
 DIAGRAM
@@ -54,7 +54,7 @@ PAGE
 5°-30'E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex
 Yo
@@ -70,7 +70,7 @@ West
 11
 
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 911
 17
 
@@ -86,7 +86,7 @@ West
 -120
 Vav.,
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Sounship  South.
 38.R.9W
@@ -96,7 +96,7 @@ Sounship  South.
 Var.,
 5= 30'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Younship
 Mango
 7 South.
@@ -162,7 +162,7 @@ N.
 C.
 5030
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 Jounship 8 South.
 268
@@ -182,7 +182,7 @@ Wimico
 Var.,
 5=30'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Dounship
 South.
@@ -250,7 +250,7 @@ E
 30
 全É
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Sounship
 4 South.
@@ -293,7 +293,7 @@ H.
 Var.
 5°-30
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 6 South.
 Kange
@@ -379,7 +379,7 @@ e8
 E
 5°30
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 2
 Bae
@@ -404,7 +404,7 @@ G
 35
 1852.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 19
 -92
 2

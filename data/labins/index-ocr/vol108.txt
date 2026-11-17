@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 108
 DIAGRAM
@@ -41,7 +41,7 @@ PAGE
 4°- 12'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Indep
 to
 Sonth Bbast
@@ -72,7 +72,7 @@ t1
 41
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 3
 3
@@ -184,7 +184,7 @@ a.
 Vav.,
 4°12'E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 38 Garst.
 Sonnship
@@ -289,7 +289,7 @@ C
 3
 G
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 South. Roange
 Jown sh ip 39
@@ -412,7 +412,7 @@ A
 Var.,
 4=12.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Jownship 37 Son th.
 Range
@@ -535,7 +535,7 @@ N
 M.A.
 4°-12'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Jownshir 38 Sonth.
 Range 39. GasA:
@@ -662,7 +662,7 @@ M.
 Willioma,1850.
 a.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Jorn ship 39 Sontth
 Range 39 Bash
@@ -783,7 +783,7 @@ J
 M.
 Var.,4-12'E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Sonth. Rannge
 Born ship 37
@@ -918,7 +918,7 @@ CU
 300
 J3
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15-
 4
 1.58

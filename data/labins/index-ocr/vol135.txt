@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 135
 DIAGRAM
@@ -57,7 +57,7 @@ PAGE
 4°- 45'E
 24
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Jnder
 to
 South vE ash
@@ -91,7 +91,7 @@ H01414
 20
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Sowtth.
 Jowrshhip 21
@@ -182,7 +182,7 @@ m
 30'E.
 4
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 X
 South.
 Range 33 East.
@@ -268,7 +268,7 @@ E
 30
 30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 192
 8
 34
@@ -344,7 +344,7 @@ S3
 1847
 4=40'8
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 33 East.
 7て2
@@ -445,7 +445,7 @@ HIT
 4°
 40'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 South.
 East.
@@ -534,7 +534,7 @@ e
 2
 184%
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Range 34
 East.
@@ -661,7 +661,7 @@ S
 1847.
 3=15'E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 Range
 80wth.
@@ -722,7 +722,7 @@ East.
 2
 3
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 Sowth. Range 35 East.
 479
@@ -800,7 +800,7 @@ HHT
 Vav.,
 3° 40 E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 35.East.
 8
@@ -904,7 +904,7 @@ c
 1847.
 4°20
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 20
 East
 69
@@ -992,7 +992,7 @@ L5
 1847.
 2
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 22
 Por
 的
@@ -1013,7 +1013,7 @@ haid
 .1847
 C
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 24
 South.
 637

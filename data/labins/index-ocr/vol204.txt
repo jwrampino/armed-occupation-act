@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 204
 DIAGRAM
@@ -53,7 +53,7 @@ TWP RGE SURVEYOR(S)
 23
 32S 32E Wm Mickler
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 lal
 204
 204.
@@ -85,7 +85,7 @@ Hungs
 32
 32
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 3
 E.
 30
@@ -168,7 +168,7 @@ between 23
 2 and
 pages
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 5
 S R27E
 T 31
@@ -231,7 +231,7 @@ T 31
 1858
 3°50
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 135-
 7
 164 8
@@ -263,7 +263,7 @@ X
 36
 1858.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 9
 T 81 S. R 28 E.
 4
@@ -335,7 +335,7 @@ m
 1858.
 3= 45 E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 11
 6
 R
@@ -375,7 +375,7 @@ T
 36
 E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 73.
 1
 3
@@ -387,7 +387,7 @@ S
 R»
 8»
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 15
 R
 99
@@ -446,7 +446,7 @@ R
 38
 Mickler, 1859.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 17
 T 33 S. R 29 E.
 6
@@ -485,7 +485,7 @@ T 33 S. R 29 E.
 300 3.2 331 33 320 34 309 35 291 36
 Var., 3= 2.9'+ 39'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 19
 T 32 S R 30 E
 6 489 5 475 4 468 3 460 2 403 1
@@ -503,7 +503,7 @@ T 32 S R 30 E
 Tav,,
 3° 45E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 十十
 517
 495
@@ -533,7 +533,7 @@ Tav,,
 3
 53232
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 23
 T 32 S R 32 E
 5 5 4

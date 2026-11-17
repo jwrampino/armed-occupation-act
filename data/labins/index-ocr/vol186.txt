@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 186
 DIAGRAM
@@ -116,7 +116,7 @@ None
 25E
 D.H. Burr
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 9a5
 1
 Jounship
@@ -145,7 +145,7 @@ FF
 11
 28
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Vo C
 12
 East
@@ -173,7 +173,7 @@ Su 20
 vi1
 a i
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 SCC4S
 78
@@ -245,7 +245,7 @@ L01
 34
 199
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 28 East.
 Scc 4601
@@ -318,7 +318,7 @@ ES
 G1
 308
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 1
 28 East
 9.3.1broun
@@ -343,7 +343,7 @@ LE
 7
 30
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 47
 TA700L
@@ -355,13 +355,13 @@ L
 lavy
 6
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 G
 Cnoms
 577
 46
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 一
 Cast
 Sownshus 1 Soutla
@@ -454,7 +454,7 @@ cc.38
 (Sufpporedt
 30
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 4
 8
 Jonvnstrifv 2 S. R. 26.
@@ -471,7 +471,7 @@ Begimng coner
 133
 supposed 62.1
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 2
 6. South Range
@@ -555,7 +555,7 @@ G.S.T. Clarke
 214
 (Suppored 5)
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 6
 5
@@ -565,7 +565,7 @@ G.S.T. Clarke
 (52 E
 Seffi
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 11
 ownshup 6.South Range 27 East.
 209
@@ -574,7 +574,7 @@ ownshup 6.South Range 27 East.
 D.H Burr, 1849,
 5/2 ε)
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 12
 Sonnship 7 South Range 27 East.
 Sec.44
@@ -599,7 +599,7 @@ cver
 512
 suppored
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 13
 Torwnshup 2 South Rasnrge 27E.
 04
@@ -620,12 +620,12 @@ Sec8
 E. Hudnall
 SecN5.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 E.Ba
 -13
 SCC42
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 15
 Jownshyp 2 North Range 27 Cast
 all 
@@ -636,7 +636,7 @@ golw Hono
 Iblana
 (5hE. Seppoded)
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 16
 East
 6
@@ -674,7 +674,7 @@ see page 2. T.127
 F176
 D.H. Bear, 18 19.
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 17
 Chaies Saton
 -LG
@@ -684,7 +684,7 @@ Con
 Vav.,
 6°30
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 18
 Soulh Range 25 East
 3

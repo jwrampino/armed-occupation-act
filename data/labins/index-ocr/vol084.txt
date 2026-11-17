@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 84
 DIAGRAM
@@ -65,7 +65,7 @@ PAGE
 3°- 45'E
 14
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 84.
 cont...
@@ -131,7 +131,7 @@ PAGE
 4°E
 28
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 84
 cont...
@@ -181,7 +181,7 @@ PAGE
 4°E
 45
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 6
 Miderto
 T
@@ -254,7 +254,7 @@ a
 14
 camicd over
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 S
 (cont)
 T
@@ -308,7 +308,7 @@ rt
 89
 A9L
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 3
 5
@@ -359,7 +359,7 @@ oW
 32
 : 
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 2
 Jownship 51
 Sou th
@@ -385,7 +385,7 @@ o6
 ー2でー
 -22
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3
 Jowns hip 52
 —33=—36-
@@ -402,7 +402,7 @@ a9
 X
 -33-
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 4
 Jownship 53
 —41—42
@@ -416,7 +416,7 @@ Jownship 53
 —06
 —11
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 5
 Eash.
 -48
@@ -429,7 +429,7 @@ St81
 33
 一7.5
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 6
 2
 Range 41
@@ -448,7 +448,7 @@ Jonnship 524
 -83-
 -1181/8118-
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 7
 South. Range 210
 Eash
@@ -459,7 +459,7 @@ G3=
 30
 2
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 8
 South
 Eash
@@ -473,7 +473,7 @@ r5
 N
 X
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 9
 South. Range 241
 .Township 55
@@ -486,7 +486,7 @@ Bash
 -98
 8010
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 70
 South.
 Range
@@ -555,7 +555,7 @@ nn
 —114
 -110-
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 21
 Bast
 Jovnship 56
@@ -570,7 +570,7 @@ Range 39
 u
 1
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 12
 Eash
 Range
@@ -584,7 +584,7 @@ DE of
 7
 一
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 13
 Eash.
 South.
@@ -601,7 +601,7 @@ of
 -721
 —1212
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 14
 Eash
 . Towrs kip 29 Sozeth.
@@ -614,7 +614,7 @@ St -.E
 M
 -/
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 25
 Eash.
 Range 37
@@ -629,7 +629,7 @@ of
 -181-
 81
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 16
 Eash.
 166165164—163—162161-
@@ -646,7 +646,7 @@ M
 —291
 -145-146
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 27
 .Jown ship
 30
@@ -662,7 +662,7 @@ Sh
 Ocecam
 —151—13-2—15-3-
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 18
 South. Range
 .Jounship 29
@@ -678,7 +678,7 @@ xts1
 —1181
 -6∠1
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 19
 Range
 38 6as1.
@@ -697,7 +697,7 @@ xtsi
 =561-
 1
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 20
 South
 Range
@@ -720,7 +720,7 @@ Jownship 28
 203
 -202
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 21
 Jonehip 41
 -220-
@@ -734,7 +734,7 @@ Bo
 225
 1
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 号
 22
 Range
@@ -746,7 +746,7 @@ Jownetip d2 Son the.
 2230-
 -133-
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 23
 232-
 0
@@ -759,7 +759,7 @@ Jownetip d2 Son the.
 —2E2
 mi
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 24
 Jownohip LH. Sourth.
 Range
@@ -778,7 +778,7 @@ A
 251
 —252253
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 25-
 Bash
 Jovnship 44
@@ -787,7 +787,7 @@ stsl
 01
 黄
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 26
 Cash
 43.
@@ -801,7 +801,7 @@ B
 2
 —256257258.
 
-===== PAGE 32 =====
+===== PAGE 32 [diagram] =====
 27
 -692
 09
@@ -814,7 +814,7 @@ moom
 2
 ーhッ～ー
 
-===== PAGE 33 =====
+===== PAGE 33 [diagram] =====
 28
 Eash
 S outt.
@@ -827,7 +827,7 @@ stsl
 0
 X
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 29
 -343
 —341
@@ -849,7 +849,7 @@ om
 332-
 -222
 
-===== PAGE 35 =====
+===== PAGE 35 [diagram] =====
 30
 Bash
 Sou th.
@@ -859,7 +859,7 @@ St81
 1
 o
 
-===== PAGE 36 =====
+===== PAGE 36 [diagram] =====
 31
 South.
 Range 22 Eask
@@ -884,12 +884,12 @@ n.
 -08T—
 -218-
 
-===== PAGE 37 =====
+===== PAGE 37 [diagram] =====
 33
 2nn
 1
 
-===== PAGE 38 =====
+===== PAGE 38 [diagram] =====
 35-
 Qash
 Pange 22
@@ -910,7 +910,7 @@ X
 -686-
 E0E
 
-===== PAGE 39 =====
+===== PAGE 39 [diagram] =====
 37
 Range
 dash.
@@ -924,7 +924,7 @@ Jovnship 49
 X
 2
 
-===== PAGE 40 =====
+===== PAGE 40 [diagram] =====
 39
 Range 23 Bash
 South
@@ -937,7 +937,7 @@ k
 -10
 -203
 
-===== PAGE 41 =====
+===== PAGE 41 [diagram] =====
 8
 Jonrnship 27 Sontt. 
 =9111
@@ -946,7 +946,7 @@ Jonrnship 27 Sontt.
 入
 —315316—impas0ible-
 
-===== PAGE 42 =====
+===== PAGE 42 [diagram] =====
 43
 Eash
 -9+.81
@@ -955,7 +955,7 @@ Eash
 0
 
 
-===== PAGE 43 =====
+===== PAGE 43 [diagram] =====
 15
 Jownship 215 South . Rauge 23
 Qash

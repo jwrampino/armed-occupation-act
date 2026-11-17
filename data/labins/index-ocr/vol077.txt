@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 77
 DIAGRAM
@@ -111,7 +111,7 @@ Sam Reid
 4°-30'E
 18
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 77.
 cont...
@@ -222,7 +222,7 @@ Sam Reid
 19E
 Sam Reid
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 77.
 cont...
@@ -304,7 +304,7 @@ Sam Reid
 35S
 16E
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 1
 Taunship
 Rançe
@@ -331,14 +331,14 @@ in
 
 A
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 3,0ε0
 3
 481
 8
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Tmnship 31 Souh Range 25
 East
@@ -359,7 +359,7 @@ R
 7と
 S&
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 A
 Tavnship 31 South Range 21 East
 17
@@ -372,7 +372,7 @@ Ets1
 H
 X
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 ll' shy
 -44-
@@ -381,7 +381,7 @@ ll' shy
 ーリ
 X
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2d East
 46454443
 12
@@ -397,7 +397,7 @@ Ya
 x.
 -8.9
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 Townshis 35 South Range 23 East
 —47
 2.948
@@ -409,7 +409,7 @@ o
 X
 4
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 -59
 sfts1
@@ -420,7 +420,7 @@ Pease Crecek
 L1
 8
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 Torvnship 36 South Range-24. East
 —62—61
@@ -440,7 +440,7 @@ H
 -58
 心
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 Township36 South Range 23 East
 -72
@@ -451,7 +451,7 @@ Township36 South Range 23 East
 E=
 e
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 East
 3,08
@@ -463,7 +463,7 @@ e
 a
 X
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 编
 Tornship 37 South Range 24, East
@@ -482,7 +482,7 @@ tmn
 8U
 £
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 5R
 Tounship
@@ -496,7 +496,7 @@ Et8.1
 eで
 
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 1h
 —112113114
 と6/
@@ -509,7 +509,7 @@ E8/
 —461
 4
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 15
 Tournship 38South Range 23 East
 118117
@@ -524,7 +524,7 @@ N
 X
 2
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 16
 East
 
@@ -536,7 +536,7 @@ P
 ot
 N
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 17
 Tomnship39 South Range 23 East
 3.08
@@ -545,7 +545,7 @@ y
 2
 a
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 18
 Tounship40 South Range 23 East
 -136—137—138—139
@@ -558,7 +558,7 @@ C
 C
 30
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 19
 Tounship
 39 Sauth Range 22 East
@@ -573,7 +573,7 @@ e
 A
 crV
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 20
 151150149148127146
 
@@ -587,7 +587,7 @@ o
 221
 
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 21
 646
 2
@@ -599,7 +599,7 @@ o
 -241
 LL1
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 22
 -185
 184
@@ -610,7 +610,7 @@ stsl
 
 49£
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 23
 4
 Tounship 39 South Ranée 21East
@@ -626,7 +626,7 @@ Exsi.
 L
 —1k
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 24
 Tounship 41 South Range 21
 East
@@ -645,7 +645,7 @@ y
 N
 161
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 25
 12 South Pange 21 East
 Township
@@ -660,7 +660,7 @@ no1
 .0€
 2
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 26
 Township 39 South Ranåe 20 East
 561
@@ -673,7 +673,7 @@ X
 0リ2
 1
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 27
 Towriship 34 South Range18East
 -296215
@@ -689,7 +689,7 @@ tf
 IN6
 608
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 28
 Township 34 South Range17 East
 223—222
@@ -704,7 +704,7 @@ x
 S
 itu
 
-===== PAGE 32 =====
+===== PAGE 32 [diagram] =====
 29
 Tovnship 34 Söuth Range 19 East
 608
@@ -722,7 +722,7 @@ N
 222
 CEU
 
-===== PAGE 33 =====
+===== PAGE 33 [diagram] =====
 30
 R50229—348—227
 ーケ7る
@@ -735,7 +735,7 @@ rG
 6E8
 13
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 31
 -406
 296
@@ -747,7 +747,7 @@ Etr8l
 E9E
 Cca
 
-===== PAGE 35 =====
+===== PAGE 35 [diagram] =====
 182
 Tourship 31 South Range 22 East
 -798
@@ -761,7 +761,7 @@ X
 022
 bca
 
-===== PAGE 36 =====
+===== PAGE 36 [diagram] =====
 3
 Tounship 33 South Range 18 East.
 2
@@ -776,7 +776,7 @@ DE
 182
 648
 
-===== PAGE 37 =====
+===== PAGE 37 [diagram] =====
 36
 Township 33 Smuth Range 17 East
 —291
@@ -788,7 +788,7 @@ Ba
 Santo
 で
 
-===== PAGE 38 =====
+===== PAGE 38 [diagram] =====
 35
 302303
 666
@@ -804,7 +804,7 @@ X
 4
 -666
 
-===== PAGE 39 =====
+===== PAGE 39 [diagram] =====
 36
 Township33 South Range 20 Boast
 -314-313
@@ -817,7 +817,7 @@ N
 108
 28
 
-===== PAGE 40 =====
+===== PAGE 40 [diagram] =====
 39
 Tounship 33 South Range 21 East
 399—328—327-
@@ -834,7 +834,7 @@ V
 618
 818
 
-===== PAGE 41 =====
+===== PAGE 41 [diagram] =====
 38
 341-340
 —339—338—337—336
@@ -850,7 +850,7 @@ Naft
 -188
 0.8
 
-===== PAGE 42 =====
+===== PAGE 42 [diagram] =====
 39
 Tounship 10 South Range 20 East
 36.5.1
@@ -866,7 +866,7 @@ sx
 a
 38E88E
 
-===== PAGE 43 =====
+===== PAGE 43 [diagram] =====
 d10
 SIEIIE
 te
@@ -875,7 +875,7 @@ xt81
 01
 A
 
-===== PAGE 44 =====
+===== PAGE 44 [diagram] =====
 1
 Thuriship 12 SouthRange 20 East
 -370369368
@@ -888,7 +888,7 @@ arbour.
 of
 X
 
-===== PAGE 45 =====
+===== PAGE 45 [diagram] =====
 12
 371
 2
@@ -906,7 +906,7 @@ H
 <0
 2
 
-===== PAGE 46 =====
+===== PAGE 46 [diagram] =====
 213
 7
 of
@@ -916,7 +916,7 @@ H fr.8/
 01
 4
 
-===== PAGE 47 =====
+===== PAGE 47 [diagram] =====
 .4
 385
 1f81
@@ -932,7 +932,7 @@ X
 2
 C
 
-===== PAGE 48 =====
+===== PAGE 48 [diagram] =====
 15
 168
 htus/
@@ -947,7 +947,7 @@ f
 2
 G
 
-===== PAGE 49 =====
+===== PAGE 49 [diagram] =====
 h
 393
 £60
@@ -961,7 +961,7 @@ exco
 f
 fing
 
-===== PAGE 50 =====
+===== PAGE 50 [diagram] =====
 17
 Tounship 35 South Range
 16East
@@ -971,7 +971,7 @@ ttisl'
 fe
 f22
 
-===== PAGE 51 =====
+===== PAGE 51 [blank] =====
 18
 社
 1

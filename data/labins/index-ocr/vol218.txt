@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 218
 DIAGRAM
@@ -69,7 +69,7 @@ PAGE
 3°-34'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 218co...
 DIAGRAM
@@ -106,7 +106,7 @@ PAGE
 3°- 42'E
 22
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 2
 PAGE
 T
@@ -131,7 +131,7 @@ R__AE
 
 T
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 28
 15  14  13
 17
@@ -159,7 +159,7 @@ T
 3536
 31
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 Township 42 South Range 26E ast
 654238227
@@ -176,7 +176,7 @@ Township 42 South Range 26E ast
 Vav., 3
 22' E,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 1
 791
@@ -250,7 +250,7 @@ C 38
 33
 Vav. R-29.E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 14
 Township 41outh Range 25 East
 788
@@ -297,7 +297,7 @@ Township 41outh Range 25 East
 31
 32
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 03
 595
@@ -400,7 +400,7 @@ Vav.,
 E
 po
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 Township 47 South Range 24 East
 352
@@ -457,7 +457,7 @@ Township 47 South Range 24 East
 36
 34
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 44South Range24 East
 Township
@@ -546,7 +546,7 @@ C
 404
 1872.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 2
 Townshi p 45South Range 24 East
 84
@@ -572,7 +572,7 @@ Ca1
 1872
 37E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 Township44 South Rauge 23E ast
 2
@@ -685,7 +685,7 @@ CO
 Van"
 9= 2 7'E.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 4
 Township 45 South Range 23 East
@@ -749,7 +749,7 @@ L.2C
 1872.
 37E.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 44 S R. 22 EAST
 Township
@@ -800,7 +800,7 @@ N14
 36
 1872.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 6
 5
@@ -855,7 +855,7 @@ e
 9
 2°31'E.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 Township 43South Range 23 East
 199
@@ -883,7 +883,7 @@ Vav.
 31E
 30
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 72
 4
 37人
@@ -910,7 +910,7 @@ Vav.
 904
 35
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 15
 Township4hSouth Range 22East
 C
@@ -928,7 +928,7 @@ or
 36
 1872.
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 16
 EAST
 R. 23
@@ -1027,7 +1027,7 @@ cus
 18.72,
 Var., =48.
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 17
 Township 45South Range 22 East
 978
@@ -1037,7 +1037,7 @@ ochat
 2.
 -842
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 18
 Township 41 S- R. 22 EAST
 6
@@ -1092,7 +1092,7 @@ T
 35
 69
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 19
 TownSHIP41SoutH RANGE24EAST
 985
@@ -1164,7 +1164,7 @@ TownSHIP41SoutH RANGE24EAST
 894
 
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 20
 Township 35 S. R. 25 E AST
 7101
@@ -1230,7 +1230,7 @@ Township 35 S. R. 25 E AST
 35
 1872,
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 21
 Township 35SoutH RanGE 24EAst
 103
@@ -1270,7 +1270,7 @@ C501
 36
 3°46 c.
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 Township 34 Southr. 24 E ast
 3911
 9311

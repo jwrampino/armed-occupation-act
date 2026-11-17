@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 126
 DIAGRAM
@@ -33,7 +33,7 @@ None
 4°-32'E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index to Diağrazzus
 Townshijo
 Range
@@ -58,7 +58,7 @@ Sozuth
 33
 12
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 6
 =9.9
@@ -143,7 +143,7 @@ EZ
 36
 R.W. Narris, 1848,
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 41
 011
 471
@@ -239,7 +239,7 @@ Nar.
 E
 40 30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Township21South Range 28 East
 761
 60
@@ -331,7 +331,7 @@ Jake
 35
 R.W. Morria, 1848.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Tawnship 22 South Range 31 East
 0p7
@@ -431,7 +431,7 @@ EZZ
 Nav. mat
 giverr
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 n O
 Township22 SouthRange32East
 340
@@ -529,7 +529,7 @@ E/8
 36
 2
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Zwriship 22 South Ranße 33 East.
 

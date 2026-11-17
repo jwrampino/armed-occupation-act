@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 97
 DIAGRAM
@@ -79,7 +79,7 @@ PAGE
 4°-30'E
 4
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 97
 cont...
@@ -149,7 +149,7 @@ PAGE
 4°-30'E
 8
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 97
 cont...
@@ -207,7 +207,7 @@ PAGE
 4°-30'E
 11
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 INDEX
 Tp.S.
 Tp.S. RangeE. Page.
@@ -324,7 +324,7 @@ J
 11.
 AWE 1890
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 
 R 18 E.
 T 3 S. R 18 E. 1T2S.
@@ -337,7 +337,7 @@ T2S. R 19 E.
 N01-100-99-98-97-96
 525150-498-47
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 T 3 S.
 R. 19 E
@@ -349,7 +349,7 @@ er.
 107-106-105-104-108-102-
 13-112-111110-109-108
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 A 2I E.| TI N.
 T 4.S
@@ -367,7 +367,7 @@ N36-136-135-135-134-134-
 ohl
 Vdv. H°-30'E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 4
 T 18 S. R 25 E. I
 T 19 S. R 25 E.
@@ -382,7 +382,7 @@ I T 218. R 25 E.
 -241-2417
 238-238-237-236-235-224
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 5
 T 22 S. R 25 E .1 T 16 S. R 26 E.
 1
@@ -396,7 +396,7 @@ T18 S. R 20 E.
 61
 -E52-252
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 6
 T 19 S.
 R 26 E.1
@@ -415,7 +415,7 @@ ser-ese
 -022-082
 -182
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 T17 S.
 R 27 E. 1
@@ -431,7 +431,7 @@ T 19 S. R 27 E. | T 20 S. R 27 E
 335-335-334-034-033-333-
 -128-018-168-25-28
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 8
 T 21 S. R 27E.1.
 T 22 S. R 27 F
@@ -451,7 +451,7 @@ T 18 S. R 28 E.
 -SAE-AAS-SAE-EAS-ZAC-DAN
 5
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 T 19 S.
 R 28 E.1
@@ -465,14 +465,14 @@ T 21 S. R 28 E.1 T228. R28E.
 926-728-
 
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 S
  9
 m
 In
 –3
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 71
 T 21 S. R 29 E
 T 22 S.' R 29 E.

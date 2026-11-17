@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 182
 DIAGRAM
@@ -48,7 +48,7 @@ PAGE
 4°-30'E
 8
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Towns" South
 Ranm Ea- Dage
 345394
@@ -64,7 +64,7 @@ Ranm Ea- Dage
 5
 P
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Sonnshih 5. South. Rangt 25. East.
 Scc. 
 hjolu
@@ -140,7 +140,7 @@ E
 8
 20.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Sonmshuy 4 South Range 26 East.
 Houn of A. Hill
@@ -187,7 +187,7 @@ wHa
 A. H
 , 1848-9.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 26 Cast
 Range
@@ -252,7 +252,7 @@ bo
 生
 4° 0'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 A
 Jonnship 4 South Rango 25. East
 172
@@ -334,7 +334,7 @@ x
 33
 3
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Torwnship 3. South. Range 25 East.
 147
@@ -433,7 +433,7 @@ G
 
 AH Burr, 1849.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 6
 4
@@ -479,7 +479,7 @@ Acbelorms
 92
 35
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 -49-1
 S3
@@ -542,7 +542,7 @@ J. Jraveu
 Vany
 5° E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 Younship 3 South Range 26
 147

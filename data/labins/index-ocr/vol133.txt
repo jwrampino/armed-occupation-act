@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 133
 DIAGRAM
@@ -32,7 +32,7 @@ None
 None
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Jn dex.
 to
 3.
@@ -57,7 +57,7 @@ page
 39
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Sorriship 30
 South.
@@ -141,7 +141,7 @@ eann
 1844-5.
 No
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 18
 6
@@ -236,7 +236,7 @@ G
 Vav.,
 4° 30′E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Jowrsship 19
 G
@@ -343,7 +343,7 @@ is
 9
 -284
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 10
 6
@@ -466,7 +466,7 @@ Y
 No
 war.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Range
 South
@@ -582,7 +582,7 @@ s
 r
 4°-E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 wrshhip 39
 Sowth

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 238
 DIAGRAM
@@ -58,7 +58,7 @@ As Noted
 655
 16S 29E D.D. Rodgers
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index
 RSYE
 Page.
@@ -97,7 +97,7 @@ Jeldu
 * The decretary of the Eutenior set aside
 by decision dated May 29, 1886
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 T1lS
 R/6E
@@ -115,7 +115,7 @@ R/6E
 175
 16
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 11
 T12S
 RL6E
@@ -140,7 +140,7 @@ T
 306308
 24 31309 323033334 312 3531336
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 111
 TLS
 R6E
@@ -161,7 +161,7 @@ Var.,
 50 E.
 1
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 1V
 T2S
 R5E
@@ -183,7 +183,7 @@ T422
 413
 MiKaudolh, 1853.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 V
 R42E
 T39S
@@ -217,7 +217,7 @@ T39S
 507
 Vav., 4° 12' E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 VI
 Ts13 14S. R 20 E
 TJ
@@ -235,7 +235,7 @@ TJ
 7
 11
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 VII
 R29 E.
 TS. 1a2S7
@@ -254,7 +254,7 @@ Alice
 3°-132 E.
 Vac., 3
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 577
 S.399-
 R. 23E
@@ -269,7 +269,7 @@ R. 23E
 435
 Vav., 3° E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 5
 9
 21S
@@ -298,7 +298,7 @@ S. 32
 107
 13
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 65-5
 T16 S.R29E
 Sawry

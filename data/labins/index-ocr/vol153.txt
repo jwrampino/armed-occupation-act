@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 153
 DIAGRAM
@@ -37,7 +37,7 @@ PAGE
 4°-30'E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 #
 Yo
 D
@@ -54,7 +54,7 @@ South
 28
 17
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 _
 Rango 14 East.
 -169-
@@ -157,7 +157,7 @@ E,
 30
 5
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 South.
 Younship
@@ -232,7 +232,7 @@ G80
 96π
 1847.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Range
 Cast.
@@ -339,7 +339,7 @@ e
 rr
 30'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 East.
 15
@@ -411,7 +411,7 @@ East.
 E.
 30
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Younship
 Rango
@@ -514,7 +514,7 @@ M
 Nav."
 15E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 She Field Nots
 for this
@@ -526,7 +526,7 @@ and will be found oh Pages 420 to 42%.
 Vav.,
 4°30'E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Yunship 2thang 20
 The Field Nole

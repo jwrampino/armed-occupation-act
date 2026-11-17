@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 163
 DIAGRAM
@@ -85,7 +85,7 @@ Not Given
 5°-50'E
 29
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 163.
 cont.....
@@ -125,7 +125,7 @@ Not Given
 Not Given
 41
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 0
 Yo
 9
@@ -165,7 +165,7 @@ II
 II
 n
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 Souns hip 5 Noth.
 hange 8 Wist
@@ -211,7 +211,7 @@ _
 No vav.
 giverr,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Younship
 6
@@ -254,7 +254,7 @@ Younship
 35
 86
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 Kango 11 Wist.
 253
@@ -297,7 +297,7 @@ y
 20
 griven.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 2
 Younship
 Rango 14 West.
@@ -308,14 +308,14 @@ Rango 14 West.
 Var.,
 5° 30'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 Jwnshi 5Sth Rag 
 901
 -108.
 108
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 6
 t
@@ -337,7 +337,7 @@ T32
 Var.,
 5=15'E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 Sounship
 4 South
@@ -363,7 +363,7 @@ $23
 Nar.,
 30
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 307
 009700
 £€
@@ -430,7 +430,7 @@ Var.,
 50
 52
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 North.
 Range 16 Wist.
@@ -473,7 +473,7 @@ Range 16 Wist.
 1847.
 Vav.,
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 19
 Sounship
 Kange
@@ -523,7 +523,7 @@ Nav.,
 C
 5030
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 21
 Younship
 3 South.
@@ -604,7 +604,7 @@ Vav.,
 5°30
 E.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 23
 Sounship
 Kangi
@@ -664,7 +664,7 @@ Var.,
 ′E.
 50
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 25
 Younshif
  4 South. 7
@@ -672,7 +672,7 @@ Kange 16 Wist.
 7
 x
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 27
 Kange
 West.
@@ -728,7 +728,7 @@ Vav.,
 C
 50
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 29
 Sownship
 5 North.
@@ -779,7 +779,7 @@ Var
 'E.
 1
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 31
 Younship
 h 1 North.
@@ -856,7 +856,7 @@ _
 wus
 50'E.
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 -28-
 36
 63
@@ -900,7 +900,7 @@ Ex
 6
 1847.
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 35
 Kangi
 17 West.
@@ -981,7 +981,7 @@ C0
 ∑
 50°-50
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 37
 459
 5
@@ -1029,7 +1029,7 @@ JM
 Vav.,
 50 50'E.
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 39
 Younshif
 Mange 17 Wist..
@@ -1074,7 +1074,7 @@ y
 36
 JM.S
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 Ad
 Youns hip
  North. 

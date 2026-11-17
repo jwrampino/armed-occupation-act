@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 257
 1
@@ -29,7 +29,7 @@ Index to Twp 37S Rng 35E – Page 219A
 Index to Twp 37S Rng 36E – Page 219A
 Index to Twp 38S Rng 36E – Page 219A
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 lol
 INDEX TO DIAORAMS.
 1
@@ -42,7 +42,7 @@ III
 T. 3B S.,R. 86 E.
 III
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 INDEX
 3
 W
@@ -96,7 +96,7 @@ W
 8
 R
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Nanes, and daties If aerhint
 Hinry H. Hansoon Chaimman
 Thomas molumy
@@ -152,7 +152,7 @@ InDex. Touncotip 38s Rang 36E-
 34
 35
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 È
 B
 )))
@@ -186,7 +186,7 @@ C
 22
 1张
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 m
 W
 5
@@ -279,7 +279,7 @@ yi
 目
 14
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 接
 租
 II
@@ -357,7 +357,7 @@ X
 X
 8im
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 1.79
 Numer and Drie of Aosustants.
 Heuery H. Honaron
@@ -412,7 +412,7 @@ I. G78. R. 35E.
 32
 7
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 180
 162
 Ned
@@ -466,7 +466,7 @@ i5
 34
 36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 2194
 A
 J3PS.R.3G.
@@ -488,7 +488,7 @@ d
 =ES
 然
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 252
 Thar I. Mclouley
 . Chanmmun

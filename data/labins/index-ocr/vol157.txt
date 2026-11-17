@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 157
 DIAGRAM
@@ -44,7 +44,7 @@ A.H. Jones
 5°-30'E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Townshij Range
 Page
@@ -71,7 +71,7 @@ Sozzth
 11
 13
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 wuship 6 South Range12 East
 4——2
@@ -80,7 +80,7 @@ wuship 6 South Range12 East
 40
 
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Tounship 7 South Range9 East
 047
@@ -181,7 +181,7 @@ UEE
 O.H.Ja
 1850.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Thynshis8SwalthRange 9 East
 D
 -1118
@@ -280,7 +280,7 @@ onee
 1851.
 4
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 C
 84
@@ -374,7 +374,7 @@ FB
 1851.
 ores
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Thynshipto SouthRange 10East
 8.0
@@ -475,7 +475,7 @@ o
 30'E
 50
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Iunshijp13South Ranże11 Bast
 889

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 193
 DIAGRAM
@@ -69,7 +69,7 @@ PAGE
 6°-20'E
 30
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 193.
 cont...
@@ -127,7 +127,7 @@ PAGE
 6°- 50'E
 54
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 gndex
 to
 North  Beest
@@ -206,7 +206,7 @@ Cf
 e"
 n
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 18
 22
@@ -234,7 +234,7 @@ oochee
 32
 E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 13
 9.51
@@ -278,7 +278,7 @@ E
 32
 3
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 231
 7
@@ -314,7 +314,7 @@ E
 1854.
 5°55E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 $
 Povrussip 7 North. Range 1 Most.
 217
@@ -353,7 +353,7 @@ L213
 36
 crry., 186.4,
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 10
 2744
 2h2
@@ -394,7 +394,7 @@ L243
 70
 1854.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 12
 -182.
 277
@@ -451,7 +451,7 @@ L243
 2
 5°5.0' E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 14
 305
 01€
@@ -517,7 +517,7 @@ L243
 erry,1854.
 5º 50'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 16
 -518
 266
@@ -570,7 +570,7 @@ H8
 erry,
 5º 55 E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 18
 Townshig 7 North. Range 16 Wist.
 66
@@ -619,7 +619,7 @@ X384
 50 65'E.
 Var.,
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 20.
 888
 262
@@ -651,7 +651,7 @@ bE
 2
 Var.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 22
 217
 SI
@@ -684,7 +684,7 @@ HT
 D
 Var., 6°
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 24
 Powrs hip 5 North.
 227
@@ -720,7 +720,7 @@ N
 1854.
 erry,
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 26
 LET
 3EM
@@ -754,7 +754,7 @@ S
 ,1854.
 Par!
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 28
 Range 20 Arist
 4S7
@@ -782,7 +782,7 @@ LサH
 Varl.,
 6°20'E.
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 30
 7
 -887
@@ -815,7 +815,7 @@ Varl.,
 11854.
 6-20'E.
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 32
 Range 23 Mist.
 Jonshup6 Nooth.
@@ -849,7 +849,7 @@ MbH
 Val.,
 6°20 E.
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 34
 915
 218
@@ -884,7 +884,7 @@ Val.,
 Val.
 zo'E
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 36
 22.9
 038
@@ -919,7 +919,7 @@ H29
 E
 6°30
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 38
 249
 OM.S
@@ -949,7 +949,7 @@ E4S
 Var!
 6°30'E.
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 4O
 
 -995
@@ -982,7 +982,7 @@ S9
 33
 6-40'E.
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 42
 29.9
 797
@@ -1020,7 +1020,7 @@ cla
 Vah.,
 6° 40 E.
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 44
 985
 065
@@ -1054,7 +1054,7 @@ Edgely
 Var.,
 6°40
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 46
 Somnstip 6 North.
 25-
@@ -1075,7 +1075,7 @@ crry, 1854.
 Varl,
 6° 45 E.
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 48
 Tonno hip 6 North.
 929
@@ -1100,7 +1100,7 @@ Tonno hip 6 North.
 X
 6°50' E.
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 50
 2ng
 289
@@ -1121,7 +1121,7 @@ Gs
 erry, 18524
 50E.
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 52
 Rauge 33. Must.
 Sonnship 6 North.
@@ -1143,6 +1143,6 @@ Sonnship 6 North.
 Vah.
 6°50'E
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 54
 36

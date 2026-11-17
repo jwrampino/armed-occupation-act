@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 98
 DIAGRAM
@@ -57,7 +57,7 @@ M.A. Williams
 5°E
 8
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Jndex.
 to
 18
@@ -76,7 +76,7 @@ to
 2
 21
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 32十
 32
 32
@@ -127,7 +127,7 @@ L
 Vav.
 15'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Jownship 2 North.
 Geergia
@@ -206,7 +206,7 @@ Var.,
 X
 2
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Jownship I NorTh. Rannge 19 East.
 84
@@ -218,7 +218,7 @@ ___
 M.A. Thilliane, 1852.
 Var., = 15E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 144
 Jownship 2 North.
 Raange 19 Gcust.
@@ -285,7 +285,7 @@ a.
 Vav.,
 5°15E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 e91
 9.01
 721
@@ -400,7 +400,7 @@ V23
 M.A. Williame, 1849.
 Vav., 5°E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Range 20 East.
 209
@@ -460,7 +460,7 @@ Var.,
 50
 E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Jowroship I North.
 Raarge 21 East.
@@ -520,7 +520,7 @@ M.
 Vav.,
 5°E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 perrrship 2 North.
 Range. 21 East.

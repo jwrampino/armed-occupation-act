@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 83
 DIAGRAM
@@ -33,7 +33,7 @@ PAGE
 4°- 40'E
 11
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 
 Indef to D iagrams.
 T
@@ -66,7 +66,7 @@ a
 11
 
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 83
 1
 Range
@@ -177,7 +177,7 @@ Itsl
 52
 
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Range
 South.
@@ -278,7 +278,7 @@ T
 31
 8
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Bast.
 21
@@ -375,7 +375,7 @@ Q5-
 4
 4
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Bast.
 South.
@@ -471,7 +471,7 @@ TIT
 32
 2
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Range
 Jownship 22 South.
@@ -578,7 +578,7 @@ SH
 32
 3
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Joinship
 South

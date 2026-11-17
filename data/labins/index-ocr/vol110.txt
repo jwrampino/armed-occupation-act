@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 110
 DIAGRAM
@@ -53,7 +53,7 @@ PAGE
 11
 
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Diagrams.
 Indey
 to
@@ -94,7 +94,7 @@ An
 29
 8
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Towns hip 28 Smith. Rauge 27 Eust.
 2
 3
@@ -109,7 +109,7 @@ Late
 Y
 2
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 2
 Jounship 29. South. Rangr 27 East.
@@ -123,7 +123,7 @@ Jounship 29. South. Rangr 27 East.
 14
 2
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Jounship 29 South. Raugi 28 East.
 25-
@@ -135,7 +135,7 @@ C
 17
 20
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 Jounship 28 South. Rarige 29 &ast.
 -18
@@ -150,7 +150,7 @@ D8.
 33
 35
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 69
 69
@@ -161,7 +161,7 @@ SC
 Var., 4°45'E.
 
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 -2.9
 7
 8
@@ -220,7 +220,7 @@ A
 M.A. Williaira, 1849.
 Nar., 5° E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Jouuship 28 Stuth. Range 50 Eash.
 -601
@@ -318,7 +318,7 @@ Vav., 4° 45
 E.
 X
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 Jorrs hip 29 South. Rang: 30 East.
 147
@@ -377,7 +377,7 @@ Late.
 144
 144
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 Township 30 south.
 Range 2:4 East:
@@ -490,7 +490,7 @@ n
 Var., 4–45 E
 X
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 Jourship 30 Sonth. Rarrge 23 East.
 7.9乙
@@ -607,7 +607,7 @@ C
 230
 4°45'E
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 —
 11
 Jovriship 14 South. Rarrge 25 East.

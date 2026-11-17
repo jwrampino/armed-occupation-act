@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 114
 DIAGRAM
@@ -37,7 +37,7 @@ PAGE
 4°-5'E
 7
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inder to Diagrams.
 Poge
 S + E
@@ -62,7 +62,7 @@ R
 21
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 31
 25
 24
@@ -98,7 +98,7 @@ Hy
 31
 4°12'E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 113
 Lulle
 84
@@ -159,7 +159,7 @@ LaRe..
 Hhartims,
 4°12'E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 33
 Jouris hip 20 South.
 Rarrge 25 East.
@@ -226,7 +226,7 @@ L
 36
 Var. i4" East.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 267
 14℃
 275
@@ -281,7 +281,7 @@ Var. i4" East.
 Vav.,
 4°15'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Jownship
 22 South. Range.
@@ -396,7 +396,7 @@ Lake
 36
 1848-9.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Jounship 20 South.
 Range.
@@ -508,7 +508,7 @@ N02
 36
 1849,
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Township 21 South. Range.
 26 East.
 463

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 239
 2
@@ -38,7 +38,7 @@ Not Given
 2°-42'E
 284
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Diagrams.
 Page
@@ -60,7 +60,7 @@ S+E
 tatle ufere to the
 This
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 A
 U. S.C
 GOVERNMENT SURVEY
@@ -104,7 +104,7 @@ Diagram Page #
 - See Body Pages
 to
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3.
 _
 Namer and dutie o Atach.
@@ -149,7 +149,7 @@ bod
 33
 the feager
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 Mamee and duties of assitant
 6
@@ -176,7 +176,7 @@ I52S
 188
 126
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 10.6
 2
 10
@@ -227,7 +227,7 @@ y
 32
 34
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 170
 2
 Index
@@ -268,7 +268,7 @@ T.51S. R30E
 32
 33
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 220
 1883,
 Index
@@ -313,7 +313,7 @@ $15
 31
 32
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 284
 2-40'E.
 Sudep

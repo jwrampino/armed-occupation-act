@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 255
 DIAGRAM
@@ -31,7 +31,7 @@ Index to Various Sections – Page 54
 Index to Twp 34S, 31E – Page 109
 Index to Islands – page 146
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 INDEX.
 7
 R. 31 E. Page th
@@ -45,7 +45,7 @@ T. 3 4 S.
 43
 44
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 (4-074.)
 Township 56 S, R. 42 E.
 78
@@ -92,7 +92,7 @@ keyNok
 salanders key
 6389
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Ⅲ
 11
 (4-074)
@@ -139,7 +139,7 @@ Township 4 S,
 31
 6389
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 (4-674.)
 1V
 Townships 43 + 44 S, R. 43 E.
@@ -186,7 +186,7 @@ Townships 43 + 44 S, R. 43 E.
 J. S. Frederick,
 1901, Var, 1°08'E,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 Names & Outies of Assistas
 George N. Thompson - Chai
@@ -213,7 +213,7 @@ Sec 32
 Initial
 Stake
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Ⅱ
 (4-874.)
 Township 35 S_,
@@ -260,7 +260,7 @@ R. 3/ E.
 6-389
 J.T. Hancock J. 1900, ran 20552
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 X
 54
 D
@@ -298,7 +298,7 @@ L21+23+25+27+29+
 1
 1328
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2
 109.
 Names aond Duties of assistants
@@ -332,7 +332,7 @@ Mands KsR
 Preliminay Warst
 Pan356
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 Names and duties of Assistants
 J. 6. Noodburry

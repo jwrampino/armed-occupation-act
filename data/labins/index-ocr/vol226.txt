@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 226
 DIAGRAM
@@ -49,7 +49,7 @@ PAGE
 4°- E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 vol.
 226
 Towfw. South
@@ -68,7 +68,7 @@ n. by 57
 40
 2
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 /2
 57 S., R.
 396
@@ -114,7 +114,7 @@ Township
 35
 30
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Township 53 Srutto R. 42 Each.
 Ocon
 6
@@ -165,7 +165,7 @@ g
 1874
 aus
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 58 SruttoR. 40 Eash.
 Township
@@ -248,7 +248,7 @@ ccl
 67
 1874.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Township 58 South R. 39 East.
 2
@@ -356,7 +356,7 @@ o 36
 Vai.,
 4°E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 Township 59 Soulh R. 40 East
 3
@@ -393,7 +393,7 @@ Township 59 Soulh R. 40 East
 32
 33
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 Township
 59 Sndt B. 30 Eart.
 6
@@ -477,7 +477,7 @@ S
 113
 Vav., 4°E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 C
 Township 59 South R. 38 Eact.
 157.
@@ -593,7 +593,7 @@ Township 59 South R. 38 Eact.
 161
 160
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 Township 60 SouttR. 39 Eart.
 200
 2
@@ -635,7 +635,7 @@ Township 60 SouttR. 39 Eart.
 33
 6
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 Township 60 SoutteR. 38 Each.
 206
 202
@@ -705,7 +705,7 @@ a.
 1874.
 E
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 60 SouthR. 37 Each.
 Township

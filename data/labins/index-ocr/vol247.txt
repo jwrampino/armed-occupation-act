@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 247
 DIAGRAM
@@ -49,7 +49,7 @@ PAGE
 2°-55'E
 7
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 val
 247
 T
@@ -91,7 +91,7 @@ See bol-244
 33.
 Exterior
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 T. 50. S. R. 31. E
 7
 X
@@ -99,7 +99,7 @@ T.50. S.R.32. E
 112999--1326
 Hopkani
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 T. 51.S. R. 34. E
 150-152-154-156-157-1597
@@ -112,7 +112,7 @@ L205-203-202-201-200-199
 Sallie, 1884,
 W.C
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 T. 52.S. R.33.E
 7
@@ -123,7 +123,7 @@ X
 242-241-239-238-236-235
 Vav., 2-55'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 4.247
 T. 50. S - R .32. E
@@ -132,7 +132,7 @@ Township
 see bol. 244
 Page-485%z
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Townshinp.50.South.Range. 5s. East
 ShS
@@ -247,7 +247,7 @@ LHE
 33
 我
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 HLH
 £5H
 63H
@@ -324,7 +324,7 @@ SI5
 32
 2kC
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 T. 50.S.R.33.E.
 —Lh1-2h1-Hh1-2h1-141-6117

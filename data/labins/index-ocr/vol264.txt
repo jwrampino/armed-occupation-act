@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 I1
 U.S. Field Notes
 Yolume-264
@@ -69,7 +69,7 @@ Survey of Block 49
 (Powder House cot) City of
 St. Augustine, Ha.
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 I2
 U.S. Field Notes
 Volume-264
@@ -124,7 +124,7 @@ Worth, Sections 34+ 35.
 43 East
 626
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 I1
 U.S. Field Notes
 Yolume-264
@@ -193,7 +193,7 @@ Survey of Block 49
 (Powder House cot) City of
 St. Augustine, Ha.
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 I2
 U.S. Field Notes
 Volume-264

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 211
 DIAGRAM
@@ -64,7 +64,7 @@ PAGE
 4°-10'E
 7
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 211.
 cont...
@@ -130,7 +130,7 @@ DATE
 15
 41S 31E J.Jackson
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 211
 cont...
@@ -191,7 +191,7 @@ TWP RGE SURVEYOR(S) DATE
 4°- 10'E
 41S 32E J.Jackson
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 7/1)
 to Diagrams
 Index
@@ -241,7 +241,7 @@ s
 31
 Over
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 Index to Diag'rams
 T
 R
@@ -268,7 +268,7 @@ E as't
 38
 3h
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 T418 R 22T
 T.41.8.R.238.
 47
@@ -286,7 +286,7 @@ T.42.S.R.23E
 62
 54
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 T638 R221
 T838R23F
@@ -308,7 +308,7 @@ i
 109
 110
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 T. 11.S. R.23.7.
 T11S R24K
@@ -334,7 +334,7 @@ T.42.S.R.24.E
 173
 63_64_65_6607—68_118—119—/20121122-123
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 T43S R 24E
 T 43 S R 25F
@@ -371,7 +371,7 @@ _
 小
 N
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 9
 7'42 S R 26E
 T42 S R 27F
@@ -401,7 +401,7 @@ T.43.S.R.27.F.
 280
 287
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 71
 Thns K39E
 187-186-185—184-183—182
@@ -421,7 +421,7 @@ L
 174
 163
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 13
 Th 2 S R 28 E
 T42 SR29E
@@ -444,7 +444,7 @@ T36S R 31E
 357
 35”-349—48
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 13
 Thn S R 31 E
 225
@@ -461,7 +461,7 @@ Th18 R 31E
 1
 197
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 17
 T428 R 30 B
 228
@@ -488,7 +488,7 @@ T
 235
 
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 19
 T36S R33F
 T'36 S R 32F
@@ -511,7 +511,7 @@ Jjc
 315
 L332331_330—329—328—327-
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 21
 7'3.8 S R 33 E
 T38 S R 34E
@@ -543,7 +543,7 @@ _
 295
 294
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 23
 3
 Th0S R 32N

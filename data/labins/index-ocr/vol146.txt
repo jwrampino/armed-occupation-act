@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 146
 DIAGRAM
@@ -39,7 +39,7 @@ PAGE
 4°- E
 14
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 nder
 to
@@ -54,7 +54,7 @@ Page
 3 35
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 1260s1.
 2
@@ -143,7 +143,7 @@ Page
 Vav.,
 4°40'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 -315
 -562
@@ -170,7 +170,7 @@ M
 CO.H.
 Vav., 5= 30'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Joonship 7 South Range 13. East
 82
@@ -240,7 +240,7 @@ E.SE
 Nar,
 FE E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 East.
 H
@@ -308,7 +308,7 @@ sonns, 1848.
 X
 4°5'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Bast
 32
@@ -388,7 +388,7 @@ A
 e,1848.
 E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 2
 South Range
 Sounghip 27
@@ -474,7 +474,7 @@ mes
 ∑
 4°
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 8
 8

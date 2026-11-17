@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 240
 DIAGRAM
@@ -37,7 +37,7 @@ PAGE
 329
 51S 31E J.P. Apthorp
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index
 To
 D
@@ -57,7 +57,7 @@ t
 2
 a
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 A
 U. S.
 GOVERNMENT SURVEY
@@ -80,7 +80,7 @@ Diagram Page #
 - See Body Pages
 to
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 S
 1
 Assirlant
@@ -121,7 +121,7 @@ R 31
 31
 32
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 67
 Index
@@ -159,7 +159,7 @@ c
 34
 Vav, 2º 40'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 133
 Lerith
 2
@@ -221,7 +221,7 @@ p
 31
 32
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 2. Fvwrship
 201
 52 Loutth
@@ -253,7 +253,7 @@ R B0 E. Coutinned
 31
 33
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 239
 2
 51 S oult
@@ -270,7 +270,7 @@ TSIS R3LE
 6
 3536
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Tonuatap
 265
 Louth
@@ -308,7 +308,7 @@ Louth
 35
 36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 29
 3
 Soilh

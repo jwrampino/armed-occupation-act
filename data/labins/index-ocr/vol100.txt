@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 100
 DIAGRAM
@@ -44,7 +44,7 @@ C.F. Hopkius
 4°-35'E
 6
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 to Diagrams.
 Andex
 R
@@ -71,7 +71,7 @@ u
 2719
 6
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 T28S.R 17E.
 60
@@ -137,7 +137,7 @@ C
 F.
 Var., 4° 40'E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Township29S. Range17E
 4
@@ -157,7 +157,7 @@ C.F. Hofkins,
 1852.
 Vav., 4-40'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 T28S.
 R18E
@@ -243,7 +243,7 @@ L
 Vav., 4:40'E
 2
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 S. R 18 E
 T
@@ -325,7 +325,7 @@ J.
 4
 40'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 30 S.
 T
@@ -391,7 +391,7 @@ C.F
 Vav.,
 50'E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 e
 R

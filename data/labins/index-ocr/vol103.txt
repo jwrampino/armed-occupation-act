@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 103
 DIAGRAM
@@ -29,7 +29,7 @@ PAGE
 3°- 45'E
 9
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 In der
 9oam9
 工
@@ -50,7 +50,7 @@ IDDFSU ISPA
 PAGE:002
 R=78%
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 35 Eas
 106
@@ -146,7 +146,7 @@ e
 Var,
 4°15'
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 35 Eash
 -26-
@@ -240,7 +240,7 @@ x
 1863.
 4°15
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 881281781
 981-
@@ -249,7 +249,7 @@ x
 X
 Var., 4°10'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 厂
 -61℃
@@ -259,7 +259,7 @@ Var., 4°10'E.
 -296
 7
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Gash.
 I ownship 33 Sorth.

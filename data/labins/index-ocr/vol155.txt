@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 155
 DIAGRAM
@@ -33,7 +33,7 @@ PAGE
 5°-E
 5
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index
 A
 R
@@ -53,7 +53,7 @@ Pag
 22
 4
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 19
 20
 22
@@ -94,7 +94,7 @@ U
 人
 1
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 775
 114
 821
@@ -174,7 +174,7 @@ L11
 Var.
 80
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 2
 R
@@ -226,7 +226,7 @@ L72
 1803
 5°E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 349
 33S2
 12
@@ -268,7 +268,7 @@ ESE
 1803.
 2
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5-
 6.
 -392-3911

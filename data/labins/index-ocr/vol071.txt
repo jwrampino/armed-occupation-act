@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 71
 DIAGRAM
@@ -68,7 +68,7 @@ PAGE
 4°- 40'E
 30
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 71.
 cont.
@@ -89,7 +89,7 @@ PAGE
 4°- 40'E
 36
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Indoxo
 Diaġrams
 to
@@ -102,21 +102,21 @@ South
 East
 23
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 81
 
 
 Nawial
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 Tow nship 17.S. Range 16 E.
 3,000t
 74—73—72
 70
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 3,0h
 878
@@ -126,7 +126,7 @@ Tow nship 17.S. Range 16 E.
 258
 ECS
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 8
 Tounship 15 South Rançe 17 East
 334-
@@ -143,7 +143,7 @@ oh
 3
 
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 10
 3,0ti - t'~
 7
@@ -166,7 +166,7 @@ J
 433-
 433
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 12
 =9-1+81.
 3
@@ -182,7 +182,7 @@ J
 30
 31
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 1.4
 Tounship
 18 South Ranße 17 East
@@ -202,7 +202,7 @@ S8
 -42
 -40
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 16
 17·East
 -9-tit81.
@@ -312,7 +312,7 @@ G2
 59
 58
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 18
 —109
 x fs/
@@ -328,7 +328,7 @@ x fs/
 01ク
 -27£
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 20
 #East
 -331
@@ -450,7 +450,7 @@ EDE
 413
 412
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 22
 hs/
 -767
@@ -467,7 +467,7 @@ hs/
 607
 E8
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 24
 East
 + +x.81
@@ -587,7 +587,7 @@ GCY
 -381
 -3810
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 26
 Tounship
 18 South Range
@@ -704,7 +704,7 @@ SUG
 -458-
 -457
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 28
 TIE
 3
@@ -818,7 +818,7 @@ Sr
 36
 -449-
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 30
 trfst
 0t
@@ -830,7 +830,7 @@ wm
 E
 -356—359-
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 32
 Township 15 Soulk Ran§e 19 East
 h.fes1
@@ -840,7 +840,7 @@ h.fes1
 'm
 370—371——372——373-
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 34
 East
 6#8/
@@ -848,7 +848,7 @@ East
 
 436137—438
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 36
 Township 17 Smith Range 19 East
 

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 228
 DIAGRAM
@@ -68,7 +68,7 @@ PAGE
 4°-20'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 28c0m...
 DIAGRAM
@@ -112,7 +112,7 @@ L=
 22
 44S 20E H.Jenkins
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Dage Jowp. Paige Page
 Town. Rang
 44 8 20 E
@@ -157,7 +157,7 @@ H833
 15/2
 45" 23"
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 7
 1
 .Township
@@ -216,7 +216,7 @@ H833
 us
 Vav.,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 S R. 2 2. Eiash
 Township
@@ -293,7 +293,7 @@ St
 E
 20
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 Township 43 S
 R. 22 East
@@ -349,7 +349,7 @@ R. 22 East
 89
 1875.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 4
 Township 43
 S
@@ -405,7 +405,7 @@ c
 20.
 40
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 Township 46 S
 22 Hash
@@ -454,7 +454,7 @@ h1
 Vav.,
 20
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 Township 46.
 R. 23 East.
@@ -502,7 +502,7 @@ R. 23 East.
 36
 4-20E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 46.S R. 21. East
 Township
@@ -545,7 +545,7 @@ Township
 36
 1875,
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 Township
 505
@@ -632,7 +632,7 @@ C57
 260
 Var.,4°30
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 Eart.
 Township
@@ -675,7 +675,7 @@ Township
 1875
 Nav, 4°80)
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 47 S R. 2 5 Each.
 Township
@@ -721,7 +721,7 @@ Township
 H.
 1875.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 Township
 46S R. 24 Eash.
@@ -766,7 +766,7 @@ Township
 ns, 1875.
 E.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 Township 48 South
 R.32East
@@ -890,7 +890,7 @@ a.
 Var,
 4°30. E.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 T3
 Township 48 South
 R. 33East
@@ -922,7 +922,7 @@ to
 1189
 486
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 14
 Township 48 South R. 34 East
 565
@@ -949,7 +949,7 @@ S
 1 570 1 570 1 571
 568
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 13/2
 Township
 6
@@ -989,7 +989,7 @@ Township
 85
 30
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 15
 Township44 South R. 21 Ea'st
 V
@@ -1024,7 +1024,7 @@ V
 18%
 20E
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 16
 Township43 South R. 20 E ast
 5
@@ -1065,7 +1065,7 @@ P00
 1871.
 4°20′ε.
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 17
 Township 45 South R. 21 East
 6
@@ -1103,7 +1103,7 @@ wins, 1875.
 fhoed
 s0E.
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 X
 18
 Township 49 South
@@ -1127,7 +1127,7 @@ Vav.,
 4= 30' E.
 M
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 19
 Township49 South
 R. 32 East
@@ -1154,7 +1154,7 @@ ONク
 Var:, 4
 4°30'E.
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 20
 X
 Township
@@ -1202,7 +1202,7 @@ Township
 1875
 4°30′E.
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 21
 X
 Eaet.
@@ -1371,7 +1371,7 @@ Vav.y
 40
 4
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 2è
 22.
 Township

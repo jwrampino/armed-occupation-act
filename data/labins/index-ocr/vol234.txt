@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 234
 DIAGRAM
@@ -85,7 +85,7 @@ Not Given
 2N
 21E J.A. Henderson
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Vol
 234
 Index
@@ -131,7 +131,7 @@ East
 210
 290
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 A
 U. S.
 GOVERNMENT SURVEY
@@ -149,7 +149,7 @@ Diagram Page #151 - See Body Pages 15o to 170 D
 Diagram Page #172 - See Body Pages L71 to 188D
 Diagram Page #190 - See Body Pages 189 to 210c
 
-===== PAGE 4 =====
+===== PAGE 4 [index] =====
 B
 U. S.
 GOVERNMENT SURVEY
@@ -177,7 +177,7 @@ Diagram Page #
 - See Body Pages
 to
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 (1)
 y
 oy
@@ -207,7 +207,7 @@ E1b
 prgre
 カ1729
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 1
 66.81
 3 thE
@@ -224,7 +224,7 @@ sl1
 421821
 Y
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 1
 44
 220
@@ -252,7 +252,7 @@ T3NR
 2
 2
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 3
 703
@@ -284,7 +284,7 @@ numts1
 205
 391
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 (89)
 14
 11
@@ -317,7 +317,7 @@ X
 2
 1T
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 108
 225
 061
@@ -342,7 +342,7 @@ g
 219
 961
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 1.2
 n0
 0て
@@ -372,7 +372,7 @@ River
 52
 
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 925
 -985 9
 V
@@ -406,7 +406,7 @@ i1s
 27bs
 9.115
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 172
 32
 1797
@@ -438,7 +438,7 @@ h8.s
 3
 5
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 (190)
 2059
 
@@ -472,7 +472,7 @@ E&S
 BES
 57
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 (212)
 3
 GG
@@ -500,7 +500,7 @@ L10g
 810m
 $72
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 2
 3
 3
@@ -530,7 +530,7 @@ MoO5
 2
 8
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 虎
 2
 54)
@@ -560,7 +560,7 @@ W2M
 615
 3
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 (274)
 加以
 64.91
@@ -585,7 +585,7 @@ mpuI
 617
 2
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 (290)
 4
 07025

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 79
 DIAGRAM
@@ -62,7 +62,7 @@ John Jackson
 5°E
 25
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 有
 Index
 4
@@ -121,7 +121,7 @@ Key
 Biscayme
 25
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Sounship
 31 South.
@@ -138,7 +138,7 @@ X
 36
 4
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 3
 Kange
@@ -225,7 +225,7 @@ e6y
 019.
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 5
 Kange 22
@@ -324,7 +324,7 @@ cπ
 19
 E1-
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 56 South.
 YRange
@@ -425,7 +425,7 @@ E1
 31
 32
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Sounship
 h 57 Soith.
@@ -531,7 +531,7 @@ e61-
 32
 36
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Sounship
 South.
@@ -600,7 +600,7 @@ _hrπ
 -272
 270
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 South.
 Range
@@ -707,7 +707,7 @@ E/E
 -91€
 -01E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15-
 Range 39
 Cast
@@ -812,7 +812,7 @@ C8£-
 33
 2
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 1.7
 Sounship
 East.
@@ -886,7 +886,7 @@ csク
 -475=
 -478-
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 Snith.
 Kange
@@ -981,7 +981,7 @@ C 0.9
 31
 20
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 Younship
 Kango 40
@@ -1054,7 +1054,7 @@ c90
 32
 607
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 23.
 Younship
 55 South.
@@ -1077,7 +1077,7 @@ mod
 18
 D
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 25
 Plan
 of

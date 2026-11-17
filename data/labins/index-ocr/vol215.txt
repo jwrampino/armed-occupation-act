@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 215
 DIAGRAM
@@ -52,7 +52,7 @@ PAGE
 4°- 40'E
 11
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Tal
 215
 210
@@ -75,7 +75,7 @@ T. S. R.E. Page.
 X
 1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 19 26 20 23 21 19 22 15~ 23 1 24
 23
 19
@@ -92,7 +92,7 @@ X
 Uar.,
 5° 45'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Township 48 S. R. 42G.
 6 63 5 59 4 53– 3 51 2 48 1
@@ -109,7 +109,7 @@ A5
 44
 31 55 32 36 33 52 34 48 35 44 30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 Township 49 S. R. 42E.
 166 8 105 5 102 4 99~ 3 94 2 88 1
@@ -138,7 +138,7 @@ Township 49 S. R. 42E.
 82
 Var., 4° 45'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 Township 50 S. R. 4 2 C. + 43 E
 125
@@ -191,7 +191,7 @@ G 18 /20 17
 15- 31 117 32 126 33 130 34 155 85
 lav
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Township 5/ S. R.A2 E
 182
 182
@@ -223,7 +223,7 @@ Township 5/ S. R.A2 E
 12101211
 210
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 7
 Township 52 S, R. 4 2 6.
 211
@@ -281,7 +281,7 @@ L232
 213
 46E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 8
 R. 43 6.
 Township A6S.
@@ -333,7 +333,7 @@ L272
 34
 269-
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 294
 2
 1
@@ -391,7 +391,7 @@ L272
 an.,
 4°-30'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 10
 10
 R. R. 43 C.
@@ -452,7 +452,7 @@ a
 aus18
 Vav, 4°40'E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 11
 Township A9S- R. 43 E.
 670/715

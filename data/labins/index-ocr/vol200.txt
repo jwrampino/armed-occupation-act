@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 200
 DIAGRAM
@@ -32,7 +32,7 @@ PAGE
 4°-20'E
 8
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 A.
 hiden
 douth least
@@ -52,7 +52,7 @@ J
 33
 8
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 _1
 Rauge
 Eash.
@@ -121,7 +121,7 @@ p
 251E.
 Vav.,
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Rauge
 6as.
@@ -216,7 +216,7 @@ o0
 1865,
 Vav.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 East.
 Jownship
@@ -298,7 +298,7 @@ T
 159
 1803
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 East.
 Lowns hip
@@ -382,7 +382,7 @@ E.
 4°20
 Vav,
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Eash.
 25
 308
@@ -468,7 +468,7 @@ C
 4°20' E
 1
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 8
 Ce ash,
 6

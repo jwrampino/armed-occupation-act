@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 160
 DIAGRAM
@@ -29,7 +29,7 @@ PAGE
 3°-45'E
 10
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Index to
 Fownskif
@@ -51,7 +51,7 @@ South
 38
 10
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 心
 6
@@ -122,7 +122,7 @@ MeKa
 18457.4.
 3=45 E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 6
 202
 200
@@ -169,7 +169,7 @@ m
 30
 45E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Tnwnship 29SouthRange38
 Gast
@@ -211,7 +211,7 @@ BRO
 3=45
 1
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 826
 30
 -326
@@ -223,7 +223,7 @@ mek
 E
 30
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 6
 d
 376

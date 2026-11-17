@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 102
 DIAGRAM
@@ -33,7 +33,7 @@ PAGE
 4°-50'E
 6
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index to Diagrams.
 Page.
 TR
@@ -52,7 +52,7 @@ South + East.
 30
 6
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 7
 Township 28 8. Range19E.
 1852 4040
@@ -88,7 +88,7 @@ a
 39
 L12-
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 
 S.R19E
@@ -172,7 +172,7 @@ Isiand
 1852.
 4°408
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Township
 30 8. Range
@@ -208,7 +208,7 @@ Township
 CBA
 -197
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 1852
 T. 28.S. R.20.E.
@@ -259,7 +259,7 @@ T. 28.S. R.20.E.
 O.F. Hapkiust, 1852.
 Ver, 4°40'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 T. 2 9. S.
 R 20. E.
@@ -311,7 +311,7 @@ T90
 O.F. HopKirs, 1852.
 4°40'E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 R. 20. E.
 T.

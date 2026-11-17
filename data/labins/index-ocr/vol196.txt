@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 196
 DIAGRAM
@@ -68,7 +68,7 @@ D.F. McNeil
 1825
 16
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 160l..
 DIAGRAM
@@ -99,7 +99,7 @@ D.F. McNeil
 1825
 22
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 line
 Bitween the
@@ -151,7 +151,7 @@ Page 4
 S
 86.6
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 mit.
  
@@ -195,7 +195,7 @@ RE
 3
 6
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 工
 dit /io
 yn p 81
@@ -238,7 +238,7 @@ E
 B
 S 86: E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 piy ishe
 s jabe
@@ -271,7 +271,7 @@ S86:E
 8 86: E
 S 99:E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Cofeca /load
 6  6
 yui jhe
@@ -305,7 +305,7 @@ S86:B
 S 86: B
 2
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 y. j.97
 yu j97
@@ -347,7 +347,7 @@ S86:E
 3
 4
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 sta ni
 w i
@@ -390,7 +390,7 @@ S86:
 S 86B
 B
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 8lu
 L

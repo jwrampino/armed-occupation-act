@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 U.S. Field Notes
 Volume-261
 Description
@@ -57,7 +57,7 @@ Don Pedro IslAND
 in Fract Seas. 3 +4.
 42south
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 U.S. Field Notes
 Yolume-261
 Description
@@ -116,7 +116,7 @@ Known as Bird Key. Secs.
 42EAst
 8+17.
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 U.S. Field Notes
 Volume-261
 Description
@@ -173,7 +173,7 @@ Don Pedro IslAND
 in Fract Seas. 3 +4.
 42south
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 U.S. Field Notes
 Yolume-261
 Description

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 148
 DIAGRAM
@@ -44,7 +44,7 @@ PAGE
 4°-10'E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 ndex
 Yo
 Sounship
@@ -83,7 +83,7 @@ i1
 33.
 二
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 6
 2
@@ -168,7 +168,7 @@ FR.
 20'E.
 4°
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Rangi 30 Cast.
 6
@@ -224,7 +224,7 @@ z3
 34
 4° 25'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Range
 Cast..
@@ -320,7 +320,7 @@ Lake.
 36
 4°20'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 Jounship
 900
@@ -419,7 +419,7 @@ E.
 Van.
 30
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Range 32
 East.
@@ -520,7 +520,7 @@ F.R.
 1848.
 4=30′E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Township
 24 South.
@@ -618,7 +618,7 @@ L0ケ
 J. R.
 1848.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Rangi
 Cast.
@@ -711,7 +711,7 @@ ce.9
 1848.
 ar.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Kanqi
 Cast
@@ -808,7 +808,7 @@ FR.
 1848.
 ar.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 East.
 Rangi

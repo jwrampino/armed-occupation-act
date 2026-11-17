@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 229
 DIAGRAM
@@ -68,7 +68,7 @@ PAGE
 4°-30'E
 29
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 229
 cont..
@@ -94,7 +94,7 @@ PAGE
 4°-30'E
 37
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 229
 4al
 Tp. South
@@ -150,7 +150,7 @@ Pageo 187A -187F
 33
 15
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2.
 R. 15€.
 6
@@ -195,7 +195,7 @@ Qan, 4°50'6.
 falloroing rage 187
 X
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 4
 Township 28 South R. 15 East
 5
@@ -244,7 +244,7 @@ d
 40
 VaN.,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 6
 Township 32 South
 R.16East
@@ -289,7 +289,7 @@ thark,1875.
 aN.,
 4°30'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 8
 F
 Township 32 South R. 15 East
@@ -330,7 +330,7 @@ Township 32 South R. 15 East
 36
 32
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 10.
 R. 15 East
 Township 30 South
@@ -371,7 +371,7 @@ Township 30 South
 76
 1875.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 12
 Township 2 6 South
 R.14East
@@ -416,7 +416,7 @@ tharp,18.75.
 so'E.
 6
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 14
 Township 30 South
 R./4East
@@ -460,7 +460,7 @@ R./4East
 1875.
 30'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 16
 Township 29 South R. /5 Est
 4
@@ -499,7 +499,7 @@ Township 29 South R. /5 Est
 2o'E
 an
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 18
 Township 2 9 South
 R./4East
@@ -543,7 +543,7 @@ Yav.,
 s0'E.
 40
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 20
 Township 26 South
 R.15East
@@ -583,7 +583,7 @@ R.15East
 2
 ar.,
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 21
 Township 36 So uth
 R.17East
@@ -623,7 +623,7 @@ R.17East
 1875,
 lav.,
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 23
 Township 27 South
 R./5East
@@ -665,7 +665,7 @@ R./5East
 36
 1875.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 25
 R. 17East
 Township 35 South
@@ -710,7 +710,7 @@ Q22C
 1875.
 av.,
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 27
 Township J 7 So uth
 R.17East
@@ -758,7 +758,7 @@ R.17East
 av.
 X
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 29
 Township 35 South R. /6 E'ast
 5
@@ -804,7 +804,7 @@ Township 35 South R. /6 E'ast
 1875
 30
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 3
 Township 34 South
 R. 16 East
@@ -850,7 +850,7 @@ R. 16 East
 har
 30'E.
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 33
 Township33 South
 R. 16East
@@ -888,7 +888,7 @@ R. 16East
 E.
 v.,
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 35
 31 South R.15 East
 Township
@@ -936,7 +936,7 @@ Doo
 1875,
 -go E.
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 37
 R. 18 E,
 Township 37 9.

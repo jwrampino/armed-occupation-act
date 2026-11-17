@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 162
 DIAGRAM
@@ -64,7 +64,7 @@ None
 3°- 40'E
 29
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex
 Yo
@@ -111,7 +111,7 @@ X
 40
 4
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Younship
 h 1 South. Rango 7 bast.
@@ -121,18 +121,18 @@ L Impracticable
 Vav.,
 3° 40′ E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Jnshi 
 ean ae tcal
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Impracticable
 -La
 Vav. 3° 40' E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 —2625—24—23
 -2221
@@ -144,7 +144,7 @@ y
 Vav,
 3° 40'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Younship
 Kange 38
@@ -216,7 +216,7 @@ aoc
 E.
 30
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Rango 38
 Cast.
@@ -330,7 +330,7 @@ E.
 30
 40
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 33 South.
 ourns
@@ -428,7 +428,7 @@ coe
 -136
 型：
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 9
 6
@@ -437,7 +437,7 @@ Gco
 Nar.,
 3°40′E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17.
 nshia
 8
@@ -448,7 +448,7 @@ nshia
 —101—
 griver.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 Kange 39
 Cast.
@@ -535,7 +535,7 @@ D
 40
 30
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 Tounship
 ケ9サー
@@ -635,7 +635,7 @@ N
 No
 van.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 23
 34South.
 30bast.
@@ -739,7 +739,7 @@ C
 aN.
 
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 25
 D
 661
@@ -753,7 +753,7 @@ G
 -122—133
 Houstare, 1844–5.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 27
 n
 511
@@ -762,7 +762,7 @@ s25
 811
 1844-5.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 29
 South.
 Range 40

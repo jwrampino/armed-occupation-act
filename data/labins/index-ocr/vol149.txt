@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 149
 DIAGRAM
@@ -29,7 +29,7 @@ PAGE
 10
 14S 13E A.H. Jones
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Inderx to Diadranes
 Townohip
@@ -54,7 +54,7 @@ Eaot
 11
 S
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 6
 9F
@@ -145,7 +145,7 @@ mus
 Var.,
 5°30' E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 -621
 771
@@ -247,7 +247,7 @@ B
 1849.
 5°30'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 12East
 e
@@ -364,7 +364,7 @@ A.H.
 1849.
 5=30'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Forvishijs13South Rang
 East
@@ -451,7 +451,7 @@ W.H.
 1849.
 5°25'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 ク9ク
 297

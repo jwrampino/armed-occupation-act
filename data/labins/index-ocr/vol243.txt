@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 243
 DIAGRAM
@@ -44,7 +44,7 @@ None
 None
 351
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 243
 Index to Diagrams
 T
@@ -88,7 +88,7 @@ d
 367
 23
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 4
 7
 GOVERNMENT SURVEY
@@ -111,7 +111,7 @@ Diagram Page #
 - See Body Pages
 to
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1.
 Township.
 Range. 27. East
@@ -225,7 +225,7 @@ HL-19-
 1885
 jav,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 152
 o
 Kames anS duties f resistants,
@@ -283,7 +283,7 @@ Kreanders gheriesBagonansPalna Sala Bay 59
 meander  Rerieo Islaind, Page 62 top.6, B
 reander of Islands in Sec.3 4, Book 2,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 W. H. Macy.
 9
 8
@@ -419,7 +419,7 @@ i
 988
 15
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 254
 See 34.
 Sec.
@@ -450,7 +450,7 @@ Sec
 35.
 で
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 266
 266.
 (4-874.)
@@ -494,7 +494,7 @@ R. 23 E.
 Var.
 1=57. E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 281.
 281
 (4-874.)
@@ -542,7 +542,7 @@ Sianahol.
 6-389
 Var, 3°15'E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 (4-874.)
 315
 32° S.,
@@ -595,7 +595,7 @@ R. 39 E.
 R.C. May , 1883 4.
 10m
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 354
 Fuld Notes
 of the survey of an

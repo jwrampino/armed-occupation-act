@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 242
 DIAGRAM
@@ -68,7 +68,7 @@ None
 4°-30'E
 362
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 2
 N. o E. Boundares.
 T.S
@@ -104,7 +104,7 @@ The diag
 of the page.
 the seimlery in the uppen
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 A
 U. S.
 GOVERNMENT SURVEY
@@ -135,7 +135,7 @@ to
 Note: Pgs. 348-352 show some houses, outbuildings, and
 Related structures.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 3
 00
@@ -168,7 +168,7 @@ Indes
 
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 56
 1881
 00
@@ -208,7 +208,7 @@ N
 0
 6
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 110
 2
 34
@@ -257,7 +257,7 @@ G0SR30E
 fg
 2
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 2
 1
 170
@@ -316,7 +316,7 @@ Meanders of Late Pickle
 Mean ders of Mill Latie
 141.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 329
 T/9 S
 R26E
@@ -326,7 +326,7 @@ ake
 Lake Mara
 A.D. Roelgees, 183.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 362
 T21S R27E
 36+364

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 147
 DIAGRAM
@@ -36,7 +36,7 @@ PAGE
 4°-33' E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 Index.
 Yo
@@ -59,7 +59,7 @@ Cast
 35
 35
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 28 South.
 Range 33
@@ -139,7 +139,7 @@ CC
 2
 4°35'
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 South.
 Rango 33
@@ -213,7 +213,7 @@ X
 H.N.
 1853.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Cast.
 Kange 34
@@ -320,7 +320,7 @@ Vav.,
 E.
 4°35'
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 6
 5
@@ -380,7 +380,7 @@ eof
 33'E.
 4°
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 30 South.
 Ra
@@ -457,7 +457,7 @@ d
 1853.
 4°33
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Soith.
 Towns
@@ -542,7 +542,7 @@ H. H. Flayd,
 Var.,
 4°33'E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Cast.
 6

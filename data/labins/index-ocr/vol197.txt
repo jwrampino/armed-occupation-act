@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 197
 DIAGRAM
@@ -28,7 +28,7 @@ PAGE
 4°-20'E
 5
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 4
 22
 Inden
@@ -51,7 +51,7 @@ R.
 33
 てか
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Rauge
 E asth.
 29.
@@ -124,7 +124,7 @@ Wacke n The Watox
 4°E.
 an.,
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Jo wrs hip 31
 Range
@@ -197,7 +197,7 @@ auid
 Var.,
 4°E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 I ourshrip
 East.
@@ -280,7 +280,7 @@ s
 4° E.
 av.,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 Rauge
 East.
@@ -375,7 +375,7 @@ S
 auiel
 4
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Rauge
 Tourship

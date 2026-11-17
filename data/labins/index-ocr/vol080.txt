@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 80
 DIAGRAM
@@ -69,7 +69,7 @@ PAGE
 4°-30'E
 18
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 80.
 cont...
@@ -148,7 +148,7 @@ No Variation
 4°E
 34
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 80.
 cont...
@@ -200,7 +200,7 @@ PAGE
 45
 40S 42E George Houston
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 to
 Youns hip
 Pago
@@ -288,7 +288,7 @@ X
 22
 ff
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 to
 Younship
 Sage
@@ -385,7 +385,7 @@ a
 4
 4
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 1
 Jounship
 32 Soith.
@@ -400,7 +400,7 @@ in
 3
 2
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 Rangu
 East.
@@ -418,7 +418,7 @@ Yu
 -130
 128
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Younship
 Cast.
@@ -433,7 +433,7 @@ in
 185
 -184
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Tounship
 South.
@@ -451,7 +451,7 @@ H
 —861-
 -661-
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 y
 South.
 Tounship
@@ -546,7 +546,7 @@ J6
 Barnitt
 Dmatim
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 East.
 South.
@@ -629,7 +629,7 @@ che
 17
 —93
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 Kange 20
 East.
@@ -645,7 +645,7 @@ Lar
 -120
 101
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 11
 Jounship
 31 South.
@@ -663,7 +663,7 @@ TEr
 174
 —173-
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 12
 Cast.
 —8.1
@@ -678,7 +678,7 @@ M
 081
 —E8人
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 13
 Kange
 27 South.
@@ -700,7 +700,7 @@ G
 -1℃
 -00-
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 14
 Sownship 28 Snith.
 Kange
@@ -721,7 +721,7 @@ M.
 -71-
 74
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 15-
 South.
 Kange
@@ -832,7 +832,7 @@ c .se
 88-
 86
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 16
 Sownship
 30 Snith.
@@ -855,7 +855,7 @@ X
 —17
 -115
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 17
 Jownship
 31 South.
@@ -877,7 +877,7 @@ W
 11
 -163
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 18
 Younship
 hange
@@ -894,7 +894,7 @@ X
 061
 -161
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 19
 South.
 YRange 22
@@ -907,7 +907,7 @@ Et1
 yobo
 w
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 20
 Yowns hip
 28 South.
@@ -926,7 +926,7 @@ of
 -46
 -42
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 21
 Sounship
 h 29 South.
@@ -950,7 +950,7 @@ X
 54
 -53-
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 22
 Younship
 30 South.
@@ -971,7 +971,7 @@ N
 -114
 -110
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 23
 Sownship
 31 South.
@@ -995,7 +995,7 @@ yn
 -160-
 -149-
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 24
 32 South.
 Younship
@@ -1013,7 +1013,7 @@ y
 2
 -091-
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 25-
 Jownship
 h 7 South.
@@ -1026,7 +1026,7 @@ wwn
 238
 232
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 26
 Cast
 14
@@ -1045,7 +1045,7 @@ eha人e
 -244
 240
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 27
 Jounship
 9 eSouth.
@@ -1071,7 +1071,7 @@ Note.
 connectire lim, bitucen the South wist comeni
 Poonshup
 
-===== PAGE 30 =====
+===== PAGE 30 [diagram] =====
 28
 Jownship
 Rangu 15
@@ -1093,7 +1093,7 @@ aw
 229
 -227
 
-===== PAGE 31 =====
+===== PAGE 31 [diagram] =====
 29
 Younship
 Cast.
@@ -1111,7 +1111,7 @@ S
 o4
 wWwn
 
-===== PAGE 32 =====
+===== PAGE 32 [diagram] =====
 30
 Rango
 Cast.
@@ -1141,7 +1141,7 @@ pumep
 -495
 -499—500
 
-===== PAGE 33 =====
+===== PAGE 33 [diagram] =====
 31
 South.
 Kange 40
@@ -1161,7 +1161,7 @@ ox
 -305=
 -576
 
-===== PAGE 34 =====
+===== PAGE 34 [diagram] =====
 32
 Sounship
 Kange 40
@@ -1181,7 +1181,7 @@ E7S
 -509-
 -512
 
-===== PAGE 35 =====
+===== PAGE 35 [diagram] =====
 33
 Yownship
 38 South:
@@ -1202,7 +1202,7 @@ W
 614
 -518
 
-===== PAGE 36 =====
+===== PAGE 36 [diagram] =====
 34
 Younship
 39 South.
@@ -1221,7 +1221,7 @@ Nat
 -CE-9-
 -1£.9
 
-===== PAGE 37 =====
+===== PAGE 37 [diagram] =====
 35
 Cast.
 Mango 40
@@ -1238,7 +1238,7 @@ H
 -90.9
 SCe
 
-===== PAGE 38 =====
+===== PAGE 38 [diagram] =====
 36
 Younship
 -9t8l'm
@@ -1254,7 +1254,7 @@ Sound
 a
 w
 
-===== PAGE 39 =====
+===== PAGE 39 [diagram] =====
 3
 South.
 Range 4) ast
@@ -1277,7 +1277,7 @@ e
 W
 564
 
-===== PAGE 40 =====
+===== PAGE 40 [diagram] =====
 38
 Yownship
 Kange 41
@@ -1312,7 +1312,7 @@ leo, konston,
 2
 1845.
 
-===== PAGE 41 =====
+===== PAGE 41 [diagram] =====
 39
 38 South.
 Indian
@@ -1332,7 +1332,7 @@ Kiirn
 06.9
 -575
 
-===== PAGE 42 =====
+===== PAGE 42 [diagram] =====
 40
 39 South.
 =8t81
@@ -1347,7 +1347,7 @@ Kiirn
 2
 -582
 
-===== PAGE 43 =====
+===== PAGE 43 [diagram] =====
 41
 Sownship
 Kange 41 Cast.
@@ -1365,7 +1365,7 @@ ox
 -E89
 2
 
-===== PAGE 44 =====
+===== PAGE 44 [diagram] =====
 42
 Younship
 Kange 42 East.
@@ -1384,7 +1384,7 @@ Rion
 L
 =605=
 
-===== PAGE 45 =====
+===== PAGE 45 [diagram] =====
 43
 South.
 Cast.
@@ -1407,7 +1407,7 @@ its Bars
 gutn Jotna
 Qukuc.lya
 
-===== PAGE 46 =====
+===== PAGE 46 [diagram] =====
 44
 Range
 42 East
@@ -1421,7 +1421,7 @@ B
 6/2
 613
 
-===== PAGE 47 =====
+===== PAGE 47 [diagram] =====
 45-
 Tounship
 40 South.

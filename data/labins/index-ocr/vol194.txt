@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 194
 DIAGRAM
@@ -52,7 +52,7 @@ None
 None
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex.
 Yournship
@@ -72,7 +72,7 @@ e
 海
 30
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Range 8 Wast?
 Witamem
 ar
@@ -95,7 +95,7 @@ chattahoochue
 1854.
 crry
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 A
 Yownship
@@ -126,7 +126,7 @@ Dr
 crry
 5° 55'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Younship
 Range
@@ -164,7 +164,7 @@ crry
 Vae.,
 5°53 E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 Younship
 Wist.
@@ -211,7 +211,7 @@ S
 1854.
 urry
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Yownship
 6 North.
@@ -241,7 +241,7 @@ Pah.,
 E.
 6-20
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 竹
 Younship 5, and 6, Noith
 Rangi 28 Wist.
@@ -268,7 +268,7 @@ Sec 37
 1854.
 erry
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Rango
 29 Wust.
@@ -299,7 +299,7 @@ Edgley & Inuns
 1854
 irry
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Younship
 Range 30 Wist.

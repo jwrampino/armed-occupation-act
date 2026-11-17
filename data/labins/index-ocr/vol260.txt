@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 U.S Field Notes
 Volume 260
 Description
@@ -50,7 +50,7 @@ Islands Nos. 17+18 in
 44S
 LAke Wbeth Sections 10+15.
 
-===== PAGE 2 =====
+===== PAGE 2 [other] =====
 U.S Field Notes
 Volume 260
 Description

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 142
 DIAGRAM
@@ -54,7 +54,7 @@ None
 4°-25'E
 20
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inder to
 Diaorams
 Tozeislzin
@@ -73,7 +73,7 @@ iミ
 rr
 n
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Township/5SouthRange 12 East
 of
@@ -86,7 +86,7 @@ N
 36
 Nav., 5.5'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Township 16SouthRange 12East
 Koy
@@ -105,7 +105,7 @@ Guf
 10
 Nar., 5=5'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 2
 6
@@ -166,7 +166,7 @@ Depaot.keg
 Geo., Hatsarr, 1851.
 No Vav. giverr.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Township16South Range.13 East.
 Depot
@@ -184,7 +184,7 @@ Snake
 Key
 Geo.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Tounship 21 South Rarge 17 East
 0
@@ -290,7 +290,7 @@ do
 3L
 Vav., 5º E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Township22 SouthRarige 17 East
 236
@@ -408,7 +408,7 @@ BG
 2
 11
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 1e
 6
 342
@@ -460,7 +460,7 @@ BG
 314
 Vav.,5° E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 Earnship31 South Range 17 East
 380
@@ -500,7 +500,7 @@ B
 29
 1362
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 Bay
 416
@@ -511,7 +511,7 @@ Bay
 :72u
 giverr.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 20
 12, S R 23 E
 E

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 111
 DIAGRAM
@@ -46,7 +46,7 @@ PAGE
 3°-E
 18
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inded
 Diagrams
 to
@@ -76,7 +76,7 @@ R
 41
 42
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Range
 Sowrs hip 5 South.
@@ -166,7 +166,7 @@ G
 mea
 E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Sowrs hip 23.
 South.
@@ -259,7 +259,7 @@ omer.
 Var:,
 5=50'E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Sournshup 24 South. Range
 35 & ast.
@@ -351,7 +351,7 @@ G
 fo0, 1844-5.
 3°52'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 283
 522
@@ -462,7 +462,7 @@ nes,
 Vav.,
 3°52'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 South.
 zHS
@@ -578,7 +578,7 @@ omes,
 Var.,
 4°15'E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 2
 South, Rauge
 H1 East.
@@ -685,7 +685,7 @@ Hっ
 nes,
 1846.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 4.1. East.
 ーウクー
@@ -782,7 +782,7 @@ F
 1845.
 me
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 East.
 8.5.4
@@ -891,7 +891,7 @@ m
 A.H.
 . 1845.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 Soonshup 41
 South.

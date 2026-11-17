@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 139
 DIAGRAM
@@ -25,7 +25,7 @@ PAGE
 4°-35'E
 8
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Tndeve to Diagrarzis
 Towzshix Razzge
@@ -43,7 +43,7 @@ South
 32
 8
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Township2NorthRange1.West
 2
@@ -86,7 +86,7 @@ $2
 1852.
 5
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 Cd
 ahe
 3
@@ -134,7 +134,7 @@ A.M.
 Var.,
 5058.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 026
 610
@@ -244,7 +244,7 @@ C. F. HopKins,
 1852
 4°35'E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 223
 CUZ

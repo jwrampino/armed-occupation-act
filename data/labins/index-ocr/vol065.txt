@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 65-A
 DIAGRAM
@@ -45,7 +45,7 @@ PAGE
 4°- 45'E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 to
 Yownship
 Rangu
@@ -82,7 +82,7 @@ Cast
 17
 22
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1.
 Tounship
 South.
@@ -166,7 +166,7 @@ CC-
 2
 -91
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Younship
 Tha
@@ -270,7 +270,7 @@ ch
 60)
 9
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 South.
 Yownship
@@ -376,7 +376,7 @@ E41
 101
 2
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Kange
 Cast..
@@ -483,7 +483,7 @@ OCT
 1℃
 X
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Tounship
 South.
@@ -591,7 +591,7 @@ c/℃
 36
 X
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Kange
 22
@@ -690,7 +690,7 @@ eE
 35
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Ranqi
 East.
@@ -788,7 +788,7 @@ S0ツ
 35
 36
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 South.
 Yownship
 ange
@@ -898,7 +898,7 @@ c9
 L
 2
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 19
 Younship
 South.

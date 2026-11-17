@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 189
 DIAGRAM
@@ -70,7 +70,7 @@ PAGE
 None
 19
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex
 Jo
@@ -93,7 +93,7 @@ sest
 7
 n.
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 ruyaf
 心
 4. Bacley Heirs
@@ -101,7 +101,7 @@ ruyaf
 J. Richands
 1849.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 3 South.
 344
@@ -146,7 +146,7 @@ a
 lu
 E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 
 3
@@ -159,7 +159,7 @@ Julingtn
 Vat.
 50 E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y
 South.
 Kange
@@ -262,7 +262,7 @@ rs
 5020
 2
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Tounship
 Sic 38
@@ -298,7 +298,7 @@ O
 1848-9.
 ε.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 1
 Jov
 189
@@ -312,7 +312,7 @@ Fatio
 Hamry 41
 5266-527
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 12
 30 West
 ll. Carrera
@@ -417,7 +417,7 @@ Palomes
 2
 Var
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 Kangi 29
 South.
@@ -454,7 +454,7 @@ Minalla
 185k，
 cics
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15
 South.
 29130 West.
@@ -516,7 +516,7 @@ eb
 2
 0
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 Sounship 38 South. Aange 41 42 East
 Hansons
 Grand
@@ -527,7 +527,7 @@ The Field Notes of the same
 uill be found commincing at Page 560 and
 S.W. Coners
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 19
 Lake Jessup
 36

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 127
 DIAGRAM
@@ -49,7 +49,7 @@ PAGE
 20
 29S 29E H.H. Floyd
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Tudex lo
 Diagzmazzis
@@ -79,19 +79,19 @@ Bart
 29
 5
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Township 28SouthRange 31Bast
 H.H. Filayd, 1855.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 A
 ownship29SouthRange3hEast.
 9
 2
 33
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Township 29 SmuthRange 35 East
 32
@@ -106,7 +106,7 @@ X
 H.H. Floyd, 1853.
 33
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Tounship 30 SouthRange 35Bast
 -45
@@ -120,14 +120,14 @@ F
 H.H. Floyd, 185.
 33
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Township 30South Range 34East
 ———29-
 00
 H. H. Flayd, 1853.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Township 28SouthRange27East
 69
@@ -223,7 +223,7 @@ Lake
 1853.
 Vav., 4-35'ε.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 1h
 nurship 29 South Range27East
 0
@@ -313,7 +313,7 @@ Zz
 112
 33
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 28East
 269
@@ -421,7 +421,7 @@ N.H.
 1853.
 4=35'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 Tounshij29 South Range28East
 333
@@ -518,7 +518,7 @@ CCE
 1853.
 Vav.; 4° 35'E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 20
 Township2 9SouthRang
 2

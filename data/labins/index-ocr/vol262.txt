@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 U.S. Field Notes
 Volume 262
 Description
@@ -66,7 +66,7 @@ JUR ISLANDS IN SECtIONS 2
 21E
 162
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 U.S. Field Notes
 Volume-262
 Description
@@ -139,7 +139,7 @@ Yorth Boundary
 45S
 41E
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 U.S. Field Notes
 Rolume-262
 Description
@@ -184,7 +184,7 @@ North Boundary of
 45S
 43E
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 U.S. Field Notes
 Volume 262
 Description
@@ -250,7 +250,7 @@ JUR ISLANDS IN SECtIONS 2
 21E
 162
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 U.S. Field Notes
 Volume-262
 Description
@@ -323,7 +323,7 @@ Yorth Boundary
 45S
 41E
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 U.S. Field Notes
 Rolume-262
 Description

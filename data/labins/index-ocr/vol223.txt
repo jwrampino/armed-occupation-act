@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 223
 DIAGRAM
@@ -63,7 +63,7 @@ None
 None
 3
 
-===== PAGE 2 =====
+===== PAGE 2 [diagram] =====
 Indix Diagram. Part of Arre dondo Grant. Washington t Bun 
 1845
 No.
@@ -122,7 +122,7 @@ T
 R 18
 R19
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2.
 Index Driagram. Part of Aredondo Grant.
 Range 20
@@ -194,7 +194,7 @@ T.115.
 184185
 R20E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Index Diagram.
 Part of Arredondo Grant.

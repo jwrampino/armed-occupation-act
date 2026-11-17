@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 72-A
 DIAGRAM
@@ -68,7 +68,7 @@ N.G.
 N.G.
 29
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 72-A.
 cont.
@@ -109,7 +109,7 @@ N.G.
 N.G.
 45
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 T
 R
 South X East
@@ -172,7 +172,7 @@ a
 22
 45
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 To evus hip 16 Sorrth.
 Range 21 East.
@@ -290,7 +290,7 @@ Q1-
 454
 453
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 East.
 21
@@ -351,7 +351,7 @@ x
 Heejeulos
 -70
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 .Tonship 15 So uth.
 East.
@@ -412,7 +412,7 @@ am
 422
 422
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 East.
 20 Souuth.
@@ -531,7 +531,7 @@ WW
 282
 283
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 3
 . Jounsnip 14 Sozuth.
 East.
@@ -548,7 +548,7 @@ D
 -384-
 5
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 22
 .Jowrnship 14 Sonth.
@@ -561,7 +561,7 @@ Ronge 22 East
 -628
 -328
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 23
 East
 Jorunsnip 16 Sovuth. Range 22
@@ -581,7 +581,7 @@ Wi
 -425=
 -428427427426
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15-
 3
 East.
@@ -594,7 +594,7 @@ N
 1848
 8
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 27
 Jowrvship 15 Sorth.
 Roargr 23 East.
@@ -611,7 +611,7 @@ M
 -472
 中心
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 19
 Jovivs nip 16 South.
 East.
@@ -628,7 +628,7 @@ e
 2
 —998
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 21
 East..
 Range
@@ -643,7 +643,7 @@ M
 256257-
 258
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 23
 Razuge 23 East.
  Jovrusnip 18 South.
@@ -660,7 +660,7 @@ m
 3u4
 345
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 25
 Rauge 23
 .Joures mep 19 South.
@@ -677,7 +677,7 @@ m
 —019
 504
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 27
 Ranrge 23
 22
@@ -695,7 +695,7 @@ Som
 530
 -531
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 29
 . Iourship 22 Sorth .
 Kange 23. Eash .
@@ -712,7 +712,7 @@ M
 のc
 5
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 31
 .Jounship 15 South.
 7
@@ -725,7 +725,7 @@ M
 d
 -ε6
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 33
 . Jownship 16 Sou Th.
 -626
@@ -740,7 +740,7 @@ M
 147
 一
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 35
 Jounship 17
 South.
@@ -758,7 +758,7 @@ N
 -5-5-3=
 -5560587
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 37
 Jownship 18 South.
 Range 24 Bast..
@@ -772,7 +772,7 @@ LASE
 -351
 -352353
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 39
 Jounship 19 South.
 Range 24
@@ -790,7 +790,7 @@ Sape
 518579
 n
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 21
 . Journship 20 Sonthh. Range 22
 East.
@@ -802,7 +802,7 @@ ny
 —666
 -866
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 216
 Range
 Q2 East.
@@ -816,7 +816,7 @@ m
 541542543544545
 -540-
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 45
 Roinge
  Jownshrip 22 Sonth.

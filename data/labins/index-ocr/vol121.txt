@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 121
 DIAGRAM
@@ -34,7 +34,7 @@ PAGE
 4°-30'E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Index
 to Diağrans
@@ -61,7 +61,7 @@ South
 12
 31
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 97
 6
@@ -133,7 +133,7 @@ $32
 101
 wer, 1848.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Township7SouthRange11East.
 132
@@ -234,7 +234,7 @@ T£
 CON.
 over, 1848.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Township 2 7South Range29East.
 -976
@@ -333,7 +333,7 @@ Q
 ouer,
 1848.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 388
 98E
@@ -440,7 +440,7 @@ A.H.
 wer, 1848,
 Vav., 4-30' E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 272
 LGO
@@ -543,7 +543,7 @@ ake
 oiver,
 E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 6
 367

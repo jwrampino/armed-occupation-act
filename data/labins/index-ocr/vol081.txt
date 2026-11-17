@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 81
 DIAGRAM
@@ -47,7 +47,7 @@ None Given
 4°-30'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 To
 iagrams.
 Younship
@@ -79,7 +79,7 @@ South
 11
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Range
 East.
 ounship
@@ -192,7 +192,7 @@ cc
 8
 -133
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 South.
 Kange
@@ -313,7 +313,7 @@ x0℃
 36
 P
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 J
 Jounship
 7 South.
@@ -420,7 +420,7 @@ E7C
 36
 X
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 y.
 Mango 15
 Cast
@@ -528,7 +528,7 @@ CSE
 -343-
 -331
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 East.
 9 South.
@@ -638,7 +638,7 @@ E1
 32
 ourdy
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 16 East.
 3
@@ -741,7 +741,7 @@ M
 35
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 Sounship
 Cast
@@ -821,7 +821,7 @@ M'D
 Burnit
 Dmati
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Kangu
 South.

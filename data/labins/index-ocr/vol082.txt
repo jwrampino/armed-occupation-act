@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 82
 DIAGRAM
@@ -41,7 +41,7 @@ PAGE
 4°-30'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inder
 Page
 SouthGast
@@ -77,7 +77,7 @@ n
 
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Jownship
 Range
@@ -183,7 +183,7 @@ X
 33
 34
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 J
 ourship 32
@@ -272,7 +272,7 @@ CO
 32
 261
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Range 18
 East.
@@ -366,7 +366,7 @@ d41
 31
 3
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Jounship
 Range
@@ -464,7 +464,7 @@ GT
 31
 32
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Range
 East.
@@ -560,7 +560,7 @@ X
 33
 08
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Range
  Jownship 33 South.
@@ -670,7 +670,7 @@ X
 32
 31
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 East.
 Jownship
@@ -796,7 +796,7 @@ oa
 3
 3
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Jownship
 35 South. Range

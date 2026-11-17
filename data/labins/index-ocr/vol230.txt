@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 230
 DIAGRAM
@@ -40,7 +40,7 @@ PAGE
 31/4° - E
 464
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index
 Page 1
 T50 S R26E
@@ -70,7 +70,7 @@ Vol
 23
 
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 142
 (4-674.)
@@ -112,7 +112,7 @@ wnship
 6389
 174
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 298
 (1-674.)
 52 S.,
@@ -182,7 +182,7 @@ R.
 6—389
 
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 301
 64
 L
@@ -218,7 +218,7 @@ H
 31
 32
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 464
 (1-674.)
 ship 55 S.
@@ -253,7 +253,7 @@ R. 26 E.
 36
 6-389
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 (4-674.)
 52 S,
 R. 2 7 E
@@ -312,13 +312,13 @@ Township
 498
 6389
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 #
 No 1.
 I. 50, R 26,
 旱
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 78
 (1-074.)
 Township 5/ S., R. 27, E.
@@ -342,7 +342,7 @@ M
 6-380
 Vav, 3么-E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 Inder
 143
 R
@@ -354,7 +354,7 @@ X I
 Sec2
 Hd
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 24
 289
 188
@@ -398,7 +398,7 @@ R.25€.
 12.91
 14422 b-10 m
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 2
 5
 2.99
@@ -440,7 +440,7 @@ R.26 E.
 j0
 150
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 T 5
 2 S
 R27E

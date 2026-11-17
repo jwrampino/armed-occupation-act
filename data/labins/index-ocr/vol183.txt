@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 183
 DIAGRAM
@@ -56,7 +56,7 @@ PAGE
 5°- E
 10
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 183
 of
 Index to Diagrams.
@@ -79,7 +79,7 @@ T.S.
 10
 15
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 18
 1
 Cist
@@ -125,7 +125,7 @@ SS
 34
 1850.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 29
 A. Dcoccr
@@ -161,7 +161,7 @@ Casiratsa
 530
 lan..
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Township 3 South Range 29 East.
 29
@@ -201,7 +201,7 @@ C.Hill
 30'E.
 av.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4.
 4 Soulh Range 29
 911
@@ -291,7 +291,7 @@ Var:
 72
 30
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Cast.
 6
 H. Smith
@@ -331,7 +331,7 @@ ard
 5-30 E.
 N
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Nownship 8 South Rango 24
 6
@@ -415,7 +415,7 @@ Hav,
 0
 ξ.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Sownship 8 South Ranage
 30 Oast-
@@ -460,7 +460,7 @@ B1
 50
 E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 S
 30
 ast
@@ -497,7 +497,7 @@ ei 5. Bilh
 51
 正
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 E.BcttsJEWlit
 265
@@ -617,7 +617,7 @@ r9
 E
 
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 3641365
 366
@@ -718,6 +718,6 @@ Looy
 50 E.
 2
 
-===== PAGE 13 =====
+===== PAGE 13 [blank] =====
 11
 A

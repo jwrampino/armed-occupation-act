@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 1084
 I1.
 US. Field Notes Iuder
@@ -57,7 +57,7 @@ ZZE.
 Lines and subdivision of
 Section Lines of Secs. 23+24
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Ia vo
 US. Field Notes IoDEX
 Volume-274
@@ -113,7 +113,7 @@ S. Boundaries + Meanders And
 167
 Asurrey of the Meauder.
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 384
 I3
 U.S. Field Notes ToDEr
@@ -173,7 +173,7 @@ Survey Of ove Islawd, sec 19,
 24s.
 30 431,
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 I4
 U.S. Field Notes TODEX
 4084
@@ -202,7 +202,7 @@ PROCESS
 PART III ELEUATION
 PROFILES
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 1084
 I1.
 US. Field Notes Iuder
@@ -259,7 +259,7 @@ ZZE.
 Lines and subdivision of
 Section Lines of Secs. 23+24
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 Ia vo
 US. Field Notes IoDEX
 Volume-274
@@ -315,7 +315,7 @@ S. Boundaries + Meanders And
 167
 Asurrey of the Meauder.
 
-===== PAGE 7 =====
+===== PAGE 7 [hindex] =====
 384
 I3
 U.S. Field Notes ToDEr
@@ -375,7 +375,7 @@ Survey Of ove Islawd, sec 19,
 24s.
 30 431,
 
-===== PAGE 8 =====
+===== PAGE 8 [hindex] =====
 I4
 U.S. Field Notes TODEX
 4084

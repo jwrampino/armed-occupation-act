@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 176
 DIAGRAM
@@ -64,7 +64,7 @@ PAGE
 5°-30'E
 8
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 1760ol..
 DIAGRAM
@@ -101,7 +101,7 @@ PAGE
 4°-30'E
 13
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 2
 Page
 S.
@@ -126,7 +126,7 @@ C
 11
 11
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 19
 6
 5
@@ -202,7 +202,7 @@ Glade  liteiwon reyu te
 1850.
 50E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 6
 -LS1
@@ -280,7 +280,7 @@ Ent
 Anm
 llll
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3 3
 Easti
 prushies 17 S. R.2g  18 S. R.30
@@ -317,7 +317,7 @@ M.Raudolph
 Nav.,
 8
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 76
 ti
 11
@@ -386,7 +386,7 @@ block
 337
 1850.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 onnship 12 South Range 31 East
 216
@@ -400,7 +400,7 @@ A.M.Ra
 dolph, 1850.
 5°-30'E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 6
 G. Andnson
@@ -460,7 +460,7 @@ dal
 1850
 E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 577
 37
@@ -530,7 +530,7 @@ E.
 8
 9
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 8
 Dounshu 1s /2s13 South Rangas 31s 5 2 1 as
 P
@@ -572,7 +572,7 @@ N.M.Maudolph
 1850.
 i
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 7917
 ミクワ
@@ -642,7 +642,7 @@ Papac
 -431-
 410
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 我
 10
 ORS
@@ -739,7 +739,7 @@ PC
 327
 339-
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 Jounshp
 15
@@ -761,7 +761,7 @@ S42
 4045'E.
 Vav,  and
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 E asi
 328
@@ -878,7 +878,7 @@ LEE
 36
 lan
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 Sonshul /6S. R. 34
 Cast-

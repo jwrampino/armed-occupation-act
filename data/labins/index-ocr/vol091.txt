@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 91
 DIAGRAM
@@ -40,7 +40,7 @@ None
 None
 10
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Indey
 T.N.
 R.W. Page
@@ -69,7 +69,7 @@ n
 7
 10
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 60
 5
 20
@@ -87,7 +87,7 @@ gπ
 8
 9
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 29
 20
 32
@@ -106,7 +106,7 @@ F9
 9e
 95
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 13
 C21
 601
@@ -198,7 +198,7 @@ Le
 501
 801
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7℃
 SC
 36
@@ -257,7 +257,7 @@ L71
 871
 171
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 -xaπ
 -600—
 -661
@@ -304,7 +304,7 @@ aon
 30
 31
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Lsr
 -9 c℃
@@ -420,7 +420,7 @@ CSC
 vec
 CSC
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Yange e nat
 二9281
@@ -470,7 +470,7 @@ a.
 30
 3
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 -9π
 15
 2
@@ -526,7 +526,7 @@ EDE
 81€
 31
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 7
 096
 -11€
@@ -573,7 +573,7 @@ ege
 30
 3
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 =8281
 39

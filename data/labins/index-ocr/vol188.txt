@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 188
 DIAGRAM
@@ -81,7 +81,7 @@ PAGE
 9
 18E M.A. Williams
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 188c0l..
 DIAGRAM
@@ -119,7 +119,7 @@ PAGE
 5°- E
 13
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Under.
 to
 Thew
@@ -155,7 +155,7 @@ __
 4
 6.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 5
 4
 3
@@ -190,7 +190,7 @@ Vavy
 75
 1°&
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 22
 28
 24
@@ -226,7 +226,7 @@ Le
 Var.,
 50E
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 6
 5
@@ -288,7 +288,7 @@ Sec Jool.
 190
 KlN.Moris, 850.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 3
 East
 10
@@ -414,7 +414,7 @@ LE
 1849
 45E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 云
 5
 3
@@ -469,7 +469,7 @@ Many Smithn
 Vav.,
 50.E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 8
 8
@@ -577,7 +577,7 @@ N
 242
 243
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 6
 61207p
 76
@@ -609,7 +609,7 @@ N
 Var.,
 E
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 1
 7
 East
@@ -661,7 +661,7 @@ S.HT
 31
 1008.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 8
 Jonnshu/ 3orth
 Range
@@ -679,7 +679,7 @@ chriotoi
 ille
 Vav.,
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 9
 -435
 435
@@ -779,7 +779,7 @@ u29
 cas
 Vav,
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 10
 25 East.
 -138-
@@ -882,7 +882,7 @@ ue
 850.
 E
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 11
 25 East
 5
@@ -1018,7 +1018,7 @@ William Gibson & Othos
 Scer 50-51+52
 M.a, Wilhainr - 1850
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 72
 6
 5
@@ -1062,7 +1062,7 @@ Silcox
 36
 Viar, 5° E.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 13
 Eratinl
 07

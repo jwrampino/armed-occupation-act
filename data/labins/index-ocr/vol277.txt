@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 I
 Page 1
 U.S. Field Notes INDEX
@@ -60,7 +60,7 @@ Supdivisoaec of sec. 2 and
 Metes + Dounds Survey of Certain
 Parcels in sec.d.
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 I2
 Page 2
 U.S. Field Notes INDEX
@@ -104,7 +104,7 @@ Subdivision of Sec. 36 and the
 Metes and bounds Surrey of
 Certain farcels in Sec. 36.
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 I3
 Page 3
 U.S. Field Notes INDEx
@@ -170,7 +170,7 @@ Lines $ subdivisiong sections
 4, 8, 17, 20, 29  33, metes
 bounds of sectiona 8120
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 I
 Page 1
 U.S. Field Notes INDEX
@@ -230,7 +230,7 @@ Supdivisoaec of sec. 2 and
 Metes + Dounds Survey of Certain
 Parcels in sec.d.
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 I2
 Page 2
 U.S. Field Notes INDEX
@@ -274,7 +274,7 @@ Subdivision of Sec. 36 and the
 Metes and bounds Surrey of
 Certain farcels in Sec. 36.
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 I3
 Page 3
 U.S. Field Notes INDEx

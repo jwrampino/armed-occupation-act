@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 187
 DIAGRAM
@@ -47,7 +47,7 @@ PAGE
 4°-12'E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex
 To
@@ -83,7 +83,7 @@ I
 4
 4
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 18
 30
 11
@@ -100,7 +100,7 @@ aus
 Var.,
 E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 31 Cast.
 South.
@@ -201,7 +201,7 @@ U
 186元，
 Vav.,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Rangi 31 bast.
 29
@@ -281,7 +281,7 @@ a
 4° 32
 C
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Rangi
 30 South.
 32 East
@@ -385,7 +385,7 @@ TN
 1852-
 32
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 East.
 Rangi
@@ -485,7 +485,7 @@ ec/
 165
 104
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Kangi
 Jouns hip
@@ -586,7 +586,7 @@ A.
 a, 1853.
 r
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 Range
 38 South.
 Cast.

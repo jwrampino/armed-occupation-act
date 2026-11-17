@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 227
 DIAGRAM
@@ -90,7 +90,7 @@ as noted
 as noted
 4
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 227
 cont...
@@ -155,7 +155,7 @@ as noted
 as noted
 7
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 25
 28
 27
@@ -196,7 +196,7 @@ no21
 5
 2
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 200.24
 2025
@@ -263,7 +263,7 @@ J. 3 M. R.2 E
 102
 103
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 116 20.19
 2.5
 20.51
@@ -328,7 +328,7 @@ J.37.,R.6
 152
 15
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 220.1
 20.75
 2o.77
@@ -384,7 +384,7 @@ R.10
 197
 19
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 220.96
 220.97
@@ -462,7 +462,7 @@ no.Hs
 252
 253
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 20.120
 No.121
@@ -531,7 +531,7 @@ R.18C.
 297
 298
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2o.144
 20175
 018309

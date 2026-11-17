@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 231
 DIAGRAM
@@ -38,7 +38,7 @@ PAGE
 4°- 5'E
 335
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Noe 931
 Range.
 Page
@@ -68,7 +68,7 @@ re
 rams
 hr
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Township 13S
 .R. 12 E
@@ -110,7 +110,7 @@ Township 13S
 36
 18.78
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 152
 T18S-R16E
 1图
@@ -133,7 +133,7 @@ W
 MM
 30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 13°2 -13
 E
 1
@@ -148,7 +148,7 @@ x
 8
 蒸
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 9
 295
 294
@@ -166,7 +166,7 @@ Shell Island
 20
 
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 15=-
 
 168
@@ -193,7 +193,7 @@ N02
 156
 25
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 152-0
 之
 5N2
@@ -230,7 +230,7 @@ B8y
 25
 じ
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 152-0
 之
 5N2
@@ -267,7 +267,7 @@ B8y
 25
 じ
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15.2
 T.18
 R.
@@ -290,7 +290,7 @@ C
 147
 165
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 23
 14-12
 38
@@ -312,7 +312,7 @@ C
 3
 C. F.Srith, 1878
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 C
 906
 24
@@ -382,7 +382,7 @@ CA
 B
 For
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 2
 712
 3.2
@@ -442,7 +442,7 @@ For ps.
 330
 立
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 333
 T1GS-R15E
 2
@@ -459,7 +459,7 @@ T1GS-R15E
 14
 32
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 53
 R. 12 6
 Township /3 S
@@ -500,7 +500,7 @@ Township /3 S
 36
 40
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 
 63
 3
@@ -541,7 +541,7 @@ Hughps
 Suuth
 正
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 y1
 95
 T

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 164
 DIAGRAM
@@ -36,7 +36,7 @@ PAGE
 4°-30'E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 #
 Yo
 9
@@ -66,7 +66,7 @@ a
 22
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 
 Younship
@@ -148,7 +148,7 @@ A. H, McConinak, 1848.
 Vav, 4º-30 E.
 PE
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Kangu 20 bast.
 -0.91
@@ -234,7 +234,7 @@ CC
 eic16,1848.
 4°30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 South.
 Kangi 20 bast.
@@ -324,7 +324,7 @@ meCo
 AH.
 1848
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Downship
 21 South.
@@ -429,7 +429,7 @@ Var.,
 40308.
 12
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 64
 Mangu 21
@@ -534,7 +534,7 @@ Page 404
 of this
 Volume.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 24 South.
 04
@@ -630,7 +630,7 @@ Var.,
 E.
 4°30
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 South.
 -000
@@ -709,7 +709,7 @@ O
 Vav.,
 4°30'E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Cast.
 Hangi 22
@@ -793,7 +793,7 @@ CCa
 30
 2
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 19
 30'8.
 7班：

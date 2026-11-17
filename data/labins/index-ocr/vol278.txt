@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 Volume 278
 U. S. Fild Notes INDEX
 Page 1
@@ -50,7 +50,7 @@ Page 11
 on
 of Section 31
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 pag 2
 INDEX
 U. S. Field Notes
@@ -84,7 +84,7 @@ Section 5,
 Subdivison
 PARCEl 5
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 INDEX DIAGRAM
 Township 9 South, Range 11 West
@@ -142,7 +142,7 @@ Survey Ties and Descriptions of Improvements
 in Fractional Section 29 .
 .. Pgs. 17 - 19
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 115
 INDEX DIAGRAM
 Township 40 South, Range 43 East
@@ -176,7 +176,7 @@ diagram
 Page#'s
 118→125
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 129
 INDEX DIAGRAM
 Township 40 South, Range 43 East
@@ -204,7 +204,7 @@ diagram follow
 on Pages# 132→
 137
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 INDEX DIAGRAM
 Township 16 and 17 South, Range 34 East
 5
@@ -252,7 +252,7 @@ Adjusted Record Meanders in Sections 32 and 33 Page 17
 Metes-and-Bounds Survey of USCG tract in Section 5 Page 18
 Meanders of actual shoreline in Section 5 Page 20
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 25
 INDEX DIAGRAM
 TOWNSHIP 17 SOUTH, RANGE 27 EAST

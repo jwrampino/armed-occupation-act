@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 I1.
 1065
 IUS. Field Notes
@@ -80,7 +80,7 @@ Depevdent Resurrey + Limited
 24South
 Subdivision Sec 1,
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 I2
 2065
 IUS. Field Noles
@@ -134,7 +134,7 @@ loleSouth
 Sec 6,
 28€ast
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 I3
 3065
 IU.S. Field Nolss
@@ -218,7 +218,7 @@ Yot 4, Sic 34,.
 Lot I. dec 6.
 Cont-
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 I4 40f5
 IUS. Field Noles
 Polume-273
@@ -261,7 +261,7 @@ South Boundary
 35 East
 371
 
-===== PAGE 5 =====
+===== PAGE 5 [hindex] =====
 I5
 pq5:85
 U.S. Field Notes
@@ -323,7 +323,7 @@ SURVEY SECS 13, 14,
 27south
 23,24, 25+36
 
-===== PAGE 6 =====
+===== PAGE 6 [hindex] =====
 I1.
 1065
 IUS. Field Notes
@@ -403,7 +403,7 @@ Depevdent Resurrey + Limited
 24South
 Subdivision Sec 1,
 
-===== PAGE 7 =====
+===== PAGE 7 [hindex] =====
 I2
 2065
 IUS. Field Noles
@@ -457,7 +457,7 @@ loleSouth
 Sec 6,
 28€ast
 
-===== PAGE 8 =====
+===== PAGE 8 [hindex] =====
 I3
 3065
 IU.S. Field Nolss
@@ -541,7 +541,7 @@ Yot 4, Sic 34,.
 Lot I. dec 6.
 Cont-
 
-===== PAGE 9 =====
+===== PAGE 9 [hindex] =====
 I4 40f5
 IUS. Field Noles
 Polume-273
@@ -584,7 +584,7 @@ South Boundary
 35 East
 371
 
-===== PAGE 10 =====
+===== PAGE 10 [hindex] =====
 I5
 pq5:85
 U.S. Field Notes

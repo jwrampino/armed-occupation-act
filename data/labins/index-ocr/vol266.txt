@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 Ihder I
 US. Field Notes
 Rolume-266
@@ -65,7 +65,7 @@ Position in Sec 13 + 24,
 IsLAnd Surveys in Sect
 13. 24+ 25.
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Inder 2
 US. Field Notos
 Volume-266
@@ -133,7 +133,7 @@ MataNzAs River sect 24,
 Gsouth
 562
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Ihder I
 US. Field Notes
 Rolume-266
@@ -198,7 +198,7 @@ Position in Sec 13 + 24,
 IsLAnd Surveys in Sect
 13. 24+ 25.
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 Indey 2
 US. Field Notes
 Yolume-266

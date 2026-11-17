@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 125
 DIAGRAM
@@ -73,7 +73,7 @@ None
 None
 32
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Townskij
 Range
@@ -119,7 +119,7 @@ n
 24
 1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Township 25 Soith Range
 29 East
@@ -130,7 +130,7 @@ a
 1t
 Lake
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Township 26 South Ranige 2 9 East
 61
@@ -147,7 +147,7 @@ ahe
 B.F. Whitr, 1874,
 Nav, 4=25'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 Township25SouthRange50East
 c2
@@ -155,7 +155,7 @@ y0
 33
 B. F. Hhitrer, 1844.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Iounship27SouthRange 29 East
 -8
@@ -165,7 +165,7 @@ m
 B.F. Whirtuer, 1844,
 301E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 16
 Lake
 728
@@ -272,7 +272,7 @@ No
 var.
 ginem.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Tbunship 27 SouthRange 29 East
 79
@@ -283,7 +283,7 @@ X
 B.F. Whitrer, 1844.
 Var.,4-30' E.
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 14
 Tounship 27 SouthRange 30 East
 04
@@ -293,7 +293,7 @@ Tounship 27 SouthRange 30 East
 9
 B. F. Whitcer, 1844.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 Township25 South Range 31 East
 6
@@ -331,7 +331,7 @@ T
 36
 B. F.Whituer, 1844.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 Tounship 26 SouthRanße 31 Evist
 86
@@ -341,7 +341,7 @@ Tounship 26 SouthRanße 31 Evist
 00
 90
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 20
 796
 276
@@ -448,7 +448,7 @@ bet
 079
 4°30'E.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 22
 Township 21 South Range31 East
 sh81-02
@@ -466,7 +466,7 @@ c8
 B. F. Whiluer, 1844.
 1843
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 2
 Township 21 SouthRange
 29East
@@ -588,7 +588,7 @@ Var.o
 wead,
 4020'€
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 26
 Towriship2zSoulhRange
 29East
@@ -746,7 +746,7 @@ Zy
 Nav.
 not
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 28
 Township
 23 South Range
@@ -859,13 +859,13 @@ hat
 giverr.
 C
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 30
 eHL
 B. F. Whitrer, 1844.
 Vav., 4°30'E.
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 32
 ThnvnshipR4 South Range 30 East
 11

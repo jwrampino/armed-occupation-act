@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 173
 DIAGRAM
@@ -49,7 +49,7 @@ PAGE
 5°-E
 8
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index to
 Diagrams.
 Tp. South
@@ -80,7 +80,7 @@ Grants
 6
 July 30, 1930.
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 5
 4
@@ -117,7 +117,7 @@ Scc42
 Vav.
 5° E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 226
 187
@@ -228,7 +228,7 @@ C.P.A
 168
 Var., 5ºE.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 28
 69℃
@@ -292,7 +292,7 @@ scc41
 1849
 ooria,
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 J.South Range 28
 Jonnshup
@@ -396,7 +396,7 @@ m
 3
 Var., 5º E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 East.
 86.
@@ -441,7 +441,7 @@ commgllete medex execit above see mot lage
 RW. Novial 1850.
 Var, 5- E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 MaylHaiaia
 É0S
@@ -569,7 +569,7 @@ SI7
 50
 E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 1
 5
@@ -615,7 +615,7 @@ F
 Vav,
 5°9.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 a
 107
 109

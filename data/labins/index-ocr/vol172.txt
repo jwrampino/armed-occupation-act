@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 172
 DIAGRAM
@@ -54,7 +54,7 @@ As Noted
 5°-20'E
 17
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 0
 ndex
 Yo
@@ -87,7 +87,7 @@ North
 11
 11
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 Sounship
 Range 2s Wist
@@ -114,7 +114,7 @@ Range 2s Wist
 202
 5°30'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 Sounship
 t℃0
@@ -140,7 +140,7 @@ t℃0
 1
 5°30 E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Range
 26 West.
@@ -242,7 +242,7 @@ y
 E.
 5=30
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 9
 Younship
 270
@@ -353,7 +353,7 @@ x79
 1857.
 5020'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Jounship
 p 3 North.
@@ -386,7 +386,7 @@ E
 o2
 roted
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 11
 Sownship
 reSouth. 
@@ -415,7 +415,7 @@ Var.
 noted.
 as
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 77
 73
 7
@@ -472,7 +472,7 @@ ex
 1851.
 5°20
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Mange 27 West
 99
@@ -512,7 +512,7 @@ Mange 27 West
 36
 sroted.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 17
 Sounship
 392——391

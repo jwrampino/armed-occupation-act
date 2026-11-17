@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 143
 DIAGRAM
@@ -38,7 +38,7 @@ PAGE
 5°-30'E
 12
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Mndex.
 Soith trast
 3
@@ -55,7 +55,7 @@ Page
 12
 1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 Rauge
 East.
@@ -144,7 +144,7 @@ S
 50
 E
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 East.
 11
@@ -238,7 +238,7 @@ is
 1850.
 50
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 6
 a
 7 South. Rauge
@@ -356,7 +356,7 @@ q2
 1850.
 5° E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 12 East.
 320
@@ -476,7 +476,7 @@ neo,
 1850.
 5°E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Range 13 East.
 067
@@ -590,7 +590,7 @@ a.
 50
 E.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Sowris phip 11 South, Rauge 13. Bast
 11

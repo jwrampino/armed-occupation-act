@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 U.S. Field Notes
 Volume-263
 Description
@@ -59,7 +59,7 @@ the Meander Live +Shore Live
 of lake pierce in Sects 3, 4,
 10,11, 14, 15, 16, 17, 20,21, +22
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 U.S. Field Notes
 Yolume-263
 Description
@@ -132,7 +132,7 @@ Osborne. Sect 5.
 43EAst
 530
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 U.S. Field Notes
 Volume-263
 Description
@@ -191,7 +191,7 @@ the Meander Live +Shore Live
 of lake pierce in Sects 3, 4,
 10,11, 14, 15, 16, 17, 20,21, +22
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 U.S. Field Notes
 Yolume-263
 Description

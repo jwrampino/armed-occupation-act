@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 212
 DIAGRAM
@@ -60,7 +60,7 @@ PAGE
 4°- 10'E
 13
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Index to D iag rams
 Township
 R ange
@@ -102,7 +102,7 @@ n
 3
 A
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 1
 R. 36 E
 Township 2,1 S,
@@ -197,7 +197,7 @@ c2
 1860.
 45
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 R. 36 East
 Township 2, 2 S,
@@ -286,7 +286,7 @@ y
 1860
 .40
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Township 21S R 37 East
 562
@@ -324,7 +324,7 @@ A
 33
 184
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 R. 3 7 E ast
 Township 22 S
 291
@@ -425,7 +425,7 @@ Survey of Sland to 1 fom 311
 2
 3° 30 8
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 5
 Tonns hip 41 S R 37 East
 357
@@ -472,7 +472,7 @@ a
 335332
 1856.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 R. 39
 428
 Fast
@@ -578,7 +578,7 @@ Sh4
 1855-6.
 E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 unt
 291
@@ -658,7 +658,7 @@ E
 any 4
 
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 8
 Tommship 22 S R 38 East
 Ocom
@@ -667,14 +667,14 @@ Ocom
 465
 7
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 R 38 Bast
 Tonsh
 p 24 S.
 Var., 3°–45'E,
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 R. 2. 5 East
 Township 3.4 S
 420
@@ -775,7 +775,7 @@ HOS
 31
 4°E.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 11
 Township4 2 S R 25 East
 16c
@@ -868,7 +868,7 @@ H85
 Vlavy
 4°10'E
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 R. 2 5 East
 Township 4 5, S.
 4h9
@@ -958,7 +958,7 @@ G2
 31
 18601
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 15
 Township 44 S R 25 East
 2

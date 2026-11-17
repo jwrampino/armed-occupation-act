@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 76
 DIAGRAM
@@ -70,7 +70,7 @@ None Given
 25
 37S 20E Sam Reid
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 76co..
 DIAGRAM
@@ -121,7 +121,7 @@ None Given
 None Given
 37
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 @ia
 Ao
 grams
@@ -174,7 +174,7 @@ u
 37
 38
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 Cash
 Ef81
@@ -204,7 +204,7 @@ zo
 3
 82
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 (3
 J own sh ip
 35
@@ -213,14 +213,14 @@ ins
 £h81
 10%
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 -sumnd269—268
 £4s1
 you
 Noan.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 18 Eash.
 —281-280
@@ -231,7 +231,7 @@ van
 W
 204
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 18 Basl.
 Jownship
@@ -239,14 +239,14 @@ tsl
 on
 à
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 21
 Jownship 37
 sftdl
 n2
 8
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 12
 Eash.
 Range.18
@@ -258,7 +258,7 @@ a
 
 414
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 13
 .Jownship
 35
@@ -273,7 +273,7 @@ i4
 f
 288
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 15
 ——588-
 ——781—
@@ -286,7 +286,7 @@ Etsl
 -821
 -741
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 27
 Sonth Range
 Jownship 37
@@ -299,7 +299,7 @@ nas
 rTT
 -T
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 18
 一
 East.
@@ -316,7 +316,7 @@ Ron
 907
 2p5
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 19
 Jonnship
 Bash
@@ -413,7 +413,7 @@ H
 3
 a
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 21
 Eash.
 —301——300
@@ -429,7 +429,7 @@ Ren
 =562
 ーク62ー
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 23
 Cast-
 218-
@@ -446,7 +446,7 @@ nen
 -202
 
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 23~
 .Jonnship 37
 Soun th
@@ -464,7 +464,7 @@ ES
 -2ー
 ー9ー
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 26
 Qash.
 —399—398
@@ -476,7 +476,7 @@ for
 -68
 -38
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 
 27
 30
@@ -573,7 +573,7 @@ Hε
 36
 1
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 29
 Eash.
 21
@@ -583,7 +583,7 @@ Eash.
 V
 pp
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 30
 Eash
 -226—22222
@@ -599,7 +599,7 @@ h/6
 -2/3
 212
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 31
 Jownship 36
 32019318—317316
@@ -614,7 +614,7 @@ EH81
 -308-
 >1
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 32
 Eash.
 Son th Range
@@ -624,7 +624,7 @@ Jovnship 37
 e
 
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 33
 —381-
 —380379—378—377—376
@@ -636,7 +636,7 @@ ferw
 371
 2
 
-===== PAGE 26 =====
+===== PAGE 26 [diagram] =====
 34
 Range
 Jounship 35 South.
@@ -649,7 +649,7 @@ a
 224-
 ー766
 
-===== PAGE 27 =====
+===== PAGE 27 [diagram] =====
 35
 Son th Range Q2 Eash
 Jownship 36
@@ -663,7 +663,7 @@ Jownship 36
 28
 22
 
-===== PAGE 28 =====
+===== PAGE 28 [diagram] =====
 36
 22 Eash.
 8481
@@ -673,7 +673,7 @@ a
 —6.s7—
 i
 
-===== PAGE 29 =====
+===== PAGE 29 [diagram] =====
 37
 Q2 Eash.
 —3.57—

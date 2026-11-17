@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 209
 DIAGRAM
@@ -67,7 +67,7 @@ W.S. Harris
 3°-30'E
 14
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 209
 cont...
@@ -92,7 +92,7 @@ PAGE
 3°-30'E
 18
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Inilex to
 Diagrams
 Teurnshij
@@ -122,7 +122,7 @@ Payi
 34
 33
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 K.1
 E
@@ -141,7 +141,7 @@ Farls
 25
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 T 23 S R 36 E
 如效
@@ -208,7 +208,7 @@ R
 9Y
 3 20'E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 3
 179
 3
@@ -268,7 +268,7 @@ ee
 119
 3E-H0'E
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 11
 0.24. S.
 E.
@@ -332,7 +332,7 @@ Bllay
 1
 3 /0'E
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 T 23, S. R 37 E.
 205
@@ -375,7 +375,7 @@ tes
 35 195 36
 31
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 6
 347 - 347
 347
@@ -410,7 +410,7 @@ Atlanti
 22
 30-40 E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 K37E
 526 S
@@ -468,7 +468,7 @@ t
 405
 378
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 5
 R 37 
 11 28 S
@@ -510,7 +510,7 @@ R 37
 aris
 1859.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 9
 J23 S
 R 38 E
@@ -528,7 +528,7 @@ C
 450
 A
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 J. 27 S.R 38 E.
 2
@@ -541,7 +541,7 @@ ti
 31
 IH4
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 11
 T28 S K 38 E
 2
@@ -562,7 +562,7 @@ C
 3c
 cr
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 12
 E
 J30
@@ -590,7 +590,7 @@ Grant
 30'E.
 30
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 T 29 S. R 39 E
 X
@@ -598,7 +598,7 @@ X
 U.S. Hais,
 1859.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 14
 T 30 S R 39 E
 1561
@@ -617,7 +617,7 @@ T 30 S R 39 E
 34
 18/9
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 15
 T 31 S R 39E
 613
@@ -653,7 +653,7 @@ T
 616 36
 Var , 3-36 E
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 16
 T 32 S R 40E
 -667
@@ -675,7 +675,7 @@ T 32 S R 40E
 656
 32
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 17
 T 34 S R 40 E
 6
@@ -704,7 +704,7 @@ trant
 1819.
 arrce
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 18
 公
 T 33 S R 40 E

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 64
 DIAGRAM
@@ -29,7 +29,7 @@ Not Given
 7
 J.B. Clements
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 64
 DIAGRAM
@@ -58,7 +58,7 @@ Not Given
 7
 J.B. Clements
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 1
 Index.
 Xo
@@ -79,7 +79,7 @@ Cast
 y
 30
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1
 Index.
 Xo
@@ -100,7 +100,7 @@ Cast
 y
 30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 Tounship 4 Saith. Mange 1 ast.
 4
@@ -123,7 +123,7 @@ as Surryld by Darid Thomais, depuity
 surryes- and uill br found comomencing
 in page 154 and ending on page 157 intlusior.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 Jounship 2 South.
 Kango 30 Wist.
@@ -138,7 +138,7 @@ Bay
 1827.
 No van.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 y
 Tounship 7 South.
 04

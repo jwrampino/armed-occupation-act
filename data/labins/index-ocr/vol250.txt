@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 250
 7
@@ -40,7 +40,7 @@ Special Indices
 3°-52'E
 219
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 A
 Contents.
 (Midde)
@@ -70,7 +70,7 @@ East
 386
 29
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 A
 7
 U. S.C
@@ -94,7 +94,7 @@ Diagram Page #
 - See Body Pages
 to
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 1/次
 OLD COR
 FOUND
@@ -113,7 +113,7 @@ yobrt
 BBurchfül Dep Sm.
 Var, 1º 25'E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 Naines + dulus of assistant
 Arthin Iranklin-
@@ -134,7 +134,7 @@ T.24.S.R
 Stc.6.
 
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Township N? 37 South, Range Nº 18 East of the
 d
 D
@@ -224,7 +224,7 @@ Sublirisions
 10
 Meanders
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Range N18
 East of the Tallabassee Meridian. Fla.
 d
@@ -272,7 +272,7 @@ Oct. 29? to Nox131895.
 40
 50
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 1
 26
 Chamin
@@ -298,7 +298,7 @@ R18E
 E.13.Cauk, 1895.
 Vav., 2°20'
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2
 90
 Chanina
@@ -315,7 +315,7 @@ Founahip, 37 Soaht, 18 East.
 32
 33
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 122
 2
 Narmesrad Dutics of Ussista
@@ -353,7 +353,7 @@ Meanders in dec 27
 Meandus in Lee 26 Page
 Magnitie Dectiniation Page.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 219
 And Duli of liss loan
 Ethenralmer
@@ -376,7 +376,7 @@ Meanderi Blacks Jeland. fage 37
 20.1H. Parker, 1896.
 Vav, 3= 52'E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 274
 Josekh o Leuch
 Chavma
@@ -415,7 +415,7 @@ EV3
 35
 36
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 380
 Genge Villian Hay
 OUcainman

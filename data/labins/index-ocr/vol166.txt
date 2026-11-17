@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 166
 DIAGRAM
@@ -85,7 +85,7 @@ Not Given
 Each Course Noted
 29
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 166cont..
 DIAGRAM
@@ -113,7 +113,7 @@ Not Given
 6°-55'E
 37
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 Yo
 9
 iagrams
@@ -158,7 +158,7 @@ North
 57
 11
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 _
 Younship
 Seuth.
@@ -207,7 +207,7 @@ H
 18.52
 5°30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3
 8 South. Kanqi
 Jounship
@@ -224,7 +224,7 @@ g West
 Van.,
 30
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 5
 Younship
  2 North. 7
@@ -243,7 +243,7 @@ Younship
 Var., 5
 5°-E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 7
 -9Gg-S℃
 2
@@ -261,7 +261,7 @@ Var., 5
 1854.
 CC.A.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 9
 ISouth.
 Kangi 51 Wist.
@@ -286,7 +286,7 @@ Sounship
 33
 34
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 11
 Sownship
 1Morth.
@@ -324,7 +324,7 @@ H.
 Van.,
 15E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 13
 Nango 31 Wast
 6
@@ -350,7 +350,7 @@ Nango 31 Wast
 Van,
 5º20'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 15
 West.
 Range
@@ -398,7 +398,7 @@ H.
 1857.
 3
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 Sounship
 -9h1
@@ -424,7 +424,7 @@ C
 35
 +
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 19
 Sounship
 -224
@@ -489,7 +489,7 @@ H.
 15'8
 50
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 21
 Township
 -306-
@@ -534,7 +534,7 @@ Van,
 15'E.
 50
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 23
 318
 十
@@ -542,7 +542,7 @@ Van,
 1857.
 Var,
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 25
 Range 33
 Wist
@@ -616,7 +616,7 @@ Lve
 1857.
 E
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 24
 Younship
 Kangu
@@ -666,7 +666,7 @@ Kangu
 Var,
 5°20'E.
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 29
 Range West.
 Sounship
@@ -699,7 +699,7 @@ Var.,
 Each
 course
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 31
 Younship
 
@@ -714,7 +714,7 @@ Younship
 Var.,
 Each
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 33
 Yournship
 Range 34 Wist.
@@ -752,7 +752,7 @@ F5252
 1857.
 Var.,
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 35
 Youns hip
 Range 34 West
@@ -777,7 +777,7 @@ Range 34 West
 H
 1851,
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 3
 Younship
 6 North. 

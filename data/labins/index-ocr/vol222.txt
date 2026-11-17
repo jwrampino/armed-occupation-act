@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 222
 DIAGRAM
@@ -69,7 +69,7 @@ PAGE
 4°-30'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 222.
 cont...
@@ -107,7 +107,7 @@ PAGE
 4°-30'E
 22
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 2ん
 Ondeu
 Fow
@@ -136,7 +136,7 @@ J
 “
 29
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 R. 23
 2
 6
@@ -174,7 +174,7 @@ R. 23
 3
 14°30 E.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 31
 3
@@ -222,7 +222,7 @@ R. 23
 31
 1873
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 2
 4
 2
@@ -271,7 +271,7 @@ C7
 
 50
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 6
 5
 4
@@ -347,7 +347,7 @@ C7
 9
 50
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 5
 South R. 24 East
 Township 46
@@ -434,7 +434,7 @@ Township 46
 30
 30
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 2
 1
 4
@@ -484,7 +484,7 @@ e
 Cl
 1873.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 7
 186
 186
@@ -581,7 +581,7 @@ C51
 1873.
 4° 30 E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 2007
 23
 274
@@ -682,7 +682,7 @@ Olo
 1873.
 Vielv, 4-302
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 282
 216
 カウて
@@ -787,7 +787,7 @@ Vielv, 4-302
 1873,
 30
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 10
 East
 5
@@ -857,7 +857,7 @@ QQE
 187
 30 E
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 Township 44 South R. 26 East
 222
 6 356 5 345 4
@@ -912,7 +912,7 @@ F1E
 36
 4° 30 E
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 6 403 5 392 4 384 3 376 2 367 1
 402
 402
@@ -948,7 +948,7 @@ J65
 M.H.ela
 2,430E.
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 13
 East
 448
@@ -1019,7 +1019,7 @@ MH.Ol
 1873,
 4 30'E.
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 111
 Easr
 6
@@ -1082,7 +1082,7 @@ R
 1874
 in
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 Township 44 South R.27 Ecs
 511
 486
@@ -1130,7 +1130,7 @@ Township 44 South R.27 Ecs
 31 50, 32 494 33
 35
 
-===== PAGE 19 =====
+===== PAGE 19 [diagram] =====
 553
 521 1
 4 536 3
@@ -1189,7 +1189,7 @@ Township 44 South R.27 Ecs
 1873
 F0'E.
 
-===== PAGE 20 =====
+===== PAGE 20 [diagram] =====
 Cast
 578 3
 570 2 563 1
@@ -1235,7 +1235,7 @@ MH.Cl
 1873.
 Varl.,
 
-===== PAGE 21 =====
+===== PAGE 21 [diagram] =====
 18
 Township 43 South R. 28 East
 6
@@ -1298,7 +1298,7 @@ Calo
 187
 30 E.
 
-===== PAGE 22 =====
+===== PAGE 22 [diagram] =====
 6
 5
 4
@@ -1374,7 +1374,7 @@ Calo
 y, 1873.
 30 E.
 
-===== PAGE 23 =====
+===== PAGE 23 [diagram] =====
 20
 Township45 South R. 28 East
 √
@@ -1429,7 +1429,7 @@ Township45 South R. 28 East
 686 34
 4° 30 E.
 
-===== PAGE 24 =====
+===== PAGE 24 [diagram] =====
 Township 46 Soultr. 28 East
 7191
 737
@@ -1471,7 +1471,7 @@ M.H.Olo
 y, 1873.
 4°30'E
 
-===== PAGE 25 =====
+===== PAGE 25 [diagram] =====
 22
 Township 46 South R. 29 East
 783 5 773 4 767 3 766 2 754 .1

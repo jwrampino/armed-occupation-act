@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [hindex] =====
 I1.
 IU.S. Field Notes
 Yolume-271
@@ -66,7 +66,7 @@ ToDefine the Exterior Boundaries
 33EAST
 Of Seminote Indian Lantls.
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 12.
 U.S. Field Notes
 Yolume-271
@@ -97,7 +97,7 @@ Rauge 34 Enst. To Defive the
 Exterior Boundaries of
 Seminole Fndiao LAnds.
 
-===== PAGE 3 =====
+===== PAGE 3 [hindex] =====
 I1.
 IU.S. Field Notes
 Yolume-271
@@ -163,7 +163,7 @@ ToDefine the Exterior Boundaries
 33EAST
 Of Seminote Indian Lantls.
 
-===== PAGE 4 =====
+===== PAGE 4 [hindex] =====
 12.
 U.S. Field Notes
 Yolume-271

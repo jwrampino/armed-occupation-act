@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 128
 DIAGRAM
@@ -36,7 +36,7 @@ None
 None
 14
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Inden to Diagrarus
 Tawnshkin
@@ -61,7 +61,7 @@ Ir
 31
 14
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 2
 6
 88
@@ -142,7 +142,7 @@ a
 1845.
 Var., 4° E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 4
 Township36 Soulh Range 11East
 7
@@ -171,7 +171,7 @@ Township36 Soulh Range 11East
 33
 1845,
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Township 18 South Range 30 East
 0
 881
@@ -265,7 +265,7 @@ le
 Var. not
 giverr.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 712
 223
@@ -358,7 +358,7 @@ U8F
 Var.
 reat Giveer.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 718
 416
@@ -456,7 +456,7 @@ DUE
 31
 Vav. at Hiven.
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Township 19 South Range31 E'ast
 772
@@ -531,7 +531,7 @@ DE6
 X
 Var. roh
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 1
 we7
 30

@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U. S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 219
 DIAGRAM
@@ -69,7 +69,7 @@ PAGE
 3°- 45'E
 15
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 vol
 219
 vol
@@ -115,7 +115,7 @@ Page
 43
 1
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Township 56 South R. 42 East
 2
 1
@@ -154,7 +154,7 @@ Township 56 South R. 42 East
 33
 31
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 2
 Township 57 South R. 42 East
 2
@@ -199,7 +199,7 @@ M.
 AWilli
 1872.
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 Township 57 South R. 41 East
 6
 5
@@ -252,7 +252,7 @@ Q
 872.
 E.
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 4
 Township 58 South R. 41 East
 4
@@ -294,7 +294,7 @@ B1S
 nd
 be found on dagel 43.44. 45. 49448
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Township 59 South R.41 East
 90
 93
@@ -341,7 +341,7 @@ ame
 3° 52'E.
 an.,
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 6
 Township 59 South R.40East
 111
@@ -393,7 +393,7 @@ Cardo
 1872.
 3° 52'E
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 7
 Township 60 Sourth R.40 East
 1138
@@ -457,7 +457,7 @@ x
 Vav.,
 3° 52' E
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 Township 61 South R. 40 East
 167
 167
@@ -502,7 +502,7 @@ Township 61 South R. 40 East
 36
 32
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 9
 Township 6/ South
 R. 39 East
@@ -571,7 +571,7 @@ Q
 an,
 30
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 10
 Township 62 South R.39 East
 227
@@ -622,7 +622,7 @@ A
 32
 1872.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 11
 Township 62 South R.38 East
 4
@@ -678,7 +678,7 @@ r
 246
 3° 52E.
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 12
 Towuship 45 Sou th R. 42 East
 -96℃
@@ -787,7 +787,7 @@ Towuship 45 Sou th R. 42 East
 182,
 45'E.
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 13
 Township 46 SouthR.41 East
 9/E
@@ -856,7 +856,7 @@ H
 1872.
 48′
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 14
 Township45 South R.41 East
 336
@@ -928,7 +928,7 @@ EE
 Vai.,
 30
 
-===== PAGE 17 =====
+===== PAGE 17 [diagram] =====
 15
 Township 45 south R. 43 East
 372
@@ -1006,7 +1006,7 @@ S
 Vav.,
 3° 45'E.
 
-===== PAGE 18 =====
+===== PAGE 18 [diagram] =====
 1
 Township
 R.

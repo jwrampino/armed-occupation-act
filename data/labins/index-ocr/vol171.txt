@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 171
 DIAGRAM
@@ -64,7 +64,7 @@ PAGE
 5°-20'E
 21
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 Yo
 9
 iagrams
@@ -84,7 +84,7 @@ Wut
 227
 North
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 Younship
 5 South.
 Range 8 West.
@@ -94,7 +94,7 @@ Range 8 West.
 Vav.,
 5-30'E.
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 3
 5 South.
 Range
@@ -134,7 +134,7 @@ N.
 E.
 5°30
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 5
 Sounship
 South.
@@ -226,7 +226,7 @@ H.
 E
 5°30
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 7
 Jounship
 h 5 South.
@@ -250,7 +250,7 @@ T
 War,
 5°30'E.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 9
 Younship 7 Ssouth:
 2
@@ -274,7 +274,7 @@ Younship 7 Ssouth:
 36
 Nai.,
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 
 South.
 197
@@ -356,7 +356,7 @@ G
 15
 C
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 13
 -539—038-
 —334-
@@ -387,7 +387,7 @@ y
 7.
 5°15'E.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 15
 Caums hip I Soith!
 Mange 25 West.
@@ -395,7 +395,7 @@ LHE
 Vai;
 5-15'E.
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 19
 Range
 25 Wist.
@@ -444,7 +444,7 @@ H.
 1857.
 5=15'E.
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 19
 声
 8se
@@ -455,7 +455,7 @@ H.
 Var.,
 5°20'E.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 21
 Yourship
 1Noith.

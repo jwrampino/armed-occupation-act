@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 249
 1
@@ -76,7 +76,7 @@ None
 3°-26'E
 10
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 249
 INDEX.
 To
@@ -115,7 +115,7 @@ n
 10
 46
 
-===== PAGE 3 =====
+===== PAGE 3 [index] =====
 A
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS- VOL. 249
@@ -130,7 +130,7 @@ Index of various sections. Page 195
 Index to Twp 37S Rng 41E. Page 246 34
 Index to Twps 46S & 47S Rngs 24E & 25E. Page 260 1/2
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 INITIAL
 POINT.
 OF
@@ -191,7 +191,7 @@ IS.RIW
 Pavy 3
 5E
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 2
 08
 29
@@ -222,7 +222,7 @@ T39 R40.
 
 1：
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 Ts. 40+ 41 S. Rs. 19. 20 E
 6
 3
@@ -285,7 +285,7 @@ Ke88
 18
 E.B.Carrk, 1872.
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 Ts. 13+14 S. Rs. 19  20 E.
 36
 35
@@ -300,7 +300,7 @@ Ts. 13+14 S. Rs. 19  20 E.
 6
 5
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 T.32 S. R.40 E.
 20
 19
@@ -312,7 +312,7 @@ T.32 S. R.40 E.
 D. D. Rogers, 18 91.
 Var, 1-10'E,
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 8
 I. 37 S.. R. 41 E.
 H
@@ -355,7 +355,7 @@ C
 35
 RB.Berakfield, 1890.
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 10
 Part of
 T. 4
@@ -389,7 +389,7 @@ Aheandrs Key
 Mooun's Oagu 273 to 277.
 N. E. Lofer, 1889,
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 2
 of
 Assistabuts
@@ -413,7 +413,7 @@ T.38.S R
 30
 25
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 U. Grrant Barnand, Chaiuman
 Charles I. Johnson.
 auman
@@ -476,7 +476,7 @@ Meenders on Goalf Coast, po.
 49-51.65.66.74876.
 -64.74.77-81.
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 y
 161
 Names and duties of acsistents
@@ -493,7 +493,7 @@ INDEX.
 1
 6
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 195
 Robert bsish
 7
@@ -516,7 +516,7 @@ Index
 6
 6
 
-===== PAGE 15 =====
+===== PAGE 15 [diagram] =====
 2463/4
 37.S.
 4i E
@@ -621,7 +621,7 @@ Resury of old hins pague 7+8
 Osland
 ..9,107/1
 
-===== PAGE 16 =====
+===== PAGE 16 [diagram] =====
 111
 猫
 884

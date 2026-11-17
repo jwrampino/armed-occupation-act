@@ -1,6 +1,6 @@
 
 
-===== PAGE 1 =====
+===== PAGE 1 [index] =====
 U.S. GOVERNMENT SURVEY
 FIELD NOTEBOOKS – VOL. 67-A
 DIAGRAM
@@ -57,7 +57,7 @@ Not Given
 Not Given
 24
 
-===== PAGE 2 =====
+===== PAGE 2 [hindex] =====
 1
 Range
 Page
@@ -82,7 +82,7 @@ Hast
 322
 82
 
-===== PAGE 3 =====
+===== PAGE 3 [diagram] =====
 e
 Township
 23 SmuthRange 33 East
@@ -162,7 +162,7 @@ G6
 35
 36
 
-===== PAGE 4 =====
+===== PAGE 4 [diagram] =====
 A
 7
 S481
@@ -260,7 +260,7 @@ X
 35
 36
 
-===== PAGE 5 =====
+===== PAGE 5 [diagram] =====
 3.0E
 3East
 £G
@@ -328,7 +328,7 @@ C61
 35
 3€
 
-===== PAGE 6 =====
+===== PAGE 6 [diagram] =====
 8
 Etisl
 Township 20South Range30East
@@ -426,7 +426,7 @@ S9T
 gu8
 36
 
-===== PAGE 7 =====
+===== PAGE 7 [diagram] =====
 10
 Efsl
 868
@@ -526,7 +526,7 @@ S86
 B4
 7
 
-===== PAGE 8 =====
+===== PAGE 8 [diagram] =====
 12
 Et81
 907
@@ -619,7 +619,7 @@ vor
 2
 36
 
-===== PAGE 9 =====
+===== PAGE 9 [diagram] =====
 1
 700
 =SGG
@@ -715,7 +715,7 @@ GOC
 36
 35
 
-===== PAGE 10 =====
+===== PAGE 10 [diagram] =====
 16
 Township
 20SouthRange32 East
@@ -817,7 +817,7 @@ ILS
 3L
 36
 
-===== PAGE 11 =====
+===== PAGE 11 [diagram] =====
 18
 b
 tis
@@ -913,7 +913,7 @@ E05
 35
 36
 
-===== PAGE 12 =====
+===== PAGE 12 [diagram] =====
 20
 3
 20
@@ -1014,7 +1014,7 @@ cet
 35
 36
 
-===== PAGE 13 =====
+===== PAGE 13 [diagram] =====
 2.2
 Tounship
 27Smth Range 31 East.
@@ -1119,7 +1119,7 @@ i2S
 3h
 3
 
-===== PAGE 14 =====
+===== PAGE 14 [diagram] =====
 2di
 925
 968
