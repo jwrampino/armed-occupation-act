@@ -25,12 +25,12 @@ J. Jackson,J.Jackson,merge,,John Jackson
 A.H. Jones,,,,A.H. Jones
 M.A. Williams,,,,M.A. Williams
 George Willis,M.A. Williams,split,,George Willis
-B.F. Whitmer,,,,B.F. Whitmer
-B.F. Whitner,B.F. Whitmer,unsure,,
-B.F. Whitrier,B.F. Whitmer,unsure,,
-Thomas K. White,B.F. Whitmer,split,,Thomas K. White
-J.L. White,B.F. Whitmer,split,,J.L. White
-E.L. White,B.F. Whitmer,unsure,,
+B.F. Whitmer,B.F. Whitner,merge,B.F. Whitner,B.F. Whitner
+B.F. Whitner,,,,B.F. Whitner
+B.F. Whitrier,B.F. Whitner,merge,B.F. Whitner,B.F. Whitner
+Thomas K. White,B.F. Whitner,split,,Thomas K. White
+J.L. White,B.F. Whitner,split,,J.L. White
+E.L. White,B.F. Whitner,split,,E.L. White
 George Mackay,,,,George Mackay
 A. McKay,George Mackay,split,,A. McKay
 George McKay,George Mackay,merge,,George Mackay
